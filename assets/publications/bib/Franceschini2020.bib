@@ -1,0 +1,18 @@
+@InProceedings{Franceschini2020,
+  author    = {Franceschini, Romain and Oakes, Bentley James and Van Mierlo, Simon and Challenger, Moharram and Vangheluwe, Hans},
+  title     = {Towards Adaptive Abstraction for Continuous Time Models with Dynamic Structure},
+  booktitle = {Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings},
+  year      = {2020},
+  series    = {MODELS '20},
+  address   = {New York, NY, USA},
+  publisher = {Association for Computing Machinery},
+  abstract  = {Humans often switch between multiple levels of abstraction when reasoning about salient properties of complex systems. These changes in perspective may be leveraged at runtime to improve both performance and explainability, while still producing identical answers to questions about the properties of interest. This technique, which switches between multiple abstractions based on changing conditions in the modelled system, is also known as adaptive abstraction.The Modelica language represents systems as a-causal continuous equations, which makes it appropriate for the modelling of physical systems. However adaptive abstraction requires dynamic structure modelling. This raises many technical challenges in Modelica since it has poor support for modifying connections during simulation. Its equation-based nature means that all equations need to be well-formed at all times, which may not hold when switching between levels of abstraction. The initialization of models upon switching must also be carefully managed, as information will be lost or must be created when switching abstractions [1].One way to allow adaptive abstraction is to represent the system as a multi-mode hybrid Modelica model, a mode being an abstraction that can be switched to based on relevant criteria. Another way is to employ a co-simulation [2] approach, where modes are exported as "black boxes" and orchestrated by a central algorithm that implements adaptivity techniques to dynamically replace components when a switching condition occurs.This talk will discuss the benefits of adaptive abstraction using Modelica, and the conceptual and technical challenges towards its implementation. As a stand-in for a complex cyber-physical system, an electrical transmission line case study is proposed where attenuation is studied across two abstractions having varying fidelity depending on the signal. Our initial results, as well as our explorations towards employing Modelica models in a co-simulation context using the DEVS formalism [4] are discussed. A Modelica only solution allows to tackle complexity via decomposition, but does not improve performances as all modes are represented as a single set of equations. The co-simulation approach might offer better performances [3], but complicates the workflow.},
+  articleno = {93},
+  doi       = {10.1145/3417990.3421443},
+  isbn      = {9781450381352},
+  keywords  = {continuous systems, adaptive abstraction, dynamic structure},
+  location  = {Virtual Event, Canada},
+  numpages  = {1},
+  url       = {https://doi.org/10.1145/3417990.3421443},
+}
+
