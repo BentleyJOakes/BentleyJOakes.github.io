@@ -22,16 +22,22 @@ title: Dr. Bentley James Oakes
 email: bentley.oakes@umontreal.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Post-doctoral researcher at GEODES Research Group, University of Montreal
-  Machine learning, cyber-physical systems, model transformation verification
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Machine learning, cyber-physical systems, model transformation verification
+
+  
 github_username:  BentleyJOakes
 
 # Build settings
 theme: minima
+
+  
 #plugins:
 #  - jekyll-feed
+
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
