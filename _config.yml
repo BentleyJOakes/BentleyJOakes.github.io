@@ -34,6 +34,13 @@ github_username:  BentleyJOakes
 theme: minima
 
   
+header_pages:
+  - publications.markdown
+  - service.markdown
+  - teaching.markdown
+  - contact.markdown
+  - cv.markdown
+  
 #plugins:
 #  - jekyll-feed
 
