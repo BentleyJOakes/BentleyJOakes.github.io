@@ -28,3 +28,6 @@ permalink: /service/
 [IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/publications/t-ase) (T-ASE) - 2021  
 [Journal of Software and Systems Modeling](https://www.springer.com/journal/10270) (SoSyM) - Twice in 2020, 2021
 
+#### Vice President of Finance
+[Computer Science Graduate Society](https://csgs.cs.mcgill.ca/) (CSGS) - Nov. 2012 to Oct. 2015  
+McGill University - Montreal, Canada
