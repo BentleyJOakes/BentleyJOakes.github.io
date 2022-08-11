@@ -32,9 +32,9 @@ permalink: /service/
 *Symposium on Theory and Foundations of Modeling and Simulation* (TMS)
 
 #### Journal Reviewer
-[IEEE Transactions on Automation Science and Engineering](https://www.ieee-ras.org/publications/t-ase) (T-ASE) - 2021  
-[Journal of Software and Systems Modeling](https://www.springer.com/journal/10270) (SoSyM) - Twice in 2020, 2021  
+[IEEE Transactions on Automation Science and Engineering (T-ASE)](https://www.ieee-ras.org/publications/t-ase) - 2021  
+[Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) - Twice in 2020, 2021  
 
 #### Vice President of Finance
-[Computer Science Graduate Society](https://csgs.cs.mcgill.ca/) (CSGS) - Nov. 2012 to Oct. 2015  
+[Computer Science Graduate Society (CSGS)](https://csgs.cs.mcgill.ca/) - Nov. 2012 to Oct. 2015  
 McGill University - Montreal, Canada
