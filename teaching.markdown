@@ -3,7 +3,15 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+#### Guest Lecturer
+Polytechnique Montréal - Montréal, Canada  
+LOG6953DE - Model-Driven Software Engineering - Nov. 2022  
+Lecture title: Model/Graph Transformations: Specification and Verification
 
+#### Teaching Assistant
+University of Antwerp - Antwerp, Belgium  
+*2001WETMTR - Model-Driven Engineering*  
+Fall 2020
 
 #### Course Lecturer/Coordinator
 McGill University - Montréal, Canada  
