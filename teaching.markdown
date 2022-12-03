@@ -11,7 +11,7 @@ Lecture topics: Model-driven engineering, usage and verification of model transf
 #### Teaching Assistant
 University of Antwerp - Antwerp, Belgium  
 *2001WETMTR - Model-Driven Engineering* - Fall 2020  
-*2001WETMSI - Modelling of software-intensive systems* - Fall 2019  
+*2001WETMSI - Modelling of Software-Intensive Systems* - Fall 2019  
 
 #### Course Lecturer/Coordinator
 McGill University - Montréal, Canada  
