@@ -4,11 +4,17 @@ title: Service
 permalink: /service/
 ---
 
+#### Lead Organizer
+Software Engineering at Montreal (SEMTL) - Aug. 2022 - Present
+[https://semtl.ca](https://semtl.ca)  
+A regular scientific and social meeting of software engineering researchers in Montreal  
+Role: Coordinating with meeting hosts on content, venue, date, and maintaining website
+
 #### Journal Reviewer
 [Journal of Computer Languages](https://www.sciencedirect.com/journal/journal-of-computer-languages) - 2022  
 [Empirical Software Engineering](https://www.springer.com/journal/10664/) - 2022  
 [IEEE Transactions on Automation Science and Engineering (T-ASE)](https://www.ieee-ras.org/publications/t-ase) - 2021  
-[Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) - Twice in 2020, 2021  
+[Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) - 2020 (x2), 2021  
 
 #### Organising Committee Member
 
@@ -33,4 +39,5 @@ permalink: /service/
 
 #### Vice President of Finance
 [Computer Science Graduate Society (CSGS)](https://csgs.cs.mcgill.ca/) - Nov. 2012 to Oct. 2015  
-McGill University - Montreal, Canada
+McGill University - Montreal, Canada  
+Role: Coordinating dispersement of society resources and acquiring new sources of funding
