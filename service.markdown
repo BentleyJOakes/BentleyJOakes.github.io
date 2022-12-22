@@ -5,7 +5,7 @@ permalink: /community-building/
 ---
 
 #### Organizer
-[Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) - Aug. 2022 to Present
+[Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) - Aug. 2022 to Present  
 A regular scientific and social meeting of software engineering researchers in Montreal  
 _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining website
 
@@ -31,8 +31,8 @@ _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining
 [International Workshop on Models and Evolution](http://www.models-and-evolution.com/2022/) - 2022  
 [ACM Student Research Competition](https://conf.researchr.org/track/models-2022/models-2022-acm-student-research-competition) - 2022  
 [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) - 2021, 2022  
-[Spring Simulation Conference](https://scs.org/2020springsim-program-archive/) - 2020
-[Summer Simulation Conference](https://scs.org/2020summersim-archive/) - 2019, 2020
+[Spring Simulation Conference](https://scs.org/2020springsim-program-archive/) - 2020  
+[Summer Simulation Conference](https://scs.org/2020summersim-archive/) - 2019, 2020  
 
 #### Vice President of Finance
 [Computer Science Graduate Society (CSGS)](https://csgs.cs.mcgill.ca/) - Nov. 2012 to Oct. 2015  
