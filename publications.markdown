@@ -6,11 +6,7 @@ permalink: /publications/
 
 ### Links
 
-* [DBLP](https://dblp.org/pid/147/8495.html)
-* [Google Scholar](https://scholar.google.ca/citations?user=x9H9H4QAAAAJ)
-* [ResearchGate](https://www.researchgate.net/profile/Bentley-Oakes)
-* [ORCID](https://orcid.org/0000-0001-7558-1434)
-
+| [DBLP](https://dblp.org/pid/147/8495.html) | [Google Scholar](https://scholar.google.ca/citations?user=x9H9H4QAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Bentley-Oakes) | [ORCID](https://orcid.org/0000-0001-7558-1434)|  
 
 ### 2022
 
