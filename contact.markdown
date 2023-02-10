@@ -4,9 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
+<img alt="Email icon" src="/assets/images/web.png" style="width:25px; margin: 0 5px 5px 5px;" /> [LinkedIn](https://www.linkedin.com/in/bentley-james-oakes/)
+
+<img alt="Email icon" src="/assets/images/web.png" style="width:25px; margin: 0 5px 5px 5px;" /> [ResearchGate](https://www.researchgate.net/profile/Bentley-Oakes)
+
+
 ### Email
 
-<img alt="Email icon" src="/assets/images/icon-email-512.png" style="width:25px; margin: 0px 5px 5px 5px;" />
+<img alt="Email icon" src="/assets/images/icon-email-512.png" style="width:25px; margin: 0 5px 5px 5px;" />
 [bentley.oakes@umontreal.ca](mailto:bentley.oakes@umontreal.ca)
 
 ### Office
