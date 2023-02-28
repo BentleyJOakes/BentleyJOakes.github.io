@@ -4,7 +4,7 @@ title: Community-Building
 permalink: /community-building/
 ---
 
-#### Organizer
+#### Lead Organizer
 [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) - Aug. 2022 to Present  
 A regular scientific and social meeting of software engineering researchers in Montreal  
 _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining website
@@ -20,6 +20,7 @@ _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining
 [Model-Driven Engineering and Software Development (MODELSWARD)](https://modelsward.scitevents.org/?y=2021) - 2021  
 
 #### Journal Reviewer
+[Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) (SCP) - 2023  
 [Journal of Computer Languages](https://www.sciencedirect.com/journal/journal-of-computer-languages) - 2022  
 [Empirical Software Engineering](https://www.springer.com/journal/10664/) - 2022  
 [IEEE Transactions on Automation Science and Engineering (T-ASE)](https://www.ieee-ras.org/publications/t-ase) - 2021  
@@ -27,10 +28,10 @@ _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining
 
 #### Program Committee Member
 
+[Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) - 2021, 2022, 2023  
 [Workshop on Artificial Intelligence and Model-Driven Engineering (MDE Intelligence)](https://mde-intelligence.github.io/) - 2022  
 [International Workshop on Models and Evolution](http://www.models-and-evolution.com/2022/) - 2022  
-[ACM Student Research Competition](https://conf.researchr.org/track/models-2022/models-2022-acm-student-research-competition) - 2022  
-[Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) - 2021, 2022  
+[ACM Student Research Competition](https://conf.researchr.org/track/models-2022/models-2022-acm-student-research-competition) - 2022
 [Spring Simulation Conference](https://scs.org/2020springsim-program-archive/) - 2020  
 [Summer Simulation Conference](https://scs.org/2020summersim-archive/) - 2019, 2020  
 

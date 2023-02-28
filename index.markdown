@@ -10,16 +10,18 @@ permalink: /
 <img alt="Bentley James Oakes" src="/assets/images/BentleyJOakes.png" align="left" style="width:150px; margin: 10px 10px 10px 10px;" />
 
 
-Since September 2021, I am a post-doctoral researcher at the [GEODES lab](http://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal.
+I am a post-doctoral researcher at the [GEODES lab](http://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal since Fall 2021.
 I work with [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/) and [Michalis Famelis](https://michalis.famelis.info/).
-Currently, my research topic focuses on understanding and improving how domain experts can build and optimise machine learning solutions.
-My other research interests include verification of cyber-physical systems, digital twins, model-driven engineering, and model transformations.
+
+My research focuses on enabling experts from various domains to efficiently capture and utilise their knowledge to build software systems through a model-driven approach. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the engineering process.
+My main research interests include verification of cyber-physical systems, digital twins, model-driven engineering, knowledge representation including ontologies, and model transformations.
+
+I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal](https://semtl.github.io/) (SEMTL) meetings, which is a regular gathering of the software engineering researchers in Montreal.
+
 
 Previously, I was a post-doctoral researcher at the University of Antwerp in Belgium for three years. I worked on a variety of topics along with industrial partners as part of the [Flanders Make](https://www.flandersmake.be) strategic research centre, including verification of cyber-physical systems, configuring of co-simulations, and developing conceptual frameworks for digital twins.
 
-
 I received my PhD at McGill University in 2019 on the topic of model transformation verification. During my degree, I was an instructor for the Introduction to Programming course at McGill for three terms. I also was a visiting researcher at the [General Motors Technical Center](https://www.gm.com/company/facilities/warren-tech-center) in Michigan, USA and the [fortiss research institute](https://www.fortiss.org/) in Munich, Germany.
-
 
 During my bachelor's degree at the University of Manitoba, I held three internships as part of the co-operative program. The first internship was at [Blackberry](https://www.blackberry.com) (formerly Research in Motion) in Waterloo, ON. The topic of this internship was on cryptographic communication protocols. The second and third internships were at [Electronic Arts](https://www.ea.com) in Montréal, QC. These internships focused on prototyping artifical intelligence solutions.
 
