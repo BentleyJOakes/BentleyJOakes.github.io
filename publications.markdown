@@ -8,6 +8,10 @@ permalink: /publications/
 
 | [DBLP](https://dblp.org/pid/147/8495.html) | [Google Scholar](https://scholar.google.ca/citations?user=x9H9H4QAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Bentley-Oakes) | [ORCID](https://orcid.org/0000-0001-7558-1434)|  
 
+### 2023
+
+|<font color="#00bb00">Article</font>| [*Examining Model Qualities and their Impact on Digital Twins*](/assets/publications/Oakes2023 - Examining Model Qualities and their Impact on Digital Twins.pdf) | **B. Oakes**, C. Gomes, J. Denil, J. Deantoni, J. Cambeiro, J. Fitzgerald, and P. Larsen. | In 2023 Annual Modeling and Simulation Conference (ANNSIM) (pp. 220-232) | [paper](/assets/publications/Oakes2023 - Examining Model Qualities and their Impact on Digital Twins.pdf), [bib](/assets/publications/bib/oakes2023examining.bib), [presentation](/assets/publications/Oakes2023 - Examining Model Qualities and their Impact on Digital Twins - Presentation.pdf)|
+
 ### 2022
 
 |<font color="#dd4400">Book Chapter</font>| [*An Architecture and Reference Implementation for WSN-Based IoT Systems*](/assets/publications/Karaduman2022-An Architecture and Reference Implementation for WSN-Based IoT Systems.pdf) | B. Karaduman, **B. Oakes**, R. Eslampanah, J. Denil, H. Vangheluwe, and M. Challenger. | Emerging Trends in IoT and Integration with Data Science, Cloud Computing, and Big Data Analytics, IGI Global (pp. 80-103). | [paper](/assets/publications/Karaduman2022-An Architecture and Reference Implementation for WSN-Based IoT Systems.pdf), [bib](/assets/publications/bib/Karaduman2022.bib)|
