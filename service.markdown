@@ -12,7 +12,7 @@ _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining
 #### Organising Committee Member
 
 [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/)  
-*Proceedings Co-Chair* - 2024
+*Proceedings Co-Chair* - 2024  
 *Cyber-Physical Systems Track Co-Chair* - 2022, 2023  
 [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2022)  
 *Posters Co-Chair* - 2022  
@@ -29,7 +29,8 @@ _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining
 McGill University - M. Sc. Thesis - 2023  
 
 #### Guest Editor for Journal Special Issue
-[SIMULATION](https://journals.sagepub.com/home/sim) - Modeling and Simulation for Software-Intensive Systems: from IoT to Digital Twins - 2023  
+[SIMULATION](https://journals.sagepub.com/home/sim)  
+*Issue Title:* Modeling and Simulation for Software-Intensive Systems: from IoT to Digital Twins - 2023  
 
 #### Journal Reviewer
 [Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) - 2020, 2021, 2023  
@@ -46,7 +47,7 @@ McGill University - M. Sc. Thesis - 2023
 [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) - 2021, 2022, 2023  
 [Workshop on Artificial Intelligence and Model-Driven Engineering (MDE Intelligence)](https://mde-intelligence.github.io/) - 2022, 2023  
 [International Workshop on Models and Evolution](http://www.models-and-evolution.com/2022/) - 2022  
-[ACM Student Research Competition](https://conf.researchr.org/track/models-2022/models-2022-acm-student-research-competition) - 2022
+[ACM Student Research Competition](https://conf.researchr.org/track/models-2022/models-2022-acm-student-research-competition) - 2022  
 [Spring Simulation Conference](https://scs.org/2020springsim-program-archive/) - 2020  
 [Summer Simulation Conference](https://scs.org/2020summersim-archive/) - 2019, 2020  
 
