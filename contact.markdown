@@ -6,7 +6,7 @@ permalink: /contact/
 ### Email
 
 <img alt="Email icon" src="/assets/images/icon-email-512.png" style="width:25px; margin: 0 5px 5px 5px;" />
-[bentley.oakes@umontreal.ca](mailto:bentley.oakes@umontreal.ca)
+[bentley.oakes@polymtl.ca](mailto:bentley.oakes@polymtl.ca)
 
 ### Social Media
 
@@ -17,10 +17,10 @@ permalink: /contact/
 
 ### Office
 
-Office 2355  
-[Pavillon André-Aisenstadt](https://plancampus.umontreal.ca/montreal/#iw%7C376)  
-2920 Chemin de la Tour  
-Montréal, QC, Canada H3C 3J7
+Office M-4107  
+[Pavillons Lassonde](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map)  
+2700 Chemin de la Tour  
+Montréal, QC, Canada H3T 1J4
 
 
 
