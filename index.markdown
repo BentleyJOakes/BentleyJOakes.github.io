@@ -11,7 +11,7 @@ permalink: /
 
 I am an **Assistant Professor** in the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada.
 
-My research focuses on e**nabling domain experts to efficiently capture and utilise their knowledge to build software systems (including digital twins) through a model-driven approach**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the engineering process.
+My research focuses on **enabling domain experts to efficiently capture and utilise their knowledge to build software systems (including digital twins) through a model-driven approach**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the engineering process.
 My main research interests include digital twins, knowledge representation including ontologies, verification of cyber-physical systems, model-driven engineering, and model transformations.
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal](https://semtl.github.io/) (SEMTL) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
