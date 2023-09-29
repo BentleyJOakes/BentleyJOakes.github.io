@@ -1,0 +1,13 @@
+@Article{Oakes2023FaultlocalizationDSLTrans,
+  author   = {Oakes, Bentley James and Troya, Javier and Galasso, Jessie and Wimmer, Manuel},
+  title    = {Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis},
+  journal  = {Software and Systems Modeling},
+  year     = {2023},
+  month    = {Sep},
+  issn     = {1619-1374},
+  abstract = {The verification of model transformations is important for realizing robust model-driven engineering technologies and quality-assured automation. Many approaches for checking properties of model transformations have been proposed. Most of them have focused on the effective and efficient detection of property violations by contract checking. However, there remains the fault localization step between identifying a failing contract for a transformation based on verification feedback and precisely identifying the faulty rules. While there exist fault localization approaches in the model transformation verification literature, these require the creation and maintenance of test cases, which imposes an additional burden on the developer. In this paper, we combine transformation verification based on symbolic execution with spectrum-based fault localization techniques for identifying the faulty rules in DSLTrans model transformations. This fault localization approach operates on the path condition output of symbolic transformation checkers instead of requiring a set of test input models. In particular, we introduce a workflow for running the symbolic execution of a model transformation, evaluating the defined contracts for satisfaction, and computing different measures for tracking the faulty rules. We evaluate the effectiveness of spectrum-based analysis techniques for tracking faulty rules and compare our approach to previous works. We evaluate our technique by introducing known mutations into five model transformations. Our results show that the best spectrum-based analysis techniques allow for effective fault localization, showing an average EXAM score below 0.30 (less than 30{\%} of the transformation needs to be inspected). These techniques are also able to locate the faulty rule in the top-three ranked rules in 70{\%} of all cases. The impact of the model transformation, the type of mutation and the type of contract on the results is discussed. Finally, we also investigate the cases where the technique does not work properly, including discussion of a potential pre-check to estimate the prospects of the technique for a certain transformation.},
+  day      = {29},
+  doi      = {10.1007/s10270-023-01123-3},
+  url      = {https://doi.org/10.1007/s10270-023-01123-3},
+}
+
