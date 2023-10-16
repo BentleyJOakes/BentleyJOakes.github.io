@@ -22,6 +22,8 @@ _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining
 [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/)   - *PhD Colloquium Panel* - 2023  
 
 #### Session Chair
+[Workshop on Model-Driven Engineering of Digital Twins (ModDiT)](https://gemoc.org/events/moddit2023.html) - 2023  
+[Workshop on Artificial Intelligence and Model-driven Engineering (MDEIntelligence)](https://mde-intelligence.github.io/) - 2023  
 [Consortium for Software Engineering Research (CSER)](https://www.cser.ca/2023s/) Spring Meeting - 2023  
 [Model-Driven Engineering and Software Development (MODELSWARD)](https://modelsward.scitevents.org/?y=2021) - 2021  
 
