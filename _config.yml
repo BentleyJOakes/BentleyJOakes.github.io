@@ -38,6 +38,7 @@ header_pages:
   - publications.markdown
   - service.markdown
   - teaching.markdown
+  - students.markdown
   - contact.markdown
   - cv.markdown
   
