@@ -20,6 +20,7 @@ My main research interests include:
 * verification of cyber-physical systems
 * model-driven engineering techniques, and the intersection with low-code platforms
 * model transformations and their verification
+* and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal](https://semtl.github.io/) (SEMTL) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
 

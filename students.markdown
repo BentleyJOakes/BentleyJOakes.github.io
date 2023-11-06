@@ -28,3 +28,9 @@ To apply for a graduate position, please see the following links:
 
 * [https://www.polymtl.ca/admission/en/graduate-studies](https://www.polymtl.ca/admission/en/graduate-studies)
 * [https://www.polymtl.ca/futur/en/es/admission](https://www.polymtl.ca/futur/en/es/admission)
+
+
+## Student Resources
+
+* Polytechnique Montréal’s Student Services (SEP): [english](https://etudiant.polymtl.ca/sep/en/) / [french](https://etudiant.polymtl.ca/sep/)
+* [Polytechnique student bourses/grants](https://www.polymtl.ca/aide-financiere/bourses/recherche)
