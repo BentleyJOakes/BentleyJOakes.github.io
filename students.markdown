@@ -37,3 +37,4 @@ To apply for a graduate position, please see the following links:
 
 * Polytechnique Montréal’s Student Services (SEP): [english](https://etudiant.polymtl.ca/sep/en/) / [french](https://etudiant.polymtl.ca/sep/)
 * [Polytechnique student bourses/grants](https://www.polymtl.ca/aide-financiere/bourses/recherche)
+* [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
