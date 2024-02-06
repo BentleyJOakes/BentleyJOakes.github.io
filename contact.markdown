@@ -19,8 +19,9 @@ permalink: /contact/
 
 Office M-4107  
 [Pavillons Lassonde](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map)  
+Polytechnique Montréal  
 2700 Chemin de la Tour  
-Montréal, QC, Canada H3T 1J4
+Montréal, QC, Canada H3T 1J4  
 
 
 
