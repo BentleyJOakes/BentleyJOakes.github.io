@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-<img alt="Bentley James Oakes" src="/assets/images/BentleyJOakes.png" align="left" style="width:150px; margin: 10px 10px 10px 10px;" />
+<img alt="Bentley James Oakes" src="/assets/images/BentleyOakes-headshot.jpg" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
 
 I am an **Assistant Professor** in the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada.
 
