@@ -35,9 +35,9 @@ When sending me an email to inquire about a position, I kindly ask that you do t
   * How do your research interests match my own?
   * What's your favourite project you've worked on?
 * **(Required)** Attach a up-to-date CV
-* (Optional) Attach your transcript(s)
+* **(Required)** Attach your transcript(s)
+* **(Required)** Attach at least one reference letter
 * (Optional) Attach your relevant publication(s) or report(s)
-* (Optional) Attach your reference letter(s)
 
 I apologize, but due to the volume of requests, I will not be able to respond to your email unless it matches the above conditions.
 
