@@ -11,7 +11,7 @@ _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining
 
 #### Organising Committee Member
 
-[International Conference on Software Engineering (ICSE)](hhttps://conf.researchr.org/home/icse-2025)  
+[International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2025)  
 *Posters Co-Chair* - 2025  
 [International Conference on Engineering Digital Twins (EDTconf)](https://conf.researchr.org/home/edtconf-2024)  
 *Publicity Co-Chair* - 2024  
@@ -43,8 +43,8 @@ McGill University - M. Sc. Thesis External Reviewer - 2023
 *Issue Title:* Modeling and Simulation for Software-Intensive Systems: from IoT to Digital Twins - 2023  
 
 #### Journal Reviewer
-[Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) - 2020, 2021, 2023  
-[SIMULATION](https://journals.sagepub.com/home/sim) - 2023  
+[Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) x5 - **Top 1% Reviewer in 2020 and 2021** - 2020, 2021, 2023  
+[SIMULATION](https://journals.sagepub.com/home/sim) x2 - **Best Reviewer Award June 2023** - 2023  
 [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) (SCP) - 2023  
 [Journal of Computer Languages](https://www.sciencedirect.com/journal/journal-of-computer-languages) - 2022  
 [Journal of Object Technology](https://www.jot.fm/) - 2022  
