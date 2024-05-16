@@ -35,9 +35,10 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 
 # News
 
-* 2024-03-11: I'm excited to be one of the publicity chairs for the 1st International Conference on Engineering Digital Twins [EDTConf](https://conf.researchr.org/home/edtconf-2024) in Linz, Austria.
-* 2024-01-10: Our paper "Rationale Dataset and Analysis for the Commit Messages of the Linux Kernel Out-of-Memory Killer" was accepted at the IEEE/ACM International Conference on Program Comprehension [ICPC 2024](https://conf.researchr.org/home/icpc-2024)
-* 2023-12-15: I will be a co-chair for the posters at the International Conference on Software Engineering [ICSE 2025](https://conf.researchr.org/home/icse-2025) in Ottawa.
+* 2024-05-10: Our paper "Towards a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study" has been accepted in the [Simulation journal](https://journals.sagepub.com/home/sim).
+* 2024-03-11: I'm excited to be one of the publicity chairs for the [1st International Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2024) (EDTConf 2024) in Linz, Austria.
+* 2024-01-10: Our paper "Rationale Dataset and Analysis for the Commit Messages of the Linux Kernel Out-of-Memory Killer" was accepted at the [IEEE/ACM International Conference on Program Comprehension](https://conf.researchr.org/home/icpc-2024) (ICPC 2024)
+* 2023-12-15: I will be a co-chair for the posters at the [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025) (ICSE 2025) in Ottawa.
 
 
 
