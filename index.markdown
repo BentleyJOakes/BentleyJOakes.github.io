@@ -32,5 +32,15 @@ I received my PhD at McGill University in 2019 on the topic of model transformat
 
 During my bachelor's degree at the University of Manitoba, I held three internships as part of the co-operative program. The first internship was at [Blackberry](https://www.blackberry.com) (formerly Research in Motion) in Waterloo, ON. The topic of this internship was on cryptographic communication protocols. The second and third internships were at [Electronic Arts](https://www.ea.com) in Montréal, QC. These internships focused on prototyping artifical intelligence solutions.
 
+
+# News
+
+* 2024-03-11: I'm excited to be one of the publicity chairs for the 1st International Conference on Engineering Digital Twins [EDTConf](https://conf.researchr.org/home/edtconf-2024) in Linz, Austria.
+* 2024-01-10: Our paper "Rationale Dataset and Analysis for the Commit Messages of the Linux Kernel Out-of-Memory Killer" was accepted at the IEEE/ACM International Conference on Program Comprehension [ICPC 2024](https://conf.researchr.org/home/icpc-2024)
+* 2023-12-15: I will be a co-chair for the posters at the International Conference on Software Engineering [ICSE 2025](https://conf.researchr.org/home/icse-2025) in Ottawa.
+
+
+
+
 <!--The emoji graphics for the favicon are from the open source project Twemoji. The graphics are copyright 2020 Twitter, Inc and other contributors. The graphics are licensed under CC-BY 4.0.-->
 
