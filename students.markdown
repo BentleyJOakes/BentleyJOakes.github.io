@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opportunities
+title: Lab
 permalink: /students/
 ---
 
@@ -8,18 +8,20 @@ permalink: /students/
 
 I am actively looking for motivated and talented individuals for **undergraduate, Masters, and PhD positions**.
 
-Right now, my current project is: [Accelerating Digital Twin Construction: A Domain Knowledge-driven, Low-Code Approach](https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley)
+One of my available projects is: [Accelerating Digital Twin Construction: A Domain Knowledge-driven, Low-Code Approach](https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley)
 
-What do I offer:
+**What do I offer:**
 * A position at Polytechnique Montréal, a world-class institution, located in a global cultural capital
 * Supportive mentoring on many aspects of graduate life
 * Cutting-edge research
 * Collaboration with local and global experts
-* Opportunities to travel to top conferences and international research visits
+* Opportunities to publish in excellent venues, present at top conferences, and perform international research visits
+* Funding is available
 
-What do I expect:
+**What do I expect:**
 * A friendly yet professional attitude
 * Ability to perform research and publish
+* Strong self-motivation skills, the ability to 'push' projects
 * Attending and presenting at conferences
 * Completing degree requirements
 
@@ -36,7 +38,7 @@ When sending me an email to inquire about a position, I kindly ask that you do t
   * What's your favourite project you've worked on?
 * **(Required)** Attach a up-to-date CV
 * **(Required)** Attach your transcript(s)
-* **(Required)** Attach at least one reference letter
+* (Optional) Attach at least one reference letter
 * (Optional) Attach your relevant publication(s) or report(s)
 
 I apologize, but due to the volume of requests, I will not be able to respond to your email unless it matches the above conditions.
@@ -53,6 +55,13 @@ To apply for a graduate position, please see the following links:
 
 ## Student Resources
 
+
+### At Polytechnique
+* [New graduate student journey](https://www.polymtl.ca/gopoly/en/new-student-journey/new-student-journey-graduate-studies)
+* [Requirements for the PhD degree](https://www.polymtl.ca/programmes/programmes/doctorat-en-genie-informatique)
 * Polytechnique Montréal’s Student Services (SEP): [english](https://etudiant.polymtl.ca/sep/en/) / [french](https://etudiant.polymtl.ca/sep/)
 * [Polytechnique student bourses/grants](https://www.polymtl.ca/aide-financiere/bourses/recherche)
+
+### Interesting reading and advice
 * [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
+* The largest problem in academia is discoverability: [Be Findable](https://registerspill.thorstenball.com/p/be-findable)
