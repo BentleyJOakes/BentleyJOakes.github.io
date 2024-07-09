@@ -4,11 +4,9 @@ title: Lab
 permalink: /lab/
 ---
 
-## About My Lab
-
 My lab focuses on the *digital engineering of complex cyber-physical systems*. This involves starting with the expert's domain knowledge, capturing it in models, and then using this knowledge to better construct, optimize, verify, and validate systems.
 
-Please see the main page for a list of my varied research topics, which include digital twins, ontologies, workflows, and machine learning.
+[//]: # (Please see the main page for a list of my varied research topics, which include digital twins, ontologies, workflows, and machine learning.)
 
 ## Current and Alumni Students
 
