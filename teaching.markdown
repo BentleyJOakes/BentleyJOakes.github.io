@@ -6,7 +6,8 @@ permalink: /teaching/
 
 #### Course Lecturer/Coordinator
 **Polytechnique Montréal** - Montréal, Canada  
-*INF6900AE/INF7900A - Scientific and Technical Communication - Winter 2024*
+*LOG8371E - Software Quality Engineering - Fall 2024*
+*INF6900AE/INF7900A - Scientific and Technical Communication - Winter 2024, Fall 2024*
 
 **McGill University** - Montréal, Canada  
 Winter Term - 2015, 2017, 2018  
@@ -14,7 +15,7 @@ Winter Term - 2015, 2017, 2018
 
 #### Guest Lecturer
 **Polytechnique Montréal** - Montréal, Canada  
-*LOG6953DE - Model-Driven Software Engineering* - Nov. 28, 2022  
+*LOG6953DE - Model-Driven Software Engineering* - Nov. 2022, Nov. 2023 
 _Lecture topics:_ Model-driven engineering, usage and verification of model transformations
 
 #### Teaching Assistant

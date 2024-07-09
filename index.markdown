@@ -14,7 +14,6 @@ I am an **Assistant Professor** in the [Département de génie informatique et g
 My research focuses on **enabling domain experts to efficiently capture and utilise their knowledge through a model-driven approach, to support digital engineering for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the digital engineering process.
 
 
-
 My main research interests include:
 * digital twins, including their structure and construction
 * representations of domain-specific knowledge, such as ontologies and ontological reasoning

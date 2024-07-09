@@ -1,8 +1,22 @@
 ---
 layout: page
 title: Lab
-permalink: /students/
+permalink: /lab/
 ---
+
+## About My Lab
+
+My lab focuses on the *digital engineering of complex cyber-physical systems*. This involves starting with the expert's domain knowledge, capturing it in models, and then using this knowledge to better construct, optimize, verify, and validate systems.
+
+Please see the main page for a list of my varied research topics, which include digital twins, ontologies, workflows, and machine learning.
+
+## Current and Alumni Students
+
+|**Name**|**Role**|**Years**|**Topics**|
+|*Lei Zhao* | PhD student | 2024 | Systematic digital twin engineering, engineering of a DT for permafrost|  
+|*Louis Malassigne-Onfroy* | Research assistant | 2024 | Visualization of digital twin architectures|  
+|*Amélie Bosphore* | Research assistant |2024 | Implementation of modelled machine learning pipelines|  
+|*Justin Caisse* | Research assistant | 2023/2024 | Ontological modelling of machine learning pipelines|
 
 ## Open Opportunities
 
@@ -45,16 +59,13 @@ I apologize, but due to the volume of requests, I will not be able to respond to
 
 Please be detailed and specific. Your email should give me a sense of who you are, what you want to research, and why you would like me specifically to be your supervisor.
 
-## To Apply
-
-To apply for a graduate position, please see the following links:
+To know more about the Polytechnique application process, please see the following links:
 
 * [https://www.polymtl.ca/admission/en/graduate-studies](https://www.polymtl.ca/admission/en/graduate-studies)
 * [https://www.polymtl.ca/futur/en/es/admission](https://www.polymtl.ca/futur/en/es/admission)
 
 
 ## Student Resources
-
 
 ### At Polytechnique
 * [New graduate student journey](https://www.polymtl.ca/gopoly/en/new-student-journey/new-student-journey-graduate-studies)
