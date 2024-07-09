@@ -38,9 +38,9 @@ header_pages:
   - publications.markdown
   - service.markdown
   - teaching.markdown
-  - students.markdown
+  - lab.markdown
   - contact.markdown
-  - cv.markdown
+#  - cv.markdown
   
 #plugins:
 #  - jekyll-feed
