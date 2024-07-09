@@ -11,14 +11,16 @@ permalink: /
 
 I am an **Assistant Professor** in the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada.
 
-My research focuses on **enabling domain experts to efficiently capture and utilise their knowledge to build software systems (including digital twins) through a model-driven approach**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the engineering process.
+My research focuses on **enabling domain experts to efficiently capture and utilise their knowledge through a model-driven approach, to support digital engineering for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing these systems, while still maximising the insights gained during the digital engineering process.
+
 
 
 My main research interests include:
 * digital twins, including their structure and construction
-* representation of domain-specific knowledge, such as employing ontologies and ontological reasoning
-* verification of cyber-physical systems
-* model-driven engineering techniques, and the intersection with low-code platforms
+* representations of domain-specific knowledge, such as ontologies and ontological reasoning
+* verification and validation of cyber-physical systems, including formal verification
+* the application of machine learning to cyber-physical systems
+* model-driven engineering techniques
 * model transformations and their verification
 * and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
@@ -28,7 +30,7 @@ Previously, I was a post-doctoral researcher at the [GEODES lab](http://geodes.i
 
 Before that, I was a post-doctoral researcher at the University of Antwerp in Belgium for three years. I worked on a variety of topics along with industrial partners as part of the [Flanders Make](https://www.flandersmake.be) strategic research centre, including verification of cyber-physical systems, configuring of co-simulations, and developing conceptual frameworks for digital twins.
 
-I received my PhD at McGill University in 2019 on the topic of model transformation verification. During my degree, I was an instructor for the Introduction to Programming course at McGill for three terms. I also was a visiting researcher at the [General Motors Technical Center](https://www.gm.com/company/facilities/warren-tech-center) in Michigan, USA and the [fortiss research institute](https://www.fortiss.org/) in Munich, Germany.
+I received my PhD at McGill University in 2019 on the topic of model transformation verification. During this period, I was an instructor for the Introduction to Programming course at McGill for three terms. I also was a visiting researcher at the [General Motors Technical Center](https://www.gm.com/company/facilities/warren-tech-center) in Michigan, USA and the [fortiss research institute](https://www.fortiss.org/) in Munich, Germany.
 
 During my bachelor's degree at the University of Manitoba, I held three internships as part of the co-operative program. The first internship was at [Blackberry](https://www.blackberry.com) (formerly Research in Motion) in Waterloo, ON. The topic of this internship was on cryptographic communication protocols. The second and third internships were at [Electronic Arts](https://www.ea.com) in Montréal, QC. These internships focused on prototyping artifical intelligence solutions.
 
