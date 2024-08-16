@@ -11,10 +11,11 @@ My lab focuses on the *digital engineering of complex cyber-physical systems*. T
 ## Current and Alumni Students
 
 |**Name**|**Role**|**Years**|**Topics**|
-|*Lei Zhao* | PhD student | 2024 | Systematic digital twin engineering, engineering of a DT for permafrost|  
+|*Carlos Pambo* | PhD student | 2024 - present | Accelerated digital twin engineering|
+|*Lei Zhao* | PhD student | 2024 - present | Systematic digital twin engineering, DT engineering for permafrost studies|  
 |*Louis Malassigne-Onfroy* | Research assistant | 2024 | Visualization of digital twin architectures|  
 |*Amélie Bosphore* | Research assistant |2024 | Implementation of modelled machine learning pipelines|  
-|*Justin Caisse* | Research assistant | 2023/2024 | Ontological modelling of machine learning pipelines|
+|*Justin Caisse* | Research assistant | 2023 - 2024 | Ontological modelling of machine learning pipelines|
 
 ## Open Opportunities
 
@@ -28,14 +29,14 @@ One of my available projects is: [Accelerating Digital Twin Construction: A Doma
 * Cutting-edge research
 * Collaboration with local and global experts
 * Opportunities to publish in excellent venues, present at top conferences, and perform international research visits
-* Funding is available
+* Competitive funding is available
 
 **What do I expect:**
 * A friendly yet professional attitude
-* Ability to perform research and publish
+* Ability to perform high-quality research and publish worthwhile contributions
 * Strong self-motivation skills, the ability to 'push' projects
-* Attending and presenting at conferences
-* Completing degree requirements
+* Attendance and presentations at conferences
+* Completion of degree requirements with high course marks
 
 ## Contacting Me
 
