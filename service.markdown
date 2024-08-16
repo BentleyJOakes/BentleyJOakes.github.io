@@ -35,7 +35,7 @@ _Role:_ Coordinating with meeting hosts on content, venue, date, and maintaining
 [Model-Driven Engineering and Software Development (MODELSWARD)](https://modelsward.scitevents.org/?y=2021) - 2021  
 
 #### Jury Member
-Polytechnique Montréal - M. Sc. Thesis Jury President - 2024
+Polytechnique Montréal - M. Sc. Thesis Jury President - 2024  
 McGill University - PhD Thesis External Reviewer - 2024  
 McGill University - M. Sc. Thesis External Reviewer - 2023  
 
