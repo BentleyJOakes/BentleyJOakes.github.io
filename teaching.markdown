@@ -6,8 +6,9 @@ permalink: /teaching/
 
 #### Course Lecturer/Coordinator
 **Polytechnique Montréal** - Montréal, Canada  
-*LOG8371E - Software Quality Engineering - Fall 2024*
-*INF6900AE/INF7900A - Scientific and Technical Communication - Winter 2024, Fall 2024*
+*LOG6953FE - Engineering of Digital Twins* - Winter 2025  
+*LOG8371E - Software Quality Engineering* - Fall 2024  
+*INF6900AE/INF7900A - Scientific and Technical Communication* - Winter 2024, Fall 2024  
 
 **McGill University** - Montréal, Canada  
 Winter Term - 2015, 2017, 2018  
