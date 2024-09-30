@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-<img alt="Bentley James Oakes" src="/assets/images/BentleyOakes-headshot.jpg" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
+<img alt="Bentley Oakes" src="/assets/images/BentleyOakes-headshot.jpg" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
 
 I am an **Assistant Professor** in the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada.
 
@@ -37,7 +37,7 @@ For more information, please see [my CV](assets/BOakes-CV.pdf).
 # News
 * 2024-09-25: I presented our SoSyM paper "Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis" at MODELS 2024 and won the SoSyM Journal-First award!
 * 2024-09-24: I'm excited to say that paper "Towards Ontological Service-Driven Engineering of Digital Twins" has won the Best Short Paper Award at the [1st International Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2024) (EDTConf 2024)! [pre-print](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf)
-* We have contributed to the book "The Engineering of Digital Twins", which is [now available](https://link.springer.com/book/10.1007/978-3-031-66719-0).
+* 2024-09-01: We have contributed to the book "The Engineering of Digital Twins", which is [now available](https://link.springer.com/book/10.1007/978-3-031-66719-0).
 * 2024-08-09: Our paper "Towards Ontological Service-Driven Engineering of Digital Twins" has been accepted at the [1st International Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2024) (EDTConf 2024). 
 * 2024-05-10: Our paper "Towards a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study" has been accepted in the [Simulation journal](https://doi.org/10.1177/00375497241261406). A [pre-print](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf) is available.
 * 2024-03-11: I'm excited to be one of the publicity chairs for the [1st International Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2024) (EDTConf 2024) in Linz, Austria.
