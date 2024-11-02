@@ -1,21 +1,26 @@
 ---
 layout: page
-title: Lab
+title: Oakes Lab
 permalink: /lab/
 ---
 
-My lab focuses on the *digital engineering of complex cyber-physical systems*. This involves starting with the expert's domain knowledge, capturing it in models, and then using this knowledge to better construct, optimize, verify, and validate systems.
+## About the Oakes Lab
+The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. This involves starting with the expert's domain knowledge, capturing it in models, and then using this knowledge to better construct, optimize, verify, and validate systems. We are interested in combining modelling-driven approaches and data-driven/machine learning approaches, according to the task.
+
+**OAKES** = **O**bjective: **A**ccelerating **K**nowledge **E**ngineering for Complex **S**ystems
+
+
 
 [//]: # (Please see the main page for a list of my varied research topics, which include digital twins, ontologies, workflows, and machine learning.)
 
 ## Current and Alumni Students
 
 |**Name**|**Role**|**Years**|**Topics**|
-|*Carlos Pambo* | PhD student | 2024 - present | Accelerated digital twin engineering|
+|*[Carlos Pambo](https://www.linkedin.com/in/carlos-pambo/)* | PhD student | 2024 - present | Accelerated digital twin engineering|
 |*Lei Zhao* | PhD student | 2024 - present | Systematic digital twin engineering, DT engineering for permafrost studies|  
-|*Louis Malassigne-Onfroy* | Research assistant | 2024 | Visualization of digital twin architectures|  
-|*Amélie Bosphore* | Research assistant |2024 | Implementation of modelled machine learning pipelines|  
-|*Justin Caisse* | Research assistant | 2023 - 2024 | Ontological modelling of machine learning pipelines|
+|*[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of digital twin architectures|  
+|*[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant |2024 | Implementation of modelled machine learning pipelines|  
+|*[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023 - 2024 | Ontological modelling of machine learning pipelines|
 
 ## Open Opportunities
 
@@ -23,10 +28,12 @@ I am actively looking for motivated and talented individuals for **undergraduate
 
 One of my available projects is: [Accelerating Digital Twin Construction: A Domain Knowledge-driven, Low-Code Approach](https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley)
 
+If you have another research idea which aligns with my interests, I would love to hear it! Please send me a message.
+
 **What do I offer:**
 * A position at Polytechnique Montréal, a world-class institution, located in a global cultural capital
 * Supportive mentoring on many aspects of graduate life
-* Cutting-edge research
+* Cutting-edge research and technologies
 * Collaboration with local and global experts
 * Opportunities to publish in excellent venues, present at top conferences, and perform international research visits
 * Competitive funding is available
@@ -34,8 +41,8 @@ One of my available projects is: [Accelerating Digital Twin Construction: A Doma
 **What do I expect:**
 * A friendly yet professional attitude
 * Ability to perform high-quality research and publish worthwhile contributions
-* Strong self-motivation skills, the ability to 'push' projects
-* Attendance and presentations at conferences
+* Strong self-motivation skills and the ability to 'push' projects
+* Attendance to and engaging presentations at conferences
 * Completion of degree requirements with high course marks
 
 ## Contacting Me
