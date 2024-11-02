@@ -4,12 +4,9 @@ title: Oakes Lab
 permalink: /lab/
 ---
 
-## About the Oakes Lab
-The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. This involves starting with the expert's domain knowledge, capturing it in models, and then using this knowledge to better construct, optimize, verify, and validate systems. We are interested in combining modelling-driven approaches and data-driven/machine learning approaches, according to the task.
+The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. This involves starting with the expert's domain knowledge, capturing it in models, and then using this knowledge to better construct, optimize, verify, and validate systems.
 
 **OAKES** = **O**bjective: **A**ccelerating **K**nowledge **E**ngineering for Complex **S**ystems
-
-
 
 [//]: # (Please see the main page for a list of my varied research topics, which include digital twins, ontologies, workflows, and machine learning.)
 
@@ -26,7 +23,11 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 
 I am actively looking for motivated and talented individuals for **undergraduate, Masters, and PhD positions**.
 
-One of my available projects is: [Accelerating Digital Twin Construction: A Domain Knowledge-driven, Low-Code Approach](https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley)
+**Available projects and potential topics:**
+* [Accelerating Digital Twin Construction: A Domain Knowledge-driven, Low-Code Approach](https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley)
+* Analyzing and improving the quality of digital twin models and systems [paper](https://bentleyjoakes.github.io/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf)
+* Improving the explainability of digital twin architecture and service results [paper](https://bentleyjoakes.github.io/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
+* Utilizing machine learning techniques (such as reinforcement learning, LLMs, and recommendations) and ontological modelling for digital twin construction and evolution [paper](https://bentleyjoakes.github.io/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf)
 
 If you have another research idea which aligns with my interests, I would love to hear it! Please send me a message.
 
