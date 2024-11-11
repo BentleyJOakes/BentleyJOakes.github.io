@@ -32,7 +32,7 @@ I am actively looking for motivated and talented individuals for **undergraduate
 If you have another research idea which aligns with my interests, I would love to hear it! Please send me a message.
 
 **What do I offer:**
-* A position at Polytechnique Montréal, a world-class institution, located in a global cultural capital
+* A position at Polytechnique Montréal, a world-class institution affiliated with the [Université  de Montréal](https://www.umontreal.ca/) and [Mila](https://mila.quebec/en), located in a global cultural capital
 * Supportive mentoring on many aspects of graduate life
 * Cutting-edge research and technologies
 * Collaboration with local and global experts
@@ -45,6 +45,7 @@ If you have another research idea which aligns with my interests, I would love t
 * Strong self-motivation skills and the ability to 'push' projects
 * Attendance to and engaging presentations at conferences
 * Completion of degree requirements with high course marks
+  * Note that we conduct our research and discussions in English. At Polytechnique, some graduate courses may have to be taken in French
 
 ## Contacting Me
 
