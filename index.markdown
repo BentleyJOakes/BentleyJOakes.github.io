@@ -35,7 +35,9 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 For more information, please see [my CV](assets/BOakes-CV.pdf).
 
 # News
-* 2024-09-25: I presented our SoSyM paper "Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis" at MODELS 2024 and won the SoSyM Journal-First award!
+* 2024-12-09: I'm thrilled that our paper [*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*](/assets/publications/Oakes2023%20-%20Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice.pdf) has been accepted for a journal-first presentation at [ICSE 2025](https://conf.researchr.org/home/icse-2025) in Ottawa
+* 2024-11-21: I presented in the Polytechnique course [LOG8704 - Développement logiciel en réalité étendue (XR Software Development)](https://www.polymtl.ca/programmes/cours/developpement-logiciel-en-realite-etendue). My presentation was titled "Digital Twins: Introductions and Intersections"
+* 2024-09-25: I presented our SoSyM paper "Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis" at MODELS 2024 and won the SoSyM Journal-First award.
 * 2024-09-24: I'm excited to say that paper "Towards Ontological Service-Driven Engineering of Digital Twins" has won the Best Short Paper Award at the [1st International Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2024) (EDTConf 2024)! [pre-print](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf)
 * 2024-09-01: We have contributed to the book "The Engineering of Digital Twins", which is [now available](https://link.springer.com/book/10.1007/978-3-031-66719-0).
 * 2024-08-09: Our paper "Towards Ontological Service-Driven Engineering of Digital Twins" has been accepted at the [1st International Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2024) (EDTConf 2024). 

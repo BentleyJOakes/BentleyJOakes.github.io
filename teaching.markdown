@@ -16,7 +16,10 @@ Winter Term - 2015, 2017, 2018
 
 #### Guest Lecturer
 **Polytechnique Montréal** - Montréal, Canada  
-*LOG6953DE - Model-Driven Software Engineering* - Nov. 2022, Nov. 2023 
+[LOG8704 - Développement logiciel en réalité étendue (XR Software Development)](https://www.polymtl.ca/programmes/cours/developpement-logiciel-en-realite-etendue) - Nov. 2024  
+_Presentation:_ "Digital Twins: Introductions and Intersections"  
+
+LOG6953DE - Model-Driven Software Engineering* - Nov. 2022, Nov. 2023  
 _Lecture topics:_ Model-driven engineering, usage and verification of model transformations
 
 #### Teaching Assistant
