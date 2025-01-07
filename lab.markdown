@@ -15,7 +15,7 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 ### PhD Students
 
 <div style="text-align: center;">
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQFZbSuYWDjeeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704457616675?e=1741824000&v=beta&t=0hJBbHBKXBeJ44-gsFJOBVpbZRMzGdUbrTLswQ273No" alt="carlospambo" style="width:80px;"/><br>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFZbSuYWDjeeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704457616675?e=1741824000&v=beta&t=0hJBbHBKXBeJ44-gsFJOBVpbZRMzGdUbrTLswQ273No" alt="carlospambo" style="width:100px;"/><br>
 
 <a href="https://www.linkedin.com/in/carlos-pambo/">Carlos Pambo</a><br>
 Since 2024<br>
@@ -32,7 +32,7 @@ Since 2024  <br>
 
 ### Master's students
 <div style="text-align: center;">
-<img src="https://media.licdn.com/dms/image/v2/C4E03AQHT7p467v7jlw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658099318471?e=1741824000&v=beta&t=A-mug2NpufIXZ5hmvYKk9yeRa217AgBG7Z7ge51Utko" alt="kerianfiter" style="width:80px;"/>
+<img src="https://media.licdn.com/dms/image/v2/C4E03AQHT7p467v7jlw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658099318471?e=1741824000&v=beta&t=A-mug2NpufIXZ5hmvYKk9yeRa217AgBG7Z7ge51Utko" alt="kerianfiter" style="width:100px;"/><br>
 
 <a href="https://www.linkedin.com/in/kerianfiter/">Kérian Fiter</a><br>
 Since 2024  <br>
