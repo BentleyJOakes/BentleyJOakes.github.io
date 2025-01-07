@@ -10,7 +10,7 @@ permalink: /contact/
 
 ### Social Media
 
-<img alt="" src="/assets/images/web.png" style="width:25px; margin: 0 5px 5px 5px;" /> [LinkedIn](https://www.linkedin.com/in/bentley-james-oakes/)
+<img alt="" src="/assets/images/web.png" style="width:25px; margin: 0 5px 5px 5px;" /> [LinkedIn](https://www.linkedin.com/in/bentley-oakes/)
 
 <img alt="" src="/assets/images/web.png" style="width:25px; margin: 0 5px 5px 5px;" /> [ResearchGate](https://www.researchgate.net/profile/Bentley-Oakes)
 
