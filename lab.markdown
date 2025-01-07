@@ -15,15 +15,17 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 ### PhD Students
 
 <div style="text-align: center;">
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQFZbSuYWDjeeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704457616675?e=1741824000&v=beta&t=0hJBbHBKXBeJ44-gsFJOBVpbZRMzGdUbrTLswQ273No" alt="carlospambo" style="width:80px;"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFZbSuYWDjeeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704457616675?e=1741824000&v=beta&t=0hJBbHBKXBeJ44-gsFJOBVpbZRMzGdUbrTLswQ273No" alt="carlospambo" style="width:80px;"/><br>
 
-*[Carlos Pambo](https://www.linkedin.com/in/carlos-pambo/)*  
-Since 2024  
+<a href="https://www.linkedin.com/in/carlos-pambo/">Carlos Pambo</a><br>
+Since 2024<br>
 <i>Recommendations and patterns for accelerated DT construction</i>
 </div>
 
+<br>
+
 <div style="text-align: center;">
-Lei Zhao  <br>
+<a href="https://www.researchgate.net/scientific-contributions/Lei-Zhao-2126466187">Lei Zhao</a> <br>
 Since 2024  <br>
 <i>Systematic DT engineering, DT engineering for permafrost studies</i>
 </div>
@@ -32,8 +34,8 @@ Since 2024  <br>
 <div style="text-align: center;">
 <img src="https://media.licdn.com/dms/image/v2/C4E03AQHT7p467v7jlw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658099318471?e=1741824000&v=beta&t=A-mug2NpufIXZ5hmvYKk9yeRa217AgBG7Z7ge51Utko" alt="kerianfiter" style="width:80px;"/>
 
-*[Kérian Fiter](https://www.linkedin.com/in/kerianfiter/)*  
-Since 2024  
+<a href="https://www.linkedin.com/in/kerianfiter/">Kérian Fiter</a><br>
+Since 2024  <br>
 <i> Rapid creation of DT visualizations </i>
 </div>
 
@@ -41,7 +43,7 @@ Since 2024
 
 |**Name**|**Role**|**Years**|**Topic**|  
 |*[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of digital twin architectures|  
-|*[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant |2024 | Implementation of modelled machine learning pipelines|  
+|*[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant | 2024 | Implementation of modelled machine learning pipelines|  
 |*[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023 - 2024 | Ontological modelling of machine learning pipelines|
 
 
