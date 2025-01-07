@@ -4,20 +4,46 @@ title: Oakes Lab
 permalink: /lab/
 ---
 
-The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. This involves starting with the expert's domain knowledge, capturing it in models, and then using this knowledge to better construct, optimize, verify, and validate systems.
+The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.
 
 **OAKES** = **O**bjective: **A**ccelerating **K**nowledge **E**ngineering for Complex **S**ystems
 
 [//]: # (Please see the main page for a list of my varied research topics, which include digital twins, ontologies, workflows, and machine learning.)
 
-## Current and Alumni Students
+## Lab Members
 
-|**Name**|**Role**|**Years**|**Topics**|
-|*[Carlos Pambo](https://www.linkedin.com/in/carlos-pambo/)* | PhD student | 2024 - present | Accelerated digital twin engineering|
-|*Lei Zhao* | PhD student | 2024 - present | Systematic digital twin engineering, DT engineering for permafrost studies|  
+### PhD Students
+
+<div style="text-align: center;">
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFZbSuYWDjeeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704457616675?e=1741824000&v=beta&t=0hJBbHBKXBeJ44-gsFJOBVpbZRMzGdUbrTLswQ273No" alt="carlospambo" style="width:80px;"/>
+
+*[Carlos Pambo](https://www.linkedin.com/in/carlos-pambo/)*  
+Since 2024  
+<i>Recommendations and patterns for accelerated DT construction</i>
+</div>
+
+<div style="text-align: center;">
+Lei Zhao  <br>
+Since 2024  <br>
+<i>Systematic DT engineering, DT engineering for permafrost studies</i>
+</div>
+
+### Master's students
+<div style="text-align: center;">
+<img src="https://media.licdn.com/dms/image/v2/C4E03AQHT7p467v7jlw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658099318471?e=1741824000&v=beta&t=A-mug2NpufIXZ5hmvYKk9yeRa217AgBG7Z7ge51Utko" alt="kerianfiter" style="width:80px;"/>
+
+*[Kérian Fiter](https://www.linkedin.com/in/kerianfiter/)*  
+Since 2024  
+<i> Rapid creation of DT visualizations </i>
+</div>
+
+### Alumni Students
+
+|**Name**|**Role**|**Years**|**Topic**|  
 |*[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of digital twin architectures|  
 |*[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant |2024 | Implementation of modelled machine learning pipelines|  
 |*[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023 - 2024 | Ontological modelling of machine learning pipelines|
+
 
 ## Open Opportunities
 
@@ -67,11 +93,12 @@ I apologize, but due to the volume of requests, I will not be able to respond to
 
 Please be detailed and specific. Your email should give me a sense of who you are, what you want to research, and why you would like me specifically to be your supervisor.
 
+Under-represented groups are especially encouraged to apply! 
+
 To know more about the Polytechnique application process, please see the following links:
 
 * [https://www.polymtl.ca/admission/en/graduate-studies](https://www.polymtl.ca/admission/en/graduate-studies)
 * [https://www.polymtl.ca/futur/en/es/admission](https://www.polymtl.ca/futur/en/es/admission)
-
 
 ## Student Resources
 
