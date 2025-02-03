@@ -52,7 +52,7 @@ Since 2024  <br>
 I am actively looking for motivated and talented individuals for **undergraduate, Masters, and PhD positions**.
 
 **Available projects and potential topics:**
-* [Accelerating Digital Twin Construction: A Domain Knowledge-driven, Low-Code Approach](https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley)
+* [Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins](https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley)
 * Analyzing and improving the quality of digital twin models and systems [[paper](https://bentleyjoakes.github.io/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf)]
 * Improving the explainability of digital twin architecture and service results [[paper](https://bentleyjoakes.github.io/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)]
 * Utilizing machine learning techniques (such as reinforcement learning, LLMs, and recommendations) and ontological modelling for digital twin construction and evolution [[paper](https://bentleyjoakes.github.io/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf)]
