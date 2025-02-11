@@ -6,6 +6,7 @@ permalink: /lab/
 
 <div style="text-align: center; background: #963232;color:whitesmoke;"><b>I am currently recruiting for a PhD candidate position, on the project <a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley" style="color: #759ce4;">Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins</a></b></div>
 
+<br>
 The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.
 
 <div style="text-align: center; background: #d1fcb9; color:black;"><b>OAKES</b> = <b>O</b>bjective: <b>A</b>ccelerating <b>K</b>nowledge <b>E</b>ngineering for Complex <b>S</b>ystems</div>
@@ -54,7 +55,7 @@ Since 2024  <br>
 I am actively looking for motivated and talented individuals for **undergraduate, Masters, and PhD positions**.
 
 **Available projects and potential topics:**
-* [Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins](https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley)
+* [Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins](https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley) (PhD only)
 * Analyzing and improving the quality of digital twin models and systems [[paper](https://bentleyjoakes.github.io/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf)]
 * Improving the explainability of digital twin architecture and service results [[paper](https://bentleyjoakes.github.io/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)]
 * Utilizing machine learning techniques (such as reinforcement learning, LLMs, and recommendations) and ontological modelling for digital twin construction and evolution [[paper](https://bentleyjoakes.github.io/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf)]
