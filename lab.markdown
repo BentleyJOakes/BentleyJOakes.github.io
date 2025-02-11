@@ -4,7 +4,7 @@ title: Oakes Lab
 permalink: /lab/
 ---
 
-<div style="text-align: center; background: #963232;color:whitesmoke;"><b>I am currently recruiting for a PhD candidate position, on the project <a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins</a></b></div>
+<div style="text-align: center; background: #963232;color:whitesmoke;"><b>I am currently recruiting for a PhD candidate position, on the project <a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley" style="color: #759ce4;">Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins</a></b></div>
 
 The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.
 
@@ -63,7 +63,7 @@ If you have another research idea which aligns with my interests, I would love t
 
 **What do I offer:**
 * A position at Polytechnique Montréal, a world-class institution
-  * affiliated with the [Université  de Montréal](https://www.umontreal.ca/) ([ranked 125th globally](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal)) and the [artifical intelligence institute Mila](https://mila.quebec/en)
+  * affiliated with the [Université  de Montréal](https://www.umontreal.ca/) ([ranked 125th globally](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal)) and the [Quebec Artificial Intelligence Institute (Mila)](https://mila.quebec/en)
   * located in [Montréal, a global cultural capital](https://www.mtl.org/en")
 * Supportive mentoring on many aspects of graduate life
 * Cutting-edge research and technologies
