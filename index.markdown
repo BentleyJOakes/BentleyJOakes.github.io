@@ -7,13 +7,16 @@ permalink: /
 ---
 
 
-<img alt="Bentley Oakes" src="/assets/images/BentleyOakes-headshot.jpg" align="left" style="width:200px; margin: 10px 10px 10px 10px;" />
+
+<div style="text-align: center; background: #963232;color:whitesmoke;"><b>I have a PhD candidate position open, please see my <a href="https://bentleyjoakes.github.io/lab/">lab page</a></b></div>
+
+<img alt="Bentley Oakes" src="/assets/images/BentleyOakes-headshot.jpg" style="text-align: left;width:200px; margin: 10px 10px 10px 10px;" />
 
 I am an **Assistant Professor** in the [Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada. Polytechnique Montréal is affiliated with the [Université  de Montréal](https://www.umontreal.ca/) and the [Quebec Artificial Intelligence Institute (Mila)](https://mila.quebec/en)
 
 Our research in the Oakes lab focuses on **enabling domain experts to efficiently capture and utilise their knowledge through a model-driven approach, to support knowledge engineering for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process.
 
-My main research interests include:
+### Main research interests:
 * digital twins, including their structure, [construction](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), and [reporting](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
 * representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/assets/publications/Elaasar2023%20-%20openCAESAR%20Balancing%20Agility%20and%20Rigor%20in%20Model-Based%20Systems%20Engineering.pdf)
 * verification and validation of cyber-physical systems, including [formal verification](/assets/publications/Bernaerts2019%20-%20Validating%20Industrial%20Requirements%20with%20a%20Contract-Based%20Approach.pdf)
@@ -24,6 +27,7 @@ My main research interests include:
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
 
+### Academic background:
 Previously, I was a post-doctoral researcher at the [GEODES lab](http://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal for two years. My research topic was on the modelling of [domain-specific machine learning workflows](https://doi.org/10.1145/3638243).
 
 Before that, I was a post-doctoral researcher at the University of Antwerp in Belgium for three years. I worked on a variety of topics along with industrial partners as part of the [Flanders Make](https://www.flandersmake.be) strategic research centre, including verification of cyber-physical systems, configuring of co-simulations, and developing conceptual frameworks for digital twins.
@@ -34,7 +38,7 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 
 For more information, please see [my CV](assets/BOakes-CV.pdf).
 
-# News
+### News
 * 2025-01-30: Our paper *CoMRAT: Commit Message Rationale Analysis Tool* has been accepted in the International Conference on Mining Software Repositories (MSR).
 * 2025-01-25: I'm honoured to serve on the Program Committee for the [ACM/IEEE International Conference on Model-Driven Engineering Languages and Systems (MODELS) 2025](https://conf.researchr.org/home/models-2025).
 * 2024-12-09: I'm thrilled that our paper [*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*](/assets/publications/Oakes2023%20-%20Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice.pdf) has been accepted for a journal-first presentation at [ICSE 2025](https://conf.researchr.org/home/icse-2025) in Ottawa

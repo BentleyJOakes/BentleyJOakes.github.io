@@ -4,9 +4,11 @@ title: Oakes Lab
 permalink: /lab/
 ---
 
+<div style="text-align: center; background: #963232;color:whitesmoke;"><b>I am currently recruiting for a PhD candidate position, on the project <a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins</a></b></div>
+
 The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.
 
-**OAKES** = **O**bjective: **A**ccelerating **K**nowledge **E**ngineering for Complex **S**ystems
+<div style="text-align: center; background: #d1fcb9; color:black;"><b>OAKES</b> = <b>O</b>bjective: <b>A</b>ccelerating <b>K</b>nowledge <b>E</b>ngineering for Complex <b>S</b>ystems</div>
 
 [//]: # (Please see the main page for a list of my varied research topics, which include digital twins, ontologies, workflows, and machine learning.)
 
@@ -17,7 +19,7 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 <div style="text-align: center;">
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQFZbSuYWDjeeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704457616675?e=1741824000&v=beta&t=0hJBbHBKXBeJ44-gsFJOBVpbZRMzGdUbrTLswQ273No" alt="carlospambo" style="width:100px;"/><br>
 
-<a href="https://www.linkedin.com/in/carlos-pambo/">Carlos Pambo</a><br>
+<a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
 Since 2024<br>
 <i>Recommendations and patterns for accelerated DT construction</i>
 </div>
@@ -25,7 +27,7 @@ Since 2024<br>
 <br>
 
 <div style="text-align: center;">
-<a href="https://www.researchgate.net/scientific-contributions/Lei-Zhao-2126466187">Lei Zhao</a> <br>
+<a href="https://www.researchgate.net/scientific-contributions/Lei-Zhao-2126466187"><b>Lei Zhao</b></a> <br>
 Since 2024  <br>
 <i>Systematic DT engineering, DT engineering for permafrost studies</i>
 </div>
@@ -34,7 +36,7 @@ Since 2024  <br>
 <div style="text-align: center;">
 <img src="https://media.licdn.com/dms/image/v2/C4E03AQHT7p467v7jlw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1658099318471?e=1741824000&v=beta&t=A-mug2NpufIXZ5hmvYKk9yeRa217AgBG7Z7ge51Utko" alt="kerianfiter" style="width:100px;"/><br>
 
-<a href="https://www.linkedin.com/in/kerianfiter/">Kérian Fiter</a><br>
+<a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
 Since 2024  <br>
 <i> Rapid creation of DT visualizations </i>
 </div>
@@ -60,7 +62,9 @@ I am actively looking for motivated and talented individuals for **undergraduate
 If you have another research idea which aligns with my interests, I would love to hear it! Please send me a message.
 
 **What do I offer:**
-* A position at Polytechnique Montréal, a world-class institution affiliated with the [Université  de Montréal](https://www.umontreal.ca/) and [Mila](https://mila.quebec/en), located in a global cultural capital
+* A position at Polytechnique Montréal, a world-class institution
+  * affiliated with the [Université  de Montréal](https://www.umontreal.ca/) ([ranked 125th globally](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal)) and the [artifical intelligence institute Mila](https://mila.quebec/en)
+  * located in [Montréal, a global cultural capital](https://www.mtl.org/en")
 * Supportive mentoring on many aspects of graduate life
 * Cutting-edge research and technologies
 * Collaboration with local and global experts
