@@ -66,6 +66,7 @@ If you have another research idea which aligns with my interests, I would love t
 * A position at Polytechnique Montréal, a world-class institution
   * affiliated with the [Université  de Montréal](https://www.umontreal.ca/) ([ranked 125th globally](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal)) and the [Quebec Artificial Intelligence Institute (Mila)](https://mila.quebec/en)
   * located in [Montréal, a global cultural capital](https://www.mtl.org/en")
+  * [Virtual tour of Polytechnique](https://visitevirtuelle.polymtl.ca/polymtl/home/featured-tours/)
 * Supportive mentoring on many aspects of graduate life
 * Cutting-edge research and technologies
 * Collaboration with local and global experts
