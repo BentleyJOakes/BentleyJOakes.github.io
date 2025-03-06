@@ -28,22 +28,23 @@ Each week, we'll have interactive lectures featuring detailed DT examples from a
 
 
 ### Winter 2025 schedule
+
 | Week | Topic                                              | Speaker                                                                           |
-|------|----------------------------------------------------|-----------------------------------------------------------------------------------|
-| 1    | Introduction to the course and Digital Twins       |                                                                                   |
-| 2    | DT engineering and the incubator case study        |                                                                                   |
-| 3    | Introduction to modelling and simulation           | [Jonathan Beaulieu](https://scholar.google.com/citations?user=ambhADIAAAAJ&hl=en) |
-| 4    | Modelling control and physics                      |                                                                                   |
-| 5    | Communication between the DT and the Physical Twin |                                                                                   |
-| 6    | 2D and 3D visualizations                           | [Pascal Archambault](https://pascalarchambault.ca/)                               |
-| 7    | Human and machine intelligence in the DT           |                                                                                   |
-| 8    | Systematic DT reporting                            |                                                                                   |
-| 9    | Reading week (no class)                            |                                                                                   |
-| 10   | Formal verification                                | [Dr. Istvan David](https://istvandavid.com/)                                      |
-| 11   | Realizing DTs                                      |                                                                                   |
-| 12   | Advanced DT services                               |                                                                                   |
-| 13   | Student Presentations                              |                                                                                   |
-| 14   | Course review                                      |                                                                                   |
+|:----:|----------------------------------------------------|-----------------------------------------------------------------------------------|
+|  1   | Introduction to the course and Digital Twins       |                                                                                   |
+|  2   | DT engineering and the incubator case study        |                                                                                   |
+|  3   | Introduction to modelling and simulation           | [Jonathan Beaulieu](https://scholar.google.com/citations?user=ambhADIAAAAJ&hl=en) |
+|  4   | Modelling control and physics                      |                                                                                   |
+|  5   | Communication between the DT and the Physical Twin |                                                                                   |
+|  6   | 2D and 3D visualizations                           | [Pascal Archambault](https://pascalarchambault.ca/)                               |
+|  7   | Human and machine intelligence in the DT           |                                                                                   |
+|  8   | Systematic DT reporting                            |                                                                                   |
+|  9   | Reading week (no class)                            |                                                                                   |
+|  10  | Formal verification                                | [Dr. Istvan David](https://istvandavid.com/)                                      |
+|  11  | Realizing DTs                                      |                                                                                   |
+|  12  | Advanced DT services                               |                                                                                   |
+|  13  | Student Presentations                              |                                                                                   |
+|  14  | Course review                                      |                                                                                   |
 
 
 ## Course Objectives

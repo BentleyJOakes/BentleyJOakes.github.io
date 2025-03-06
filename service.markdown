@@ -40,7 +40,7 @@ McGill University - PhD Thesis External Reviewer - 2024
 McGill University - M. Sc. Thesis External Reviewer - 2023  
 
 #### Guest Editor for Journal Special Issue
-[SIMULATION](https://journals.sagepub.com/home/sim)  
+[SIMULATION](https://journals.sagepub.com/toc/simb/101/3)  
 *Issue Title:* Modeling and Simulation for Software-Intensive Systems: from IoT to Digital Twins - 2023  
 
 #### Journal Reviewer

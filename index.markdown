@@ -39,6 +39,8 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 For more information, please see [my CV](assets/BOakes-CV.pdf).
 
 ### News
+* 2025-03-04: I've accepted the Student Volunteers Co-Chair position for the [Foundations of Software Engineering (FSE) conference](https://conf.researchr.org/home/fse-2025) 2026, held in Montréal.
+* 2025-03-03: Our SIMULATION special issue [Modeling and Simulation for Software Intensive Systems from IoT to Digital Twins](https://journals.sagepub.com/toc/simb/101/3) is now published.
 * 2025-01-30: Our paper *CoMRAT: Commit Message Rationale Analysis Tool* has been accepted in the [International Conference on Mining Software Repositories (MSR)](https://2025.msrconf.org/).
 * 2025-01-25: I'm honoured to serve on the Program Committee for the [ACM/IEEE International Conference on Model-Driven Engineering Languages and Systems (MODELS) 2025](https://conf.researchr.org/home/models-2025).
 * 2024-12-09: I'm thrilled that our paper [*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*](/assets/publications/Oakes2023%20-%20Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice.pdf) has been accepted for a journal-first presentation at [ICSE 2025](https://conf.researchr.org/home/icse-2025) in Ottawa
