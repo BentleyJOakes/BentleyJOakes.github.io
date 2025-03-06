@@ -17,7 +17,7 @@ permalink: /
 <p>Our research in the Oakes lab focuses on <b>enabling domain experts to efficiently capture and utilise their knowledge through a model-driven approach, to support knowledge engineering for complex cyber-physical systems</b>. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process.</p>
 
 ### My main research interests:
-* digital twins, including their structure, [construction](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), and [reporting](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
+* [digital twins](https://bentleyjoakes.github.io/dte_course/), including their structure, [construction](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), and [reporting](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
 * representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/assets/publications/Elaasar2023%20-%20openCAESAR%20Balancing%20Agility%20and%20Rigor%20in%20Model-Based%20Systems%20Engineering.pdf)
 * verification and validation of cyber-physical systems, including [formal verification](/assets/publications/Bernaerts2019%20-%20Validating%20Industrial%20Requirements%20with%20a%20Contract-Based%20Approach.pdf)
 * the application of [machine learning to cyber-physical systems](/assets/publications/Moradi2020%20-%20Exploring%20Fault%20Parameter%20Space%20using%20Reinforcement%20Learning-based%20Fault%20Injection.pdf)

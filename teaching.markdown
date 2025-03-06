@@ -4,25 +4,28 @@ title: Teaching
 permalink: /teaching/
 ---
 
-#### Course Lecturer/Coordinator
+### Course Instructor
+
 **Polytechnique Montréal** - Montréal, Canada  
-*LOG6953FE - Engineering of Digital Twins* - Winter 2025  
-*LOG8371E - Software Quality Engineering* - Fall 2024  
-*INF6900AE/INF7900A - Scientific and Technical Communication* - Winter 2024, Fall 2024  
+[LOG6953FE - Engineering of Digital Twins](https://bentleyjoakes.github.io/dte_course/) - Winter 2025  
+[LOG8371E - Software Quality Engineering](https://www.polymtl.ca/programmes/cours/software-quality-engineering) - Fall 2024  
+[INF6900AE/INF7900A - Scientific and Technical Communication](https://www.polymtl.ca/programmes/cours/scientific-and-technical-communication-i) - Winter 2024, Fall 2024  
+
+### Course Lecturer/Coordinator
 
 **McGill University** - Montréal, Canada  
 Winter Term - 2015, 2017, 2018  
-*COMP 202 - Foundations of Programming*
+[COMP 202 - Foundations of Programming](https://www.mcgill.ca/study/2017-2018/courses/comp-202)
 
-#### Guest Lecturer
+### Guest Lecturer
 **Polytechnique Montréal** - Montréal, Canada  
 [LOG8704 - Développement logiciel en réalité étendue (XR Software Development)](https://www.polymtl.ca/programmes/cours/developpement-logiciel-en-realite-etendue) - Nov. 2024  
 _Presentation:_ "Digital Twins: Introductions and Intersections"  
 
-LOG6953DE - Model-Driven Software Engineering* - Nov. 2022, Nov. 2023  
+[LOG8505E - Model-Driven Software Engineering](https://www.polymtl.ca/programmes/cours/model-driven-software-engineering-0) - Nov. 2022, Nov. 2023  
 _Lecture topics:_ Model-driven engineering, usage and verification of model transformations
 
-#### Teaching Assistant
+### Teaching Assistant
 **University of Antwerp** - Antwerp, Belgium  
 *2001WETMTR - Model-Driven Engineering* - Fall 2020  
 *2001WETMSI - Modelling of Software-Intensive Systems* - Fall 2019  
