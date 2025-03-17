@@ -23,5 +23,5 @@ Polytechnique Montréal
 2700 Chemin de la Tour  
 Montréal, QC, Canada H3T 1J4  
 
-
+For directions to Polytechnique Montréal and the Pavillons Lassonde, please see [this link](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map). Step-by-step directions are available in the 'access guide' provided there.
 

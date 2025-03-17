@@ -13,6 +13,9 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 
 [//]: # (Please see the main page for a list of my varied research topics, which include digital twins, ontologies, workflows, and machine learning.)
 
+<img alt="Polytechnique Montréal" src="/assets/images/polymtl_small.png" style="width:100%; margin: 10px 10px 10px 10px;" />
+
+
 ## Lab Members
 
 ### PhD Students
