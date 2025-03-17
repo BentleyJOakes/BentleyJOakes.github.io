@@ -22,8 +22,6 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 
 <div style="text-align: center;">
 
-[//]: # (<img src="https://media.licdn.com/dms/image/v2/D4D03AQFZbSuYWDjeeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704457616675?e=1741824000&v=beta&t=0hJBbHBKXBeJ44-gsFJOBVpbZRMzGdUbrTLswQ273No" alt="carlospambo" style="width:100px;"/><br>)
-
 <a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
 Since 2024<br>
 <i>Recommendations and patterns for accelerated DT construction</i>
@@ -59,7 +57,7 @@ Since 2024  <br>
 I am actively looking for motivated and talented individuals for **undergraduate, Masters, and PhD positions**.
 
 **Available projects and potential topics:**
-* [Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins](https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley) (PhD only)
+* [Developing a Semantic Integration and Consistency Framework for Hierarchical Digital Twins](https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley) (fully funded - PhD only)
 * Analyzing and improving the quality of digital twin models and systems [[paper](https://bentleyjoakes.github.io/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf)]
 * Improving the explainability of digital twin architecture and service results [[paper](https://bentleyjoakes.github.io/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)]
 * Utilizing machine learning techniques (such as reinforcement learning, LLMs, and recommendations) and ontological modelling for digital twin construction and evolution [[paper](https://bentleyjoakes.github.io/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf)]
