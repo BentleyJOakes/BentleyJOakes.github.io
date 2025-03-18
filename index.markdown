@@ -25,9 +25,12 @@ permalink: /
 * [model transformations and their verification](/assets/publications/Oakes2018%20-%20A%20Symbolic%20Execution-Based%20Approach%20To%20Model%20Transformation%20Verification%20using%20Structural%20Contracts.pdf)
 * and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
+### Teaching and service
+Currently I am teaching [LOG6953FE - Digital Twin Engineering](https://bentleyjoakes.github.io/dte_course/).
+
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
 
-### Academic background:
+### Academic background
 Previously, I was a post-doctoral researcher at the [GEODES lab](http://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal for two years. My research topic was on the modelling of [domain-specific machine learning workflows](https://doi.org/10.1145/3638243).
 
 Before that, I was a post-doctoral researcher at the University of Antwerp in Belgium for three years. I worked on a variety of topics along with industrial partners as part of the [Flanders Make](https://www.flandersmake.be) strategic research centre, including verification of cyber-physical systems, configuring of co-simulations, and developing conceptual frameworks for digital twins.
