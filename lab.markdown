@@ -21,7 +21,7 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 ### PhD Students
 
 <div style="text-align: center;">
-
+<img src="assets/images/students/carlos_small.jpeg" alt="carlos_pambo" style="width:100px;"/><br>
 <a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
 Since 2024<br>
 <i>Recommendations and patterns for accelerated DT construction</i>
@@ -37,7 +37,7 @@ Since 2024  <br>
 
 ### Master's students
 <div style="text-align: center;">
-<img src="https://media.licdn.com/dms/image/v2/C4E03AQHT7p467v7jlw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1658099318471?e=1747872000&v=beta&t=yU1bXUxM7nVP82BzR1k3QbDi5CrNMtuLM5mhK2IBDdc" alt="kerianfiter" style="width:100px;"/><br>
+<img src="assets/images/students/kfiter_small.png" alt="kerian_fiter" style="width:100px;"/><br>
 
 <a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
 Since 2024  <br>
