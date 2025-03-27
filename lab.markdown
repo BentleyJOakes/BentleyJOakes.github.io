@@ -41,7 +41,17 @@ Since 2024  <br>
 
 <a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
 Since 2024  <br>
-<i> Rapid creation of DT visualizations </i>
+<i> Systematic DT reporting & visualization </i>
+</div>
+
+### Internships
+<div style="text-align: center;">
+<img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="width:100px;"/><br>
+<img src="/assets/images/mitacs.png" alt="mitacs" style="width:100px;"/><br>
+
+<a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
+MITACS Globalink Intern - Summer 2025  <br>
+<i> DT engineering using LLMs </i>
 </div>
 
 ### Alumni Students
