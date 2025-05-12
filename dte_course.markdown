@@ -55,3 +55,13 @@ At the end of this course, you will be able to:
 * Discuss DT services such as visualization and optimization, and their advantages
 * Develop and deploy a DT service on a DT platform
 
+## Course Projects
+
+### Robotics
+<a href="https://drive.google.com/file/d/12d2txx8teChBn1qx9Rnln-9XQzmAAjyc/view?usp=sharing">Report</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xF0SzGU1vgw?si=GGpn9RwaaK5SJIT-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Database Optimization
+
+<a href="https://drive.google.com/file/d/1OU8EqiBH-rnJmaYutY-wqzztyxDTE54N/view?usp=sharing">Report</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9pK6ZKWzszM?si=XI7TcGlE6nsaMDEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
