@@ -57,9 +57,20 @@ At the end of this course, you will be able to:
 
 ## Course Projects
 
+# Beer Fermentation DT
+<a href="https://drive.google.com/file/d/1nsA2t1DazQHxC8PHLst3X4VSaUu2PjEd/view?usp=sharing">Presentation</a><br>
+<a href="https://drive.google.com/file/d/1fN6vga63s1owDOk0K24ENrIBFdE-g-OZ/view?usp=sharing">Report</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-EGl8y5Qlus?si=5H5r-fF26d1te-tz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Robotics
+<a href="https://docs.google.com/presentation/d/1sQNAqGFcO64Qu18FmAuG-wpHG5EGpTuO/edit?usp=sharing&ouid=100435680662249649799&rtpof=true&sd=true">Presentation</a><br>
 <a href="https://drive.google.com/file/d/12d2txx8teChBn1qx9Rnln-9XQzmAAjyc/view?usp=sharing">Report</a><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xF0SzGU1vgw?si=GGpn9RwaaK5SJIT-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Smart City DT
+<a href="https://docs.google.com/presentation/d/1Cutvw6E-3BpHdPUUDMXhKgbPoDNaL5y-/edit?usp=sharing&ouid=100435680662249649799&rtpof=true&sd=true">Presentation</a><br>
+<a href="https://drive.google.com/file/d/1JrIK3UyJZ9G4b2vmjlf-YA_K1cyCHmk_/view?usp=sharing">Report</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rXV02kwleY4?si=b8yGmuMAGr7plJOf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Permafrost DT
 <a href="https://drive.google.com/file/d/1dLBnUXRYC3GCTc4LHgJFNmJjrR3ayYyk/view?usp=sharing">Presentation</a><br>
