@@ -57,6 +57,8 @@ At the end of this course, you will be able to:
 
 ## Course Projects
 
+The following are the course projects from the Winter 2025 edition of the class.
+
 # Beer Fermentation DT
 <a href="https://drive.google.com/file/d/1nsA2t1DazQHxC8PHLst3X4VSaUu2PjEd/view?usp=sharing">Presentation</a><br>
 <a href="https://drive.google.com/file/d/1fN6vga63s1owDOk0K24ENrIBFdE-g-OZ/view?usp=sharing">Report</a><br>
@@ -83,6 +85,6 @@ At the end of this course, you will be able to:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ezhNTBHXkss?si=eRGGNmkgjw3Af1nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Database Optimization
-
 <a href="https://drive.google.com/file/d/1OU8EqiBH-rnJmaYutY-wqzztyxDTE54N/view?usp=sharing">Presentation</a><br>
+<a href="https://drive.google.com/file/d/1lmimLGwZXmsT7bkiKocyn6gwinSDpwzc/view?usp=sharing">Report</a><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9pK6ZKWzszM?si=XI7TcGlE6nsaMDEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
