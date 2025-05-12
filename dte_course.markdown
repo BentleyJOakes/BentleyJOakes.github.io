@@ -61,7 +61,17 @@ At the end of this course, you will be able to:
 <a href="https://drive.google.com/file/d/12d2txx8teChBn1qx9Rnln-9XQzmAAjyc/view?usp=sharing">Report</a><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xF0SzGU1vgw?si=GGpn9RwaaK5SJIT-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Permafrost DT
+<a href="https://drive.google.com/file/d/1dLBnUXRYC3GCTc4LHgJFNmJjrR3ayYyk/view?usp=sharing">Presentation</a><br>
+<a href="https://drive.google.com/file/d/1uGvCLKiKExcBl61ufslmRi1YiAEkjGiN/view?usp=sharing">Report</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9hKJqjnLsc?si=BFYt3feCrW1AHVIe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### STM Bus Visualization
+<a href="https://drive.google.com/file/d/18c4WblJxL1lYbwn9XH1B3iolCi6BvoDA/view?usp=sharing">Presentation</a><br>
+<a href="https://drive.google.com/file/d/1m4yrmTdxiap-9h4gcycctqyRI6U2-ufC/view?usp=sharing">Report</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezhNTBHXkss?si=eRGGNmkgjw3Af1nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Database Optimization
 
-<a href="https://drive.google.com/file/d/1OU8EqiBH-rnJmaYutY-wqzztyxDTE54N/view?usp=sharing">Report</a><br>
+<a href="https://drive.google.com/file/d/1OU8EqiBH-rnJmaYutY-wqzztyxDTE54N/view?usp=sharing">Presentation</a><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9pK6ZKWzszM?si=XI7TcGlE6nsaMDEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
