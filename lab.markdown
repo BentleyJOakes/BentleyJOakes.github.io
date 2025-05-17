@@ -42,6 +42,12 @@ Since 2024  <br>
 <a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
 Since 2024  <br>
 <i> Systematic DT reporting & visualization </i>
+
+<img src="/assets/images/students/gabrielle.jpeg" alt="gabrielle_gallant" style="width:100px;"/><br>
+
+<a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
+Since 2025  <br>
+<i> Model quality in DTs </i>
 </div>
 
 ### Internships
