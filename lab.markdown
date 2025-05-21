@@ -21,7 +21,7 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 ### PhD Students
 
 <div style="text-align: center;">
-<img src="/assets/images/students/carlos_small.jpeg" alt="carlos_pambo" style="width:100px;"/><br>
+<img src="/assets/images/students/carlos_small.jpeg" alt="carlos_pambo" style="width:150px;"/><br>
 <a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
 Since 2024<br>
 <i>Recommendations and patterns for accelerated DT construction</i>
@@ -37,13 +37,13 @@ Since 2024  <br>
 
 ### Master's students
 <div style="text-align: center;">
-<img src="/assets/images/students/kfiter_small.png" alt="kerian_fiter" style="width:100px;"/><br>
+<img src="/assets/images/students/kfiter_small.png" alt="kerian_fiter" style="width:150px;"/><br>
 
 <a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
 Since 2024  <br>
-<i> Systematic DT reporting & visualization </i>
+<i> Systematic DT reporting & visualization </i><br>
 
-<img src="/assets/images/students/gabrielle.jpeg" alt="gabrielle_gallant" style="width:100px;"/><br>
+<img src="/assets/images/students/gabrielle.jpeg" alt="gabrielle_gallant" style="width:150px;"/><br>
 
 <a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
 Since 2025  <br>
@@ -53,7 +53,7 @@ Since 2025  <br>
 ### Internships
 <div style="text-align: center;">
 <img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="width:100px;"/><br>
-<img src="/assets/images/mitacs.png" alt="mitacs" style="width:100px;"/><br>
+<img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>
 
 <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
 MITACS Globalink Intern - Summer 2025  <br>
