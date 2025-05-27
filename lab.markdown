@@ -137,3 +137,5 @@ To know more about the Polytechnique application process, please see the followi
 ### Interesting reading and advice
 * [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 * The largest problem in academia is discoverability: [Be Findable](https://registerspill.thorstenball.com/p/be-findable)
+* How to write a thesis: [Thesis Projects - A Guide for Students in Computer Science and Information Systems](https://link.springer.com/book/10.1007/978-1-84800-009-4)
+* Fantastic advice on writing: [Writing for Computer Science](https://link.springer.com/book/10.1007/978-1-4471-6639-9)
