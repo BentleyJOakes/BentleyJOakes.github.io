@@ -26,7 +26,7 @@ permalink: /
 * and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
 ### Teaching and service
-Currently I am teaching [LOG6953FE - Digital Twin Engineering](https://bentleyjoakes.github.io/dte_course/).
+Currently I am teaching [LOG6310E - Digital Twin Engineering](https://bentleyjoakes.github.io/dte_course/).
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
 

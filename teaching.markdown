@@ -7,7 +7,7 @@ permalink: /teaching/
 ### Course Instructor
 
 **Polytechnique Montréal** - Montréal, Canada  
-[LOG6953FE - Engineering of Digital Twins](https://bentleyjoakes.github.io/dte_course/) - Winter 2025  
+[LOG6310E - Engineering of Digital Twins](https://bentleyjoakes.github.io/dte_course/) - Winter 2025  
 [LOG8371E - Software Quality Engineering](https://www.polymtl.ca/programmes/cours/software-quality-engineering) - Fall 2024  
 [INF6900AE/INF7900A - Scientific and Technical Communication](https://www.polymtl.ca/programmes/cours/scientific-and-technical-communication-i) - Winter 2024, Fall 2024  
 
