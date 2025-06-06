@@ -4,6 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## Digital Twin Engineering Course
+
+[LOG6310E - Engineering of Digital Twins course website](https://bentleyjoakes.github.io/dte_course/) - Winter 2025
+
 ### Course Instructor
 
 **Polytechnique Montréal** - Montréal, Canada  

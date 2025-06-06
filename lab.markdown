@@ -19,40 +19,43 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 ## Lab Members
 
 ### PhD Students
-
-<div style="text-align: center;">
-<img src="/assets/images/students/carlos_small.jpeg" alt="carlos_pambo" style="width:150px;"/><br>
-<a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
-Since 2024<br>
-<i>Recommendations and patterns for accelerated DT construction</i>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
+  <div>
+    <img src="/assets/images/students/carlos_small.jpeg" alt="carlos_pambo" style="width:150px;"><br>
+    <a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
+    Since 2024<br>
+    <i>Recommendations and patterns for accelerated DT construction</i>
+  </div>
+  <div>
+    <a href="https://www.researchgate.net/scientific-contributions/Lei-Zhao-2126466187"><b>Lei Zhao</b></a><br>
+    Since 2024<br>
+    <i>Systematic DT engineering, DT engineering for permafrost studies</i><br>
+    Co-supervised with <a href="https://www.polymtl.ca/expertises/en/beltrame-giovanni">Giovanni Beltrame</a><br>
+  </div>
 </div>
 
-<br>
-
-<div style="text-align: center;">
-<a href="https://www.researchgate.net/scientific-contributions/Lei-Zhao-2126466187"><b>Lei Zhao</b></a> <br>
-Since 2024  <br>
-<i>Systematic DT engineering, DT engineering for permafrost studies</i>
-</div>
 
 ### Master's students
-<div style="text-align: center;">
-<img src="/assets/images/students/kfiter_small.png" alt="kerian_fiter" style="width:150px;"/><br>
-
-<a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
-Since 2024  <br>
-<i> Systematic DT reporting & visualization </i><br>
-
-<img src="/assets/images/students/gabrielle.jpeg" alt="gabrielle_gallant" style="width:150px;"/><br>
-
-<a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
-Since 2025  <br>
-<i> Model quality in DTs </i>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
+  <div>
+    <img src="/assets/images/students/kfiter_small.png" alt="kerian_fiter" style="width:150px;"><br>
+    <a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
+    Since 2024<br>
+    <i>Systematic DT reporting & visualization</i>
+  </div>
+  <div>
+    <img src="/assets/images/students/gabrielle.jpeg" alt="gabrielle_gallant" style="width:150px;"><br>
+    <a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
+    Since 2025<br>
+    <i>Model quality in DTs</i><br>
+    Co-supervised with <a href="https://www.polymtl.ca/expertises/en/tuysuz-oguzhan">Oguzhan Tuysuz</a><br>
+  </div>
 </div>
+
 
 ### Internships
 <div style="text-align: center;">
-<img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="width:100px;"/><br>
+<img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="height:150px;"/><br>
 <img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>
 
 <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
@@ -103,14 +106,14 @@ If you have another research idea which aligns with my interests, I would love t
 
 See my _Contact_ page for up-to-date contact information, including my email and office location.
 
-When sending me an email to inquire about a position, I kindly ask that you do the following:
+When emailing me to inquire about a position, I kindly ask that you do the following:
 * Please demonstrate that you are aware of my [research interests](https://www.polymtl.ca/expertises/en/oakes-bentley) and [publications](https://bentleyjoakes.github.io/publications/).
 * **(Required)** Please answer the following questions, with 200 to 500 words each.
   * What excites you about research?
   * What are your research interests?
   * How do your research interests match my own?
   * What's your favourite project you've worked on?
-* **(Required)** Attach a up-to-date CV
+* **(Required)** Attach an up-to-date CV
 * **(Required)** Attach your transcript(s)
 * (Optional) Attach at least one reference letter
 * (Optional) Attach your relevant publication(s) or report(s)
