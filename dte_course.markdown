@@ -68,7 +68,11 @@ The following are the course projects from the Winter 2025 edition of the class.
 
 #### Smart City DT
 <a href="https://docs.google.com/presentation/d/1Cutvw6E-3BpHdPUUDMXhKgbPoDNaL5y-/edit?usp=sharing&ouid=100435680662249649799&rtpof=true&sd=true">Presentation</a> - <a href="https://drive.google.com/file/d/1JrIK3UyJZ9G4b2vmjlf-YA_K1cyCHmk_/view?usp=sharing">Report</a><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rXV02kwleY4?si=b8yGmuMAGr7plJOf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://youtu.be/sqTI49OAOeY">1. Overview video</a><br>
+<a href="https://youtu.be/uh0O6K9vKeg">2. Truck-stopping video</a><br>
+<a href="https://youtu.be/5cdrYAZirWU">3. Smart traffic lights video</a><br>
+<a href="https://youtu.be/EpAbdp7IuwM">4. City disturbance video</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqTI49OAOeY?si=MNbTGbVuzWuuGMT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Permafrost DT
 <a href="https://drive.google.com/file/d/1dLBnUXRYC3GCTc4LHgJFNmJjrR3ayYyk/view?usp=sharing">Presentation</a> - <a href="https://drive.google.com/file/d/1uGvCLKiKExcBl61ufslmRi1YiAEkjGiN/view?usp=sharing">Report</a><br>
