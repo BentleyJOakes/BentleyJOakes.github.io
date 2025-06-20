@@ -27,10 +27,10 @@ Parts of this course are based on the textbook [The Engineering of Digital Twins
 
 Please contact me if you are interested in taking or auditing the course. All are welcome!
 
-For students from other universities who want to take this course, this is possible. Please see this website for the applications: https://aehe.bci-qc.ca/en (on the left, 'Applications') A guide for this procedure: https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU
+For students from other Quebec universities who want to take this course, this happens often. Please see [this website for the applications](https://aehe.bci-qc.ca/en) (on the left, 'Applications') Here's [a guide for this procedure](https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU).
 
 ## Course Structure
-Each week, we have interactive lectures featuring detailed DT examples from across different fields and engaging discussions. Participants have six hands-on lab sessions every second week, which are small assignments to become familiar with some DT technologies and services. In team-based projects, participants apply their learning to develop their own DT or DT service. Options include developing machine-learning based services, investigating formal verification, visualization creation in a game engine such as Unity or Godot, or creating a DT for another system. A small final exam consolidates their understanding of the theoretical concepts.
+Each week, we have interactive lectures featuring detailed DT examples from across different fields and engaging discussions. Participants have six [hands-on lab sessions](https://github.com/BentleyJOakes/IncubatorDTCourse) every second week, which are small assignments to become familiar with some DT technologies and services. In team-based projects, participants apply their learning to develop their own DT or DT service. Options include developing machine-learning based services, investigating formal verification, visualization creation in a game engine such as Unity or Godot, or creating a DT for another system. A small final exam consolidates their understanding of the theoretical concepts.
 
 
 ### Winter 2025 schedule
