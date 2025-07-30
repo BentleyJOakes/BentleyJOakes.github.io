@@ -17,11 +17,19 @@ permalink: /contact/
 
 ### Office
 
-Office M-4107  
-[Pavillons Lassonde](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map)  
+**Office M-4107**  
+[Pavillons Lassonde](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map)  - Marked '1' on the map below  
 Polytechnique Montréal  
 2700 Chemin de la Tour  
 Montréal, QC, Canada H3T 1J4  
 
-For directions to Polytechnique Montréal and the Pavillons Lassonde, please see [this link](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map). Step-by-step directions are available in the 'access guide' provided there.
+#### Directions
+  * By public transport - Take the [STM blue line](https://www.stm.info/en) to 'Station Université de Montréal'. Follow the signs up the escalators, exit to the outside, and turn right. Polytechnique is a short walk ahead.
+  * By car - Parking is available inside the building marked '2' below.
+
+For detailed directions, please see [this link](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map) where the 'access guide' provides step-by-step directions.
+
+<img src="http://www.polymtl.ca/sites/amigow2020.polymtl.ca/files/plancampus700px_en.png" alt="campus_plan" style="width:100%;"/><br>
+
+
 
