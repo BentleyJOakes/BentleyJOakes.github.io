@@ -24,10 +24,16 @@ Polytechnique Montréal
 Montréal, QC, Canada H3T 1J4  
 
 #### Directions
-  * By public transport - Take the [STM blue line](https://www.stm.info/en) to 'Station Université de Montréal'. Follow the signs up the escalators, exit to the outside, and turn right. Polytechnique is a short walk ahead.
+  * By public transport
+    1. Exit [Université-de-Montréal metro station (Blue Line)](https://www.stm.info/en) - After the turnstiles, turn left past the convenience store.
+    2. Stairs - Take the stairs to the exit.
+    3. Escalators - Take the escalators on the right.
+    4. Corridor - At the top of the escalators, turn left and follow the corridor to the left.
+    5. Exit - Take the stairs to the outside.
+    6. Chemin de la tour - Once you get outside, turn right onto chemin de la tour, following the signs for 'Pavillons Lassonde'
   * By car - Parking is available inside the building marked '2' below.
 
-For detailed directions, please see [this link](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map) where the 'access guide' provides step-by-step directions.
+For detailed directions, please see [this link](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map) for the 'access guide' and further maps.
 
 <img src="http://www.polymtl.ca/sites/amigow2020.polymtl.ca/files/plancampus700px_en.png" alt="campus_plan" style="width:100%;"/><br>
 
