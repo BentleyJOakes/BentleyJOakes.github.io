@@ -42,7 +42,16 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 [//]: # (For more information, please see [my CV]&#40;assets/BOakes-CV.pdf&#41;.)
 
 ### News
-
+* 2025-08-05: Our paper *Model-Based Systems Engineering Perspectives: A Survey of Practitioner Experiences and Challenges* has been accepted at [SAM 2025](https://sdl-forum.org/Events/SAM2025/index.php).
+* 2025-08-05: We have had two papers accepted at the [Internation Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2025). The papers are *DTInsight: A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting* and *Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling*.
+* 2025-06-19: We had a very successful [Software Engineering for Machine Learning Applications (SEMLA) event](https://semla.polymtl.ca/). I was poster chair, chaired a panel, has an [SEMTL meeting](https://semtl.github.io/meeting/2025/05/15/Polytechnique/), and presented a tutorial on [*What is a “Digital Twin” and How Do I Build One?*](https://semla.polymtl.ca/tutorials/#digital_twin).
+* 2025-05-30: I went to Concordia University's [Next-Generation Cities Institute](https://www.concordia.ca/research/cities-institute.html) to present my work on *Accelerating Digital Twin Research and
+  Engineering*.
+* 2025-05-12: I gave a talk on [*Systematic Digital Twin Reporting*](https://edt.community/events/event/systematic-digital-twin-reporting/) at the EDT.Community talks. There is a [recorded video](https://www.youtube.com/watch?v=sfs1TGG-Mf4).
+* 2025-05-05: I had a great time at [ICSE, the premier software engineering conference](https://conf.researchr.org/home/icse-2025). I was poster co-chair, presented our paper on [*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*](https://bentleyjoakes.github.io/assets/publications/Oakes2023%20-%20Building%20Domain-Specific%20Machine%20Learning%20Workflows:%20A%20Conceptual%20Framework%20for%20the%20State-of-the-Practice.pdf), and our paper titled *CoMRAT: Commit Message Rationale Analysis Tool*. It was also nice to see the [SEMTL community at ICSE](https://semtl.github.io/meeting/2025/05/05/ICSE/). 
+* 2025-04-24: We had another [SEMTL meeting at Concordia](https://semtl.github.io/meeting/2025/03/15/Concordia/). It was well-attended by participants, many heading to ICSE.
+* 2025-04-04: I was thrilled to see the [student presentations in my Digital Twin Engineering class](https://bentleyjoakes.github.io/dte_course/)! 
+* 2025-04-01: Our paper *Automated Extraction and Analysis of Developer’s Rationale in Open Source Software* has been accepted at FSE 2025!
 * 2025-03-27: I gave a talk entitled "Accelerating Digital Twin Research and Engineering" in [Prof. Istvan David's Engineering Digital Twins course](https://istvandavid.com/engineering-digital-twins/), at McMaster University. The slides are available here: [slides](/assets/slides/2025.BOakes_McMaster_slides_public.pdf)
 * 2025-03-11: I will be Student Volunteers Co-Chair for the [ACM/IEEE International Conference on Model-Driven Engineering Languages and Systems (MODELS) 2025](https://conf.researchr.org/home/models-2025), held in Ann Arbor, Michigan.
 * 2025-03-04: I've accepted the Student Volunteers Co-Chair position for the [Foundations of Software Engineering (FSE) conference](https://conf.researchr.org/home/fse-2025) 2026, held in Montréal.
@@ -50,7 +59,9 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 * 2025-02-13: The Oakes Lab will be welcoming [Angelica Portocarrero](https://www.linkedin.com/in/angelica-portocarrero/) to our lab this summer as a MITACS Globalink Intern. Welcome Angelica!
 * 2025-01-30: Our paper *CoMRAT: Commit Message Rationale Analysis Tool* has been accepted in the [International Conference on Mining Software Repositories (MSR)](https://2025.msrconf.org/).
 * 2025-01-25: I'm honoured to serve on the Program Committee for the [ACM/IEEE International Conference on Model-Driven Engineering Languages and Systems (MODELS) 2025](https://conf.researchr.org/home/models-2025).
-* 2024-12-09: I'm thrilled that our paper [*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*](/assets/publications/Oakes2023%20-%20Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice.pdf) has been accepted for a journal-first presentation at [ICSE 2025](https://conf.researchr.org/home/icse-2025) in Ottawa
+
+
+* 2024-12-09: I'm thrilled that our paper [*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*](https://bentleyjoakes.github.io/assets/publications/Oakes2023%20-%20Building%20Domain-Specific%20Machine%20Learning%20Workflows:%20A%20Conceptual%20Framework%20for%20the%20State-of-the-Practice.pdf) has been accepted for a journal-first presentation at [ICSE 2025](https://conf.researchr.org/home/icse-2025) in Ottawa
 * 2024-11-21: I presented in the Polytechnique course [LOG8704 - Développement logiciel en réalité étendue (XR Software Development)](https://www.polymtl.ca/programmes/cours/developpement-logiciel-en-realite-etendue). My presentation was titled "Digital Twins: Introductions and Intersections"
 * 2024-09-25: I presented our SoSyM paper "Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis" at MODELS 2024 and won the SoSyM Journal-First award.
 * 2024-09-24: I'm excited to say that paper "Towards Ontological Service-Driven Engineering of Digital Twins" has won the Best Short Paper Award at the [1st International Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2024) (EDTConf 2024)! [pre-print](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf) [video here](https://www.youtube.com/watch?v=eOTbvIJvfwg&list=PL5_r5D9dG-fdkhDut56KVw01umNdZFsH9)
@@ -59,6 +70,8 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 * 2024-05-10: Our paper "Towards a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study" has been accepted in the [Simulation journal](https://doi.org/10.1177/00375497241261406). A [pre-print](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf) is available.
 * 2024-03-11: I'm excited to be one of the publicity chairs for the [1st International Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2024) (EDTConf 2024) in Linz, Austria.
 * 2024-01-10: Our paper "Rationale Dataset and Analysis for the Commit Messages of the Linux Kernel Out-of-Memory Killer" was accepted at the [IEEE/ACM International Conference on Program Comprehension](https://conf.researchr.org/home/icpc-2024) (ICPC 2024)
+
+
 * 2023-12-15: I will be a co-chair for the posters at the [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025) (ICSE 2025) in Ottawa.
 
 
