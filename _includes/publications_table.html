@@ -356,7 +356,7 @@
 
     /* Title column */
     #pubs td:nth-child(3) a {
-        # font-weight: bold;
+
         font-size: 1.02em;
     }
 
@@ -372,18 +372,44 @@
 
 
 
-    a.paper::before {
-        content: "📄 ";
+    /* Base style for all links */
+    a.paper, a.bib, a.presentation, a.video, a.doi {
+    text-decoration: none;                 /* remove default underline */
+    border-bottom: 1px dotted #0070f3;     /* dotted underline */
+    color: #0070f3;                        /* link color */
+    position: relative;
+    /*padding-right: 0.8em;                  !* space for arrow *!*/
+    transition: color 0.2s, border-bottom-style 0.2s;
     }
-    /*a.bib::before {*/
-    /*    content: "📑 ";*/
+
+    /*!* Up-right arrow after link *!*/
+    /*a.paper::after,*/
+    /*a.bib::after,*/
+    /*a.presentation::after,*/
+    /*a.video::after {*/
+    /*content: "↗";                           !* default arrow *!*/
+    /*font-size: 0.8em;*/
+    /*position: absolute;*/
+    /*right: 0;*/
+    /*top: 0;*/
+    /*transition: transform 0.2s;*/
     /*}*/
-    a.presentation::before {
-        content: "📊 ";
+
+    /* Hover effects */
+    a.paper:hover,
+    a.bib:hover,
+    a.presentation:hover,
+    a.video:hover,
+    a.doi{
+    color: #0050c0;                         /* darker color on hover */
+    border-bottom-style: solid;              /* solid underline on hover */
     }
-    a.video::before {
-        content: "🎥 ";
+
+    /* Optional spacing between multiple links */
+    a + a {
+    margin-left: 1em;
     }
+
 
     .type-article { color: #00bb00; font-style: italic; }
     .type-journal-article { color: #0000cc; font-style: italic; }

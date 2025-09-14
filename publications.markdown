@@ -8,12 +8,66 @@ permalink: /publications/
 
 
 ### Selected papers:
-* **B. Oakes**, C. Gomes, E. Kamburjan, G. Abbiati, E.E. Bas and S. Engelsgaard. (2024) [*Towards Ontological Service-Driven Engineering of Digital Twins*](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), International Conference on Engineering Digital Twins (EDTconf) [https://doi.org/10.1145/3652620.3688261](https://doi.org/10.1145/3652620.3688261). [paper](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), [bib](/assets/publications/bib/Oakes2024ServiceDriven.bib), [slides](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins_presentation.pdf), [video](https://www.youtube.com/watch?v=eOTbvIJvfwg&list=PL5_r5D9dG-fdkhDut56KVw01umNdZFsH9) 🏆 **Awarded EDTconf 2024 Best Short Paper**
-* S. Gil, **B. Oakes**, C. Gomes, M. Frasheri and P. G. Larsen. (2024) [*Towards a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study*](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf), SIMULATION [https://doi.org/10.1177/00375497241261406](https://doi.org/10.1177/00375497241261406). [paper](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf), [bib](/assets/publications/bib/gil2024towardssystematicreporting.bib), [video](https://www.youtube.com/watch?v=sfs1TGG-Mf4)
-* **B. Oakes**, M. Famelis, and H. Sahraoui. (2024) [*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*](/assets/publications/Oakes2023%20-%20Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice.pdf), ACM Transactions on Software Engineering and Methodology (TOSEM) [https://doi.org/10.1145/3638243](https://doi.org/10.1145/3638243) [paper](/assets/publications/Oakes2023%20-%20Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice.pdf), [bib](/assets/publications/bib/Oakes2024BuildingDomainSpecific.bib)
-* M. Elaasar, N. Rouquette, D. Wagner, **B. Oakes**, A. Hamou-Lhadj, and M. Hamdaqa. (2023) [*openCAESAR: Balancing Agility and Rigor in Model-Based Systems Engineering*](/assets/publications/Elaasar2023%20-%20openCAESAR%20Balancing%20Agility%20and%20Rigor%20in%20Model-Based%20Systems%20Engineering.pdf),  In Proceedings of SAM 2023, ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS) Companion. IEEE [https://doi.org/10.1109/MODELS-C59198.2023.00051](https://doi.org/10.1109/MODELS-C59198.2023.00051) [paper](/assets/publications/Elaasar2023%20-%20openCAESAR%20Balancing%20Agility%20and%20Rigor%20in%20Model-Based%20Systems%20Engineering.pdf), [bib](/assets/publications/bib/elaasar2023opencaesar.bib)
-* **B. Oakes**, A. Parsai, B. Meyers, I. David, S. Van Mierlo, S. Demeyer, J. Denil, P. De Meulenaere, and H. Vangheluwe. (2023) [*A Digital Twin Description Framework and its Mapping to Asset Administration Shell*](/assets/publications/Oakes2023%20-%20A Digital Twin Description Framework and its Mapping to Asset Administration Shell.pdf), In Model-Driven Engineering and Software Development. MODELSWARD 2021 and 2022. Communications in Computer and Information Science, vol 1708. Springer, Cham. [https://doi.org/10.1007/978-3-031-38821-7_1](https://doi.org/10.1007/978-3-031-38821-7_1), [paper](/assets/publications/Oakes2023%20-%20A Digital Twin Description Framework and its Mapping to Asset Administration Shell.pdf), [bib](/assets/publications/bib/Oakes2023dtdescription.bib), [arxiv](https://arxiv.org/abs/2209.12661)
-* **B. Oakes**, J. Troya, J. Galasso, and M. Wimmer. (2023) [*Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis*](/assets/publications/Oakes2023%20-%20Fault%20localization%20in%20DSLTrans%20model%20transformations%20by%20combining%20symbolic%20execution%20and%20spectrum-based%20analysis.pdf), Journal of Software and Systems Modeling (SoSyM). [https://doi.org/10.1007/s10270-023-01123-3](https://doi.org/10.1007/s10270-023-01123-3) [paper](/assets/publications/Oakes2023%20-%20Fault%20localization%20in%20DSLTrans%20model%20transformations%20by%20combining%20symbolic%20execution%20and%20spectrum-based%20analysis.pdf), [bib](/assets/publications/bib/Oakes2023FaultlocalizationDSLTrans.bib) 🏆 **Awarded SoSyM/MODELS Journal-First Award**
+<ul class="publications">
+  <li>
+    <strong>Towards Ontological Service-Driven Engineering of Digital Twins</strong><br>
+    <em>B. Oakes</em>, C. Gomes, E. Kamburjan, G. Abbiati, E.E. Bas, S. Engelsgaard<br>
+    International Conference on Engineering Digital Twins (EDTconf) 🏆 <b>Best Short Paper Award</b><br>
+    <a href="/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf" class="paper" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a href="/assets/publications/bib/Oakes2024ServiceDriven.bib" class="bib" target="_blank" rel="noopener noreferrer">Bib</a>
+    <a href="/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins_presentation.pdf" class="presentation" target="_blank" rel="noopener noreferrer">Presentation</a>
+    <a href="https://www.youtube.com/watch?v=eOTbvIJvfwg&list=PL5_r5D9dG-fdkhDut56KVw01umNdZFsH9" class="video" target="_blank" rel="noopener noreferrer">Video</a>
+    <a href="https://doi.org/10.1145/3652620.3688261" class="doi" target="_blank" rel="noopener noreferrer">DOI</a>  
+</li>
+
+  <li>
+    <strong>Towards a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study</strong><br>
+    S. Gil, <em>B. Oakes</em>, C. Gomes, M. Frasheri, P. G. Larsen<br>
+    SIMULATION<br>
+    <a href="/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf" class="paper" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a href="/assets/publications/bib/gil2024towardssystematicreporting.bib" class="bib" target="_blank" rel="noopener noreferrer">Bib</a>
+    <a href="https://www.youtube.com/watch?v=sfs1TGG-Mf4" class="video" target="_blank" rel="noopener noreferrer">Video</a>
+    <a href="https://doi.org/10.1177/00375497241261406" class="doi" target="_blank" rel="noopener noreferrer">DOI</a>  
+</li>
+
+  <li>
+    <strong>Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice</strong><br>
+    <em>B. Oakes</em>, M. Famelis, H. Sahraoui<br>
+    ACM Transactions on Software Engineering and Methodology (TOSEM)<br>
+    <a href="/assets/publications/Oakes2023%20-%20Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice.pdf" class="paper" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a href="/assets/publications/bib/Oakes2024BuildingDomainSpecific.bib" class="bib" target="_blank" rel="noopener noreferrer">Bib</a>
+    <a href="https://doi.org/10.1145/3638243" class="doi" target="_blank" rel="noopener noreferrer">DOI</a>  
+</li>
+
+  <li>
+    <strong>openCAESAR: Balancing Agility and Rigor in Model-Based Systems Engineering</strong><br>
+    M. Elaasar, N. Rouquette, D. Wagner, <em>B. Oakes</em>, A. Hamou-Lhadj, M. Hamdaqa<br>
+    SAM 2023, ACM/IEEE MODELS Companion<br>
+    <a href="/assets/publications/Elaasar2023%20-%20openCAESAR%20Balancing%20Agility%20and%20Rigor%20in%20Model-Based%20Systems%20Engineering.pdf" class="paper" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a href="/assets/publications/bib/elaasar2023opencaesar.bib" class="bib" target="_blank" rel="noopener noreferrer">Bib</a>
+    <a href="https://doi.org/10.1109/MODELS-C59198.2023.00051" class="doi" target="_blank" rel="noopener noreferrer">DOI</a>  
+</li>
+
+  <li>
+    <strong>A Digital Twin Description Framework and its Mapping to Asset Administration Shell</strong><br>
+    <em>B. Oakes</em>, A. Parsai, B. Meyers, I. David, S. Van Mierlo, S. Demeyer, J. Denil, P. De Meulenaere, H. Vangheluwe<br>
+    MODELSWARD 2021/2022, Communications in Computer and Information Science<br>
+    <a href="/assets/publications/Oakes2023%20-%20A Digital Twin Description Framework and its Mapping to Asset Administration Shell.pdf" class="paper" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a href="/assets/publications/bib/Oakes2023dtdescription.bib" class="bib" target="_blank" rel="noopener noreferrer">Bib</a>
+    <a href="https://arxiv.org/abs/2209.12661" class="video" target="_blank" rel="noopener noreferrer">arXiv</a>
+    <a href="https://doi.org/10.1007/978-3-031-38821-7_1" class="doi" target="_blank" rel="noopener noreferrer">DOI</a>  
+</li>
+
+  <li>
+    <strong>Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis</strong><br>
+    <em>B. Oakes</em>, J. Troya, J. Galasso, M. Wimmer<br>
+    Journal of Software and Systems Modeling (SoSyM) 🏆 **Journal-First Award**<br>
+    <a href="/assets/publications/Oakes2023%20-%20Fault%20localization%20in%20DSLTrans%20model%20transformations%20by%20combining%20symbolic%20execution%20and%20spectrum-based%20analysis.pdf" class="paper" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a href="/assets/publications/bib/Oakes2023FaultlocalizationDSLTrans.bib" class="bib" target="_blank" rel="noopener noreferrer">Bib</a>
+    <a href="https://doi.org/10.1007/s10270-023-01123-3" class="doi" target="_blank" rel="noopener noreferrer">DOI</a>
+</li>
+</ul>
+
 
 ### All papers:
 
