@@ -12,9 +12,11 @@ permalink: /
 
 <img alt="Bentley Oakes" src="/assets/images/BentleyOakes-headshot.jpg" style="float: left;width:180px; margin: 10px 10px 10px 10px;" />
 
-<p>I am an <b>Assistant Professor</b> in the <a href="https://www.polymtl.ca/gigl/">Département de génie informatique et génie logiciel (Department of Computer and Software Engineering)</a> at Polytechnique Montréal, Canada. Polytechnique Montréal is affiliated with the <a href="https://www.umontreal.ca/">Université de Montréal</a> and the <a href="https://mila.quebec/en">Quebec Artificial Intelligence Institute (Mila)</a></p>
+<p>I am an <b>Assistant Professor</b> in the <a href="https://www.polymtl.ca/gigl/">Department of Computer and Software Engineering (GIGL)</a> at Polytechnique Montréal, Canada.</p>
 
-<p>Our research in the Oakes lab focuses on <b>enabling domain experts to efficiently capture and utilise their knowledge through a model-driven approach, to support knowledge engineering for complex cyber-physical systems</b>. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process.</p>
+<p>I am a researcher in the <a href="https://ivado.ca/en/">artificial intelligence consortium IVADO</a>. Polytechnique Montréal is also affiliated with the <a href="https://www.umontreal.ca/">Université de Montréal</a> and the <a href="https://mila.quebec/en">Quebec Artificial Intelligence Institute (Mila)</a>.</p>
+
+<p>Our research in the Oakes lab focuses on <b>enabling domain experts to efficiently capture and utilise their knowledge through an intelligent model-driven approach, to support knowledge engineering for complex cyber-physical systems</b>. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process.</p>
 
 ### My main research interests:
 * [digital twins](https://bentleyjoakes.github.io/dte_course/), including their structure, [construction](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), and [reporting](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
@@ -26,7 +28,7 @@ permalink: /
 * and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
 ### Teaching and service
-Currently I am teaching [LOG6310E - Digital Twin Engineering](https://bentleyjoakes.github.io/dte_course/).
+I teach [LOG6310E - Digital Twin Engineering](https://bentleyjoakes.github.io/dte_course/).
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
 
