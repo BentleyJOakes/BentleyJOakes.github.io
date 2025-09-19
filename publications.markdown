@@ -85,7 +85,7 @@ permalink: /publications/
 <script>
   new DataTable('#pubs', {
     paging: false,
-    order: [[0, 'desc']],
+    order: [[0, 'desc'], [2, 'asc']],
     columnDefs: [
       { orderable: true, targets: [0,1,2] },
       { orderable: false, targets: [3,4,5] }
