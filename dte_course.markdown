@@ -66,6 +66,7 @@ At the end of this course, participants will be able to:
 The following are the course projects from the Winter 2025 edition of the class.
 
 #### Beer Fermentation DT
+<a href="https://arxiv.org/pdf/2508.18452">Paper - Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling</a><br>
 <a href="https://drive.google.com/file/d/1nsA2t1DazQHxC8PHLst3X4VSaUu2PjEd/view?usp=sharing">Presentation</a> - <a href="https://drive.google.com/file/d/1fN6vga63s1owDOk0K24ENrIBFdE-g-OZ/view?usp=sharing">Report</a><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-EGl8y5Qlus?si=5H5r-fF26d1te-tz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
