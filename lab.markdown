@@ -56,21 +56,23 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 
 ### Internships
 <div style="text-align: center;">
+<div>
 <img src="https://ipure8.au.dk/current/photos/5241bcb6-bef7-4e66-a0a0-12204ec7cc69-new.jpg" alt="mikkel_schmidt_andersen" style="height:150px;"/><br>
-<img src="https://cdn.au.dk/2016/assets/img/au_segl.svg" alt="au" style="width:150px;"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Aarhus_University_seal.svg/1024px-Aarhus_University_seal.svg.png" alt="au" style="width:50px;"/><br>
 
 <a href="https://scholar.google.com/citations?user=egH56LUAAAAJ&hl=da"><b>Mikkel Schmidt Andersen</b></a><br>
 Research Stay - Fall 2025  <br>
-<i> Scheduling DT updates </i>
+<i> Scheduling DT updates </i><br>
 </div>
 
-<div style="text-align: center;">
+<div>
 <img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="height:150px;"/><br>
 <img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>
 
 <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
 MITACS Globalink Intern - Summer 2025  <br>
 <i> DT engineering using LLMs </i>
+</div>
 </div>
 
 ### Alumni Students
