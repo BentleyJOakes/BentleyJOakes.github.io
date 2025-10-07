@@ -43,6 +43,7 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
     Since 2024<br>
     <i>Systematic DT reporting & visualization</i>
   </div>
+
   <div>
     <img src="/assets/images/students/gabrielle.jpeg" alt="gabrielle_gallant" style="width:150px;"><br>
     <a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
@@ -55,6 +56,15 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 
 ### Internships
 <div style="text-align: center;">
+<img src="https://ipure8.au.dk/current/photos/5241bcb6-bef7-4e66-a0a0-12204ec7cc69-new.jpg" alt="mikkel_schmidt_andersen" style="height:150px;"/><br>
+<img src="https://cdn.au.dk/2016/assets/img/au_segl.svg" alt="au" style="width:150px;"/><br>
+
+<a href="https://scholar.google.com/citations?user=egH56LUAAAAJ&hl=da"><b>Mikkel Schmidt Andersen</b></a><br>
+Research Stay - Fall 2025  <br>
+<i> Scheduling DT updates </i>
+</div>
+
+<div style="text-align: center;">
 <img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="height:150px;"/><br>
 <img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>
 
@@ -65,10 +75,10 @@ MITACS Globalink Intern - Summer 2025  <br>
 
 ### Alumni Students
 
-|**Name**|**Role**|**Years**|**Topic**|  
-|*[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of digital twin architectures|  
-|*[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant | 2024 | Implementation of modelled machine learning pipelines|  
-|*[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023 - 2024 | Ontological modelling of machine learning pipelines|
+|**Name**|**Role**|**Years**|**Topic**|**Publications**|
+|*[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of digital twin architectures|  <a href="/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf" class="paper" target="_blank" rel="noopener noreferrer">DTInsight paper</a> |
+|*[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant | 2024 | Implementation of modelled machine learning pipelines|  |  
+|*[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023 - 2024 | Ontological modelling of machine learning pipelines| |  
 
 
 ## Open Opportunities
