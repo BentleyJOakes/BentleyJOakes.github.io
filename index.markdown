@@ -79,7 +79,13 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 
 * 2023-12-15: I will be a co-chair for the posters at the [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025) (ICSE 2025) in Ottawa.
 
+### Talk Bio
 
+Prof. Bentley Oakes is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal in Canada. He completed his Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal.
+
+His interests and experiences are diverse, ranging from Digital Twins (including their structure, construction, and reporting) to model-driven engineering, ontologies, verification and validation (including formal verification), machine learning, co-simulation, and many other topics. His research focuses on capturing and utilizing the domain knowledge possessed by domain experts, such that they can more easily construct and reason about their complex systems.
+
+Prof. Oakes is also very active as a reviewer and organizer in the software engineering and modelling fields. This includes reviewing for TOSEM, SoSyM, and EMSE, and as an organizing committee member for ICSE, FSE, and MODELS.  
 
 
 <!--The emoji graphics for the favicon are from the open source project Twemoji. The graphics are copyright 2020 Twitter, Inc and other contributors. The graphics are licensed under CC-BY 4.0.-->
