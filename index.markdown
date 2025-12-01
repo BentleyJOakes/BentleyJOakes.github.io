@@ -85,7 +85,7 @@ Prof. Bentley Oakes is an Assistant Professor in the Department of Computer and 
 
 His interests and experiences are diverse, ranging from Digital Twins (including their structure, construction, and reporting) to model-driven engineering, ontologies, verification and validation (including formal verification), machine learning, co-simulation, and many other topics. His research focuses on capturing and utilizing the domain knowledge possessed by domain experts, such that they can more easily construct and reason about their complex systems.
 
-Prof. Oakes is also very active as a reviewer and organizer in the software engineering and modelling fields. This includes reviewing for TOSEM, SoSyM, and EMSE, and as an organizing committee member for ICSE, FSE, and MODELS.  
+<!-- Prof. Oakes is also very active as a reviewer and organizer in the software engineering and modelling fields. This includes reviewing for TOSEM, SoSyM, and EMSE, and as an organizing committee member for ICSE, FSE, and MODELS.  -->
 
 
 <!--The emoji graphics for the favicon are from the open source project Twemoji. The graphics are copyright 2020 Twitter, Inc and other contributors. The graphics are licensed under CC-BY 4.0.-->
