@@ -44,9 +44,11 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 [//]: # (For more information, please see [my CV]&#40;assets/BOakes-CV.pdf&#41;.)
 
 ### News
+* 2025-11-30: I was honoured to present a guest lecture in Dr. Maged Elaasar's RAISE course at [UCLA](https://www.ucla.edu/), titled "What is a “Digital Twin” and How Do I Build One?"
+* 2025-10-10: We had a very successful time in Grand Rapids, MI at [MODELS 2025](https://conf.researchr.org/home/models-2025) and [EDTconf 2025](https://conf.researchr.org/home/edtconf-2025).
 * 2025-08-05: Our paper *Model-Based Systems Engineering Perspectives: A Survey of Practitioner Experiences and Challenges* has been accepted at [SAM 2025](https://sdl-forum.org/Events/SAM2025/index.php).
 * 2025-08-05: We have had two papers accepted at the [Internation Conference on Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2025). The papers are *DTInsight: A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting* and *Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling*.
-* 2025-06-19: We had a very successful [Software Engineering for Machine Learning Applications (SEMLA) event](https://semla.polymtl.ca/). I was poster chair, chaired a panel, has an [SEMTL meeting](https://semtl.github.io/meeting/2025/05/15/Polytechnique/), and presented a tutorial on [*What is a “Digital Twin” and How Do I Build One?*](https://semla.polymtl.ca/tutorials/#digital_twin).
+* 2025-06-19: We had a very successful [Software Engineering for Machine Learning Applications (SEMLA) event](https://semla.polymtl.ca/). I was poster chair, chaired a panel, had an [SEMTL meeting](https://semtl.github.io/meeting/2025/05/15/Polytechnique/), and presented a tutorial on [*What is a “Digital Twin” and How Do I Build One?*](https://semla.polymtl.ca/tutorials/#digital_twin).
 * 2025-05-30: I went to Concordia University's [Next-Generation Cities Institute](https://www.concordia.ca/research/cities-institute.html) to present my work on *Accelerating Digital Twin Research and
   Engineering*.
 * 2025-05-12: I gave a talk on [*Systematic Digital Twin Reporting*](https://edt.community/events/event/systematic-digital-twin-reporting/) at the EDT.Community talks. There is a [recorded video](https://www.youtube.com/watch?v=sfs1TGG-Mf4).
