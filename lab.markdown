@@ -4,7 +4,7 @@ title: Oakes Lab
 permalink: /lab/
 ---
 
-<div style="text-align: center; background: #963232;color:whitesmoke;"><b>I am currently recruiting for PhD and Master's, on two projects (see below)</b></div>
+[//]: # (<div style="text-align: center; background: #963232;color:whitesmoke;"><b>I am currently recruiting for PhD and Master's, on two projects &#40;see below&#41;</b></div>)
 
 <br>
 The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.
@@ -21,63 +21,55 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
 ### PhD Students
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
   <div>
+    <img src="/assets/images/students/kfiter_small.png" alt="kerian_fiter" style="width:150px;"><br>
+    <a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
+    Since 2024<br>
+    <i>Systematic DT reporting & visualization</i>
+  </div>
+  <div>
+    <img src="/assets/images/students/adil.png" alt="adil_lagrou" style="width:150px;"><br>
+    <a href="https://www.linkedin.com/in/adil-lagrou/"><b>Adil Lagrou</b></a><br>
+    Since 2024<br>
+    <i>DT interoperability</i><br>
+</div>
+  <div>
     <img src="/assets/images/students/carlos_small.jpeg" alt="carlos_pambo" style="width:150px;"><br>
     <a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
     Since 2024<br>
     <i>Recommendations and patterns for accelerated DT construction</i>
   </div>
-  <div>
-    <a href="https://www.researchgate.net/scientific-contributions/Lei-Zhao-2126466187"><b>Lei Zhao</b></a><br>
-    Since 2024<br>
-    <i>Systematic DT engineering, DT engineering for permafrost studies</i><br>
-    Co-supervised with <a href="https://www.polymtl.ca/expertises/en/beltrame-giovanni">Giovanni Beltrame</a><br>
-  </div>
+
 </div>
 
 
 ### Master's students
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
   <div>
-    <img src="/assets/images/students/kfiter_small.png" alt="kerian_fiter" style="width:150px;"><br>
-    <a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
-    Since 2024<br>
-    <i>Systematic DT reporting & visualization</i>
-  </div>
-
-  <div>
     <img src="/assets/images/students/gabrielle.jpeg" alt="gabrielle_gallant" style="width:150px;"><br>
     <a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
     Since 2025<br>
-    <i>Model quality in DTs</i><br>
+    <i>Live model updating in DTs</i><br>
     Co-supervised with <a href="https://www.polymtl.ca/expertises/en/tuysuz-oguzhan">Oguzhan Tuysuz</a><br>
+  </div>
+  <div>
+    <img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="height:150px;"/><br>
+    <img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>
+    
+    <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
+    Since 2026 <br>    
+    Previously a MITACS Globalink Intern - Summer 2025  <br>
+    <i> DT engineering using LLMs </i>
   </div>
 </div>
 
 
-### Internships
-<div style="text-align: center;">
-<div>
-<img src="https://ipure8.au.dk/current/photos/5241bcb6-bef7-4e66-a0a0-12204ec7cc69-new.jpg" alt="mikkel_schmidt_andersen" style="height:150px;"/><br>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Aarhus_University_seal.svg/1024px-Aarhus_University_seal.svg.png" alt="au" style="width:50px;"/><br>
+[//]: # (### Internships)
 
-<a href="https://scholar.google.com/citations?user=egH56LUAAAAJ&hl=da"><b>Mikkel Schmidt Andersen</b></a><br>
-Research Stay - Fall 2025  <br>
-<i> Scheduling DT updates </i><br>
-</div>
 
-<div>
-<img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="height:150px;"/><br>
-<img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>
-
-<a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
-MITACS Globalink Intern - Summer 2025  <br>
-<i> DT engineering using LLMs </i>
-</div>
-</div>
-
-### Alumni Students
+### Alumni Students/Interns
 
 |**Name**|**Role**|**Years**|**Topic**|**Publications**|
+|*[Mikkel Schmidt Andersen](https://scholar.google.com/citations?user=egH56LUAAAAJ)|Research intern | 2025 | Probablistic DT update scheduling| |
 |*[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of digital twin architectures|  <a href="/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf" class="paper" target="_blank" rel="noopener noreferrer">DTInsight paper</a> |
 |*[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant | 2024 | Implementation of modelled machine learning pipelines|  |  
 |*[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023 - 2024 | Ontological modelling of machine learning pipelines| |  

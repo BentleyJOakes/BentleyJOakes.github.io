@@ -8,7 +8,7 @@ permalink: /
 
 
 
-<div style="text-align: center; background: #963232;color:whitesmoke;"><b>I have Master's and PhD positions open, please see my <a href="https://bentleyjoakes.github.io/lab/">lab page</a></b></div>
+[//]: # (<div style="text-align: center; background: #963232;color:whitesmoke;"><b>I have Master's and PhD positions open, please see my <a href="https://bentleyjoakes.github.io/lab/">lab page</a></b></div>)
 
 <img alt="Bentley Oakes" src="/assets/images/BentleyOakes-headshot.jpg" style="float: left;width:180px; margin: 10px 10px 10px 10px;" />
 
