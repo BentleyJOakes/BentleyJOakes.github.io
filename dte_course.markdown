@@ -11,14 +11,13 @@ permalink: /dte_course/
 
 
 
-The ['Digital Twin Engineering'](https://www.polymtl.ca/programmes/cours/digital-twin-engineering-0) is offered during the Winter term at Polytechnique Montréal by Dr. Bentley Oakes (Department of Computer and Software Engineering). The course is offered in English.
+The ['Digital Twin Engineering'](https://www.polymtl.ca/programmes/cours/digital-twin-engineering) course is offered during the Winter term at Polytechnique Montréal by Dr. Bentley Oakes (Department of Computer and Software Engineering). The course is offered in English.
 
-This course is for _graduate students_ or _researchers_ across disciplines who are interested in understanding digital twins (DTs) at a deep level, and who want to obtain hands-on experience. Some background in Python, Docker, Git, and other software engineering tools/concepts is helpful for the practical lab sessions.
+This course is for _senior undergraduate_ or _graduate students_, or _researchers_ across disciplines who are interested in understanding digital twins (DTs) at a deep level, and who want to obtain hands-on experience. Some background in Python, Docker, Git, and other software engineering tools/concepts is helpful for the practical lab sessions, but assistance is provided.
 
-This course presents the _theoretical and practical principles_ for engineering DTs for cyber-physical systems. We focus on a practical system of an [incubator (a heater in a box)](https://github.com/INTO-CPS-Association/example_digital-twin_incubator). During the course, we examine the perspectives, theory, technology, and processes for creating a virtual representation of this system, and using the DT for valuable services such as optimization, visualization, and anomaly detection.
+This course presents the _theoretical and practical principles_ for engineering DTs for cyber-physical systems. We focus on a practical system of an [incubator (a heater in a box)](https://github.com/INTO-CPS-Association/example_digital-twin_incubator). During the course, we examine the perspectives, theory, technology, and processes for creating a virtual representation of this system, and developing valuable DT services such as visualization, optimization, and anomaly detection.
 
-Topics covered: Definitions, examples, benefits, and application areas of digital twins (DTs). DTs, digital shadows, and digital models. DT platforms and DT realization. DT components (services, enablers, models/data). Processes and metrics for DT Engineering. Modelling and  simulation principles. Co-simulation. Communication and sensing. Visualization, monitoring, formal verification, and advanced DT
-services. DT reporting.
+Topics covered: Definitions, examples, benefits, and application areas of digital twins (DTs). DTs, digital shadows, and digital models. DT platforms and DT realization. DT components (services, enablers, models/data). Processes and metrics for DT Engineering. Modelling and simulation principles. Co-simulation. Communication and sensing. Visualization, monitoring, formal verification, and advanced DT services. DT reporting.
 
 Parts of this course are based on the textbook [The Engineering of Digital Twins](https://link.springer.com/book/10.1007/978-3-031-66719-0) by John Fitzgerald, Cláudio Gomes, and Peter Gorm Larsen. Some course slides and material have also been repurposed from the [corresponding course](https://kursuskatalog.au.dk/en/course/131157/Engineering-Digital-Twins) at Aarhus University, Denmark.
 
@@ -27,7 +26,7 @@ Parts of this course are based on the textbook [The Engineering of Digital Twins
 
 Please contact me if you are interested in taking or auditing the course. All are welcome!
 
-For students from other Quebec universities who want to take this course, this happens often. Please see [this website for the applications](https://aehe.bci-qc.ca/en) (on the left, 'Applications') Here's [a guide for this procedure](https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU).
+For students from other Quebec universities who want to take this course, there is an established procedure. Please see [this website for the applications](https://aehe.bci-qc.ca/en) (on the left, 'Applications') Here's [a guide for this procedure](https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU).
 
 ## Course Structure
 Each week, we have interactive lectures featuring detailed DT examples from across different fields and engaging discussions. Participants have six [hands-on lab sessions](https://github.com/BentleyJOakes/IncubatorDTCourse) every second week, which are small assignments to become familiar with some DT technologies and services. In team-based projects, participants apply their learning to develop their own DT or DT service. Options include developing machine-learning based services, investigating formal verification, visualization creation in a game engine such as Unity or Godot, or creating a DT for another system. A small final exam consolidates their understanding of the theoretical concepts.
@@ -35,22 +34,22 @@ Each week, we have interactive lectures featuring detailed DT examples from acro
 
 ### Winter 2025 schedule
 
-| Week | Topic                                                                                                | Speaker                                                                                                            |
-|:----:|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-|  1   | Introduction to the course and Digital Twins                                                         |                                                                                                                    |
-|  2   | DT engineering and the incubator case study                                                          |                                                                                                                    |
-|  3   | Invited presentation and intro. to modelling and simulation                                          | [Jonathan Beaulieu](https://scholar.google.com/citations?user=ambhADIAAAAJ&hl=en)                                  |
-|  4   | Modelling control and physics                                                                        |                                                                                                                    |
-|  5   | Communication between the DT and the Physical Twin                                                   |                                                                                                                    |
-|  6   | Invited presentation and 2D and 3D visualizations                                                    | [Pascal Archambault](https://pascalarchambault.ca/)                                                                |
-|  7   | Human and machine intelligence in the DT                                                             |                                                                                                                    |
-|  8   | [Systematic DT reporting framework](https://journals.sagepub.com/doi/full/10.1177/00375497241261406) |                                                                                                                    |
-|  9   | Reading week (no class)                                                                              |                                                                                                                    |
-|  10  | Invited presentation and project progress discussions                                                | [Dr. Istvan David](https://istvandavid.com/) - [presentation slides](assets/slides/istvandavid-PolyMTL-public.pdf) |
-|  11  | Monitoring and Formal Verification                                                                   |                                                                                                                    |
-|  12  | Realizing DTs                                                                                        |                                                                                                                    |
-|  13  | Student Presentations                                                                                |                                                                                                                    |
-|  14  | Course review                                                                                        |                                                                                                                    |
+| Week | Topic                                                                                                | Speaker |
+|:----:|------------------------------------------------------------------------------------------------------|---------|
+|  1   | Introduction to the course and Digital Twins                                                         |         |
+|  2   | DT engineering and the incubator case study                                                          |         |
+|  3   | Invited presentation and intro. to modelling and simulation                                          |         |
+|  4   | Modelling control and physics                                                                        |         |
+|  5   | Communication between the DT and the Physical Twin                                                   |         |
+|  6   | Invited presentation and 2D and 3D visualizations                                                    |         |
+|  7   | Human and machine intelligence in the DT                                                             |         |
+|  8   | [Systematic DT reporting framework](https://journals.sagepub.com/doi/full/10.1177/00375497241261406) |         |
+|  9   | Reading week (no class)                                                                              |         |
+|  10  | Invited presentation and project progress discussions                                                |         |
+|  11  | Monitoring and Formal Verification                                                                   |         |
+|  12  | Realizing DTs                                                                                        |         |
+|  13  | Student Presentations                                                                                |         |
+|  14  | Course review                                                                                        |         |
 
 
 ## Course Objectives
