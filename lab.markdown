@@ -53,9 +53,6 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
   </div>
   <div>
     <img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="height:150px;"/><br>
-
-[//]: # (    <img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>)
-    
     <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
     Since 2026 <br>    
     Previously MITACS Globalink Intern - 2025  <br>
