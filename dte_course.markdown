@@ -11,7 +11,7 @@ permalink: /dte_course/
 
 
 
-The ['Digital Twin Engineering'](https://www.polymtl.ca/programmes/cours/digital-twin-engineering) course is offered during the Winter term at Polytechnique Montréal by Dr. Bentley Oakes (Department of Computer and Software Engineering). The course is offered in English.
+The ['Digital Twin Engineering'](https://www.polymtl.ca/programmes/cours/digital-twin-engineering-0) course is offered during the Winter term at Polytechnique Montréal by Dr. Bentley Oakes (Department of Computer and Software Engineering). The course is offered in English.
 
 This course is for _senior undergraduate_ or _graduate students_, or _researchers_ across disciplines who are interested in understanding digital twins (DTs) at a deep level, and who want to obtain hands-on experience. Some background in Python, Docker, Git, and other software engineering tools/concepts is helpful for the practical lab sessions, but assistance is provided.
 
