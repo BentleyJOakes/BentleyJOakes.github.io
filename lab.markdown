@@ -29,7 +29,7 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
   <div>
     <img src="/assets/images/students/adil.png" alt="adil_lagrou" style="width:150px;"><br>
     <a href="https://www.linkedin.com/in/adil-lagrou/"><b>Adil Lagrou</b></a><br>
-    Since 2024<br>
+    Since 2026<br>
     <i>DT interoperability</i><br>
 </div>
   <div>
@@ -53,12 +53,13 @@ The Oakes Lab focuses on *knowledge engineering for complex cyber-physical syste
   </div>
   <div>
     <img src="/assets/images/students/angelica_small.JPEG" alt="angelica_portocarrero" style="height:150px;"/><br>
-    <img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>
+
+[//]: # (    <img src="/assets/images/mitacs.png" alt="mitacs" style="width:150px;"/><br>)
     
     <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
     Since 2026 <br>    
-    Previously a MITACS Globalink Intern - Summer 2025  <br>
-    <i> DT engineering using LLMs </i>
+    Previously MITACS Globalink Intern - 2025  <br>
+    <i> LLMs for DT engineering </i>
   </div>
 </div>
 
