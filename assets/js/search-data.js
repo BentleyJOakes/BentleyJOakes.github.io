@@ -66,11 +66,46 @@ ninja.data = [{
                 window.location.href = "/website-new/blog/";
               },
             },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-cv',
+        title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/website-new/feed.xml", "_blank");
+          window.open("/website-new/assets/pdf/BOakes-CV.pdf", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%62%65%6E%74%6C%65%79.%6F%61%6B%65%73@%70%6F%6C%79%6D%74%6C.%63%61", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=x9H9H4QAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/bentley-oakes", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-7558-1434", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Bentley-Oakes/", "_blank");
         },
       },{
       id: 'light-theme',
