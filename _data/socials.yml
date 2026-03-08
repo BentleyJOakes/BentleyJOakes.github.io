@@ -1,9 +1,10 @@
 # Social media links and usernames
 # See: https://github.com/george-gca/jekyll-socials for supported networks
-cv_pdf: # path to your CV PDF file, e.g. /assets/pdf/cv.pdf
-email: # your email address
-# scholar_userid: # your Google Scholar ID
-# github_username: # your GitHub username
-# twitter_username: # your Twitter/X username
-# linkedin_username: # your LinkedIn username
+# Uncomment and fill in the fields you want to display:
+# cv_pdf: /assets/pdf/cv.pdf
+# email: you@example.com
+# scholar_userid: your_google_scholar_id
+# github_username: yourusername
+# twitter_username: yourusername
+# linkedin_username: yourusername
 rss_icon: true # comment this line to hide the RSS icon
