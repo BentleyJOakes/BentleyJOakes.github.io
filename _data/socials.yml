@@ -1,10 +1,8 @@
 # Social media links and usernames
 # See: https://github.com/george-gca/jekyll-socials for supported networks
-# Uncomment and fill in the fields you want to display:
-# cv_pdf: /assets/pdf/cv.pdf
-# email: you@example.com
-# scholar_userid: your_google_scholar_id
-# github_username: yourusername
-# twitter_username: yourusername
-# linkedin_username: yourusername
-rss_icon: true # comment this line to hide the RSS icon
+cv_pdf: /assets/pdf/BOakes-CV.pdf
+email: bentley.oakes@polymtl.ca
+scholar_userid: x9H9H4QAAAAJ
+linkedin_username: bentley-oakes
+orcid_id: 0000-0001-7558-1434
+research_gate_profile: Bentley-Oakes
