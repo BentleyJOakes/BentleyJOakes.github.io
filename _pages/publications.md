@@ -27,6 +27,14 @@ nav_order: 1
   </a>
 </div>
 
+## Selected Publications
+
+{% include selected_papers.liquid %}
+
+---
+
+## All Publications
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
