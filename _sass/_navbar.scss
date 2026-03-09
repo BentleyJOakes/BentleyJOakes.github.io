@@ -176,6 +176,10 @@
   #light-toggle {
     transform: translateY(4px);
   }
+
+  .navbar .dropdown:hover > .dropdown-menu {
+    display: block;
+  }
 }
 
 #search-toggle {

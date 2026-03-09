@@ -4,8 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: >
   Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins.
-nav: true
-nav_order: 3
+nav: false
 _styles: >
   article h3 { margin-top: 2rem; }
 ---
