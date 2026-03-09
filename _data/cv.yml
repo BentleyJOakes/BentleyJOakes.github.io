@@ -1,18 +1,12 @@
 cv:
-  name: Bentley James Oakes
-  label: Assistant Professor
+  name: Bentley Oakes
+  headline: Assistant Professor
   email: Bentley.Oakes@polymtl.ca
   location: Montréal, Canada
   website: https://bentleyjoakes.github.io
-  image: ""
-  summary: >
-    Researcher, teacher, and community-builder in software and systems engineering.
-    Lead- and co-author of 30+ publications with 300+ citations on Google Scholar.
-    Research focuses on enabling domain experts to capture and utilize knowledge through
-    model-driven approaches for complex cyber-physical systems.
 
   social_networks:
-    - network: GoogleScholar
+    - network: Google Scholar
       username: x9H9H4QAAAAJ
     - network: ORCID
       username: 0000-0001-7558-1434
@@ -187,8 +181,7 @@ cv:
           - "COMP 251 - Data Structures and Algorithms (×3)"
 
     Community Building:
-      - company: Software Engineering at Montréal (SEMTL)
-        position: Lead Organizer
+      - name: "Lead Organizer — Software Engineering at Montréal (SEMTL)"
         location: Montréal, Canada
         start_date: "2022-08"
         end_date: present
@@ -263,27 +256,34 @@ cv:
     Scholarships and Awards:
       - name: SoSyM Best Reviewer Award
         date: "2025"
-        details: Journal of Software & Systems Modeling
+        highlights:
+          - Journal of Software & Systems Modeling
       - name: Simulation Journal Best Reviewer Award
         date: "June 2023"
       - name: SoSyM Top 1% Reviewer
         date: "2020, 2021"
-        details: Journal of Software & Systems Modeling
+        highlights:
+          - Journal of Software & Systems Modeling
       - name: Best Student Paper Award
         date: "2019"
-        details: "SIMULTECH — for the paper *HintCO – Hint-based configuration of co-simulations*"
+        highlights:
+          - "SIMULTECH — for the paper *HintCO – Hint-based configuration of co-simulations*"
       - name: NSERC Postgraduate Scholarship – Doctoral (PGS D)
         date: "2015–2016"
-        details: Natural Sciences and Engineering Research Council of Canada
+        highlights:
+          - Natural Sciences and Engineering Research Council of Canada
       - name: Lorne Trottier Science Accelerator Fellowship
         date: "2015, 2016"
-        details: McGill University
+        highlights:
+          - McGill University
       - name: Harold H. Helm Fellowship
         date: "2013, 2014"
-        details: McGill University
+        highlights:
+          - McGill University
       - name: Grad Excellence Award in Computer Science
         date: "2012, 2014"
-        details: McGill University
+        highlights:
+          - McGill University
 
     Publications:
       - bullet: >
