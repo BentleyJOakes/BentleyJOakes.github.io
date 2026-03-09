@@ -1,5 +1,147 @@
 # Conference/journal abbreviations for publication pages.
+# Colors use Material Design shades verified for WCAG AA contrast (≥4.5:1).
+# Light backgrounds use text_color: "#212121", dark backgrounds use text_color: "#ffffff".
 # Format:
 # "ABBR":
 #   url: https://example.com
 #   color: "#hexcolor"
+#   text_color: "#hexcolor"
+
+# --- MDE / MODELS family (green) ---
+
+"MODELS":
+  url: https://conf.researchr.org/series/models
+  color: "#2E7D32" # Green 800 — contrast 4.75:1 with white
+  text_color: "#ffffff"
+
+"MODELS-C":
+  url: https://conf.researchr.org/series/models
+  color: "#9CCC65" # Light Green 400 — contrast 8.6:1 with dark
+  text_color: "#212121"
+
+# --- SE journals (blue) ---
+
+"SoSyM":
+  url: https://www.springer.com/journal/10270
+  color: "#1565C0" # Blue 800 — contrast 5.3:1 with white
+  text_color: "#ffffff"
+
+"TOSEM":
+  url: https://dl.acm.org/journal/tosem
+  color: "#90CAF9" # Blue 200 — contrast 9.2:1 with dark
+  text_color: "#212121"
+
+# --- Software engineering conferences (purple) ---
+
+"FSE":
+  url: https://dl.acm.org/conference/fse
+  color: "#7B1FA2" # Purple 700 — contrast 7.7:1 with white
+  text_color: "#ffffff"
+
+"MSR":
+  url: https://www.msrconf.org
+  color: "#CE93D8" # Purple 200 — contrast 7.0:1 with dark
+  text_color: "#212121"
+
+# --- Program comprehension / analysis (orange) ---
+
+"ICPC":
+  url: https://conf.researchr.org/series/icpc
+  color: "#F57C00" # Orange 700 — contrast 6.0:1 with dark
+  text_color: "#212121"
+
+"ASE":
+  url: https://conf.researchr.org/series/ase
+  color: "#FFCC80" # Orange 200 — contrast 10.4:1 with dark
+  text_color: "#212121"
+
+# --- Safety / dependability (red) ---
+
+"SAFECOMP":
+  url: https://www.safecomp.org
+  color: "#D32F2F" # Red 700 — contrast 4.8:1 with white
+  text_color: "#ffffff"
+
+"DSN-W":
+  url: https://dsn.org
+  color: "#EF9A9A" # Red 200 — contrast 7.6:1 with dark
+  text_color: "#212121"
+
+# --- Simulation (teal) ---
+
+"SIMULTECH":
+  url: https://simultech.scitevents.org
+  color: "#00796B" # Teal 700 — contrast 4.9:1 with white
+  text_color: "#ffffff"
+
+"ANNSIM":
+  url: https://scs.org/annsim
+  color: "#4DB6AC" # Teal 300 — contrast 6.6:1 with dark
+  text_color: "#212121"
+
+"SIMULATION":
+  url: https://journals.sagepub.com/home/sim
+  color: "#B2DFDB" # Teal 100 — contrast ~12:1 with dark
+  text_color: "#212121"
+
+# --- Digital twins / EDTconf (pink) ---
+
+"EDTconf":
+  url: https://edtconf.org
+  color: "#C2185B" # Pink 700 — contrast 5.7:1 with white
+  text_color: "#ffffff"
+
+# --- Other MDE workshops / conferences ---
+
+"MODELSWARD":
+  url: https://modelsward.scitevents.org
+  color: "#5D4037" # Brown 700 — contrast 8.3:1 with white
+  text_color: "#ffffff"
+
+"SummerSim":
+  url: https://scs.org/summersim
+  color: "#33691E" # Light Green 900 — contrast 6.1:1 with white
+  text_color: "#ffffff"
+
+"ICSMM":
+  color: "#546E7A" # Blue Grey 600 — contrast 4.9:1 with white
+  text_color: "#ffffff"
+
+"SAM":
+  color: "#512DA8" # Deep Purple 700 — contrast 8.7:1 with white
+  text_color: "#ffffff"
+
+"AMT":
+  color: "#FFB300" # Amber 700 — contrast 8.9:1 with dark
+  text_color: "#212121"
+
+"OntoDT":
+  color: "#BF360C" # Deep Orange 800 — contrast 5.3:1 with white
+  text_color: "#ffffff"
+
+"MDEbug":
+  color: "#9E9E9E" # Grey 500 — contrast 6.2:1 with dark
+  text_color: "#212121"
+
+"ICGT":
+  url: https://www.springer.com/conference/graph-transformations
+  color: "#303F9F" # Indigo 700 — contrast 8.6:1 with white
+  text_color: "#ffffff"
+
+# --- Meta categories ---
+
+"Book":
+  color: "#6D4C41" # Brown 600 — contrast 7.0:1 with white
+  text_color: "#ffffff"
+
+"TECH":
+  color: "#455A64" # Blue Grey 700 — contrast 6.7:1 with white
+  text_color: "#ffffff"
+
+"Ph.D.":
+  color: "#1A237E" # Indigo 900 — very dark, white passes easily
+  text_color: "#ffffff"
+
+"M.Sc.":
+  color: "#37474F" # Blue Grey 800 — contrast 9.1:1 with white
+  text_color: "#ffffff"

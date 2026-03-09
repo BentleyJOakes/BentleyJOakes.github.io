@@ -7,7 +7,11 @@
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+            {% assign venue_style = 'style="background-color:' | append: site.data.venues[entry.abbr].color %}
+            {% if site.data.venues[entry.abbr].text_color != blank %}
+              {% assign venue_style = venue_style | append: '; color:' | append: site.data.venues[entry.abbr].text_color %}
+            {% endif %}
+            {% assign venue_style = venue_style | append: '"' %}
           {%- endif -%}
           <abbr
             class="badge rounded w-100"
@@ -195,7 +199,7 @@
         </a>
       {% endif %}
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
