@@ -12,8 +12,8 @@ profile:
   image: BentleyOakes-headshot.jpg
   image_circular: false
   more_info: >
-    <p>Office M-4107</p>
-    <p>Pavillons Lassonde</p>
+    <p>bentley&#46;oakes&#64;polymtl&#46;ca</p>
+    <p>Office M-4107, Pavillons Lassonde</p>
     <p>Polytechnique Montréal</p>
     <p>2700 Chemin de la Tour</p>
     <p>Montréal, QC, Canada H3T 1J4</p>
