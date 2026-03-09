@@ -47,7 +47,8 @@ Our research in the Oakes lab focuses on **enabling domain experts to efficientl
 - and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
 ### Teaching and service
-I teach [LOG6310E - Digital Twin Engineering](https://bentleyjoakes.github.io/dte_course/).
+
+{% include dte_course_blurb.liquid %}
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
 

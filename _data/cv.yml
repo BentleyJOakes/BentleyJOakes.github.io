@@ -254,14 +254,15 @@ cv:
           - "Consortium for Software Engineering Research (CSER) Spring Meeting — 2023"
           - "Model-Driven Engineering and Software Development (MODELSWARD) — 2021"
       - name: Program Committee Member
-        date: "2019–2025"
+        date: "2019–2026"
         highlights:
           - "ASE NIER Track — 2025"
           - "MODELS — 2025"
-          - "International Workshop on Architecting and Engineering Digital Twins — 2025"
+          - "ANNSIM — 2021–2024, 2026"
+          - "DIGITA Workshop (PerCom) — 2026"
+          - "International Workshop on Architecting and Engineering Digital Twins (AEDT) — 2025, 2026"
           - "EMMSAD — 2025"
           - "EDTconf — 2024, 2025"
-          - "ANNSIM — 2021–2024"
           - "MDE Intelligence — 2022, 2023, 2024"
           - "International Workshop on Models and Evolution — 2022"
           - "ACM Student Research Competition — 2022"
@@ -290,10 +291,11 @@ cv:
           - "McGill University — PhD Thesis External Reviewer (2024)"
           - "McGill University — M.Sc. Thesis External Reviewer (2023)"
       - name: Grant Reviewer
-        date: "2024–2025"
+        date: "2024–2026"
         highlights:
           - "NSERC Idea to Innovation grant — 2024"
-          - "NSERC Discovery grant — 2025"
+          - "NSERC Discovery grant — 2025, 2026"
+          - "Dutch Research Council (NWO) — 2026"
       - name: Panelist
         date: "2023"
         highlights:

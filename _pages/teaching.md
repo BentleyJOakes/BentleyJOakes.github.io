@@ -3,46 +3,38 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: >
-  Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins,
-  LOG8371E Software Quality Engineering, and graduate courses in model-driven software engineering.
+  Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins.
 nav: true
 nav_order: 3
+_styles: >
+  article h3 { margin-top: 2rem; }
 ---
 
-## Digital Twin Engineering Course
+> *My teaching philosophy is rooted in approachability: ensuring students from diverse backgrounds feel welcome, that ample support is available for learning, and that exploring complex topics can be a fun and curious journey.*
 
-[LOG6310E - Engineering of Digital Twins course website](https://bentleyjoakes.github.io/dte_course/) — Winter 2025
+---
 
-### Course Instructor
+### Currently Teaching
+
+{% include dte_course_blurb.liquid %}
+
+### Past Courses as Instructor
 
 **Polytechnique Montréal** — Montréal, Canada
-[LOG6310E - Engineering of Digital Twins](https://bentleyjoakes.github.io/dte_course/) — Winter 2025
-[LOG8371E - Software Quality Engineering](https://www.polymtl.ca/programmes/cours/software-quality-engineering) — Fall 2024
-[INF6900AE/INF7900A - Scientific and Technical Communication](https://www.polymtl.ca/programmes/cours/scientific-and-technical-communication-i) — Winter 2024, Fall 2024
 
-### Course Lecturer/Coordinator
+| Course | Description | Term(s) |
+| ------ | ----------- | ------- |
+| [LOG6310E — Engineering of Digital Twins](https://bentleyjoakes.github.io/dte_course/) | See above | Winter 2025 |
+| [INF6900AE — Scientific and Technical Communication](https://www.polymtl.ca/programmes/cours/scientific-and-technical-communication-i) | A graduate course developing scientific and technical communication skills, including academic writing, oral presentations, and effective dissemination of engineering research. | Winter 2024, Fall 2024, Fall 2025 |
+| [INF1007 — Introduction à la programmation](https://www.polymtl.ca/programmes/cours/introduction-la-programmation) | An introductory programming course for engineering students, covering fundamental programming concepts and computational problem-solving. | Fall 2025 |
+| [LOG8371E — Software Quality Engineering](https://www.polymtl.ca/programmes/cours/software-quality-engineering) | A graduate course on principles and practices for software quality, covering testing strategies, static analysis, continuous integration, and quality assurance for software-intensive systems. | Fall 2024 |
 
 **McGill University** — Montréal, Canada
-Winter Term — 2015, 2017, 2018
-[COMP 202 - Foundations of Programming](https://www.mcgill.ca/study/2017-2018/courses/comp-202)
 
-### Guest Lecturer
-
-**Polytechnique Montréal** — Montréal, Canada
-[LOG8704 - Développement logiciel en réalité étendue (XR Software Development)](https://www.polymtl.ca/programmes/cours/developpement-logiciel-en-realite-etendue) — Nov. 2024
-*Presentation:* "Digital Twins: Introductions and Intersections"
-
-[LOG8505E - Model-Driven Software Engineering](https://www.polymtl.ca/programmes/cours/model-driven-software-engineering-0) — Nov. 2022, Nov. 2023
-*Lecture topics:* Model-driven engineering, usage and verification of model transformations
+| Course | Description | Term(s) |
+| ------ | ----------- | ------- |
+| [COMP 202 — Foundations of Programming](https://www.mcgill.ca/study/2017-2018/courses/comp-202) | An introductory programming course covering foundational concepts for students across disciplines. | Winter 2015, 2017, 2018 |
 
 ### Teaching Assistant
 
-**University of Antwerp** — Antwerp, Belgium
-*2001WETMTR - Model-Driven Engineering* — Fall 2020
-*2001WETMSI - Modelling of Software-Intensive Systems* — Fall 2019
-
-**McGill University** — Montréal, Canada
-From 2012 to 2014
-*COMP 202 - Foundations of Programming* — Two terms
-*COMP 250 - Introduction to Computer Science* — Two terms
-*COMP 251 - Data Structures and Algorithms* — Three terms
+Teaching assistant for seven courses at McGill University (2012–2014) and University of Antwerp (2019–2020), covering programming foundations, data structures, algorithms, model-driven engineering, and modelling of software-intensive systems.
