@@ -1,38 +1,292 @@
 cv:
-  name: Your Name
-  label: Your Title
-  email: you@example.com
-  location: City, Country
+  name: Bentley James Oakes
+  label: Assistant Professor
+  email: Bentley.Oakes@polymtl.ca
+  location: Montréal, Canada
+  website: https://bentleyjoakes.github.io
   image: ""
-  summary: A brief description of yourself.
+  summary: >
+    Researcher, teacher, and community-builder in software and systems engineering.
+    Lead- and co-author of 30+ publications with 300+ citations on Google Scholar.
+    Research focuses on enabling domain experts to capture and utilize knowledge through
+    model-driven approaches for complex cyber-physical systems.
 
   social_networks:
-    # - network: GitHub
-    #   username: yourusername
-    # - network: LinkedIn
-    #   username: yourusername
+    - network: GoogleScholar
+      username: x9H9H4QAAAAJ
+    - network: ORCID
+      username: 0000-0001-7558-1434
+    - network: LinkedIn
+      username: bentley-oakes
+    - network: ResearchGate
+      username: Bentley-Oakes
 
   sections:
-    Education:
-      []
-      # - institution: University Name
-      #   location: City, Country
-      #   url: https://example.edu
-      #   area: Field of Study
-      #   studyType: PhD
-      #   startDate: "2015"
-      #   endDate: "2020"
+    Key Academic Skills:
+      - label: Researcher
+        details: Lead- and co-author of 30+ publications with 300+ citations on Google Scholar.
+      - label: Collaborator
+        details: Involved in multiple international academic and industrial collaborations.
+      - label: Teacher/Mentor
+        details: Extensive experience teaching courses and mentoring graduate students.
+      - label: Community-Builder
+        details: Organizing and program committee member for local and global events.
 
-    Work:
-      []
-      # - name: Organization Name
-      #   position: Job Title
-      #   startDate: "2020"
-      #   endDate: present
-      #   summary: Description of your role.
+    Language Skills:
+      - label: English
+        details: Native proficiency
+      - label: French
+        details: A2 proficiency (elementary)
+
+    Education:
+      - institution: McGill University
+        area: Computer Science
+        degree: PhD
+        location: Montréal, Canada
+        end_date: "2019"
+        highlights:
+          - "Thesis: *A Symbolic Execution-Based Approach To Model Transformation Verification using Structural Contracts*"
+          - "Supervisors: Hans Vangheluwe and Clark Verbrugge"
+      - institution: McGill University
+        area: Computer Science
+        degree: MSc
+        location: Montréal, Canada
+        end_date: "2013"
+        highlights:
+          - "Thesis: *Practical and Theoretical Issues of Evolving Behaviour Trees for a Turn-Based Game*"
+          - "Supervisor: Clark Verbrugge"
+      - institution: University of Manitoba
+        area: Computer Science
+        degree: BSc (Honours, Co-op)
+        location: Winnipeg, Canada
+        end_date: "2011"
+        highlights:
+          - "Co-op internship at Electronic Arts Inc., Montréal — Fall 2009, Summer 2010: Prototyping artificial intelligence in commercial video games."
+          - "Co-op internship at Blackberry Limited (RIM), Waterloo — Winter 2009: Implementing cryptographic communication protocols."
+
+    Research Experience:
+      - company: Polytechnique Montréal
+        position: Assistant Professor
+        location: Montréal, Canada
+        start_date: "2023-09"
+        end_date: present
+        highlights:
+          - "Department of Computer and Software Engineering (GIGL)"
+          - "Research topics: Accelerating the construction and deployment of digital twins with a knowledge-based, low-code approach. Assisting users with developing, configuring, and understanding machine learning and verification/validation services for their DT."
+      - company: Université de Montréal
+        position: Post-Doctoral Researcher
+        location: Montréal, Canada
+        start_date: "2021-09"
+        end_date: "2023-08"
+        highlights:
+          - "Lab: GEODES Software Engineering Research Group"
+          - "Supervisors: Houari Sahraoui and Michalis Famelis"
+          - "Research topic: Assisting non-machine learning experts in constructing ML solutions by exploring tailoring of computational workflows."
+      - company: University of Antwerp
+        position: Post-Doctoral Researcher
+        location: Antwerp, Belgium
+        start_date: "2018-09"
+        end_date: "2021-07"
+        highlights:
+          - "Labs: Antwerp Systems and Software Modelling, and Constrained Systems Lab"
+          - "Supervisors: Hans Vangheluwe and Joachim Denil"
+          - "Research topics: Verification and validation of cyber-physical systems, model-driven engineering, multi-paradigm modelling, co-simulation, and digital twins."
+      - company: Université de Montréal
+        position: Visiting Researcher
+        location: Montréal, Canada
+        date: "2018-05"
+        highlights:
+          - "Host: Eugene Syriani, GEODES Software Engineering Research Group"
+          - "Research topic: Developing an interface between the AToMPM modelling tool and the ModelVerse modelling repository."
+      - company: fortiss GmbH
+        position: Visiting Researcher
+        location: Munich, Germany
+        start_date: "2016-07"
+        end_date: "2016-08"
+        highlights:
+          - "Host: Levi Lúcio"
+          - "Research topic: Formalizing representations of model transformation languages."
+      - company: General Motors Technical Center
+        position: Visiting Researcher
+        location: Warren, USA
+        start_date: "2014-10"
+        end_date: "2014-12"
+        highlights:
+          - "Host: Ramesh Sethu"
+          - "Research topics: Applying model transformations for code/model modernization at an industrial scale, and industrial intellectual property concerns."
+
+    Industrial Collaborations:
+      - name: "Framework for Systematic Design of Digital Twins (DTDesign)"
+        date: "2019–2021"
+        highlights:
+          - "Collaborators: Atlas Copco, Flanders Make"
+          - "Topics: Digital twin characteristics, integrating knowledge graphs and digital twins."
+          - "Funding: Flanders Innovation and Entrepreneurship Agency (VLAIO)"
+      - name: "Automated & Simulation-based Functional Safety Engineering Methodology (aSET)"
+        date: "2018–2020"
+        highlights:
+          - "Collaborators: Dana Belgium NV, Siemens Industry Software (Leuven), Flanders Make"
+          - "Topics: Verification of safety-critical cyber-physical systems (formal methods, fault injection using ML, simulation/visualization), DevOps for functional safety."
+          - "Funding: Flanders Innovation and Entrepreneurship Agency (VLAIO)"
+      - name: "Innovation in the Development of Electrical Systems For Aeronautics (INES)"
+        date: "2019–2020"
+        highlights:
+          - "Collaborators: Boeing Research & Technology Europe (Madrid), Siemens Industry Software (Leuven), Flanders Make"
+          - "Topics: Co-simulation configuration, fault injection in co-simulation."
+          - "Funding: Flanders Innovation and Entrepreneurship Agency (VLAIO)"
+      - name: "Network for the Engineering of Complex Software-Intensive Systems for Automotive Systems (NECSIS)"
+        date: "2013–2016"
+        highlights:
+          - "Collaborators: General Motors of Canada Ltd., Queen's University, University of Antwerp"
+          - "Topic: Verification of model transformations."
+          - "Funding: $14M from Automotive Partnership Canada and Natural Sciences and Engineering Research Council of Canada (NSERC)"
+
+    Teaching Experience:
+      - company: Polytechnique Montréal
+        position: Course Instructor
+        location: Montréal, Canada
+        start_date: "2024"
+        end_date: present
+        highlights:
+          - "LOG6310E - Engineering of Digital Twins — Winter 2025"
+          - "LOG8371E - Software Quality Engineering — Fall 2024"
+          - "INF6900AE/INF7900A - Scientific and Technical Communication — Winter 2024, Fall 2024"
+      - company: Polytechnique Montréal
+        position: Guest Lecturer
+        location: Montréal, Canada
+        start_date: "2022"
+        end_date: "2024"
+        highlights:
+          - "LOG8704 - XR Software Development — Nov. 2024: *Digital Twins: Introductions and Intersections*"
+          - "LOG6953DE - Model-Driven Software Engineering — Nov. 2022, Nov. 2023: Model-driven engineering, usage and verification of model transformations"
+      - company: McGill University
+        position: Course Lecturer/Coordinator
+        location: Montréal, Canada
+        start_date: "2015"
+        end_date: "2018"
+        highlights:
+          - "COMP 202 - Foundations of Programming — Winter 2015, 2017, 2018 (six terms, avg. 189 students)"
+          - "Developed and presented lecture material on Java programming for students with no prior programming experience."
+          - "Created assessments and marking guides; coordinated with other instructors and TAs."
+      - company: University of Antwerp
+        position: Teaching Assistant
+        location: Antwerp, Belgium
+        start_date: "2019"
+        end_date: "2020"
+        highlights:
+          - "2001WETMTR - Model-Driven Engineering — Fall 2020"
+          - "2001WETMSI - Modelling of Software-Intensive Systems — Fall 2019"
+      - company: McGill University
+        position: Teaching Assistant
+        location: Montréal, Canada
+        start_date: "2012"
+        end_date: "2014"
+        highlights:
+          - "COMP 202 - Foundations of Programming (×2)"
+          - "COMP 250 - Introduction to Computer Science (×2)"
+          - "COMP 251 - Data Structures and Algorithms (×3)"
+
+    Community Building:
+      - company: Software Engineering at Montréal (SEMTL)
+        position: Lead Organizer
+        location: Montréal, Canada
+        start_date: "2022-08"
+        end_date: present
+        highlights:
+          - "Regular seminars for the software engineering researchers in Montréal (~40 attendees per meeting, ~30% are professors)."
+          - "Coordinating with meeting hosts on content, venue, date, and maintaining website."
+      - name: Organizing Committee Member
+        date: "2022–2026"
+        highlights:
+          - "FSE 2026 — Student Volunteer Co-Chair"
+          - "MODELS 2025 — Student Volunteer Co-Chair"
+          - "ICSE 2025 — Posters Co-Chair"
+          - "SEMLA 2024, 2025 — Posters Co-Chair"
+          - "EDTconf 2024 — Publicity Co-Chair"
+          - "ANNSIM 2024 — Proceedings Co-Chair"
+          - "ANNSIM 2022, 2023 — Cyber-Physical Systems Track Co-Chair"
+          - "MODELS 2022 — Posters Co-Chair"
+      - name: Session Chair
+        date: "2021–2024"
+        highlights:
+          - "SEMLA LLM Ops Day — 2024"
+          - "Model-Driven Engineering of Digital Twins Workshop (ModDiT) — 2023"
+          - "Artificial Intelligence and Model-driven Engineering Workshop (MDEIntelligence) — 2023"
+          - "Consortium for Software Engineering Research (CSER) Spring Meeting — 2023"
+          - "Model-Driven Engineering and Software Development (MODELSWARD) — 2021"
+      - name: Program Committee Member
+        date: "2019–2025"
+        highlights:
+          - "ASE NIER Track — 2025"
+          - "MODELS — 2025"
+          - "International Workshop on Architecting and Engineering Digital Twins — 2025"
+          - "EMMSAD — 2025"
+          - "EDTconf — 2024, 2025"
+          - "ANNSIM — 2021–2024"
+          - "MDE Intelligence — 2022, 2023, 2024"
+          - "International Workshop on Models and Evolution — 2022"
+          - "ACM Student Research Competition — 2022"
+          - "Spring/Summer Simulation Conference — 2019, 2020"
+      - name: Journal Reviewer
+        date: "2021–2025"
+        highlights:
+          - "Journal of Systems & Software (JSS) — 2025"
+          - "Information and Software Technology (IST) — 2025"
+          - "Journal of Software and Systems Modeling (SoSyM) — 2020, 2021, 2023, 2025 (Top 1% Reviewer 2020, 2021; Best Reviewer Award 2025)"
+          - "ACM Transactions on Software Engineering and Methodology (TOSEM) — 2024"
+          - "SIMULATION — 2023, 2024 (Best Reviewer Award June 2023)"
+          - "Science of Computer Programming (SCP) — 2023"
+          - "Journal of Computer Languages (JCL) — 2022"
+          - "Journal of Object Technology (JOT) — 2022"
+          - "Empirical Software Engineering (EMSE) — 2022"
+          - "IEEE Transactions on Automation Science and Engineering (T-ASE) — 2021"
+      - name: Guest Editor for Journal Special Issue
+        date: "2023"
+        highlights:
+          - "SIMULATION — *Modeling and Simulation for Software-Intensive Systems: from IoT to Digital Twins*"
+      - name: Jury Member
+        date: "2023–2024"
+        highlights:
+          - "Polytechnique Montréal — M.Sc. Thesis Jury President (2024)"
+          - "McGill University — PhD Thesis External Reviewer (2024)"
+          - "McGill University — M.Sc. Thesis External Reviewer (2023)"
+      - name: Grant Reviewer
+        date: "2024–2025"
+        highlights:
+          - "NSERC Idea to Innovation grant — 2024"
+          - "NSERC Discovery grant — 2025"
+      - name: Panelist
+        date: "2023"
+        highlights:
+          - "ANNSIM PhD Colloquium Panel — 2023"
+
+    Scholarships and Awards:
+      - name: SoSyM Best Reviewer Award
+        date: "2025"
+        details: Journal of Software & Systems Modeling
+      - name: Simulation Journal Best Reviewer Award
+        date: "June 2023"
+      - name: SoSyM Top 1% Reviewer
+        date: "2020, 2021"
+        details: Journal of Software & Systems Modeling
+      - name: Best Student Paper Award
+        date: "2019"
+        details: "SIMULTECH — for the paper *HintCO – Hint-based configuration of co-simulations*"
+      - name: NSERC Postgraduate Scholarship – Doctoral (PGS D)
+        date: "2015–2016"
+        details: Natural Sciences and Engineering Research Council of Canada
+      - name: Lorne Trottier Science Accelerator Fellowship
+        date: "2015, 2016"
+        details: McGill University
+      - name: Harold H. Helm Fellowship
+        date: "2013, 2014"
+        details: McGill University
+      - name: Grad Excellence Award in Computer Science
+        date: "2012, 2014"
+        details: McGill University
 
     Publications:
-      []
-
-    Skills:
-      []
+      - bullet: >
+          See [bentleyjoakes.github.io/publications](https://bentleyjoakes.github.io/publications/)
+          for a full list of 30+ peer-reviewed publications, including journal articles,
+          book chapters, conference papers, workshop papers, and technical reports/theses.
