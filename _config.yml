@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Dr, Bentley Oakes # the website title (if blank, full name will be used instead)
 first_name: Bentley
 middle_name: 
 last_name: Oakes
@@ -53,7 +53,7 @@ external_services:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: False
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
