@@ -9,63 +9,42 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/website-new/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website-new/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website-new/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website-new/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website-new/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
+        },{id: "nav-community-building",
+          title: "Community-Building",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website-new/cv/";
+            window.location.href = "/website-new/community-building/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          title: "Teaching",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website-new/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/website-new/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/website-new/blog/";
-              },
-            },{id: "news-i-will-be-a-co-chair-for-the-posters-at-the-international-conference-on-software-engineering-icse-2025-in-ottawa",
+        },{id: "nav-oakes-lab",
+          title: "Oakes Lab",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/lab/";
+          },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/website-new/contact/";
+          },
+        },{id: "news-i-will-be-a-co-chair-for-the-posters-at-the-international-conference-on-software-engineering-icse-2025-in-ottawa",
           title: 'I will be a co-chair for the posters at the International Conference on...',
           description: "",
           section: "News",},{id: "news-our-paper-rationale-dataset-and-analysis-for-the-commit-messages-of-the-linux-kernel-out-of-memory-killer-was-accepted-at-the-ieee-acm-international-conference-on-program-comprehension-icpc-2024",
