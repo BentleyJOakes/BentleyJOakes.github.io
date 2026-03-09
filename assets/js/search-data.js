@@ -23,21 +23,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/community-building/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-oakes-lab",
-          title: "Oakes Lab",
-          description: "The Oakes Lab at Polytechnique Montréal researches knowledge engineering for complex cyber-physical systems and digital twins.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/lab/";
-          },
-        },{id: "nav-contact",
+        },{id: "dropdown-teaching",
+              title: "Teaching",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching/";
+              },
+            },{id: "dropdown-dte-course",
+              title: "DTE Course",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/dte_course/";
+              },
+            },{id: "dropdown-oakes-lab",
+              title: "Oakes Lab",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab/";
+              },
+            },{id: "dropdown-join-us",
+              title: "Join Us",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/join/";
+              },
+            },{id: "nav-contact",
           title: "Contact",
           description: "",
           section: "Navigation",
