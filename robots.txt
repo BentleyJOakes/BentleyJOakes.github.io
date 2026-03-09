@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bentleyjoakes.github.io/website-new/sitemap.xml
+Sitemap: https://bentleyjoakes.github.io/sitemap.xml

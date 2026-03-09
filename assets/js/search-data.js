@@ -7,42 +7,42 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/website-new/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website-new/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-community-building",
           title: "Community-Building",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website-new/community-building/";
+            window.location.href = "/community-building/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website-new/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-oakes-lab",
           title: "Oakes Lab",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website-new/lab/";
+            window.location.href = "/lab/";
           },
         },{id: "nav-contact",
           title: "Contact",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website-new/contact/";
+            window.location.href = "/contact/";
           },
         },{id: "news-i-will-be-a-co-chair-for-the-posters-at-the-international-conference-on-software-engineering-icse-2025-in-ottawa",
           title: 'I will be a co-chair for the posters at the International Conference on...',
@@ -139,7 +139,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/website-new/assets/pdf/BOakes-CV.pdf", "_blank");
+          window.open("/assets/pdf/BOakes-CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
