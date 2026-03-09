@@ -125,7 +125,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-model-based-systems-engineering-perspectives-a-survey-of-practitioner-experiences-and-challenges-has-been-accepted-at-sam-2025",
           title: 'Our paper Model-Based Systems Engineering Perspectives: A Survey of Practitioner Experiences and Challenges...',
           description: "",
-          section: "News",},{id: "news-we-had-a-very-successful-time-in-grand-rapids-mi-at-models-2025-and-edtconf-2025",
+          section: "News",},{id: "news-we-had-a-very-successful-time-in-grand-rapids-mi-at-models-2025-and-edtconf-2025-i-was-also-lead-organizer-of-the-onto-nexus-workshop-2025-international-workshop-on-ontological-modeling-and-analysis-co-located-with-models-2025",
           title: 'We had a very successful time in Grand Rapids, MI at MODELS 2025...',
           description: "",
           section: "News",},{id: "news-i-was-honoured-to-present-a-guest-lecture-in-dr-maged-elaasar-s-raise-course-at-ucla-titled-what-is-a-digital-twin-and-how-do-i-build-one",
