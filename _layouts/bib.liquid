@@ -219,6 +219,8 @@
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+        {% elsif entry.pdf contains '/assets/' %}
+          <a href="{{ entry.pdf | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% else %}
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
@@ -226,6 +228,8 @@
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
           <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
+        {% elsif entry.supp contains '/assets/' %}
+          <a href="{{ entry.supp | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
         {% else %}
           <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
         {% endif %}
@@ -244,6 +248,8 @@
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+        {% elsif entry.poster contains '/assets/' %}
+          <a href="{{ entry.poster | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
         {% else %}
           <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
         {% endif %}
@@ -251,6 +257,8 @@
       {% if entry.slides %}
         {% if entry.slides contains '://' %}
           <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+        {% elsif entry.slides contains '/assets/' %}
+          <a href="{{ entry.slides | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
         {% else %}
           <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
         {% endif %}

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr, Bentley Oakes # the website title (if blank, full name will be used instead)
+title: Dr. Bentley Oakes # the website title (if blank, full name will be used instead)
 first_name: Bentley
 middle_name: 
 last_name: Oakes
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💡 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://bentleyjoakes.github.io
-baseurl: /website-new
+baseurl: ""
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
