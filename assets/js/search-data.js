@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "",
+          description: "30+ peer-reviewed publications by Dr. Bentley Oakes on digital twins, model-driven engineering, model transformations, co-simulation, and cyber-physical systems verification.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "",
+          description: "Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins, LOG8371E Software Quality Engineering, and graduate courses in model-driven software engineering.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-oakes-lab",
           title: "Oakes Lab",
-          description: "",
+          description: "The Oakes Lab at Polytechnique Montréal researches knowledge engineering for complex cyber-physical systems and digital twins.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab/";
