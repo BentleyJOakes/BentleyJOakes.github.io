@@ -28,7 +28,10 @@ docker compose pull && docker compose up
 | Navigation order | Frontmatter `nav_order` in each `_pages/*.md` |
 | Blog posts | `_posts/` (currently empty) |
 | Projects | `_projects/` (currently empty) |
-| News items | `_news/` (31 items, 2023–2026) |
+| Books | `_books/` (currently empty) |
+| Teachings | `_teachings/` (currently empty) |
+| News items | `_news/` (30 items, 2023–2026) |
+| CV page | `_pages/cv.md` (renders `_data/cv.yml` via rendercv format) |
 | Lab page | `_pages/lab.md` |
 | Teaching page | `_pages/teaching.md` |
 | Community service | `_pages/community-building.md` |
@@ -43,6 +46,7 @@ docker compose pull && docker compose up
 3. Teaching (`_pages/teaching.md`)
 4. Lab (`_pages/lab.md`)
 5. Contact (`_pages/contact.md`)
+6. CV (`_pages/cv.md`) — hidden from nav (`nav: false`)
 
 ### Collections (defined in `_config.yml`)
 - `_news/` — announcements, layout: post, `inline: true` in frontmatter
@@ -62,16 +66,20 @@ docker compose pull && docker compose up
 | `profiles.liquid` | Lab members |
 | `course.liquid` | Course pages |
 | `book-shelf.liquid` | Books page |
+| `archive.liquid` | Archive/collection pages |
+| `book-review.liquid` | Book review articles |
+| `distill.liquid` | Distill.pub-format articles |
+| `none.liquid` | Minimal/no-chrome rendering |
 
 ### Data Files (`_data/`)
 | File | Status | Content |
 |------|--------|---------|
-| `cv.yml` | Template (unpopulated) | CV structured data |
+| `cv.yml` | Populated | CV structured data (name, headline, sections) |
 | `socials.yml` | Populated | CV PDF, email, Scholar, LinkedIn, ORCID, ResearchGate |
-| `coauthors.yml` | Template | Co-author profile format |
-| `repositories.yml` | Template | GitHub repos config |
-| `venues.yml` | Template | Conference/journal abbreviations |
-| `citations.yml` | Empty | Citation tracking |
+| `coauthors.yml` | Template | Co-author profile format (no entries) |
+| `repositories.yml` | Template | GitHub repos config (commented out) |
+| `venues.yml` | Populated | Conference/journal abbreviations with colors (MODELS, SoSyM, TOSEM, etc.) |
+| `citations.yml` | Empty | Citation tracking (empty papers array) |
 
 ## Content Notes
 
