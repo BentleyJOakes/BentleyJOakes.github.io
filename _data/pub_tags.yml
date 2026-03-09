@@ -1,0 +1,27 @@
+- id: digital-twins
+  label: Digital Twins
+  description: Construction, reporting, monitoring
+
+- id: model-transformations
+  label: Model Transformations
+  description: Verification, debugging, repair
+
+- id: safety
+  label: Safety & Fault Injection
+  description: HARA, fault injection, validity frames
+
+- id: systems-engineering
+  label: Systems Engineering
+  description: MBSE, MDE frameworks, IoT
+
+- id: ml-for-engineering
+  label: ML for Engineering
+  description: ML/RL-assisted engineering
+
+- id: co-simulation
+  label: Co-simulation
+  description: FMI, configuration, algebraic loops
+
+- id: developer-rationale
+  label: Developer Rationale
+  description: Commit messages, rationale mining

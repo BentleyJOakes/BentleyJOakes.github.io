@@ -1,0 +1,63 @@
+<div class="pub-filter-bar" role="group" aria-label="Filter publications by research theme">
+  <button class="pub-filter-btn active" data-tag="all">
+    <span class="filter-label">All</span>
+    <span class="filter-desc">Show all publications</span>
+  </button>
+  {% for tag in site.data.pub_tags %}
+    <button class="pub-filter-btn" data-tag="{{ tag.id }}">
+      <span class="filter-label">{{ tag.label }}</span>
+      <span class="filter-desc">{{ tag.description }}</span>
+    </button>
+  {% endfor %}
+</div>
+
+<script>
+(function () {
+  function initFilter() {
+    const bar = document.querySelector('.pub-filter-bar');
+    if (!bar) return;
+
+    // The publications div that holds the full bibliography (not selected)
+    const pubContainer = bar.closest('.publications-filterable');
+    if (!pubContainer) return;
+
+    bar.addEventListener('click', function (e) {
+      const btn = e.target.closest('.pub-filter-btn');
+      if (!btn) return;
+
+      const tag = btn.dataset.tag;
+
+      // Update active button
+      bar.querySelectorAll('.pub-filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      // Filter list items
+      pubContainer.querySelectorAll('ol.bibliography li').forEach(li => {
+        const row = li.querySelector('[data-keywords]');
+        const keywords = row ? row.dataset.keywords : '';
+        if (tag === 'all' || keywords.split(',').map(k => k.trim()).includes(tag)) {
+          li.style.display = '';
+        } else {
+          li.style.display = 'none';
+        }
+      });
+
+      // Hide year headings whose section is now empty
+      pubContainer.querySelectorAll('h2.bibliography').forEach(h2 => {
+        const ol = h2.nextElementSibling;
+        if (ol && ol.tagName === 'OL') {
+          const hasVisible = Array.from(ol.querySelectorAll('li')).some(li => li.style.display !== 'none');
+          h2.style.display = hasVisible ? '' : 'none';
+          ol.style.display = hasVisible ? '' : 'none';
+        }
+      });
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initFilter);
+  } else {
+    initFilter();
+  }
+})();
+</script>

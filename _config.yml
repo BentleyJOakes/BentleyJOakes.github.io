@@ -190,6 +190,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - scripts/
   - vendor
 keep_files:
   - CNAME
@@ -322,6 +323,7 @@ filtered_bibtex_keywords:
     pmid,
     poster,
     preview,
+    keywords,
     selected,
     slides,
     supp,
