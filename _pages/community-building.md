@@ -7,22 +7,25 @@ nav_order: 2
 ---
 
 #### Lead Organizer
+
 [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) — Aug. 2022 to Present
 A regular scientific and social meeting of software engineering researchers in Montreal
 *Role:* Coordinating with meeting hosts on content, venue, date, and maintaining website
 
 #### Organising Committee Member
 
-| Conference | Role | Year(s) |
+| Conference/Workshop | Role | Year(s) |
 | ---------- | ---- | ------- |
 | [ACM International Conference on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2025) | Student Volunteer Co-Chair | 2026 |
+| [onto:Nexus Workshop](https://www.opencaesar.io/events/onto-Nexus-Workshop-2025.html) (International Workshop on Ontological Modeling and Analysis, co-located with MODELS) | Co-Chair | 2025 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | Student Volunteer Co-Chair | 2025 |
+| [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | Posters Co-Chair | 2024, 2025 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | Posters Co-Chair | 2022 |
-| [Software Engineering for Machine Learning Applications Symposium (SEMLA)](https://semla.polymtl.ca/) | Posters Co-Chair | 2024, 2025 |
 | [International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2025) | Posters Co-Chair | 2025 |
 | [International Conference on Engineering Digital Twins (EDTconf)](https://conf.researchr.org/home/edtconf-2024) | Publicity Co-Chair | 2024 |
 | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | Proceedings Co-Chair | 2024 |
 | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | Cyber-Physical Systems Track Co-Chair | 2022, 2023 |
+
 
 #### Jury Member
 

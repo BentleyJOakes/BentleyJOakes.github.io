@@ -222,6 +222,11 @@ cv:
           - "*Digital Twins: Introductions and Intersections*"
 
     Community Building:
+      - name: "Workshop Organizer — onto:Nexus Workshop 2025 (International Workshop on Ontological Modeling and Analysis)"
+        date: "Oct. 2025"
+        highlights:
+          - "Co-located with MODELS 2025, Grand Rapids, MI. Hybrid event with IEEE proceedings."
+          - "Co-organizers: Maged Elaasar (Chair), Wahab Hamou-Lhadj, Mohammad Hamdaqa"
       - name: "Lead Organizer — Software Engineering at Montréal (SEMTL)"
         location: Montréal, Canada
         start_date: "2022-08"
