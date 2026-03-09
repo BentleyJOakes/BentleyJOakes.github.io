@@ -2,6 +2,8 @@
 layout: page
 permalink: /lab/
 title: Oakes Lab
+description: >
+  The Oakes Lab at Polytechnique Montréal researches knowledge engineering for complex cyber-physical systems and digital twins.
 nav: true
 nav_order: 4
 ---

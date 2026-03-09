@@ -3,7 +3,7 @@ cv:
   headline: Assistant Professor
   email: Bentley.Oakes@polymtl.ca
   location: Montréal, Canada
-  website: https://bentleyjoakes.github.io
+  website: https://bentleyoakes.com
 
   social_networks:
     - network: Google Scholar
@@ -287,6 +287,6 @@ cv:
 
     Publications:
       - bullet: >
-          See [bentleyjoakes.github.io/publications](https://bentleyjoakes.github.io/publications/)
+          See [bentleyoakes.com/publications](https://bentleyoakes.com/publications/)
           for a full list of 30+ peer-reviewed publications, including journal articles,
           book chapters, conference papers, workshop papers, and technical reports/theses.

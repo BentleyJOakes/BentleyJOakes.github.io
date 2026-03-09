@@ -2,6 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
+description: >
+  Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins,
+  LOG8371E Software Quality Engineering, and graduate courses in model-driven software engineering.
 nav: true
 nav_order: 3
 ---
