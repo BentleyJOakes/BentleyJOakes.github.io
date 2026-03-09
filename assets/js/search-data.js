@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins, LOG8371E Software Quality Engineering, and graduate courses in model-driven software engineering.",
+          description: "Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
