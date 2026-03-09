@@ -1,6 +1,22 @@
 - id: digital-twins
   label: Digital Twins
   description: Construction, reporting, monitoring
+  color: "#ED1C24"
+
+- id: systems-engineering
+  label: Systems Engineering
+  description: MBSE, MDE frameworks, IoT
+  color: "#F15A22"
+
+- id: ml-for-engineering
+  label: ML for Engineering
+  description: ML/RL-assisted engineering
+  color: "#25B34B"
+
+- id: knowledge-representation
+  label: Knowledge Representation
+  description: Ontologies, knowledge graphs, semantic modelling
+  color: "#00BDF2"
 
 - id: model-transformations
   label: Model Transformations
@@ -9,14 +25,6 @@
 - id: safety
   label: Safety & Fault Injection
   description: HARA, fault injection, validity frames
-
-- id: systems-engineering
-  label: Systems Engineering
-  description: MBSE, MDE frameworks, IoT
-
-- id: ml-for-engineering
-  label: ML for Engineering
-  description: ML/RL-assisted engineering
 
 - id: co-simulation
   label: Co-simulation

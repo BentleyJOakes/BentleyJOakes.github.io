@@ -8,11 +8,35 @@ nav: true
 nav_order: 4
 ---
 
-The Oakes Lab focuses on *knowledge engineering for complex cyber-physical systems*. We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.
+<img alt="Oakes Lab logo" src="/assets/img/logo_colours_new.png" style="float: left; width: 160px; margin: 0 1.5em 0.5em 0;" />
 
-<div style="text-align: center; background: #d1fcb9; color:black;"><b>OAKES</b> = <b>O</b>bjective: <b>A</b>ccelerating <b>K</b>nowledge <b>E</b>ngineering for Complex <b>S</b>ystems</div>
+<p style="font-size: 0.85em; font-style: italic;"><b>O</b>bjective: <b>A</b>ccelerating <b>K</b>nowledge <b>E</b>ngineering for Complex <b>S</b>ystems</p>
 
-<img alt="Polytechnique Montréal" src="/assets/img/polymtl_small.png" style="width:100%; margin: 10px 0;" />
+We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.
+
+
+<div class="pub-filter-bar" style="margin-top: 0.75rem;">
+  <a href="/publications/?tag=digital-twins" class="pub-filter-btn" style="text-decoration: none; border-left: 3px solid #ED1C24;">
+    <span class="filter-label">Digital Twins</span>
+    <span class="filter-desc">Construction, reporting, and monitoring of DT systems for cyber-physical systems</span>
+  </a>
+  <a href="/publications/?tag=systems-engineering" class="pub-filter-btn" style="text-decoration: none; border-left: 3px solid #F15A22;">
+    <span class="filter-label">Systems Engineering</span>
+    <span class="filter-desc">Model-based systems engineering, MDE frameworks, and knowledge capture for complex systems</span>
+  </a>
+  <a href="/publications/?tag=ml-for-engineering" class="pub-filter-btn" style="text-decoration: none; border-left: 3px solid #25B34B;">
+    <span class="filter-label">ML for Engineering</span>
+    <span class="filter-desc">Applying machine learning to accelerate engineering tasks for complex systems</span>
+  </a>
+  <a href="/publications/?tag=knowledge-representation" class="pub-filter-btn" style="text-decoration: none; border-left: 3px solid #00BDF2;">
+    <span class="filter-label">Knowledge Representation</span>
+    <span class="filter-desc">Ontologies, knowledge graphs, and semantic modelling for complex systems</span>
+  </a>
+</div>
+
+
+
+<div style="clear: both;"></div>
 
 ## Lab Members
 
@@ -137,3 +161,5 @@ To know more about the Polytechnique application process, please see the followi
 - The largest problem in academia is discoverability: [Be Findable](https://registerspill.thorstenball.com/p/be-findable)
 - How to write a thesis: [Thesis Projects - A Guide for Students in Computer Science and Information Systems](https://link.springer.com/book/10.1007/978-1-84800-009-4)
 - Fantastic advice on writing: [Writing for Computer Science](https://link.springer.com/book/10.1007/978-1-4471-6639-9)
+
+<img alt="Polytechnique Montréal" src="/assets/img/polymtl_small.png" style="width:100%; margin: 2em 0 0;" />

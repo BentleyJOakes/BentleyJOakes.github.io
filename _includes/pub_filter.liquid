@@ -4,11 +4,17 @@
     <span class="filter-desc">Show all publications</span>
   </button>
   {% for tag in site.data.pub_tags %}
-    <button class="pub-filter-btn" data-tag="{{ tag.id }}">
+    <button class="pub-filter-btn" data-tag="{{ tag.id }}"{% if tag.color %} style="border-left: 3px solid {{ tag.color }};"{% endif %}>
       <span class="filter-label">{{ tag.label }}</span>
       <span class="filter-desc">{{ tag.description }}</span>
     </button>
   {% endfor %}
+</div>
+
+<div id="pub-filter-notice" style="display: none; margin-bottom: 1rem; font-size: 0.9em;">
+  Showing <strong id="pub-filter-count"></strong> of <strong id="pub-filter-total"></strong> publications
+  — filtered by <strong id="pub-filter-name"></strong>.
+  &nbsp;<a href="/publications/" style="white-space: nowrap;">Show all ×</a>
 </div>
 
 <script>
@@ -17,29 +23,38 @@
     const bar = document.querySelector('.pub-filter-bar');
     if (!bar) return;
 
-    // The publications div that holds the full bibliography (not selected)
     const pubContainer = bar.closest('.publications-filterable');
     if (!pubContainer) return;
+
+    const notice = document.getElementById('pub-filter-notice');
+    const countEl = document.getElementById('pub-filter-count');
+    const totalEl = document.getElementById('pub-filter-total');
+    const nameEl = document.getElementById('pub-filter-name');
+
+    const allItems = () => Array.from(pubContainer.querySelectorAll('ol.bibliography li'));
 
     bar.addEventListener('click', function (e) {
       const btn = e.target.closest('.pub-filter-btn');
       if (!btn) return;
+      applyFilter(btn.dataset.tag, btn.querySelector('.filter-label').textContent);
+    });
 
-      const tag = btn.dataset.tag;
-
+    function applyFilter(tag, label) {
       // Update active button
       bar.querySelectorAll('.pub-filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+      const activeBtn = bar.querySelector(`.pub-filter-btn[data-tag="${tag}"]`);
+      if (activeBtn) activeBtn.classList.add('active');
+
+      const items = allItems();
+      let visible = 0;
 
       // Filter list items
-      pubContainer.querySelectorAll('ol.bibliography li').forEach(li => {
+      items.forEach(li => {
         const row = li.querySelector('[data-keywords]');
         const keywords = row ? row.dataset.keywords : '';
-        if (tag === 'all' || keywords.split(',').map(k => k.trim()).includes(tag)) {
-          li.style.display = '';
-        } else {
-          li.style.display = 'none';
-        }
+        const show = tag === 'all' || keywords.split(',').map(k => k.trim()).includes(tag);
+        li.style.display = show ? '' : 'none';
+        if (show) visible++;
       });
 
       // Hide year headings whose section is now empty
@@ -51,13 +66,39 @@
           ol.style.display = hasVisible ? '' : 'none';
         }
       });
-    });
+
+      // Show/hide filter notice
+      if (notice) {
+        if (tag === 'all') {
+          notice.style.display = 'none';
+        } else {
+          countEl.textContent = visible;
+          totalEl.textContent = items.length;
+          nameEl.textContent = label;
+          notice.style.display = '';
+        }
+      }
+    }
+
+    // Expose for URL activation
+    bar._applyFilter = applyFilter;
+  }
+
+  function activateFromUrl() {
+    const tag = new URLSearchParams(window.location.search).get('tag');
+    if (!tag) return;
+    const bar = document.querySelector('.pub-filter-bar');
+    if (!bar || !bar._applyFilter) return;
+    const btn = bar.querySelector(`.pub-filter-btn[data-tag="${tag}"]`);
+    const label = btn ? btn.querySelector('.filter-label').textContent : tag;
+    bar._applyFilter(tag, label);
   }
 
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initFilter);
+    document.addEventListener('DOMContentLoaded', function () { initFilter(); activateFromUrl(); });
   } else {
     initFilter();
+    activateFromUrl();
   }
 })();
 </script>
