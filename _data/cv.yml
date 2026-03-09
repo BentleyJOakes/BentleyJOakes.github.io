@@ -180,6 +180,47 @@ cv:
           - "COMP 250 - Introduction to Computer Science (×2)"
           - "COMP 251 - Data Structures and Algorithms (×3)"
 
+    Invited Talks and Presentations:
+      - name: Guest lecture — RAISE course, UCLA
+        date: "Nov. 2025"
+        highlights:
+          - "Host: Dr. Maged Elaasar"
+          - "*What is a 'Digital Twin' and How Do I Build One?*"
+      - name: Tutorial — Software Engineering for Machine Learning Applications (SEMLA)
+        date: "Jun. 2025"
+        highlights:
+          - "*What is a 'Digital Twin' and How Do I Build One?*"
+      - name: Invited talk — EDT.Community
+        date: "May 2025"
+        highlights:
+          - "*Systematic Digital Twin Reporting*"
+          - "[Video recording](https://www.youtube.com/watch?v=sfs1TGG-Mf4)"
+      - name: Invited talk — Next-Generation Cities Institute, Concordia University
+        date: "May 2025"
+        highlights:
+          - "*Accelerating Digital Twin Research and Engineering*"
+      - name: Conference paper presentation — ICSE 2025, Ottawa
+        date: "May 2025"
+        highlights:
+          - "*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice* (journal-first)"
+      - name: Guest lecture — Engineering Digital Twins course, McMaster University
+        date: "Mar. 2025"
+        highlights:
+          - "Host: Prof. Istvan David"
+          - "*Accelerating Digital Twin Research and Engineering*"
+      - name: Research presentation — KARI Delegation, Polytechnique Montréal
+        date: "Feb. 2025"
+        highlights:
+          - "Advanced Air Mobility (AAM) challenges and advancements"
+      - name: Conference paper presentation — MODELS 2024
+        date: "Sep. 2024"
+        highlights:
+          - "*Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis* (SoSyM journal-first)"
+      - name: Guest lecture — LOG8704 XR Software Development, Polytechnique Montréal
+        date: "Nov. 2024"
+        highlights:
+          - "*Digital Twins: Introductions and Intersections*"
+
     Community Building:
       - name: "Lead Organizer — Software Engineering at Montréal (SEMTL)"
         location: Montréal, Canada

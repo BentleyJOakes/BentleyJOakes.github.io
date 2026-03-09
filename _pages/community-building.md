@@ -81,3 +81,17 @@ A regular scientific and social meeting of software engineering researchers in M
 | Venue | Role | Year |
 | ----- | ---- | ---- |
 | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | PhD Colloquium Panel | 2023 |
+
+#### Invited Talks & Presentations
+
+| Title | Venue | Date |
+| ----- | ----- | ---- |
+| *"What is a 'Digital Twin' and How Do I Build One?"* | Guest lecture, RAISE course, [UCLA](https://www.ucla.edu/) (host: Dr. Maged Elaasar) | Nov. 2025 |
+| *"What is a 'Digital Twin' and How Do I Build One?"* | Tutorial, [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | Jun. 2025 |
+| *"Systematic Digital Twin Reporting"* | [EDT.Community Talks](https://edt.community/events/event/systematic-digital-twin-reporting/) \| [video](https://www.youtube.com/watch?v=sfs1TGG-Mf4) | May 2025 |
+| *"Accelerating Digital Twin Research and Engineering"* | [Next-Generation Cities Institute](https://www.concordia.ca/research/cities-institute.html), Concordia University | May 2025 |
+| *"Building Domain-Specific Machine Learning Workflows..."* (journal-first) | [ICSE 2025](https://conf.researchr.org/home/icse-2025), Ottawa | May 2025 |
+| *"Accelerating Digital Twin Research and Engineering"* | Guest lecture, [Engineering Digital Twins course](https://istvandavid.com/engineering-digital-twins/), McMaster University (host: Prof. Istvan David) \| [slides](/assets/slides/2025.BOakes_McMaster_slides_public.pdf) | Mar. 2025 |
+| Research presentation on Advanced Air Mobility | [KARI Delegation](https://sdginnovnetwk.com/imaa-meeting-with-the-kari-delegation-on-advanced-air-mobility/), Polytechnique Montréal | Feb. 2025 |
+| *"Fault localization in DSLTrans model transformations..."* (SoSyM Journal-First) | [MODELS 2024](https://conf.researchr.org/home/models-2024) | Sep. 2024 |
+| *"Digital Twins: Introductions and Intersections"* | Guest lecture, LOG8704 - XR Software Development, Polytechnique Montréal | Nov. 2024 |

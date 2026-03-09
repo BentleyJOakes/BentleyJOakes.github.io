@@ -5,7 +5,8 @@ permalink: /
 subtitle: >
   <b>Assistant Professor</b> &mdash;
   <a href="https://www.polymtl.ca/gigl/">Department of Computer and Software Engineering (GIGL)</a>,
-  Polytechnique Montréal, Canada
+  Polytechnique Montréal, Canada<br>
+  <em>Helping domain experts capture and utilise their knowledge to engineer complex cyber-physical systems.</em>
 
 profile:
   align: right
@@ -16,6 +17,7 @@ profile:
     <p>Polytechnique Montréal</p>
     <p>2700 Chemin de la Tour</p>
     <p>Montréal, QC, Canada H3T 1J4</p>
+    <p><a href="mailto:bentley.oakes@polymtl.ca">bentley.oakes@polymtl.ca</a></p>
 
 selected_papers: true
 social: true
@@ -58,7 +60,7 @@ I received my PhD at McGill University in 2019 on the topic of [model transforma
 
 During my bachelor's degree at the University of Manitoba, I held three internships as part of the co-operative program. The first internship was at [Blackberry](https://www.blackberry.com) (formerly Research in Motion) in Waterloo, ON. The topic of this internship was on cryptographic communication protocols. The second and third internships were at [Electronic Arts](https://www.ea.com) in Montréal, QC. These internships focused on prototyping artificial intelligence solutions in video games.
 
-### Talk Bio
+### Talk bio
 
 Prof. Bentley Oakes is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal in Canada. He completed his Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal.
 
