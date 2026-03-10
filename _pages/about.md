@@ -35,8 +35,11 @@ latest_posts:
 
 I am a researcher in the [artificial intelligence consortium IVADO](https://ivado.ca/en/). Polytechnique Montréal is also affiliated with the [Université de Montréal](https://www.umontreal.ca/) and the [Quebec Artificial Intelligence Institute (Mila)](https://mila.quebec/en).
 
+<div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 Our research in the Oakes lab focuses on **enabling domain experts to efficiently capture and utilise their knowledge through an intelligent model-driven approach, to support knowledge engineering for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process.
+</div>
 
+<div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 ### My main research interests:
 - [digital twins](https://bentleyjoakes.github.io/dte_course/), including their structure, [construction](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), and [reporting](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
 - representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/assets/publications/Elaasar2023%20-%20openCAESAR%20Balancing%20Agility%20and%20Rigor%20in%20Model-Based%20Systems%20Engineering.pdf)
@@ -46,11 +49,17 @@ Our research in the Oakes lab focuses on **enabling domain experts to efficientl
 - [model transformations and their verification](/assets/publications/Oakes2018%20-%20A%20Symbolic%20Execution-Based%20Approach%20To%20Model%20Transformation%20Verification%20using%20Structural%20Contracts.pdf)
 - and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
+</div>
+
 ### Teaching and service
 
+<div style="border-left: 4px solid #F15A22; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 {% include dte_course_blurb.liquid %}
+</div>
+
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
+
 
 ### Academic background
 Previously, I was a post-doctoral researcher at the [GEODES lab](http://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal for two years. My research topic was on the modelling of [domain-specific machine learning workflows](https://doi.org/10.1145/3638243).
@@ -63,6 +72,8 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 
 ### Talk bio
 
+<div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 Prof. Bentley Oakes is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal in Canada. He completed his Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal.
 
 His interests and experiences are diverse, ranging from Digital Twins (including their structure, construction, and reporting) to model-driven engineering, ontologies, verification and validation (including formal verification), machine learning, co-simulation, and many other topics. His research focuses on capturing and utilizing the domain knowledge possessed by domain experts, such that they can more easily construct and reason about their complex systems.
+</div>
