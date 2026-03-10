@@ -181,6 +181,10 @@ cv:
           - "COMP 251 - Data Structures and Algorithms (×3)"
 
     Invited Talks and Presentations:
+      - name: Invited talk — SIG LLODIA (Lecture #3)
+        date: "Jan. 2026"
+        highlights:
+          - "*Towards Ontology-based Digital Twin Service Construction and Reporting*"
       - name: Guest lecture — RAISE course, UCLA
         date: "Nov. 2025"
         highlights:
@@ -256,6 +260,7 @@ cv:
       - name: Program Committee Member
         date: "2019–2026"
         highlights:
+          - "ASE Research Track — 2026"
           - "ASE NIER Track — 2025"
           - "MODELS — 2025"
           - "ANNSIM — 2021–2024, 2026"

@@ -41,7 +41,7 @@ Our research in the Oakes lab focuses on **enabling domain experts to efficientl
 
 <div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 ### My main research interests:
-- [digital twins](https://bentleyjoakes.github.io/dte_course/), including their structure, [construction](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), and [reporting](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
+- [digital twins](/dte_course/), including their structure, [construction](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), and [reporting](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
 - representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/assets/publications/Elaasar2023%20-%20openCAESAR%20Balancing%20Agility%20and%20Rigor%20in%20Model-Based%20Systems%20Engineering.pdf)
 - verification and validation of cyber-physical systems, including [formal verification](/assets/publications/Bernaerts2019%20-%20Validating%20Industrial%20Requirements%20with%20a%20Contract-Based%20Approach.pdf)
 - the application of [machine learning to cyber-physical systems](/assets/publications/Moradi2020%20-%20Exploring%20Fault%20Parameter%20Space%20using%20Reinforcement%20Learning-based%20Fault%20Injection.pdf)
