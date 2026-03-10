@@ -14,7 +14,7 @@ _styles: >
 
 ---
 
-**Jump to:** [Lead Organizer](#lead-organizer) &nbsp;·&nbsp; [Organising Committee](#organising-committee-member) &nbsp;·&nbsp; [Invited Talks](#invited-talks--presentations) &nbsp;·&nbsp; [Program Committee](#program-committee-member) &nbsp;·&nbsp; [Journal Reviewer](#journal-reviewer) &nbsp;·&nbsp; [Grant Reviewer](#grant-reviewer) &nbsp;·&nbsp; [Guest Editor](#guest-editor-for-journal-special-issue) &nbsp;·&nbsp; [Jury Member](#jury-member) &nbsp;·&nbsp; [Panelist](#panelist)
+**Jump to:** [Lead Organizer](#lead-organizer) &nbsp;·&nbsp; [Organising Committee](#organising-committee-member) &nbsp;·&nbsp; [Invited Talks](#invited-talks--presentations) &nbsp;·&nbsp; [Program Committee](#program-committee-member) &nbsp;·&nbsp; [Journal Reviewer](#journal-reviewer) &nbsp;·&nbsp; [Grant Reviewer](#grant-reviewer) &nbsp;·&nbsp; [Guest Editor](#guest-editor-for-journal-special-issue) &nbsp;·&nbsp; [Jury Member](#jury-member) &nbsp;·&nbsp; [Panelist](#panelist) &nbsp;·&nbsp; [Departmental Service](#departmental-service)
 
 ---
 
@@ -51,8 +51,16 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | *"Building Domain-Specific Machine Learning Workflows..."* (journal-first) | [ICSE 2025](https://conf.researchr.org/home/icse-2025), Ottawa | May 2025 |
 | *"Accelerating Digital Twin Research and Engineering"* | Guest lecture, [Engineering Digital Twins course](https://istvandavid.com/engineering-digital-twins/), McMaster University (host: Prof. Istvan David) \| [slides](/assets/slides/2025.BOakes_McMaster_slides_public.pdf) | Mar. 2025 |
 | Research presentation on Advanced Air Mobility | [KARI Delegation](https://sdginnovnetwk.com/imaa-meeting-with-the-kari-delegation-on-advanced-air-mobility/), Polytechnique Montréal | Feb. 2025 |
+| *"Recent Work on Systematic Reporting and Construction for Digital Twins"* | Invited talk, [Software Engineering at Montréal (SEMTL)](https://semtl.github.io/), Montréal | 2025 |
 | *"Fault localization in DSLTrans model transformations..."* (SoSyM Journal-First) | [MODELS 2024](https://conf.researchr.org/home/models-2024) | Sep. 2024 |
 | *"Digital Twins: Introductions and Intersections"* | Guest lecture, LOG8704 - XR Software Development, Polytechnique Montréal | Nov. 2024 |
+| *"Accelerating Digital Twin Construction with Ontologies"* | Invited talk, onto:Nexus 2024: 1st Workshop on Ontological Modeling and Analysis (online) | 2024 |
+| *"Bridging the Gap in Verification and Validation of Complex Systems"* | Invited talk, Polytechnique Montréal | 2023 |
+| *"Model/Graph Transformations: Specification and Verification"* | Guest lecture, LOG6953DE - Model-Driven Software Engineering, Polytechnique Montréal (host: Prof. Mohammad Hamdaqa) | Nov. 2022 |
+| *"Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice"* | Invited talk, [Software Engineering at Montréal (SEMTL)](https://semtl.github.io/) September seminar, Université de Montréal | Sep. 2022 |
+| *"Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice"* | Invited talk, Concordia University (host: Prof. Essam Mansour) | 2022 |
+| *"Capturing and Utilising Domain-Specific Knowledge"* | Invited talk, Université du Québec à Montréal | 2022 |
+
 
 #### Program Committee Member
 
@@ -117,3 +125,9 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | Venue | Role | Year |
 | ----- | ---- | ---- |
 | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | PhD Colloquium Panel | 2023 |
+
+#### Departmental Service
+
+| Institution | Role | Year(s) |
+| ----------- | ---- | ------- |
+| Polytechnique Montréal | Committee Member, Committee Rayonnement (Communications committee), Department of Computer and Software Engineering | 2025–Present |

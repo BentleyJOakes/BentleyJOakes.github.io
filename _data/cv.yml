@@ -216,6 +216,10 @@ cv:
         date: "Feb. 2025"
         highlights:
           - "Advanced Air Mobility (AAM) challenges and advancements"
+      - name: Invited talk — Software Engineering at Montréal (SEMTL)
+        date: "2025"
+        highlights:
+          - "*Recent Work on Systematic Reporting and Construction for Digital Twins*"
       - name: Conference paper presentation — MODELS 2024
         date: "Sep. 2024"
         highlights:
@@ -224,6 +228,33 @@ cv:
         date: "Nov. 2024"
         highlights:
           - "*Digital Twins: Introductions and Intersections*"
+      - name: Invited talk — onto:Nexus Forum 2024
+        date: "2024"
+        highlights:
+          - "*Accelerating Digital Twin Construction with Ontologies*"
+          - "Forum on Ontological Modeling and Analysis"
+      - name: Invited talk — Polytechnique Montréal
+        date: "2023"
+        highlights:
+          - "*Bridging the Gap in Verification and Validation of Complex Systems*"
+      - name: Guest lecture — LOG6953DE, Polytechnique Montréal
+        date: "Nov. 2022"
+        highlights:
+          - "Host: Prof. Mohammad Hamdaqa"
+          - "*Model/Graph Transformations: Specification and Verification*"
+      - name: Invited talk — Software Engineering at Montréal (SEMTL) September seminar
+        date: "Sep. 2022"
+        highlights:
+          - "*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*"
+      - name: Invited talk — Concordia University
+        date: "2022"
+        highlights:
+          - "Host: Prof. Essam Mansour"
+          - "*Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice*"
+      - name: Invited talk — Université du Québec à Montréal
+        date: "2022"
+        highlights:
+          - "*Capturing and Utilising Domain-Specific Knowledge*"
 
     Community Building:
       - name: "Workshop Organizer — onto:Nexus Workshop 2025 (International Workshop on Ontological Modeling and Analysis)"
@@ -305,6 +336,10 @@ cv:
         date: "2023"
         highlights:
           - "ANNSIM PhD Colloquium Panel — 2023"
+      - name: Departmental Service
+        date: "2025–Present"
+        highlights:
+          - "Committee Member, Committee Rayonnement (Communications committee), Department of Computer and Software Engineering, Polytechnique Montréal"
 
     Scholarships and Awards:
       - name: SoSyM Best Reviewer Award
