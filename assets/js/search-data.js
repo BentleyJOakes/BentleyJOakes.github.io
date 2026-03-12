@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "30+ peer-reviewed publications by Dr. Bentley Oakes on digital twins, model-driven engineering, model transformations, co-simulation, and cyber-physical systems verification.",
+          description: "Peer-reviewed publications by Dr. Bentley Oakes on digital twins, model-driven engineering, model transformations, co-simulation, and cyber-physical systems verification.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
