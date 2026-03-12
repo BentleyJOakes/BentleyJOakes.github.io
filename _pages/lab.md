@@ -42,7 +42,7 @@ We start with the expert's domain knowledge, capture it in models, and then util
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; text-align: center;">
   <div>
     <img src="/assets/img/students/kfiter_small.png" alt="kerian_fiter" style="width:150px; height:150px; object-fit:cover; border-radius:50%;"><br>
-    <a href="https://www.linkedin.com/in/kerianfiter/"><b>Kérian Fiter</b></a><br>
+    <a href="https://kerianfiter.github.io/"><b>Kérian Fiter</b></a><br>
     PhD Student · Since 2024<br>
     <i>Systematic DT reporting &amp; visualization</i><br>
     <a href="/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf">DTInsight paper</a>
