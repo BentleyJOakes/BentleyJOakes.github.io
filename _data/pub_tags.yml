@@ -21,15 +21,19 @@
 - id: model-transformations
   label: Model Transformations
   description: Verification, debugging, repair
+  color: "#7C3AED"
 
 - id: safety
   label: Safety & Fault Injection
   description: HARA, fault injection, validity frames
+  color: "#D97706"
 
 - id: co-simulation
   label: Co-simulation
   description: FMI, configuration, algebraic loops
+  color: "#0891B2"
 
 - id: developer-rationale
   label: Developer Rationale
   description: Commit messages, rationale mining
+  color: "#92400E"

@@ -281,6 +281,9 @@ scholar:
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
 
+  sort_by: year
+  order: descending
+
   replace_strings: true
   join_strings: true
 

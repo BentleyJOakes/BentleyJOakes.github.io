@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: >
-  30+ peer-reviewed publications by Dr. Bentley Oakes on digital twins, model-driven engineering,
+  Peer-reviewed publications by Dr. Bentley Oakes on digital twins, model-driven engineering,
   model transformations, co-simulation, and cyber-physical systems verification.
 keywords: digital twins, model-driven engineering, model transformations, co-simulation, cyber-physical systems, publications, Polytechnique Montréal
 nav: true
@@ -33,7 +33,7 @@ nav_order: 1
 
 ---
 
-## All Publications
+## All Publications {#all-publications}
 
 <!-- Bibsearch Feature -->
 

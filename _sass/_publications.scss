@@ -102,6 +102,11 @@
       }
 
       .links {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.35rem;
+
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -118,6 +123,26 @@
         }
         a.award.btn {
           border-color: var(--global-highlight-color);
+        }
+        a.links-disabled {
+          opacity: 0.3;
+          cursor: default;
+          pointer-events: none;
+        }
+        .links-left {
+          display: flex;
+          gap: 0.35rem;
+        }
+        .links-center {
+          flex: 1;
+          display: flex;
+          justify-content: center;
+        }
+        .links-right {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.35rem;
+          margin-left: auto;
         }
       }
 
@@ -187,7 +212,12 @@
 
 .publications-selected {
   ol.bibliography li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    border-left: 3px solid #D4AF37;
+    padding: 0.75rem 0.75rem 0.75rem 0.75rem;
+    border-radius: 0.375rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    background: var(--global-bg-color);
   }
 
   .col.abbr {
@@ -203,9 +233,23 @@
 
 .pub-filter-bar {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   gap: 0.5rem;
   margin-bottom: 1.75rem;
+}
+
+.pub-filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+
+  &:first-child {
+    justify-content: center;
+  }
+
+  &:not(:first-child) .pub-filter-btn {
+    flex: 1;
+  }
 }
 
 .pub-filter-btn {

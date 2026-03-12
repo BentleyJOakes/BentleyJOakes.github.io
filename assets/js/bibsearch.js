@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     } else {
       // Simply add unloaded class to all non-matching items if Browser does not support CSS highlights
-      document.querySelectorAll(".bibliography > li").forEach((element, index) => {
+      document.querySelectorAll(".bibliography > li").forEach((element) => {
         const text = element.innerText.toLowerCase();
         if (text.indexOf(searchTerm) == -1) {
           element.classList.add("unloaded");
@@ -52,6 +52,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const updateInputField = () => {
     const hashValue = decodeURIComponent(window.location.hash.substring(1)); // Remove the '#' character
+    // If the hash resolves to an element ID, it's a section anchor — not a search term
+    if (!hashValue || document.getElementById(hashValue)) return;
     document.getElementById("bibsearch").value = hashValue;
     filterItems(hashValue);
   };
