@@ -1,147 +1,208 @@
 # Conference/journal abbreviations for publication pages.
-# Colors use Material Design shades verified for WCAG AA contrast (≥4.5:1).
-# Light backgrounds use text_color: "#212121", dark backgrounds use text_color: "#ffffff".
+# Each entry has light-mode and dark-mode color variants.
 # Format:
 # "ABBR":
 #   url: https://example.com
-#   color: "#hexcolor"
-#   text_color: "#hexcolor"
+#   color: "#hex"         # light-mode background
+#   text_color: "#hex"    # light-mode text
+#   dark_color: "#hex"    # dark-mode background
+#   dark_text_color: "#hex" # dark-mode text
 
 # --- MDE / MODELS family (green) ---
 
 "MODELS":
   url: https://conf.researchr.org/series/models
-  color: "#2E7D32" # Green 800 — contrast 4.75:1 with white
+  color: "#2E7D32"
   text_color: "#ffffff"
+  dark_color: "#9CCC65"
+  dark_text_color: "#212121"
 
 "MODELS-C":
   url: https://conf.researchr.org/series/models
-  color: "#9CCC65" # Light Green 400 — contrast 8.6:1 with dark
-  text_color: "#212121"
+  color: "#558B2F"
+  text_color: "#ffffff"
+  dark_color: "#AED581"
+  dark_text_color: "#212121"
 
 # --- SE journals (blue) ---
 
 "SoSyM":
   url: https://www.springer.com/journal/10270
-  color: "#1565C0" # Blue 800 — contrast 5.3:1 with white
+  color: "#1565C0"
   text_color: "#ffffff"
+  dark_color: "#90CAF9"
+  dark_text_color: "#212121"
 
 "TOSEM":
   url: https://dl.acm.org/journal/tosem
-  color: "#90CAF9" # Blue 200 — contrast 9.2:1 with dark
-  text_color: "#212121"
+  color: "#1976D2"
+  text_color: "#ffffff"
+  dark_color: "#90CAF9"
+  dark_text_color: "#212121"
 
 # --- Software engineering conferences (purple) ---
 
 "FSE":
   url: https://dl.acm.org/conference/fse
-  color: "#7B1FA2" # Purple 700 — contrast 7.7:1 with white
+  color: "#7B1FA2"
   text_color: "#ffffff"
+  dark_color: "#CE93D8"
+  dark_text_color: "#212121"
 
 "MSR":
   url: https://www.msrconf.org
-  color: "#CE93D8" # Purple 200 — contrast 7.0:1 with dark
-  text_color: "#212121"
+  color: "#6A1B9A"
+  text_color: "#ffffff"
+  dark_color: "#CE93D8"
+  dark_text_color: "#212121"
 
 # --- Program comprehension / analysis (orange) ---
 
 "ICPC":
   url: https://conf.researchr.org/series/icpc
-  color: "#F57C00" # Orange 700 — contrast 6.0:1 with dark
-  text_color: "#212121"
+  color: "#E65100"
+  text_color: "#ffffff"
+  dark_color: "#FFCC80"
+  dark_text_color: "#212121"
 
 "ASE":
   url: https://conf.researchr.org/series/ase
-  color: "#FFCC80" # Orange 200 — contrast 10.4:1 with dark
-  text_color: "#212121"
+  color: "#F57C00"
+  text_color: "#ffffff"
+  dark_color: "#FFCC80"
+  dark_text_color: "#212121"
 
 # --- Safety / dependability (red) ---
 
 "SAFECOMP":
   url: https://www.safecomp.org
-  color: "#D32F2F" # Red 700 — contrast 4.8:1 with white
+  color: "#D32F2F"
   text_color: "#ffffff"
+  dark_color: "#EF9A9A"
+  dark_text_color: "#212121"
 
 "DSN-W":
   url: https://dsn.org
-  color: "#EF9A9A" # Red 200 — contrast 7.6:1 with dark
-  text_color: "#212121"
+  color: "#C62828"
+  text_color: "#ffffff"
+  dark_color: "#EF9A9A"
+  dark_text_color: "#212121"
 
 # --- Simulation (teal) ---
 
 "SIMULTECH":
   url: https://simultech.scitevents.org
-  color: "#00796B" # Teal 700 — contrast 4.9:1 with white
+  color: "#00796B"
   text_color: "#ffffff"
+  dark_color: "#4DB6AC"
+  dark_text_color: "#212121"
 
 "ANNSIM":
   url: https://scs.org/annsim
-  color: "#4DB6AC" # Teal 300 — contrast 6.6:1 with dark
-  text_color: "#212121"
+  color: "#00695C"
+  text_color: "#ffffff"
+  dark_color: "#4DB6AC"
+  dark_text_color: "#212121"
 
 "SIMULATION":
   url: https://journals.sagepub.com/home/sim
-  color: "#B2DFDB" # Teal 100 — contrast ~12:1 with dark
-  text_color: "#212121"
+  color: "#00897B"
+  text_color: "#ffffff"
+  dark_color: "#B2DFDB"
+  dark_text_color: "#212121"
 
 # --- Digital twins / EDTconf (pink) ---
 
 "EDTconf":
   url: https://edtconf.org
-  color: "#C2185B" # Pink 700 — contrast 5.7:1 with white
+  color: "#C2185B"
   text_color: "#ffffff"
+  dark_color: "#F48FB1"
+  dark_text_color: "#212121"
 
 # --- Other MDE workshops / conferences ---
 
 "MODELSWARD":
   url: https://modelsward.scitevents.org
-  color: "#5D4037" # Brown 700 — contrast 8.3:1 with white
+  color: "#5D4037"
   text_color: "#ffffff"
+  dark_color: "#A1887F"
+  dark_text_color: "#212121"
 
 "SummerSim":
   url: https://scs.org/summersim
-  color: "#33691E" # Light Green 900 — contrast 6.1:1 with white
+  color: "#33691E"
   text_color: "#ffffff"
+  dark_color: "#AED581"
+  dark_text_color: "#212121"
 
 "ICSMM":
-  color: "#546E7A" # Blue Grey 600 — contrast 4.9:1 with white
+  url: https://staf2020.hvl.no/events/icsmm2020/
+  color: "#546E7A"
   text_color: "#ffffff"
+  dark_color: "#90A4AE"
+  dark_text_color: "#212121"
 
 "SAM":
-  color: "#512DA8" # Deep Purple 700 — contrast 8.7:1 with white
+  url: https://www.sam-lang.org
+  color: "#512DA8"
   text_color: "#ffffff"
+  dark_color: "#B39DDB"
+  dark_text_color: "#212121"
 
 "AMT":
-  color: "#FFB300" # Amber 700 — contrast 8.9:1 with dark
+  url: https://ceur-ws.org/Vol-1500/
+  color: "#F9A825"
   text_color: "#212121"
+  dark_color: "#FFD54F"
+  dark_text_color: "#212121"
 
 "OntoDT":
-  color: "#BF360C" # Deep Orange 800 — contrast 5.3:1 with white
+  url: https://2021-eu.semantics.cc/satellite-events/ontology-driven-conceptual-modelling-digital-twins-odcm-dt
+  color: "#BF360C"
   text_color: "#ffffff"
+  dark_color: "#FF8A65"
+  dark_text_color: "#212121"
 
 "MDEbug":
-  color: "#9E9E9E" # Grey 500 — contrast 6.2:1 with dark
-  text_color: "#212121"
+  url: https://msdl.uantwerpen.be/conferences/MDEbug/2018/
+  color: "#757575"
+  text_color: "#ffffff"
+  dark_color: "#BDBDBD"
+  dark_text_color: "#212121"
 
 "ICGT":
   url: https://www.springer.com/conference/graph-transformations
-  color: "#303F9F" # Indigo 700 — contrast 8.6:1 with white
+  color: "#303F9F"
   text_color: "#ffffff"
+  dark_color: "#7986CB"
+  dark_text_color: "#212121"
 
 # --- Meta categories ---
 
-"Book":
-  color: "#6D4C41" # Brown 600 — contrast 7.0:1 with white
+"Book Chapter":
+  color: "#6D4C41"
   text_color: "#ffffff"
+  dark_color: "#A1887F"
+  dark_text_color: "#212121"
 
 "TECH":
-  color: "#455A64" # Blue Grey 700 — contrast 6.7:1 with white
+  url: https://www.cs.mcgill.ca/research/tech_reports/
+  color: "#455A64"
   text_color: "#ffffff"
+  dark_color: "#90A4AE"
+  dark_text_color: "#212121"
 
 "Ph.D.":
-  color: "#1A237E" # Indigo 900 — very dark, white passes easily
+  url: https://escholarship.mcgill.ca/concern/theses/37720g196
+  color: "#1A237E"
   text_color: "#ffffff"
+  dark_color: "#5C6BC0"
+  dark_text_color: "#ffffff"
 
 "M.Sc.":
-  color: "#37474F" # Blue Grey 800 — contrast 9.1:1 with white
+  url: https://escholarship.mcgill.ca/concern/theses/fj236563h
+  color: "#37474F"
   text_color: "#ffffff"
+  dark_color: "#78909C"
+  dark_text_color: "#ffffff"

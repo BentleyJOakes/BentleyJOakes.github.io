@@ -7,9 +7,19 @@
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = 'style="background-color:' | append: site.data.venues[entry.abbr].color %}
+            {% assign venue_style = 'style="--venue-bg:' | append: site.data.venues[entry.abbr].color %}
             {% if site.data.venues[entry.abbr].text_color != blank %}
-              {% assign venue_style = venue_style | append: '; color:' | append: site.data.venues[entry.abbr].text_color %}
+              {% assign venue_style = venue_style | append: '; --venue-text:' | append: site.data.venues[entry.abbr].text_color %}
+            {% endif %}
+            {% if site.data.venues[entry.abbr].dark_color != blank %}
+              {% assign venue_style = venue_style | append: '; --venue-bg-dark:' | append: site.data.venues[entry.abbr].dark_color %}
+            {% endif %}
+            {% if site.data.venues[entry.abbr].dark_text_color != blank %}
+              {% assign venue_style = venue_style | append: '; --venue-text-dark:' | append: site.data.venues[entry.abbr].dark_text_color %}
+            {% endif %}
+            {% assign venue_style = venue_style | append: '; background-color: var(--venue-bg)' %}
+            {% if site.data.venues[entry.abbr].text_color != blank %}
+              {% assign venue_style = venue_style | append: '; color: ' | append: site.data.venues[entry.abbr].text_color %}
             {% endif %}
             {% assign venue_style = venue_style | append: '"' %}
           {%- endif -%}
@@ -19,8 +29,9 @@
               {{ venue_style }}
             {% endif -%}
           >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+            {% assign badge_url = entry.abbr_url | default: site.data.venues[entry.abbr].url %}
+            {% if badge_url %}
+              <a href="{{ badge_url }}">{{ entry.abbr }}</a>
             {% else %}
               <div>{{- entry.abbr -}}</div>
             {% endif %}
@@ -224,7 +235,7 @@
       {% if entry.award %}
         <div class="links-center">
           <a class="award btn btn-sm z-depth-0" role="button">
-            {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+            <i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>{%- if entry.award_name %}{{ entry.award_name }}{% else %}Best Paper{% endif -%}
           </a>
         </div>
       {% endif %}
