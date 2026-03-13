@@ -160,6 +160,14 @@ Parts of this course are based on the textbook [The Engineering of Digital Twins
 | 14 | Apr 10 | Student presentations | |
 | 15 | Apr 16 | Course review | |
 
+## What Students Say
+
+> *"The course is very engaging and hands-on."*
+
+> *"The course project is one of the most valuable components of the course. It forces a deeper understanding of Digital Twin architecture by moving from conceptual discussion to system-level implementation, and provides a realistic view of how complex DT systems are built and analyzed."*
+
+> *"The discussions and classes are very informational. It provides basis for the understanding the space of Digital Twins. Technologies can be learned quickly, but how to think about DTs and how they connect practically come from these discussions. It is terrific!"*
+
 ## Potential Students
 
 <div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
