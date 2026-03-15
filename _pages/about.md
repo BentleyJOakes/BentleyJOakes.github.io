@@ -75,5 +75,6 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 <div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 Prof. Bentley Oakes is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal in Canada. He completed his Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal.
 
-His interests and experiences are diverse, ranging from Digital Twins (including their structure, construction, and reporting) to model-driven engineering, ontologies, verification and validation (including formal verification), machine learning, co-simulation, and many other topics. His research focuses on capturing and utilizing the domain knowledge possessed by domain experts, such that they can more easily construct and reason about their complex systems.
+His interests and experiences are diverse, ranging from Digital Twins (including their structure, construction, and reporting) to model-driven engineering, ontologies, verification and validation, machine learning, and many other topics. His current research focuses on tools and methods that help domain experts model, construct, and reason about complex systems, with a particular focus on Digital Twin engineering.
+
 </div>
