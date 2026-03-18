@@ -181,6 +181,11 @@ cv:
           - "COMP 251 - Data Structures and Algorithms (×3)"
 
     Invited Talks and Presentations:
+      - name: Guest lecture — Engineering Digital Twins course, McMaster University
+        date: "Mar. 2026"
+        highlights:
+          - "Host: Prof. Istvan David"
+          - "*What Does Your Digital Twin Do? A Framework and Tooling for Systematic DT Reporting*"
       - name: Invited talk — SIG LLODIA (Lecture #3)
         date: "Jan. 2026"
         highlights:
