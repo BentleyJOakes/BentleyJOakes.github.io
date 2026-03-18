@@ -157,6 +157,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-honoured-to-serve-on-the-program-committee-for-the-ieee-acm-international-conference-on-automated-software-engineering-ase-2026",
           title: 'I’m honoured to serve on the Program Committee for the IEEE/ACM International Conference...',
           description: "",
+          section: "News",},{id: "news-i-was-pleased-to-present-a-guest-lecture-in-prof-istvan-david-s-engineering-digital-twins-course-cas-782-at-mcmaster-university-titled-what-does-your-digital-twin-do-a-framework-and-tooling-for-systematic-dt-reporting-slides",
+          title: 'I was pleased to present a guest lecture in Prof. Istvan David’s Engineering...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
