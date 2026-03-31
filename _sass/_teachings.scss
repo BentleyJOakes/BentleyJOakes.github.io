@@ -40,10 +40,19 @@
       &:last-child {
         white-space: nowrap;
         font-size: 0.8rem;
-        color: var(--global-theme-color);
+        color: var(--global-text-color);
         font-weight: 600;
       }
     }
+  }
+}
+
+.course-table--no-last-nowrap {
+  table td:last-child {
+    white-space: normal;
+    font-size: inherit;
+    color: inherit;
+    font-weight: inherit;
   }
 }
 

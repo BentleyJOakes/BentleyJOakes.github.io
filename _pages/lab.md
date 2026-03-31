@@ -15,15 +15,77 @@ nav: false
   object-position: center top;
   border-radius: 50%;
 }
+.lab-header-grid {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  grid-template-rows: auto auto;
+  gap: 0.75em 1.5em;
+  margin-bottom: 1.5rem;
+}
+.lab-header-grid .lab-logo {
+  grid-row: 1;
+  grid-column: 1;
+}
+.lab-header-grid .lab-intro {
+  grid-row: 1;
+  grid-column: 2;
+  align-self: center;
+}
+.lab-header-grid .lab-tags {
+  grid-row: 2;
+  grid-column: 1 / -1;
+  margin-top: 0;
+}
+.members-grid-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  text-align: center;
+}
+.members-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+@media (max-width: 600px) {
+  .lab-header-grid {
+    grid-template-columns: 1fr;
+  }
+  .lab-header-grid .lab-logo {
+    grid-row: 1;
+    grid-column: 1;
+    width: 100px;
+    margin: 0 auto;
+  }
+  .lab-header-grid .lab-intro {
+    grid-row: 2;
+    grid-column: 1;
+  }
+  .lab-header-grid .lab-tags {
+    grid-row: 3;
+    grid-column: 1;
+  }
+  .members-grid-3,
+  .members-grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+@media (min-width: 601px) and (max-width: 900px) {
+  .members-grid-3 {
+    grid-template-columns: 1fr 1fr;
+  }
+}
 </style>
 
-<div style="display: grid; grid-template-columns: 140px 1fr; grid-template-rows: auto auto; gap: 0.75em 1.5em; margin-bottom: 1.5rem;">
-  <img alt="Oakes Lab logo" src="/assets/img/logo_colours_new.png" style="width: 140px; grid-row: 1; grid-column: 1;" />
-  <div style="grid-row: 1; grid-column: 2; align-self: center;">
+<div class="lab-header-grid">
+  <img alt="Oakes Lab logo" src="/assets/img/logo_colours_new.png" style="width: 140px;" class="lab-logo" />
+  <div class="lab-intro">
     <p style="font-size: 0.85em; font-style: italic; margin-bottom: 0.5rem;"><b>O</b>bjective: <b>A</b>ccelerating <b>K</b>nowledge <b>E</b>ngineering for Complex <b>S</b>ystems</p>
     <p style="margin-bottom: 0;">We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.</p>
   </div>
-  <div class="pub-filter-bar" style="grid-row: 2; grid-column: 1 / -1; margin-top: 0;">
+  <div class="pub-filter-bar lab-tags">
     {% for tag in site.data.pub_tags limit: 4 %}
     <a href="/publications/?tag={{ tag.id }}#all-publications" class="pub-filter-btn" style="--card-color: {{ tag.color }}; text-decoration: none; border-left: 3px solid {{ tag.color }};">
       <span class="filter-label">{{ tag.label }}</span>
@@ -35,7 +97,7 @@ nav: false
 
 ## Lab Members
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; text-align: center;">
+<div class="members-grid-3">
   <div>
     <img src="/assets/img/students/kfiter_small.png" alt="kerian_fiter" class="member-photo"><br>
     <a href="https://kerianfiter.github.io/"><b>Kérian Fiter</b></a><br>
@@ -57,7 +119,7 @@ nav: false
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; margin-top: 20px;">
+<div class="members-grid-2">
   <div>
     <img src="/assets/img/students/gabrielle.jpeg" alt="gabrielle_gallant" class="member-photo"><br>
     <a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
@@ -82,12 +144,16 @@ nav: false
 
 ### Alumni Students/Interns
 
+<div class="course-table course-table--no-last-nowrap" markdown="1">
+
 | **Name** | **Role** | **Years** | **Topic** |
 | -------- | -------- | --------- | --------- |
 | *[Mikkel Schmidt Andersen](https://scholar.google.com/citations?user=egH56LUAAAAJ)* | Research intern | 2025 | Probabilistic DT update scheduling |
 | *[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of DT architectures — [DTInsight paper](/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf) |
 | *[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant | 2024 | Implementation of modelled machine learning pipelines |
 | *[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023–2024 | Ontological modelling of machine learning pipelines |
+
+</div>
 
 <div style="margin-top: 2.5rem;"></div>
 
