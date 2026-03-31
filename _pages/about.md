@@ -37,16 +37,18 @@ I am a researcher in the [artificial intelligence consortium IVADO](https://ivad
 
 <div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 Our research in the Oakes lab focuses on **enabling domain experts to efficiently capture and utilise their knowledge through an intelligent model-driven approach, to support knowledge engineering for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process.
+
+**[Interested in joining the Oakes Lab?](/join/)**
 </div>
 
 <div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 ### My main research interests:
-- [digital twins](/dte_course/), including their structure, [construction](/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf), and [reporting](/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf)
-- representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/assets/publications/Elaasar2023%20-%20openCAESAR%20Balancing%20Agility%20and%20Rigor%20in%20Model-Based%20Systems%20Engineering.pdf)
-- verification and validation of cyber-physical systems, including [formal verification](/assets/publications/Bernaerts2019%20-%20Validating%20Industrial%20Requirements%20with%20a%20Contract-Based%20Approach.pdf)
-- the application of [machine learning to cyber-physical systems](/assets/publications/Moradi2020%20-%20Exploring%20Fault%20Parameter%20Space%20using%20Reinforcement%20Learning-based%20Fault%20Injection.pdf)
+- [digital twins](/dte_course/), including their structure, [construction](/publications/#Oakes2024ServiceDriven), and [reporting](/publications/#Gil2024towardssystematicreporting)
+- representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/publications/#Elaasar2023opencaesar)
+- verification and validation of cyber-physical systems, including [formal verification](/publications/#Bernaerts2019)
+- the application of [machine learning to cyber-physical systems](/publications/#Moradi2020)
 - model-driven engineering techniques
-- [model transformations and their verification](/assets/publications/Oakes2018%20-%20A%20Symbolic%20Execution-Based%20Approach%20To%20Model%20Transformation%20Verification%20using%20Structural%20Contracts.pdf)
+- [model transformations and their verification](/publications/#Oakes2018)
 - and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
 </div>
@@ -62,13 +64,13 @@ I enjoy my time as reviewer and program committee member for software engineerin
 
 
 ### Academic background
-Previously, I was a post-doctoral researcher at the [GEODES lab](http://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal for two years. My research topic was on the modelling of [domain-specific machine learning workflows](https://doi.org/10.1145/3638243).
+Previously, I was a post-doctoral researcher at the [GEODES lab](https://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal for two years. My research topic was on the modelling of [domain-specific machine learning workflows](https://doi.org/10.1145/3638243).
 
 Before that, I was a post-doctoral researcher at the University of Antwerp in Belgium for three years. I worked on a variety of topics along with industrial partners as part of the [Flanders Make](https://www.flandersmake.be) strategic research centre, including verification of cyber-physical systems, configuring of co-simulations, and developing conceptual frameworks for digital twins.
 
 I received my PhD at McGill University in 2019 on the topic of [model transformation verification](/assets/publications/Oakes2018%20-%20A%20Symbolic%20Execution-Based%20Approach%20To%20Model%20Transformation%20Verification%20using%20Structural%20Contracts.pdf). During this period, I was an instructor for the Introduction to Programming course at McGill for three terms. I also was a visiting researcher at the [General Motors Technical Center](https://www.gm.com/company/facilities/warren-tech-center) in Michigan, USA and the [fortiss research institute](https://www.fortiss.org/) in Munich, Germany.
 
-During my bachelor's degree at the University of Manitoba, I held three internships as part of the co-operative program. The first internship was at [Blackberry](https://www.blackberry.com) (formerly Research in Motion) in Waterloo, ON. The topic of this internship was on cryptographic communication protocols. The second and third internships were at [Electronic Arts](https://www.ea.com) in Montréal, QC. These internships focused on prototyping artificial intelligence solutions in video games.
+During my bachelor's degree at the University of Manitoba, I held three internships as part of the co-operative program. The first internship was at [BlackBerry](https://www.blackberry.com) (formerly Research in Motion) in Waterloo, ON. The topic of this internship was on cryptographic communication protocols. The second and third internships were at [Electronic Arts](https://www.ea.com) in Montréal, QC. These internships focused on prototyping artificial intelligence solutions in video games.
 
 ### Talk bio
 

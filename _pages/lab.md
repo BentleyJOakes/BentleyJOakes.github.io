@@ -15,19 +15,19 @@ We start with the expert's domain knowledge, capture it in models, and then util
 
 
 <div class="pub-filter-bar" style="margin-top: 0.75rem;">
-  <a href="/publications/?tag=digital-twins#all-publications" class="pub-filter-btn" style="text-decoration: none; border-left: 3px solid #ED1C24;">
+  <a href="/publications/?tag=digital-twins#all-publications" class="pub-filter-btn" style="--card-color: #ED1C24; text-decoration: none; border-left: 3px solid #ED1C24;">
     <span class="filter-label">Digital Twins</span>
     <span class="filter-desc">Construction, reporting, and monitoring of DT systems for cyber-physical systems</span>
   </a>
-  <a href="/publications/?tag=systems-engineering#all-publications" class="pub-filter-btn" style="text-decoration: none; border-left: 3px solid #F15A22;">
+  <a href="/publications/?tag=systems-engineering#all-publications" class="pub-filter-btn" style="--card-color: #F15A22; text-decoration: none; border-left: 3px solid #F15A22;">
     <span class="filter-label">Systems Engineering</span>
     <span class="filter-desc">Model-based systems engineering, MDE frameworks, and knowledge capture for complex systems</span>
   </a>
-  <a href="/publications/?tag=ml-for-engineering#all-publications" class="pub-filter-btn" style="text-decoration: none; border-left: 3px solid #25B34B;">
+  <a href="/publications/?tag=ml-for-engineering#all-publications" class="pub-filter-btn" style="--card-color: #25B34B; text-decoration: none; border-left: 3px solid #25B34B;">
     <span class="filter-label">ML for Engineering</span>
     <span class="filter-desc">Applying machine learning to accelerate engineering tasks for complex systems</span>
   </a>
-  <a href="/publications/?tag=knowledge-representation#all-publications" class="pub-filter-btn" style="text-decoration: none; border-left: 3px solid #00BDF2;">
+  <a href="/publications/?tag=knowledge-representation#all-publications" class="pub-filter-btn" style="--card-color: #00BDF2; text-decoration: none; border-left: 3px solid #00BDF2;">
     <span class="filter-label">Knowledge Representation</span>
     <span class="filter-desc">Ontologies, knowledge graphs, and semantic modelling for complex systems</span>
   </a>

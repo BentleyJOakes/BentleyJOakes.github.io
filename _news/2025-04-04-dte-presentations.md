@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was thrilled to see the [student presentations in my Digital Twin Engineering class](https://bentleyjoakes.github.io/dte_course/)!
+I was thrilled to see the [student presentations in my Digital Twin Engineering class](https://bentleyoakes.com/dte_course/)!

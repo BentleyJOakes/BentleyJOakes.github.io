@@ -18,15 +18,15 @@ I am actively looking for motivated and talented individuals for **undergraduate
   </div>
   <div style="border-left: 4px solid #F15A22; padding: 0.5em 1em;">
     <b>Quality of Digital Twin Models and Systems</b><br>
-    Analyzing and improving the quality of DT models and systems. <a href="https://bentleyjoakes.github.io/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf">[paper]</a>
+    Analyzing and improving the quality of DT models and systems. <a href="https://bentleyoakes.com/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf">[paper]</a>
   </div>
   <div style="border-left: 4px solid #25B34B; padding: 0.5em 1em;">
     <b>Explainability of Digital Twin Architectures</b><br>
-    Improving the explainability of DT architecture and service results. <a href="https://bentleyjoakes.github.io/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf">[paper]</a>
+    Improving the explainability of DT architecture and service results. <a href="https://bentleyoakes.com/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf">[paper]</a>
   </div>
   <div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em;">
     <b><a href="https://www.polymtl.ca/expertises/application-de-lapprentissage-automatique-pour-accelerer-la-construction-de-jumeaux-numeriques">ML and Ontological Modelling for DT Construction</a></b> — Master's and PhD (funded)<br>
-    Utilizing machine learning (RL, LLMs, recommendations) and ontological modelling for DT construction and evolution. <a href="https://bentleyjoakes.github.io/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf">[paper]</a>
+    Utilizing machine learning (RL, LLMs, recommendations) and ontological modelling for DT construction and evolution. <a href="https://bentleyoakes.com/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf">[paper]</a>
   </div>
 </div>
 

@@ -46,3 +46,13 @@ nav_order: 1
 {% bibliography %}
 
 </div>
+
+<script>
+  window.addEventListener('load', function () {
+    if (window.location.hash) {
+      const matches = document.querySelectorAll(window.location.hash);
+      const el = Array.from(matches).find(e => !e.closest('.publications-selected')) || matches[0];
+      if (el) el.scrollIntoView();
+    }
+  });
+</script>

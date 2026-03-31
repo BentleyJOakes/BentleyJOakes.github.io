@@ -1,6 +1,6 @@
 <div class="pub-filter-bar" role="group" aria-label="Filter publications by research theme">
   <div class="pub-filter-row">
-    <button class="pub-filter-btn active" data-tag="all" style="border-left: 3px solid #D4AF37;">
+    <button class="pub-filter-btn active" data-tag="all" style="--card-color: #D4AF37; border-left: 3px solid #D4AF37;">
       <span class="filter-label">All</span>
       <span class="filter-desc">Show all publications</span>
     </button>
@@ -8,7 +8,7 @@
   <div class="pub-filter-row">
     {% for tag in site.data.pub_tags %}
       {% if forloop.index <= 4 %}
-        <button class="pub-filter-btn" data-tag="{{ tag.id }}"{% if tag.color %} style="border-left: 3px solid {{ tag.color }};"{% endif %}>
+        <button class="pub-filter-btn" data-tag="{{ tag.id }}"{% if tag.color %} style="--card-color: {{ tag.color }}; border-left: 3px solid {{ tag.color }};"{% endif %}>
           <span class="filter-label">{{ tag.label }}</span>
           <span class="filter-desc">{{ tag.description }}</span>
         </button>
@@ -18,7 +18,7 @@
   <div class="pub-filter-row">
     {% for tag in site.data.pub_tags %}
       {% if forloop.index > 4 %}
-        <button class="pub-filter-btn" data-tag="{{ tag.id }}"{% if tag.color %} style="border-left: 3px solid {{ tag.color }};"{% endif %}>
+        <button class="pub-filter-btn" data-tag="{{ tag.id }}"{% if tag.color %} style="--card-color: {{ tag.color }}; border-left: 3px solid {{ tag.color }};"{% endif %}>
           <span class="filter-label">{{ tag.label }}</span>
           <span class="filter-desc">{{ tag.description }}</span>
         </button>

@@ -6,6 +6,8 @@ nav: true
 nav_order: 2
 _styles: >
   article h4 { margin-top: 2rem; }
+  .jump-nav { display: flex; justify-content: center; gap: 0.4rem; margin: 0.4rem 0; }
+  .jump-pill { font-size: 0.8rem; padding: 0.2rem 0.65rem; border: 1px solid var(--global-theme-color); border-radius: 999px; color: var(--global-theme-color); text-decoration: none; font-weight: 500; }
 ---
 
 <!-- Intro -->
@@ -14,7 +16,20 @@ _styles: >
 
 ---
 
-**Jump to:** [Lead Organizer](#lead-organizer) &nbsp;·&nbsp; [Organising Committee](#organising-committee-member) &nbsp;·&nbsp; [Invited Talks](#invited-talks--presentations) &nbsp;·&nbsp; [Program Committee](#program-committee-member) &nbsp;·&nbsp; [Journal Reviewer](#journal-reviewer) &nbsp;·&nbsp; [Grant Reviewer](#grant-reviewer) &nbsp;·&nbsp; [Guest Editor](#guest-editor-for-journal-special-issue) &nbsp;·&nbsp; [Jury Member](#jury-member) &nbsp;·&nbsp; [Panelist](#panelist) &nbsp;·&nbsp; [Departmental Service](#departmental-service)
+<div class="jump-nav">
+  <a href="#lead-organizer" class="jump-pill">Lead Organizer</a>
+  <a href="#organising-committee-member" class="jump-pill">Organising Committee</a>
+  <a href="#invited-talks--presentations" class="jump-pill">Invited Talks</a>
+  <a href="#program-committee-member" class="jump-pill">Program Committee</a>
+  <a href="#journal-reviewer" class="jump-pill">Journal Reviewer</a>
+</div>
+<div class="jump-nav">
+  <a href="#grant-reviewer" class="jump-pill">Grant Reviewer</a>
+  <a href="#guest-editor-for-journal-special-issue" class="jump-pill">Guest Editor</a>
+  <a href="#jury-member" class="jump-pill">Jury Member</a>
+  <a href="#panelist" class="jump-pill">Panelist</a>
+  <a href="#departmental-service" class="jump-pill">Departmental Service</a>
+</div>
 
 ---
 
@@ -74,7 +89,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [DIGITA Workshop](https://digita-percom.github.io/2025/) (co-located with PerCom) | 2026 |
 | [International Workshop on Architecting and Engineering Digital Twins (AEDT)](https://conf.researchr.org/info/icsa-2025/AEDT) | 2025, 2026 |
 | [Workshop on Artificial Intelligence and Model-Driven Engineering (MDE Intelligence)](https://mde-intelligence.github.io/) | 2022, 2023, 2024 |
-| [International Workshop on Models and Evolution](http://www.models-and-evolution.com/2022/) | 2022 |
+| [International Workshop on Models and Evolution](https://www.models-and-evolution.com/2022/) | 2022 |
 | [ACM Student Research Competition](https://conf.researchr.org/track/models-2022/models-2022-acm-student-research-competition) | 2022 |
 | [Spring Simulation Conference](https://scs.org/2020springsim-program-archive/) | 2020 |
 | [Summer Simulation Conference](https://scs.org/2020summersim-archive/) | 2019, 2020 |
