@@ -262,6 +262,11 @@ cv:
           - "*Capturing and Utilising Domain-Specific Knowledge*"
 
     Community Building:
+      - name: "Workshop Organizer — onto:Nexus Workshop 2026 (International Workshop on Ontological Modeling and Analysis)"
+        date: "2026"
+        highlights:
+          - "Co-located with MODELS 2026, Malaga, Spain."
+          - "Co-organizers: Maged Elaasar (Chair), Wahab Hamou-Lhadj, Mohammad Hamdaqa, Eduard Kamburjan"
       - name: "Workshop Organizer — onto:Nexus Workshop 2025 (International Workshop on Ontological Modeling and Analysis)"
         date: "Oct. 2025"
         highlights:
