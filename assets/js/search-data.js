@@ -9,14 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "Peer-reviewed publications by Dr. Bentley Oakes on digital twins, model-driven engineering, model transformations, co-simulation, and cyber-physical systems verification.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-community-building",
+  },{id: "dropdown-research-topics",
+              title: "Research Topics",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/";
+              },
+            },{id: "dropdown-publications",
+              title: "Publications",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "nav-community-building",
           title: "Community-Building",
           description: "",
           section: "Navigation",
