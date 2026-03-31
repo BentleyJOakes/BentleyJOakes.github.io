@@ -13,11 +13,20 @@ profile:
   image: BentleyOakes-headshot.jpg
   image_circular: false
   more_info: >
-    <p>Office M-4107, Pavillons Lassonde</p>
-    <p>Polytechnique Montréal</p>
-    <p>2700 Chemin de la Tour</p>
-    <p>Montréal, QC, Canada H3T 1J4</p>
-    <p><a href="mailto:bentley.oakes@polymtl.ca">bentley.oakes@polymtl.ca</a></p>
+    <div style="display:flex;gap:0.4em;align-items:flex-start">
+      <i class="fas fa-location-dot fa-fw" style="padding-top:2px;flex-shrink:0"></i>
+      <div>
+        <div>Office M-4107, Pavillons Lassonde</div>
+        <div>Polytechnique Montréal</div>
+        <div>2700 Chemin de la Tour</div>
+        <div>Montréal, QC, Canada H3T 1J4</div>
+      </div>
+    </div>
+    <div style="margin-top:0.4rem">
+      <a href="mailto:bentley.oakes@polymtl.ca">
+        <i class="fas fa-envelope fa-fw"></i> bentley.oakes@polymtl.ca
+      </a>
+    </div>
 
 selected_papers: true
 social: true

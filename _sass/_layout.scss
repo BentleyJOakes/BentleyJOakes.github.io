@@ -33,11 +33,30 @@ body.sticky-bottom-footer {
   max-width: v.$max-content-width;
 }
 
+// News
+.news {
+  table {
+    tr:not(:last-child) {
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+
+    th {
+      color: var(--global-text-color);
+      font-size: 0.85rem;
+      white-space: nowrap;
+      font-weight: 600;
+      width: 1% !important;
+      padding-right: 1.5rem !important;
+    }
+  }
+}
+
 // Profile
 .profile {
   img {
     width: 100%;
     border-radius: 1rem !important;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25) !important;
   }
 }
 
