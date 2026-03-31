@@ -3,9 +3,6 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <b>Assistant Professor</b> &mdash;
-  <a href="https://www.polymtl.ca/gigl/">Department of Computer and Software Engineering (GIGL)</a>,
-  Polytechnique Montréal, Canada<br>
   <em>Helping domain experts capture and utilise their knowledge to engineer complex cyber-physical systems.</em>
 
 profile:
@@ -42,12 +39,10 @@ latest_posts:
   limit: 3
 ---
 
-I am a researcher in the [artificial intelligence consortium IVADO](https://ivado.ca/en/). Polytechnique Montréal is also affiliated with the [Université de Montréal](https://www.umontreal.ca/) and the [Quebec Artificial Intelligence Institute (Mila)](https://mila.quebec/en).
-
 <div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-Our research in the Oakes lab focuses on **enabling domain experts to efficiently capture and utilise their knowledge through an intelligent model-driven approach, to support knowledge engineering for complex cyber-physical systems**. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process.
+I am an Assistant Professor in the [Department of Computer and Software Engineering (GIGL)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada, where I lead the OAKES lab. I completed my Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal. My research focuses on tools and methods that help domain experts model, construct, and reason about complex systems, with a particular emphasis on Digital Twin engineering. Recent recognized work includes contributions on ontological service-driven engineering of Digital Twins and systematic reporting frameworks.
 
-**[Interested in joining the Oakes Lab?](/join/)**
+I am a researcher in the [artificial intelligence consortium IVADO](https://ivado.ca/en/), and Polytechnique Montréal is affiliated with the [Université de Montréal](https://www.umontreal.ca/) and the [Quebec Artificial Intelligence Institute (Mila)](https://mila.quebec/en).
 </div>
 
 ### Research interests
@@ -62,13 +57,19 @@ I enjoy working across a variety of research fields, in collaboration with acade
 - model-driven engineering techniques
 - [model transformations and their verification](/publications/#Oakes2018)
 - and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
+
+See my [research page](/research/) for more detail on each area.
 </div>
 
 ### Service and teaching
 
-I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
+I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops.
 
 <div style="border-left: 4px solid #F15A22; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+I am the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, a regular seminar series for software engineering researchers in Montreal.
+</div>
+
+<div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 {% include dte_course_blurb.liquid %}
 </div>
 
@@ -82,11 +83,3 @@ I received my PhD at McGill University in 2019 on the topic of [model transforma
 
 During my bachelor's degree at the University of Manitoba, I held three internships as part of the co-operative program. The first internship was at [BlackBerry](https://www.blackberry.com) (formerly Research in Motion) in Waterloo, ON. The topic of this internship was on cryptographic communication protocols. The second and third internships were at [Electronic Arts](https://www.ea.com) in Montréal, QC. These internships focused on prototyping artificial intelligence solutions in video games.
 
-### Talk bio
-
-<div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-Prof. Bentley Oakes is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal in Canada, where he leads the OAKES lab. He completed his Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal.
-
-His research focuses on tools and methods that help domain experts model, construct, and reason about complex systems, with a particular emphasis on Digital Twin engineering. Recent recognized work includes contributions on ontological service-driven engineering of Digital Twins and systematic reporting frameworks.
-
-</div>

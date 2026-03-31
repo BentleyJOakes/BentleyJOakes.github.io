@@ -15,6 +15,19 @@ nav: false
   object-position: center top;
   border-radius: 50%;
 }
+.members-grid-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  text-align: center;
+}
+.members-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
 .lab-header-grid {
   display: grid;
   grid-template-columns: 140px 1fr;
@@ -36,20 +49,11 @@ nav: false
   grid-column: 1 / -1;
   margin-top: 0;
 }
-.members-grid-3 {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 20px;
-  text-align: center;
-}
-.members-grid-2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  text-align: center;
-  margin-top: 20px;
-}
 @media (max-width: 600px) {
+  .members-grid-3,
+  .members-grid-2 {
+    grid-template-columns: 1fr;
+  }
   .lab-header-grid {
     grid-template-columns: 1fr;
   }
@@ -67,10 +71,6 @@ nav: false
     grid-row: 3;
     grid-column: 1;
   }
-  .members-grid-3,
-  .members-grid-2 {
-    grid-template-columns: 1fr;
-  }
 }
 @media (min-width: 601px) and (max-width: 900px) {
   .members-grid-3 {
@@ -87,7 +87,7 @@ nav: false
   </div>
   <div class="pub-filter-bar lab-tags">
     {% for tag in site.data.pub_tags limit: 4 %}
-    <a href="/publications/?tag={{ tag.id }}#all-publications" class="pub-filter-btn" style="--card-color: {{ tag.color }}; text-decoration: none; border-left: 3px solid {{ tag.color }};">
+    <a href="/research/#{{ tag.id }}" class="pub-filter-btn" style="--card-color: {{ tag.color }}; text-decoration: none; border-left: 3px solid {{ tag.color }};">
       <span class="filter-label">{{ tag.label }}</span>
       <span class="filter-desc">{{ tag.lab_description | default: tag.description }}</span>
     </a>
