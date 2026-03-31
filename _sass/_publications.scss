@@ -322,3 +322,17 @@ html[data-theme="dark"] .publications abbr.badge {
     color: inherit;
   }
 }
+
+@keyframes pub-highlight {
+  0% {
+    background-color: color-mix(in srgb, var(--global-theme-color) 30%, transparent);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+.pub-anchor-highlight {
+  animation: pub-highlight 2s ease-out forwards;
+  border-radius: 4px;
+}

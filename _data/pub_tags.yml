@@ -1,21 +1,21 @@
 - id: digital-twins
   label: Digital Twins
-  description: Construction, reporting, monitoring
+  description: Construction, reporting, and monitoring of DT systems for cyber-physical systems
   color: "#ED1C24"
 
 - id: systems-engineering
   label: Systems Engineering
-  description: MBSE, MDE frameworks, IoT
+  description: Model-based systems engineering, MDE frameworks, and knowledge capture for complex systems
   color: "#F15A22"
 
 - id: ml-for-engineering
-  label: ML for Engineering
-  description: ML/RL-assisted engineering
+  label: Machine Learning for Engineering
+  description: Applying machine learning to accelerate engineering tasks for complex systems
   color: "#25B34B"
 
 - id: knowledge-representation
   label: Knowledge Representation
-  description: Ontologies, knowledge graphs, semantic modelling
+  description: Ontologies, knowledge graphs, and semantic modelling for complex systems
   color: "#00BDF2"
 
 - id: model-transformations

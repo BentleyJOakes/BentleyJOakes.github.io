@@ -41,8 +41,9 @@ Our research in the Oakes lab focuses on **enabling domain experts to efficientl
 **[Interested in joining the Oakes Lab?](/join/)**
 </div>
 
-<div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 ### My main research interests:
+
+<div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 - [digital twins](/dte_course/), including their structure, [construction](/publications/#Oakes2024ServiceDriven), and [reporting](/publications/#Gil2024towardssystematicreporting)
 - representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/publications/#Elaasar2023opencaesar)
 - verification and validation of cyber-physical systems, including [formal verification](/publications/#Bernaerts2019)
@@ -75,8 +76,8 @@ During my bachelor's degree at the University of Manitoba, I held three internsh
 ### Talk bio
 
 <div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-Prof. Bentley Oakes is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal in Canada. He completed his Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal.
+Prof. Bentley Oakes is an Assistant Professor in the Department of Computer and Software Engineering at Polytechnique Montréal in Canada, where he leads the OAKES lab. He completed his Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal.
 
-His interests and experiences are diverse, ranging from Digital Twins (including their structure, construction, and reporting) to model-driven engineering, ontologies, verification and validation, machine learning, and many other topics. His current research focuses on tools and methods that help domain experts model, construct, and reason about complex systems, with a particular focus on Digital Twin engineering.
+His research focuses on tools and methods that help domain experts model, construct, and reason about complex systems, with a particular emphasis on Digital Twin engineering. Recent recognized work includes contributions on ontological service-driven engineering of Digital Twins and systematic reporting frameworks.
 
 </div>

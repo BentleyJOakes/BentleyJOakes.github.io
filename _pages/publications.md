@@ -52,7 +52,12 @@ nav_order: 1
     if (window.location.hash) {
       const matches = document.querySelectorAll(window.location.hash);
       const el = Array.from(matches).find(e => !e.closest('.publications-selected')) || matches[0];
-      if (el) el.scrollIntoView();
+      if (el) {
+        requestAnimationFrame(() => requestAnimationFrame(() => {
+          el.scrollIntoView({ block: 'center' });
+          el.classList.add('pub-anchor-highlight');
+        }));
+      }
     }
   });
 </script>

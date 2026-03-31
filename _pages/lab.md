@@ -7,35 +7,21 @@ description: >
 nav: false
 ---
 
-<img alt="Oakes Lab logo" src="/assets/img/logo_colours_new.png" style="float: left; width: 160px; margin: 0 1.5em 0.5em 0;" />
-
-<p style="font-size: 0.85em; font-style: italic;"><b>O</b>bjective: <b>A</b>ccelerating <b>K</b>nowledge <b>E</b>ngineering for Complex <b>S</b>ystems</p>
-
-We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.
-
-
-<div class="pub-filter-bar" style="margin-top: 0.75rem;">
-  <a href="/publications/?tag=digital-twins#all-publications" class="pub-filter-btn" style="--card-color: #ED1C24; text-decoration: none; border-left: 3px solid #ED1C24;">
-    <span class="filter-label">Digital Twins</span>
-    <span class="filter-desc">Construction, reporting, and monitoring of DT systems for cyber-physical systems</span>
-  </a>
-  <a href="/publications/?tag=systems-engineering#all-publications" class="pub-filter-btn" style="--card-color: #F15A22; text-decoration: none; border-left: 3px solid #F15A22;">
-    <span class="filter-label">Systems Engineering</span>
-    <span class="filter-desc">Model-based systems engineering, MDE frameworks, and knowledge capture for complex systems</span>
-  </a>
-  <a href="/publications/?tag=ml-for-engineering#all-publications" class="pub-filter-btn" style="--card-color: #25B34B; text-decoration: none; border-left: 3px solid #25B34B;">
-    <span class="filter-label">ML for Engineering</span>
-    <span class="filter-desc">Applying machine learning to accelerate engineering tasks for complex systems</span>
-  </a>
-  <a href="/publications/?tag=knowledge-representation#all-publications" class="pub-filter-btn" style="--card-color: #00BDF2; text-decoration: none; border-left: 3px solid #00BDF2;">
-    <span class="filter-label">Knowledge Representation</span>
-    <span class="filter-desc">Ontologies, knowledge graphs, and semantic modelling for complex systems</span>
-  </a>
+<div style="display: grid; grid-template-columns: 140px 1fr; grid-template-rows: auto auto; gap: 0.75em 1.5em; margin-bottom: 1.5rem;">
+  <img alt="Oakes Lab logo" src="/assets/img/logo_colours_new.png" style="width: 140px; grid-row: 1; grid-column: 1;" />
+  <div style="grid-row: 1; grid-column: 2; align-self: center;">
+    <p style="font-size: 0.85em; font-style: italic; margin-bottom: 0.5rem;"><b>O</b>bjective: <b>A</b>ccelerating <b>K</b>nowledge <b>E</b>ngineering for Complex <b>S</b>ystems</p>
+    <p style="margin-bottom: 0;">We start with the expert's domain knowledge, capture it in models, and then utilize it to better construct, optimize, verify, and validate complex systems.</p>
+  </div>
+  <div class="pub-filter-bar" style="grid-row: 2; grid-column: 1 / -1; margin-top: 0;">
+    {% for tag in site.data.pub_tags limit: 4 %}
+    <a href="/publications/?tag={{ tag.id }}#all-publications" class="pub-filter-btn" style="--card-color: {{ tag.color }}; text-decoration: none; border-left: 3px solid {{ tag.color }};">
+      <span class="filter-label">{{ tag.label }}</span>
+      <span class="filter-desc">{{ tag.description }}</span>
+    </a>
+    {% endfor %}
+  </div>
 </div>
-
-
-
-<div style="clear: both;"></div>
 
 ## Lab Members
 
