@@ -50,7 +50,9 @@ Our research in the Oakes lab focuses on **enabling domain experts to efficientl
 **[Interested in joining the Oakes Lab?](/join/)**
 </div>
 
-### My main research interests:
+### Research interests
+
+I enjoy working across a variety of research fields, in collaboration with academic and industrial partners:
 
 <div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 - [digital twins](/dte_course/), including their structure, [construction](/publications/#Oakes2024ServiceDriven), and [reporting](/publications/#Gil2024towardssystematicreporting)
@@ -60,17 +62,15 @@ Our research in the Oakes lab focuses on **enabling domain experts to efficientl
 - model-driven engineering techniques
 - [model transformations and their verification](/publications/#Oakes2018)
 - and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
-
 </div>
 
-### Teaching and service
+### Service and teaching
+
+I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
 
 <div style="border-left: 4px solid #F15A22; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
 {% include dte_course_blurb.liquid %}
 </div>
-
-
-I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops. I am also the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which is a regular seminar series for the software engineering researchers in Montreal.
 
 
 ### Academic background

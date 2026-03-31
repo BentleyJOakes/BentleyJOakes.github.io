@@ -89,7 +89,7 @@ nav: false
     {% for tag in site.data.pub_tags limit: 4 %}
     <a href="/publications/?tag={{ tag.id }}#all-publications" class="pub-filter-btn" style="--card-color: {{ tag.color }}; text-decoration: none; border-left: 3px solid {{ tag.color }};">
       <span class="filter-label">{{ tag.label }}</span>
-      <span class="filter-desc">{{ tag.description }}</span>
+      <span class="filter-desc">{{ tag.lab_description | default: tag.description }}</span>
     </a>
     {% endfor %}
   </div>

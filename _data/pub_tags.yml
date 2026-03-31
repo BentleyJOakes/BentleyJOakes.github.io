@@ -1,21 +1,25 @@
 - id: digital-twins
   label: Digital Twins
-  description: Construction, reporting, and monitoring of DT systems for cyber-physical systems
+  description: DT construction, monitoring & reporting
+  lab_description: Construction, reporting, and monitoring of DT systems for cyber-physical systems
   color: "#ED1C24"
 
 - id: systems-engineering
   label: Systems Engineering
-  description: Model-based systems engineering, MDE frameworks, and knowledge capture for complex systems
+  description: MBSE, MDE frameworks, knowledge capture
+  lab_description: Model-based systems engineering, MDE frameworks, and knowledge capturing for complex systems
   color: "#F15A22"
 
 - id: ml-for-engineering
-  label: Machine Learning for Engineering
-  description: Applying machine learning to accelerate engineering tasks for complex systems
+  label: Machine Learning for Engineering Tasks
+  description: Fault injection, rationale mining, model repair
+  lab_description: ML and RL for fault injection, safety analysis, rationale mining, and model repair
   color: "#25B34B"
 
 - id: knowledge-representation
   label: Knowledge Representation
-  description: Ontologies, knowledge graphs, and semantic modelling for complex systems
+  description: Ontologies, knowledge graphs, semantic modelling
+  lab_description: Ontologies, knowledge graphs, and semantic modelling to structure knowledge for complex systems
   color: "#00BDF2"
 
 - id: model-transformations

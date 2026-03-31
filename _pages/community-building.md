@@ -14,7 +14,7 @@ _styles: >
 
 <!-- Intro -->
 
-> *Building research communities should be more than just an expectation of being a professor — I sincerely think it is an opportunity to create spaces for not only researchers to share ideas, but also for students to learn to become the next generation of scholars. Here I share my continual activity to build and connect, and I invite you to do the same.*
+> *Building research communities is an opportunity, not an obligation. I aim to create spaces for researchers to share ideas, and for students to follow in their footsteps.*
 
 ---
 
