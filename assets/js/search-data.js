@@ -157,8 +157,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-honoured-to-serve-on-the-program-committee-for-the-ieee-acm-international-conference-on-automated-software-engineering-ase-2026",
           title: 'I’m honoured to serve on the Program Committee for the IEEE/ACM International Conference...',
           description: "",
-          section: "News",},{id: "news-i-was-pleased-to-present-a-guest-lecture-in-prof-istvan-david-s-engineering-digital-twins-course-cas-782-at-mcmaster-university-titled-what-does-your-digital-twin-do-a-framework-and-tooling-for-systematic-dt-reporting-slides",
-          title: 'I was pleased to present a guest lecture in Prof. Istvan David’s Engineering...',
+          section: "News",},{id: "news-it-was-a-pleasure-to-present-a-guest-lecture-in-prof-istvan-david-s-engineering-digital-twins-course-cas-782-at-mcmaster-university-titled-what-does-your-digital-twin-do-a-framework-and-tooling-for-systematic-dt-reporting-slides",
+          title: 'It was a pleasure to present a guest lecture in Prof. Istvan David’s...',
+          description: "",
+          section: "News",},{id: "news-the-second-edition-of-the-onto-nexus-workshop-international-workshop-on-ontological-modelling-and-analysis-will-be-held-in-2026-all-details-are-available-at-the-workshop-website-please-consider-submitting-your-papers-and-i-hope-to-see-you-there",
+          title: 'The second edition of the onto:Nexus Workshop (International Workshop on Ontological Modelling and...',
           description: "",
           section: "News",},{
         id: 'social-cv',
