@@ -44,6 +44,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 #### Organising Committee Member
 
+<div class="course-table" markdown="1">
+
 | Conference/Workshop | Role | Year(s) |
 | ---------- | ---- | -------: |
 | [ACM International Conference on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2025) | Student Volunteer Co-Chair | 2026 |
@@ -56,7 +58,11 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | Proceedings Co-Chair | 2024 |
 | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | Cyber-Physical Systems Track Co-Chair | 2022, 2023 |
 
+</div>
+
 #### Program Committee Member
+
+<div class="course-table" markdown="1">
 
 | Venue | Year(s) |
 | ----- | -------: |
@@ -73,11 +79,15 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [Spring Simulation Conference](https://scs.org/2020springsim-program-archive/) | 2020 |
 | [Summer Simulation Conference](https://scs.org/2020summersim-archive/) | 2019, 2020 |
 
+</div>
+
 #### Journal Reviewer
 
 <div style="border-left: 4px solid #f0ad4e; padding: 0.4em 1em; margin-bottom: 1.25em;">
   🏆 <strong>Top 1% Reviewer</strong> for <em>SoSyM</em> (2020 &amp; 2021) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SoSyM</em> (2025) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SIMULATION</em> (2023)
 </div>
+
+<div class="course-table" markdown="1">
 
 | Journal | Role / Recognition | Year(s) |
 | ------- | ------------------ | -------: |
@@ -92,7 +102,11 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [Empirical Software Engineering (EMSE)](https://www.springer.com/journal/10664/) | Reviewer | 2022 |
 | [IEEE Transactions on Automation Science and Engineering (T-ASE)](https://www.ieee-ras.org/publications/t-ase) | Reviewer | 2021 |
 
+</div>
+
 #### Grant Reviewer
+
+<div class="course-table" markdown="1">
 
 | Grant | Year |
 | ----- | ----: |
@@ -100,13 +114,21 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [NSERC Discovery grant](https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/dgigp-psigp_eng.asp) | 2025, 2026 |
 | [Dutch Research Council (NWO)](https://www.nwo.nl/en) | 2026 |
 
+</div>
+
 #### Guest Editor for Journal Special Issue
+
+<div class="course-table" markdown="1">
 
 | Venue | Issue Title | Year |
 | ----- | ----------- | ----: |
 | [SIMULATION](https://journals.sagepub.com/toc/simb/101/3) | Modeling and Simulation for Software-Intensive Systems: from IoT to Digital Twins | 2023 |
 
+</div>
+
 #### Invited Talks & Presentations
+
+<div class="course-table" markdown="1">
 
 | Title | Venue | Date |
 | ----- | ----- | ----: |
@@ -128,7 +150,11 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | *"Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice"* | Invited talk, Concordia University (host: Prof. Essam Mansour) | 2022 |
 | *"Capturing and Utilising Domain-Specific Knowledge"* | Invited talk, Université du Québec à Montréal | 2022 |
 
+</div>
+
 #### Jury Member
+
+<div class="course-table" markdown="1">
 
 | Institution | Role | Year |
 | ----------- | ---- | ----: |
@@ -136,8 +162,14 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | McGill University | PhD Thesis External Reviewer | 2024 |
 | McGill University | M.Sc. Thesis External Reviewer | 2023 |
 
+</div>
+
 #### Departmental Service
+
+<div class="course-table" markdown="1">
 
 | Institution | Role | Year(s) |
 | ----------- | ---- | -------: |
 | Polytechnique Montréal | Committee Member, Committee Rayonnement (Communications committee), Department of Computer and Software Engineering | 2025–Present |
+
+</div>
