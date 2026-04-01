@@ -49,7 +49,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | Conference/Workshop | Role | Year(s) |
 | ---------- | ---- | -------: |
 | [ACM International Conference on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2025) | Student Volunteer Co-Chair | 2026 |
-| [onto:Nexus Workshop](https://www.opencaesar.io/events/onto-Nexus-Workshop-2025.html) (International Workshop on Ontological Modeling and Analysis, co-located with MODELS) | Co-Chair | 2025 |
+| [onto:Nexus Workshop](https://www.opencaesar.io/events/onto-Nexus-Workshop-2026) (International Workshop on Ontological Modelling and Analysis) | Co-Chair | 2025, 2026 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | Student Volunteer Co-Chair | 2025 |
 | [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | Posters Co-Chair | 2024, 2025 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | Posters Co-Chair | 2022 |
@@ -66,6 +66,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 | Venue | Year(s) |
 | ----- | -------: |
+| [IEEE/ACM International Conference on Automated Software Engineering (ASE)](https://conf.researchr.org/home/ase-2026) | 2026 |
 | [Automated Software Engineering – NIER Track](https://conf.researchr.org/home/ase-2025) | 2025 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | 2025 |
 | [EMMSAD](https://www.emmsad.org/) | 2025 |
@@ -132,6 +133,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 | Title | Venue | Date |
 | ----- | ----- | ----: |
+| *"What Does Your Digital Twin Do? A Framework and Tooling for Systematic DT Reporting"* | Guest lecture, Engineering Digital Twins course (CAS 782), [McMaster University](https://www.mcmaster.ca/) (host: Prof. Istvan David) \| [slides](/assets/slides/2026.BOakes_McMaster_slides_public.pdf) | Mar. 2026 |
 | *"What is a 'Digital Twin' and How Do I Build One?"* | Guest lecture, RAISE course, [UCLA](https://www.ucla.edu/) (host: Dr. Maged Elaasar) | Nov. 2025 |
 | *"What is a 'Digital Twin' and How Do I Build One?"* | Tutorial, [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | Jun. 2025 |
 | *"Systematic Digital Twin Reporting"* | [EDT.Community Talks](https://edt.community/events/event/systematic-digital-twin-reporting/) \| [video](https://www.youtube.com/watch?v=sfs1TGG-Mf4) | May 2025 |
