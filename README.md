@@ -32,6 +32,7 @@ docker compose pull && docker compose up
 | Teachings | `_teachings/` (currently empty) |
 | News items | `_news/` (30 items, 2023–2026) |
 | CV page | `_pages/cv.md` (renders `_data/cv.yml` via rendercv format) |
+| Research page | `_pages/research.md` |
 | Lab page | `_pages/lab.md` |
 | Teaching page | `_pages/teaching.md` |
 | Community service | `_pages/community-building.md` |
@@ -86,6 +87,7 @@ docker compose pull && docker compose up
 - **Publications:** 40+ BibTeX entries in `_bibliography/papers.bib`. Each entry can have custom fields: `abbr`, `bibtex_show`, `pdf`, `slides`, `poster`, `video`, `award`.
 - **News:** Add new `.md` files to `_news/` with frontmatter: `layout: post`, `date: YYYY-MM-DD`, `inline: true`, and content as the announcement text.
 - **Blog/Projects/Books/Teachings:** Sections are wired up and ready — just add files to the respective directories.
+- **Research page:** `_pages/research.md` — four sections (Digital Twins, Systems Engineering, Machine Learning for Engineering Tasks, Knowledge Representation), each with prose, key publications list, and a "View all" link. Award badges use `a.award.btn` styled globally in `_sass/_components.scss`. The page is pure HTML (no `markdown="1"`).
 - **Lab members:** Managed via `_pages/lab.md` directly (not using the profiles collection currently).
 
 ## Pre-Commit
