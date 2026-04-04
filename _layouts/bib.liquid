@@ -4,7 +4,7 @@
 {% if entry.abbr and site.data.venues[entry.abbr].color %}
   {% capture row_venue_style %}style="--venue-bg:{{ site.data.venues[entry.abbr].color }}{% if site.data.venues[entry.abbr].dark_color %}; --venue-bg-dark:{{ site.data.venues[entry.abbr].dark_color }}{% endif %}"{% endcapture %}
 {% endif %}
-<div class="row" {% if entry.keywords %}data-keywords="{{ entry.keywords }}"{% endif %} {{ row_venue_style }}>
+<div class="row" {% if entry.tags %}data-tags="{{ entry.tags }}"{% endif %} {{ row_venue_style }}>
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
@@ -415,6 +415,13 @@
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
+        {% if entry.keywords %}
+          <p class="pub-keywords">
+            <strong>Keywords:</strong>
+            {% assign kw_list = entry.keywords | split: ',' %}
+            {% for kw in kw_list %}<span class="badge badge-secondary font-weight-light mr-1">{{ kw | strip }}</span>{% endfor %}
+          </p>
+        {% endif %}
       </div>
     {% endif %}
 

@@ -66,9 +66,9 @@
 
       // Filter list items
       items.forEach(li => {
-        const row = li.querySelector('[data-keywords]');
-        const keywords = row ? row.dataset.keywords : '';
-        const show = tag === 'all' || keywords.split(',').map(k => k.trim()).includes(tag);
+        const row = li.querySelector('[data-tags]');
+        const tags = row ? row.dataset.tags : '';
+        const show = tag === 'all' || tags.split(',').map(k => k.trim()).includes(tag);
         li.style.display = show ? '' : 'none';
         if (show) visible++;
       });
