@@ -48,6 +48,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 | Conference/Workshop | Role | Year(s) |
 | ---------- | ---- | -------: |
+| [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | General Chair | 2026 |
 | [ACM International Conference on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2025) | Student Volunteer Co-Chair | 2026 |
 | [onto:Nexus Workshop](https://www.opencaesar.io/events/onto-Nexus-Workshop-2026) (International Workshop on Ontological Modelling and Analysis) | Co-Chair | 2025, 2026 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | Student Volunteer Co-Chair | 2025 |
