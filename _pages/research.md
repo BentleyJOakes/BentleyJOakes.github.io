@@ -4,6 +4,7 @@ permalink: /research/
 title: Research Topics
 description: >
   Research by Dr. Bentley Oakes on digital twins, systems engineering, machine learning for engineering tasks, and knowledge representation.
+keywords: "digital twins, model-driven engineering, systems engineering, machine learning for engineering, knowledge representation"
 nav: false
 ---
 

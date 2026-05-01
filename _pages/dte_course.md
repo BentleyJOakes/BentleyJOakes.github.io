@@ -2,15 +2,22 @@
 layout: page
 permalink: /dte_course/
 title: LOG6310E - Digital Twin Engineering
+description: "LOG6310E is a graduate course at Polytechnique Montréal on engineering Digital Twins, covering architecture, co-simulation, visualization, and formal verification."
+keywords: "digital twin course, LOG6310E, Polytechnique Montréal, co-simulation, formal verification, digital twin engineering"
+og_image: https://bentleyoakes.com/assets/img/new_incubator_dt.png
 nav: false
 ---
 
-**Digital Twins are an emerging topic in both industry and academia. But what are Digital Twins (DTs), and how can we engineer them?**
+## What is a Digital Twin?
 
-<img alt="Incubator Digital Twin constellation" src="/assets/img/new_incubator_dt.png" style="width:100%; margin: 10px 0;" />
+A Digital Twin is a **dynamic virtual representation of a complex system**, connected and synchronized to the real system, for supporting its design and operation through insights and actions. In practice, the Digital Twin paradigm brings together modelling and simulation, visualization, real-time data and control, and an ever-expanding set of intelligent services across multiple engineering domains.
+
+<img alt="Incubator Digital Twin constellation diagram" src="/assets/img/new_incubator_dt.png" style="width:100%; margin: 10px 0;" />
+
+## How do I build a Digital Twin?
 
 <div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-This course answers both questions through hands-on labs, real-world case studies, and team projects, where participants build a working Digital Twin from the ground up. Offered every Winter term at Polytechnique Montréal by [Dr. Bentley Oakes](https://www.polymtl.ca/expertises/en/oakes-bentley) (Department of Computer and Software Engineering), in English.
+LOG6310E answers this question through hands-on labs, real-world case studies, and team projects, where participants build a working Digital Twin from the ground up. Offered every Winter term at Polytechnique Montréal by [Dr. Bentley Oakes](https://www.polymtl.ca/expertises/en/oakes-bentley) (Department of Computer and Software Engineering), in English.
 
 The course welcomes _senior undergraduate students_, _graduate students_, and _researchers_ from any discipline. No prior DT experience is needed. Some familiarity with Python, Docker, and Git is useful for the lab sessions, but support is available for those newer to these tools.
 </div>
@@ -163,15 +170,18 @@ Parts of this course are based on the textbook [The Engineering of Digital Twins
 ## What Students Say
 
 > *"The course is very engaging and hands-on."*
+> — Winter 2026 student
 
 > *"The course project is one of the most valuable components of the course. It forces a deeper understanding of Digital Twin architecture by moving from conceptual discussion to system-level implementation, and provides a realistic view of how complex DT systems are built and analyzed."*
+> — Winter 2026 student
 
 > *"The discussions and classes are very informational. It provides basis for the understanding the space of Digital Twins. Technologies can be learned quickly, but how to think about DTs and how they connect practically come from these discussions. It is terrific!"*
+> — Winter 2026 student
 
 ## Potential Students
 
 <div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-Please contact me if you are interested in taking or auditing the course. All are welcome!
+LOG6310E is well-suited for **graduate students and senior undergraduates** in software engineering, computer science, mechanical engineering, or any discipline where you model, simulate, or monitor complex systems. If you work with cyber-physical systems, robotics, manufacturing, or smart infrastructure and want to learn how to engineer a Digital Twin for it, this course is for you. All are welcome!
 
 For students from other Quebec universities, there is an established inter-university enrollment procedure. See the [BCI Québec application portal](https://aehe.bci-qc.ca/en) (select 'Applications' on the left) and the [BCI student transfer guide](https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU) for details.
 </div>

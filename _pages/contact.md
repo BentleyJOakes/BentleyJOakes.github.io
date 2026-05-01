@@ -2,6 +2,7 @@
 layout: page
 permalink: /contact/
 title: Contact
+description: "Contact Dr. Bentley Oakes, Assistant Professor at Polytechnique Montréal."
 nav: true
 nav_order: 5
 ---

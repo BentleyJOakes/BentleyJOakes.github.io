@@ -2,12 +2,16 @@
 layout: about
 title: About
 permalink: /
+description: "Assistant Professor at Polytechnique Montréal researching Digital Twin engineering, model-driven engineering, and cyber-physical systems."
+keywords: "digital twins, model-driven engineering, cyber-physical systems, Polytechnique Montréal, assistant professor"
+og_image: https://bentleyoakes.com/assets/img/BentleyOakes-headshot.jpg
 subtitle: >
   <em>Helping domain experts capture and utilise their knowledge to engineer complex cyber-physical systems.</em>
 
 profile:
   align: right
   image: BentleyOakes-headshot.jpg
+  image_alt: "Dr. Bentley Oakes, Assistant Professor at Polytechnique Montréal"
   image_circular: false
   more_info: >
     <div style="display:flex;gap:0.4em;align-items:flex-start">

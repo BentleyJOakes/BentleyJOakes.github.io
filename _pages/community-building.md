@@ -2,6 +2,7 @@
 layout: page
 permalink: /community-building/
 title: Community-Building
+description: "Community-building activities by Dr. Bentley Oakes, including conference organization, program committees, invited talks, and outreach."
 nav: true
 nav_order: 2
 _styles: >
