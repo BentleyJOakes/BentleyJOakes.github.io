@@ -25,7 +25,7 @@ ninja.data = [{
               },
             },{id: "nav-community-building",
           title: "Community-Building",
-          description: "",
+          description: "Community-building activities by Dr. Bentley Oakes, including conference organization, program committees, invited talks, and outreach.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/community-building/";
@@ -60,7 +60,7 @@ ninja.data = [{
               },
             },{id: "nav-contact",
           title: "Contact",
-          description: "",
+          description: "Contact Dr. Bentley Oakes, Assistant Professor at Polytechnique Montréal.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/contact/";
