@@ -170,6 +170,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-second-edition-of-the-onto-nexus-workshop-international-workshop-on-ontological-modelling-and-analysis-will-be-held-in-2026-all-details-are-available-at-the-workshop-website-please-consider-submitting-your-papers-and-i-hope-to-see-you-there",
           title: 'The second edition of the onto:Nexus Workshop (International Workshop on Ontological Modelling and...',
           description: "",
+          section: "News",},{id: "news-as-general-chair-i-warmly-welcome-everyone-to-semla-2026-software-engineering-for-machine-learning-applications-on-the-theme-of-engineering-trustworthy-and-cost-effective-ai-multi-agents-join-us-june-1-3-2026-at-polytechnique-montréal",
+          title: 'As General Chair, I warmly welcome everyone to SEMLA 2026 (Software Engineering for...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
