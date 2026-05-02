@@ -12,28 +12,36 @@ nav: false
 
 A Digital Twin is a **dynamic virtual representation of a complex system**, connected and synchronized to the real system, for supporting its design and operation through insights and actions. In practice, the Digital Twin paradigm brings together modelling and simulation, visualization, real-time data and control, and an ever-expanding set of intelligent services across multiple engineering domains.
 
-<img alt="Incubator Digital Twin constellation diagram" src="/assets/img/new_incubator_dt.png" style="width:100%; margin: 10px 0;" />
+In this course, we examine a DT interacting with our running example of an incubator (a heater in a box). The figure below shows the [constellation diagram](https://doi.org/10.1177/00375497241261406), with the incubator on the left, the constellation of DT components on the right, and the feedback loop between them. The DT provides *insights* such as a visualization of the incubator state and warnings when anomalies are detected, and *actions* such as setting the desired temperature and system parameters.
+
+<figure style="text-align: center; margin: 1rem 0;">
+<img alt="Incubator Digital Twin constellation diagram" src="/assets/img/new_incubator_dt.png" style="width:100%;" />
+</figure>
 
 ## How do I build a Digital Twin?
 
-<div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-LOG6310E answers this question through hands-on labs, real-world case studies, and team projects, where participants build a working Digital Twin from the ground up. Offered every Winter term at Polytechnique Montréal by [Dr. Bentley Oakes](https://www.polymtl.ca/expertises/en/oakes-bentley) (Department of Computer and Software Engineering), in English.
+Building a Digital Twin starts with defining the physical system and the insights or actions you want from it. You then construct models of the system's behaviour, connect them to real-time data from sensors and actuators, and implement services (such as visualization, monitoring, or optimization) within a service-oriented software architecture. The result is a dynamic virtual representation that stays connected and synchronized to the physical system, supporting its design and operation over time.
 
-The course welcomes _senior undergraduate students_, _graduate students_, and _researchers_ from any discipline. No prior DT experience is needed. Some familiarity with Python, Docker, and Git is useful for the lab sessions, but support is available for those newer to these tools.
+### The Course
+
+<div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+The [Digital Twin Engineering course (LOG6310E) at Polytechnique Montréal](https://www.polymtl.ca/programmes/cours/digital-twin-engineering-0) guides students through these stages of building a DT. Students learn through hands-on labs, real-world case studies, and team projects, building a working Digital Twin from the ground up. The course is offered every Winter term by [Dr. Bentley Oakes](https://www.polymtl.ca/expertises/en/oakes-bentley) (Department of Computer and Software Engineering), in English.
+
+Each week features interactive lectures with real-world DT examples and discussions. Every second week, participants complete one of six [hands-on lab sessions](https://github.com/BentleyJOakes/IncubatorDTCourse) (small assignments to build familiarity with DT technologies and services). In team-based projects, participants apply their learning to develop their own DT with DT services ranging from machine learning, formal verification, to game-engine visualization. A final exam consolidates the theoretical concepts.
 </div>
 
-## Learning Outcomes
-
-By the end of this course, you will be able to define, design, build, and deploy a working Digital Twin, thus apply systems engineering theory directly to a complex system of your own choosing. Past student projects have spanned many domains as shown below.
+Parts of this course are based on the textbook [The Engineering of Digital Twins](https://link.springer.com/book/10.1007/978-3-031-66719-0) by John Fitzgerald, Cláudio Gomes, and Peter Gorm Larsen. Some slides and materials are from the [corresponding course](https://kursuskatalog.au.dk/en/course/138051/Engineering-Digital-Twins) at Aarhus University, Denmark.
 
 <div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-Concretely, participants will be able to:
+By the end of this course, participants will be able to define, design, build, and deploy a working Digital Twin, applying systems engineering theory directly to a complex system of their own choosing:
 - Define what a Digital Twin (DT) is and their role in different domains
 - Explain the processes of engineering DTs, their architecture, and components
 - Understand the relation between the DT and the real system, including communication, sensing, and possible insights/actions
 - Discuss DT services such as visualization and optimization, and their advantages
 - Develop and deploy a DT service on a DT platform and/or build a custom DT
 </div>
+
+Past student projects have spanned many domains as shown below.
 
 ## Course Projects
 
@@ -58,7 +66,7 @@ The following are the course projects from the Winter 2025 edition of the class.
 <div class="row mb-4 align-items-start">
 <div class="col-md-6">
 <strong>Robotics DT</strong>
-<p>A digital twin of a robotic arm with services for physics simulation, singularity detection, 3D visualization, deviation monitoring, and emergency stop — enabling safe real-time operation and anomaly detection.</p>
+<p>A digital twin of a robotic arm with services for physics simulation, singularity detection, 3D visualization, deviation monitoring, and emergency stop, enabling safe real-time operation and anomaly detection.</p>
 <p><a href="https://docs.google.com/presentation/d/1sQNAqGFcO64Qu18FmAuG-wpHG5EGpTuO/edit?usp=sharing&ouid=100435680662249649799&rtpof=true&sd=true"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/12d2txx8teChBn1qx9Rnln-9XQzmAAjyc/view?usp=sharing"><i class="fas fa-file-alt"></i> Report</a></p>
 </div>
 <div class="col-md-6">
@@ -123,65 +131,56 @@ The following are the course projects from the Winter 2025 edition of the class.
 </div>
 </div>
 
-## Course Content
+## Course Schedule
 
-The course focuses on a practical system — an [incubator (a heater in a box)](https://github.com/INTO-CPS-Association/example_digital-twin_incubator) — as a running case study. We examine the perspectives, theory, technology, and processes for creating a virtual representation of this system, and develop valuable DT services such as visualization, optimization, and anomaly detection.
-
-<div style="border-left: 4px solid #F15A22; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-Each week features interactive lectures with real-world DT examples and discussions. Every second week, participants complete one of six [hands-on lab sessions](https://github.com/BentleyJOakes/IncubatorDTCourse) — small assignments to build familiarity with DT technologies and services. In team-based projects, participants apply their learning to develop their own DT with DT services ranging from machine learning, formal verification, to game-engine visualization. A final exam consolidates the theoretical concepts.
+<div style="border-left: 4px solid #F15A22; padding: 0.5em 1em; margin: 1rem 0;">
+<table>
+<thead><tr><th style="text-align:center;">Lecture</th><th>Topic</th></tr></thead>
+<tbody>
+<tr><td style="text-align:center;">1</td><td>Introduction to Digital Twins</td></tr>
+<tr><td style="text-align:center;">2</td><td>DT engineering and the Incubator case study</td></tr>
+<tr><td style="text-align:center;">3</td><td>Modelling and simulation intro</td></tr>
+<tr><td style="text-align:center;">4</td><td>Modelling control and physics</td></tr>
+<tr><td style="text-align:center;">5</td><td>DT/Physical Twin communication</td></tr>
+<tr><td style="text-align:center;">6</td><td>Visualization</td></tr>
+<tr><td style="text-align:center;">7</td><td>DT intelligence</td></tr>
+<tr><td style="text-align:center;">8</td><td><a href="https://journals.sagepub.com/doi/full/10.1177/00375497241261406">Systematic DT reporting</a></td></tr>
+<tr><td style="text-align:center;">9</td><td>Formal verification</td></tr>
+<tr><td style="text-align:center;">10</td><td>Realizing DTs</td></tr>
+<tr><td style="text-align:center;">11</td><td>Student presentations</td></tr>
+<tr><td style="text-align:center;">12</td><td>Course review</td></tr>
+</tbody>
+</table>
 </div>
 
-#### Topics Covered
+## Guest Lecturers
 
-- Definitions, examples, benefits, and application areas of Digital Twins
-- DTs vs. digital shadows vs. digital models
-- DT platforms and DT realization
-- DT components: services, enablers, models, and data
-- Processes and metrics for DT Engineering
-- Modelling and simulation principles
-- Co-simulation
-- Communication and sensing
-- Visualization, monitoring, and formal verification
-- Advanced DT services
-- DT reporting
+| Year | Name | Institution | Talk |
+|:----:|------|-------------|------|
+| 2026 | [Christophe Danjou](https://www.polymtl.ca/expertises/en/danjou-christophe) | Polytechnique Montréal | Industry 4.0 |
+| 2026 | [Istvan David](https://istvandavid.com/) | McMaster University | [Architecting Digital Twins on Standardized Architectures](https://istvandavid.com/news/sticky/2026/03/14/i-reap-what-iso-guest-lecture-at-polytechnique-montreal-on-architecting-digital-twins-on-standardized-architectures/) |
+| 2026 | [Pascal Archambault](https://pascalarchambault.ca/) | Université de Montréal | Digital Twin of a Natural Process |
+| 2026 | [Prasad Talasila](https://pure.au.dk/portal/en/persons/prasad.talasila@ece.au.dk/) | Aarhus University | Digital Twin as a Service Software Platform |
+| 2025 | [Istvan David](https://istvandavid.com/) | McMaster University | [Engineering Complex and Sustainable Systems Through Digital Twins](https://istvandavid.com/news/2025/03/17/guest-lecture-at-polytechnique-montreal-on-digital-twins/) |
+| 2025 | [Pascal Archambault](https://pascalarchambault.ca/) | Université de Montréal | Digital Twins for Controlled Environment Agriculture |
 
-Parts of this course are based on the textbook [The Engineering of Digital Twins](https://link.springer.com/book/10.1007/978-3-031-66719-0) by John Fitzgerald, Cláudio Gomes, and Peter Gorm Larsen. Some slides and material have also been repurposed from the [corresponding course](https://kursuskatalog.au.dk/en/course/138051/Engineering-Digital-Twins) at Aarhus University, Denmark.
-
-### Winter 2026 Schedule
-
-| Week | Date | Topic | Speaker |
-|:----:|------|-------|---------|
-| 1 | Jan 9 | Introduction to Digital Twins | |
-| 2 | Jan 16 | DT engineering and the Incubator case study | |
-| 3 | Jan 23 | Modelling and simulation intro | |
-| 4 | Jan 30 | Modelling control and physics | |
-| 5 | Feb 6 | DT/Physical Twin communication | [Christophe Danjou](https://www.polymtl.ca/expertises/en/danjou-christophe) (Polytechnique Montréal) |
-| 6 | Feb 13 | Visualization | [Pascal Archambault](https://pascalarchambault.ca/) (Université de Montréal) |
-| 7 | Feb 20 | DT intelligence | |
-| 8 | Feb 27 | [Systematic DT reporting framework](https://journals.sagepub.com/doi/full/10.1177/00375497241261406) | |
-| 9 | Mar 2–6 | Reading week (no class) | |
-| 10 | Mar 13 | Guest lecture | [Istvan David](https://experts.mcmaster.ca/people/davidi3) (McMaster University) |
-| 11 | Mar 20 | Formal verification | |
-| 12 | Mar 27 | Realizing DTs | [Prasad Talasila](https://pure.au.dk/portal/en/persons/prasad.talasila@ece.au.dk/) (Aarhus University) |
-| 13 | Apr 3 | Easter break (no class) | |
-| 14 | Apr 10 | Student presentations | |
-| 15 | Apr 16 | Course review | |
-
-## What Students Say
-
-> *"The course is very engaging and hands-on."*
-> — Winter 2026 student
-
-> *"The course project is one of the most valuable components of the course. It forces a deeper understanding of Digital Twin architecture by moving from conceptual discussion to system-level implementation, and provides a realistic view of how complex DT systems are built and analyzed."*
-> — Winter 2026 student
-
-> *"The discussions and classes are very informational. It provides basis for the understanding the space of Digital Twins. Technologies can be learned quickly, but how to think about DTs and how they connect practically come from these discussions. It is terrific!"*
-> — Winter 2026 student
+<div style="margin-bottom: 2rem;"></div>
 
 ## Potential Students
 
 <div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-LOG6310E is well-suited for **graduate students and senior undergraduates** in software engineering, computer science, mechanical engineering, or any discipline where you model, simulate, or monitor complex systems. If you work with cyber-physical systems, robotics, manufacturing, or smart infrastructure and want to learn how to engineer a Digital Twin for it, this course is for you. All are welcome!
+LOG6310E welcomes _senior undergraduate students_, _graduate students_, and _researchers_ from any discipline, particularly software engineering, computer science, mechanical engineering, or any field where you model, simulate, or monitor complex systems. If you work with cyber-physical systems, robotics, manufacturing, or smart infrastructure and want to learn how to engineer a Digital Twin for it, this course is for you. No prior DT experience is needed; some familiarity with Python, Docker, and Git is useful for the lab sessions, but support is available for those newer to these tools.
 
 For students from other Quebec universities, there is an established inter-university enrollment procedure. See the [BCI Québec application portal](https://aehe.bci-qc.ca/en) (select 'Applications' on the left) and the [BCI student transfer guide](https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU) for details.
 </div>
+
+## What Students Say
+
+> *"The course is very engaging and hands-on."*
+> (Winter 2026 student)
+
+> *"The course project is one of the most valuable components of the course. It forces a deeper understanding of Digital Twin architecture by moving from conceptual discussion to system-level implementation, and provides a realistic view of how complex DT systems are built and analyzed."*
+> (Winter 2026 student)
+
+> *"The discussions and classes are very informational. It provides basis for the understanding the space of Digital Twins. Technologies can be learned quickly, but how to think about DTs and how they connect practically come from these discussions. It is terrific!"*
+> (Winter 2026 student)
