@@ -101,7 +101,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [SIMULATION](https://journals.sagepub.com/home/sim) | 🏆 Best Reviewer Award (June 2023) | 2023 |
 | [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) | Reviewer | 2023 |
 | [Journal of Computer Languages (JCL)](https://www.sciencedirect.com/journal/journal-of-computer-languages) | Reviewer | 2022 |
-| [Journal of Object Technology (JOT)](https://www.jot.fm/) | Reviewer | 2022 |
+| [Journal of Object Technology (JOT)](https://www.jot.fm/) | Reviewer | 2022, 2026 |
 | [Empirical Software Engineering (EMSE)](https://www.springer.com/journal/10664/) | Reviewer | 2022 |
 | [IEEE Transactions on Automation Science and Engineering (T-ASE)](https://www.ieee-ras.org/publications/t-ase) | Reviewer | 2021 |
 
@@ -162,6 +162,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 | Institution | Role | Year |
 | ----------- | ---- | ----: |
+| Polytechnique Montréal | PhD Thesis Jury President | 2026 |
 | Polytechnique Montréal | M.Sc. Thesis Jury President | 2024 |
 | McGill University | PhD Thesis External Reviewer | 2024 |
 | McGill University | M.Sc. Thesis External Reviewer | 2023 |

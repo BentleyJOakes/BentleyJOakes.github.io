@@ -324,7 +324,7 @@ cv:
           - "SIMULATION — 2023, 2024 (Best Reviewer Award June 2023)"
           - "Science of Computer Programming (SCP) — 2023"
           - "Journal of Computer Languages (JCL) — 2022"
-          - "Journal of Object Technology (JOT) — 2022"
+          - "Journal of Object Technology (JOT) — 2022, 2026"
           - "Empirical Software Engineering (EMSE) — 2022"
           - "IEEE Transactions on Automation Science and Engineering (T-ASE) — 2021"
       - name: Guest Editor for Journal Special Issue
@@ -332,8 +332,9 @@ cv:
         highlights:
           - "SIMULATION — *Modeling and Simulation for Software-Intensive Systems: from IoT to Digital Twins*"
       - name: Jury Member
-        date: "2023–2024"
+        date: "2023–2026"
         highlights:
+          - "Polytechnique Montréal — PhD Thesis Jury President (2026)"
           - "Polytechnique Montréal — M.Sc. Thesis Jury President (2024)"
           - "McGill University — PhD Thesis External Reviewer (2024)"
           - "McGill University — M.Sc. Thesis External Reviewer (2023)"
