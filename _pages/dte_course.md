@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /dte_course/
-title: LOG6310E - Digital Twin Engineering
-description: "LOG6310E is a graduate course at Polytechnique Montréal on engineering Digital Twins, covering architecture, co-simulation, visualization, and formal verification."
-keywords: "digital twin course, LOG6310E, Polytechnique Montréal, co-simulation, formal verification, digital twin engineering"
+title: LOG8421E — Digital Twin Engineering at Polytechnique Montréal
+description: "LOG8421E is a Digital Twin Engineering course at Polytechnique Montréal, covering architecture, modelling, simulation, visualization, and DT services."
+keywords: "digital twin course, LOG8421E, LOG6310E, Polytechnique Montreal, Polytechnique Montréal, graduate course, undergraduate course, co-simulation, formal verification, digital twin engineering, DT services"
 og_image: https://bentleyoakes.com/assets/img/new_incubator_dt.png
 nav: false
 ---
@@ -25,7 +25,7 @@ Building a Digital Twin starts with defining the physical system and the insight
 ### The Course
 
 <div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-The [Digital Twin Engineering course (LOG6310E) at Polytechnique Montréal](https://www.polymtl.ca/programmes/cours/digital-twin-engineering-0) guides students through these stages of building a DT. Students learn through hands-on labs, real-world case studies, and team projects, building a working Digital Twin from the ground up. The course is offered every Winter term by [Dr. Bentley Oakes](https://www.polymtl.ca/expertises/en/oakes-bentley) (Department of Computer and Software Engineering), in English.
+The [Digital Twin Engineering course (LOG8421E) at Polytechnique Montréal](https://www.polymtl.ca/programmes/cours/digital-twin-engineering-1) guides students through these stages of building a DT. Students learn through hands-on labs, real-world case studies, and team projects, building a working Digital Twin from the ground up. The course is offered every Winter term by [Dr. Bentley Oakes](https://www.polymtl.ca/expertises/en/oakes-bentley) (Department of Computer and Software Engineering), in English.
 
 Each week features interactive lectures with real-world DT examples and discussions. Every second week, participants complete one of six [hands-on lab sessions](https://github.com/BentleyJOakes/IncubatorDTCourse) (small assignments to build familiarity with DT technologies and services). In team-based projects, participants apply their learning to develop their own DT with DT services ranging from machine learning, formal verification, to game-engine visualization. A final exam consolidates the theoretical concepts.
 </div>
@@ -41,11 +41,30 @@ By the end of this course, participants will be able to define, design, build, a
 - Develop and deploy a DT service on a DT platform and/or build a custom DT
 </div>
 
-Past student projects have spanned many domains as shown below.
+<p>Past student projects have spanned many domains as shown below. One project was developed into a published scientific article at EDTconf, demonstrating the high quality of work produced by students.</p>
 
 ## Course Projects
 
-The following are the course projects from the Winter 2025 edition of the class. One project was developed into a published scientific article at EDTconf, demonstrating the high quality of work produced by students.
+<div id="courseProjectsAccordion" class="mb-4">
+
+<div class="card mb-0">
+<div class="card-header" id="heading2026" style="cursor:pointer;" data-toggle="collapse" data-target="#collapse2026" aria-expanded="true" aria-controls="collapse2026">
+<strong>Winter 2026</strong>
+</div>
+<div id="collapse2026" class="collapse show" aria-labelledby="heading2026">
+<div class="card-body">
+<p><em>Project showcases coming soon.</em></p>
+</div>
+</div>
+</div>
+
+<div class="card mb-0">
+<div class="card-header" id="heading2025" style="cursor:pointer;" data-toggle="collapse" data-target="#collapse2025" aria-expanded="true" aria-controls="collapse2025">
+<strong>Winter 2025</strong>
+</div>
+<div id="collapse2025" class="collapse show" aria-labelledby="heading2025">
+<div class="card-body">
+
 
 <div class="row mb-4 align-items-start">
 <div class="col-md-6">
@@ -58,7 +77,7 @@ The following are the course projects from the Winter 2025 edition of the class.
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/-EGl8y5Qlus?si=5H5r-fF26d1te-tz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-EGl8y5Qlus?si=5H5r-fF26d1te-tz" title="Beer Fermentation Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 </div>
@@ -71,7 +90,7 @@ The following are the course projects from the Winter 2025 edition of the class.
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/xF0SzGU1vgw?si=GGpn9RwaaK5SJIT-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/xF0SzGU1vgw?si=GGpn9RwaaK5SJIT-" title="Robotics Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 </div>
@@ -85,12 +104,10 @@ The following are the course projects from the Winter 2025 edition of the class.
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/sqTI49OAOeY?si=MNbTGbVuzWuuGMT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/sqTI49OAOeY?si=MNbTGbVuzWuuGMT6" title="Waste Twin: Smart Waste Collection Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 </div>
-
-
 
 <div class="row mb-4 align-items-start">
 <div class="col-md-6">
@@ -100,7 +117,7 @@ The following are the course projects from the Winter 2025 edition of the class.
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/ezhNTBHXkss?si=eRGGNmkgjw3Af1nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ezhNTBHXkss?si=eRGGNmkgjw3Af1nQ" title="STM Bus Fleet Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 </div>
@@ -113,7 +130,7 @@ The following are the course projects from the Winter 2025 edition of the class.
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/y9hKJqjnLsc?si=BFYt3feCrW1AHVIe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/y9hKJqjnLsc?si=BFYt3feCrW1AHVIe" title="Permafrost Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 </div>
@@ -126,9 +143,15 @@ The following are the course projects from the Winter 2025 edition of the class.
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/9pK6ZKWzszM?si=XI7TcGlE6nsaMDEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9pK6ZKWzszM?si=XI7TcGlE6nsaMDEM" title="Graph Database Failure Propagation Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+</div>
+
+</div>
+</div>
+</div>
+
 </div>
 
 ## Course Schedule
@@ -169,7 +192,7 @@ The following are the course projects from the Winter 2025 edition of the class.
 ## Potential Students
 
 <div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-LOG6310E welcomes _senior undergraduate students_, _graduate students_, and _researchers_ from any discipline, particularly software engineering, computer science, mechanical engineering, or any field where you model, simulate, or monitor complex systems. If you work with cyber-physical systems, robotics, manufacturing, or smart infrastructure and want to learn how to engineer a Digital Twin for it, this course is for you. No prior DT experience is needed; some familiarity with Python, Docker, and Git is useful for the lab sessions, but support is available for those newer to these tools.
+LOG8421E welcomes _senior undergraduate students_, _graduate students_, and _researchers_ from any discipline, particularly software engineering, computer science, mechanical engineering, or any field where you model, simulate, or monitor complex systems. If you work with cyber-physical systems, robotics, manufacturing, or smart infrastructure and want to learn how to engineer a Digital Twin for it, this course is for you. No prior DT experience is needed; some familiarity with Python, Docker, and Git is useful for the lab sessions, but support is available for those newer to these tools.
 
 For students from other Quebec universities, there is an established inter-university enrollment procedure. See the [BCI Québec application portal](https://aehe.bci-qc.ca/en) (select 'Applications' on the left) and the [BCI student transfer guide](https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU) for details.
 </div>
@@ -184,3 +207,26 @@ For students from other Quebec universities, there is an established inter-unive
 
 > *"The discussions and classes are very informational. It provides basis for the understanding the space of Digital Twins. Technologies can be learned quickly, but how to think about DTs and how they connect practically come from these discussions. It is terrific!"*
 > (Winter 2026 student)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "LOG8421E — Digital Twin Engineering",
+  "description": "An undergraduate and graduate course at Polytechnique Montréal on engineering Digital Twins: architecture, modelling, simulation, visualization, and DT services.",
+  "url": "https://bentleyoakes.com/dte_course/",
+  "courseCode": "LOG8421E",
+  "inLanguage": "en",
+  "educationalLevel": ["Undergraduate", "Graduate"],
+  "provider": {
+    "@type": "Organization",
+    "name": "Polytechnique Montréal",
+    "url": "https://www.polymtl.ca"
+  },
+  "instructor": {
+    "@type": "Person",
+    "name": "Bentley Oakes",
+    "url": "https://bentleyoakes.com"
+  }
+}
+</script>
