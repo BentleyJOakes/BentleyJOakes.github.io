@@ -3,7 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: >
-  Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG6310E Engineering of Digital Twins.
+  Teaching by Dr. Bentley Oakes at Polytechnique Montréal, including LOG8421E Engineering of Digital Twins.
+keywords: "digital twin engineering, LOG8421E, Polytechnique Montréal, engineering education, course"
 nav: false
 _styles: >
   article h3 { margin-top: 2rem; }
@@ -25,7 +26,7 @@ _styles: >
 
 | Course | Description | Term(s) |
 | ------ | ----------- | ------- |
-| [LOG6310E — Engineering of Digital Twins](https://bentleyoakes.com/dte_course/) | See above | Winter 2025, Winter 2026 |
+| [LOG8421E — Engineering of Digital Twins](https://bentleyoakes.com/dte_course/) | See above | Winter 2025, Winter 2026 |
 | [INF6900AE — Scientific and Technical Communication](https://www.polymtl.ca/programmes/cours/scientific-and-technical-communication-i) | A graduate course developing scientific and technical communication skills, including academic writing, oral presentations, and effective dissemination of engineering research. | Winter 2024, Fall 2024, Fall 2025 |
 | [INF1007 — Introduction à la programmation](https://www.polymtl.ca/programmes/cours/introduction-la-programmation) | An introductory programming course for engineering students, covering fundamental programming concepts and computational problem-solving. | Fall 2025 |
 | [LOG8371E — Software Quality Engineering](https://www.polymtl.ca/programmes/cours/software-quality-engineering) | A graduate course on principles and practices for software quality, covering testing strategies, static analysis, continuous integration, and quality assurance for software-intensive systems. | Fall 2024 |

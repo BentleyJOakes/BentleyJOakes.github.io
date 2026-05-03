@@ -442,3 +442,17 @@
     {% endif %}
   </div>
 </div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": {{ entry.title | jsonify }},
+  "author": [{% for author in entry.author_array %}{"@type":"Person","name":{{ author.first | append: " " | append: author.last | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}],
+  "datePublished": {{ entry.year | jsonify }}{% if entry.doi %},
+  "identifier": {"@type":"PropertyValue","propertyID":"DOI","value":{{ entry.doi | jsonify }}},
+  "url": {{ entry.doi | prepend: "https://doi.org/" | jsonify }}{% endif %}{% if entry.abstract %},
+  "abstract": {{ entry.abstract | jsonify }}{% endif %}{% if entry.journal %},
+  "isPartOf": {"@type":"Periodical","name":{{ entry.journal | jsonify }}}{% elsif entry.booktitle %},
+  "isPartOf": {"@type":"Event","name":{{ entry.booktitle | jsonify }}}{% endif %}
+}
+</script>
