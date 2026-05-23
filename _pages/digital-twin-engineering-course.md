@@ -56,11 +56,11 @@ By the end of this course, participants will be able to define, design, build, a
 <div id="courseProjectsAccordion" class="mb-4">
 
 <div class="card mb-0">
-<div class="card-header" id="heading2026" style="cursor:pointer; display:flex; justify-content:space-between; align-items:center;" data-toggle="collapse" data-target="#collapse2026" aria-expanded="false" aria-controls="collapse2026">
+<div class="card-header" id="heading2026" style="cursor:pointer; display:flex; justify-content:space-between; align-items:center;" data-toggle="collapse" data-target="#collapse2026" aria-expanded="true" aria-controls="collapse2026">
 <strong>Winter 2026</strong>
-<span style="font-size:0.85em; color:#666;">(click to expand) <i class="fas fa-chevron-down"></i></span>
+<span style="font-size:0.85em; color:#666;">(click to collapse) <i class="fas fa-chevron-up"></i></span>
 </div>
-<div id="collapse2026" class="collapse" aria-labelledby="heading2026">
+<div id="collapse2026" class="collapse show" aria-labelledby="heading2026">
 <div class="card-body">
 
 <div class="row mb-4 align-items-start">
