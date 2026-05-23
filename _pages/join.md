@@ -50,6 +50,7 @@ If you have another research idea which aligns with my interests, I would love t
 - Collaboration with local and global experts
 - Opportunities to publish in excellent venues, present at top conferences, and perform international research visits
 - Competitive funding
+- Opportunities to apply research in practice through paid industry internships. The lab participates in the [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) program, connecting graduate students with industry partners on real-world research projects.
 
 </div>
 
