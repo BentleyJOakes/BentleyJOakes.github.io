@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I went to Concordia University's [Next-Generation Cities Institute](https://www.concordia.ca/research/cities-institute.html) to present my work on *Accelerating Digital Twin Research and Engineering*.
+I went to Concordia University's [Next-Generation Cities Institute](https://www.concordia.ca/research/cities-institute.html) to present [my work](/research/#digital-twins) on *Accelerating Digital Twin Research and Engineering*.

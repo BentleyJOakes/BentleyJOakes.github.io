@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our SIMULATION special issue [Modeling and Simulation for Software Intensive Systems from IoT to Digital Twins](https://journals.sagepub.com/toc/simb/101/3) is now published.
+Our SIMULATION special issue [Modeling and Simulation for Software Intensive Systems from IoT to Digital Twins](https://journals.sagepub.com/toc/simb/101/3) is now published, covering topics from IoT to [Digital Twins](/research/#digital-twins).
