@@ -2,7 +2,7 @@
 layout: page
 permalink: /dte_course/
 title: LOG8421E — Digital Twin Engineering at Polytechnique Montréal
-description: "LOG8421E is a Digital Twin Engineering course at Polytechnique Montréal, covering architecture, modelling, simulation, visualization, and DT services."
+description: "LOG8421E is a Digital Twin Engineering course for engineers and graduate students at Polytechnique Montréal, covering architecture, modelling, simulation, visualization, and DT services."
 keywords: "digital twin course, LOG8421E, LOG6310E, Polytechnique Montreal, Polytechnique Montréal, graduate course, undergraduate course, co-simulation, formal verification, digital twin engineering, DT services"
 og_image: https://bentleyoakes.com/assets/img/new_incubator_dt.png
 nav: false
