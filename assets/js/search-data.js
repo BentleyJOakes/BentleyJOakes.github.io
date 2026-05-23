@@ -42,7 +42,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/dte_course/";
+                window.location.href = "/digital-twin-engineering-course/";
               },
             },{id: "dropdown-oakes-lab",
               title: "Oakes Lab",
