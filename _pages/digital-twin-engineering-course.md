@@ -279,14 +279,13 @@ For students from other Quebec universities, there is an established inter-unive
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('#courseProjectsAccordion [data-toggle="collapse"]').forEach(function (header) {
-    var target = document.querySelector(header.getAttribute('data-target'));
     var label = header.querySelector('span');
-    target.addEventListener('show.bs.collapse', function () {
-      label.innerHTML = '(click to collapse) <i class="fas fa-chevron-up"></i>';
-    });
-    target.addEventListener('hide.bs.collapse', function () {
-      label.innerHTML = '(click to expand) <i class="fas fa-chevron-down"></i>';
-    });
+    new MutationObserver(function () {
+      var expanded = header.getAttribute('aria-expanded') === 'true';
+      label.innerHTML = expanded
+        ? '(click to collapse) <i class="fas fa-chevron-up"></i>'
+        : '(click to expand) <i class="fas fa-chevron-down"></i>';
+    }).observe(header, { attributes: true, attributeFilter: ['aria-expanded'] });
   });
 });
 </script>
