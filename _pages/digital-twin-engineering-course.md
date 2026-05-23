@@ -50,21 +50,87 @@ By the end of this course, participants will be able to define, design, build, a
 <div id="courseProjectsAccordion" class="mb-4">
 
 <div class="card mb-0">
-<div class="card-header" id="heading2026" style="cursor:pointer;" data-toggle="collapse" data-target="#collapse2026" aria-expanded="true" aria-controls="collapse2026">
+<div class="card-header" id="heading2026" style="cursor:pointer; display:flex; justify-content:space-between; align-items:center;" data-toggle="collapse" data-target="#collapse2026" aria-expanded="false" aria-controls="collapse2026">
 <strong>Winter 2026</strong>
+<span style="font-size:0.85em; color:#666;">(click to expand) <i class="fas fa-chevron-down"></i></span>
 </div>
-<div id="collapse2026" class="collapse show" aria-labelledby="heading2026">
+<div id="collapse2026" class="collapse" aria-labelledby="heading2026">
 <div class="card-body">
-<p><em>Project showcases coming soon.</em></p>
+
+<div class="row mb-4 align-items-start">
+<div class="col-md-6">
+<strong>AvalanCH: A Digital Twin of the Swiss Alps</strong>
+<p>A regional-scale digital shadow of the Swiss Alps for avalanche risk management, using real-time meteorological data from IMIS weather stations and the Alpine3D physics-based snow simulation model. Services include avalanche risk prediction and what-if scenario visualization to support avalanche prevention, search-and-rescue planning, and ski resort management.</p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_AvalanCH/AvalanCHPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_AvalanCH/AvalanCHReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/KevinPeymani/AvalanCH-DT"><i class="fab fa-github"></i> Code</a> &nbsp;&nbsp; <a href="https://afymer.github.io/avalanchDT-report/"><i class="fas fa-file-invoice"></i> Reporting Page</a></p>
+</div>
+<div class="col-md-6">
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/TzLxHhmUvXw" title="AvalanCH Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+
+<div class="row mb-4 align-items-start">
+<div class="col-md-6">
+<strong>MonDTreal: Digital Shadow of Montreal's Road Network</strong>
+<p>A digital shadow of Montreal's road network that applies machine learning models (logistic regression, random forest, and gradient boosting) to predict road conditions from open city data. Services include a prediction service, what-if simulation across road segments, and a real-time dashboard, built on an Angular/Flask/PostgreSQL stack containerized with Docker.</p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_MonDTreal/MonDTrealPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_MonDTreal/MonDTrealReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/HamzaGiTX786/LOG6310-Course-Project-Road-System-DT"><i class="fab fa-github"></i> Code</a> &nbsp;&nbsp; <a href="https://pennyghael.github.io/DTInsight_MontrealRoad_DT/"><i class="fas fa-file-invoice"></i> Reporting Page</a></p>
+</div>
+<div class="col-md-6">
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/LWQldlsj-DE" title="MonDTreal Digital Shadow demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+
+<div class="row mb-4 align-items-start">
+<div class="col-md-6">
+<strong>ShadowSpindle: Orthogonal Turning Digital Shadow</strong>
+<p>A digital shadow of an orthogonal turning (CNC lathe) machining process, using a Simulink 1-DOF model and InfluxDB for sensor data capture. Services include FFT-based vibration analysis, cut stability checking, tool wear prediction, process parameter reconfiguration, three formal verification services for warning and emergency states, Godot 3D visualization, and a Python/Dash dashboard.</p>
+<!-- <p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_ShadowSpindle/ShadowSpindlePresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_ShadowSpindle/ShadowSpindleReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p> -->
+<p><span style="display:inline-block; padding:0.2em 0.7em; background:#f0f0f0; border-radius:3px; font-size:0.82em; color:#888;"><i class="fas fa-clock"></i> Links available soon</span></p>
+</div>
+<div class="col-md-6">
+<div class="ratio ratio-16x9">
+<div style="background:#f5f5f5; display:flex; align-items:center; justify-content:center; border:1px dashed #ccc; border-radius:4px;">
+<div style="text-align:center; color:#aaa;">
+<i class="fas fa-video" style="font-size:1.5rem; display:block; margin-bottom:0.3rem;"></i>
+<small>Video coming soon</small>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row mb-4 align-items-start">
+<div class="col-md-6">
+<strong>WoodTwin: Wood Kiln Drying DT</strong>
+<p>A digital twin of an industrial wood kiln drying process, modelling moisture content dynamics to reduce energy waste and quality defects in lumber production. Services include batch loading optimization, Monte Carlo moisture content estimation, intelligent control, real-time monitoring, and 3D kiln visualization, with an architecture aligned to the ISO 23247 DT standard.</p>
+<!-- <p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_WoodTwin/WoodTwinPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_WoodTwin/WoodTwinReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p> -->
+<p><span style="display:inline-block; padding:0.2em 0.7em; background:#f0f0f0; border-radius:3px; font-size:0.82em; color:#888;"><i class="fas fa-clock"></i> Links available soon</span></p>
+</div>
+<div class="col-md-6">
+<div class="ratio ratio-16x9">
+<div style="background:#f5f5f5; display:flex; align-items:center; justify-content:center; border:1px dashed #ccc; border-radius:4px;">
+<div style="text-align:center; color:#aaa;">
+<i class="fas fa-video" style="font-size:1.5rem; display:block; margin-bottom:0.3rem;"></i>
+<small>Video coming soon</small>
+</div>
+</div>
+</div>
+</div>
+</div>
+
 </div>
 </div>
 </div>
 
 <div class="card mb-0">
-<div class="card-header" id="heading2025" style="cursor:pointer;" data-toggle="collapse" data-target="#collapse2025" aria-expanded="true" aria-controls="collapse2025">
+<div class="card-header" id="heading2025" style="cursor:pointer; display:flex; justify-content:space-between; align-items:center;" data-toggle="collapse" data-target="#collapse2025" aria-expanded="false" aria-controls="collapse2025">
 <strong>Winter 2025</strong>
+<span style="font-size:0.85em; color:#666;">(click to expand) <i class="fas fa-chevron-down"></i></span>
 </div>
-<div id="collapse2025" class="collapse show" aria-labelledby="heading2025">
+<div id="collapse2025" class="collapse" aria-labelledby="heading2025">
 <div class="card-body">
 
 
@@ -209,6 +275,21 @@ For students from other Quebec universities, there is an established inter-unive
 
 > *"The discussions and classes are very informational. It provides basis for the understanding the space of Digital Twins. Technologies can be learned quickly, but how to think about DTs and how they connect practically come from these discussions. It is terrific!"*
 > (Winter 2026 student)
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('#courseProjectsAccordion [data-toggle="collapse"]').forEach(function (header) {
+    var target = document.querySelector(header.getAttribute('data-target'));
+    var label = header.querySelector('span');
+    target.addEventListener('show.bs.collapse', function () {
+      label.innerHTML = '(click to collapse) <i class="fas fa-chevron-up"></i>';
+    });
+    target.addEventListener('hide.bs.collapse', function () {
+      label.innerHTML = '(click to expand) <i class="fas fa-chevron-down"></i>';
+    });
+  });
+});
+</script>
 
 <script type="application/ld+json">
 {
