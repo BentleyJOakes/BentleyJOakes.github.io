@@ -88,7 +88,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Robotics DT</strong>
 <p>A digital twin of a robotic arm with services for physics simulation, singularity detection, 3D visualization, deviation monitoring, and emergency stop, enabling safe real-time operation and anomaly detection.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/alient12/DTProject/"><i class="fab fa-github"></i> Code</a></p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -101,7 +101,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Waste Twin: Smart Waste Collection DT</strong>
 <p>A digital twin of a smart waste collection system-of-systems, modelling a city with truck fleets, adaptive traffic lights, and disturbance scenarios. Supports bidirectional feedback and adaptive behaviour.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SmartWastePresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SoSReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SmartWastePresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SoSReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/meriemsmt/wasteTwin"><i class="fab fa-github"></i> Code</a></p>
 <p><i class="fas fa-video"></i> <a href="https://youtu.be/sqTI49OAOeY">Overview</a> &nbsp; <a href="https://youtu.be/uh0O6K9vKeg">Truck-stopping</a> &nbsp; <a href="https://youtu.be/5cdrYAZirWU">Smart traffic lights</a> &nbsp; <a href="https://youtu.be/EpAbdp7IuwM">City disturbance</a></p>
 </div>
 <div class="col-md-6">
@@ -115,7 +115,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>STM Bus Fleet DT</strong>
 <p>Monitors the Société de Transport de Montréal (STM) bus fleet in real-time using live GPS data, with a 3D route visualization, telemetry validation service, and notification service for anomalies.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/oakeslabmtl/Society_de_Transport_Montreal_DT"><i class="fab fa-github"></i> Code</a></p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -128,7 +128,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Permafrost DT</strong>
 <p>Models permafrost freeze/thaw dynamics using finite element methods (two-phase Stefan problem), with real sensor data, a monitoring service, and 3D visualization of subsurface temperature evolution.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/AbdelhamidRouatbi/permafrost-digital-twin"><i class="fab fa-github"></i> Code</a></p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
