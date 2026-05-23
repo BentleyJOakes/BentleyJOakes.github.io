@@ -54,7 +54,7 @@ My research focuses on tools and methods that help domain experts model, constru
 I enjoy working across a variety of research fields, in collaboration with academic and industrial partners:
 
 <div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
-- [digital twins](/dte_course/), including their structure, [construction](/publications/#Oakes2024ServiceDriven), and [reporting](/publications/#Gil2024towardssystematicreporting)
+- [digital twins](/digital-twin-engineering-course/), including their structure, [construction](/publications/#Oakes2024ServiceDriven), and [reporting](/publications/#Gil2024towardssystematicreporting)
 - representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/publications/#Elaasar2023opencaesar)
 - verification and validation of cyber-physical systems, including [formal verification](/publications/#Bernaerts2019)
 - the application of [machine learning to cyber-physical systems](/publications/#Moradi2020)

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was thrilled to see the [student presentations in my Digital Twin Engineering class](/dte_course/), showcasing their work on [Digital Twin](/research/#digital-twins) projects!
+I was thrilled to see the [student presentations in my Digital Twin Engineering class](/digital-twin-engineering-course/), showcasing their work on [Digital Twin](/research/#digital-twins) projects!

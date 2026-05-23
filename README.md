@@ -12,7 +12,7 @@ Personal academic website for Dr. Bentley Oakes (Assistant Professor, Polytechni
 ## Local Development
 
 ```bash
-docker compose pull && docker compose up
+docker compose up --build
 # Site runs at http://localhost:8080, LiveReload on 35729
 ```
 
@@ -37,7 +37,7 @@ docker compose pull && docker compose up
 | Teaching page | `_pages/teaching.md` |
 | Community service | `_pages/community-building.md` |
 | Contact page | `_pages/contact.md` |
-| DTE course | `_pages/dte_course.md` |
+| DTE course | `_pages/digital-twin-engineering-course.md` |
 
 ## Site Structure
 

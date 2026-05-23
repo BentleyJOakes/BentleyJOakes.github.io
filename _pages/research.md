@@ -50,7 +50,7 @@ Ontological modelling &amp; analysis
 
 </ul>
 
-<p>We teach these concepts in our <a href="/dte_course/">Digital Twin Engineering course</a>.</p>
+<p>We teach these concepts in our <a href="/digital-twin-engineering-course/">Digital Twin Engineering course</a>.</p>
 
 <p><a href="/publications/?tag=digital-twins#all-publications">View all Digital Twins publications →</a></p>
 </div>

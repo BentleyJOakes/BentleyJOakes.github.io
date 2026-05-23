@@ -8,5 +8,5 @@ children:
   - title: Teaching
     permalink: /teaching/
   - title: DTE Course
-    permalink: /dte_course/
+    permalink: /digital-twin-engineering-course/
 ---
