@@ -10,6 +10,12 @@ og_image: https://bentleyoakes.com/assets/img/new_incubator_dt.png
 nav: false
 ---
 
+<style>
+.project-links { display: flex; flex-wrap: wrap; gap: 0.3rem 1.2rem; margin-bottom: 0; }
+.card-body .col-md-6 > strong { display: block; font-size: 1.05em; margin-bottom: 0.4rem; }
+.card-body .row + .row { border-top: 1px solid #eee; padding-top: 1.25rem; }
+</style>
+
 ## What is a Digital Twin?
 
 A Digital Twin is a **dynamic virtual representation of a complex system**, connected and synchronized to the real system, for supporting its design and operation through insights and actions. In practice, the Digital Twin paradigm brings together modelling and simulation, visualization, real-time data and control, and an ever-expanding set of intelligent services across multiple engineering domains.
@@ -61,7 +67,12 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>AvalanCH: A Digital Twin of the Swiss Alps</strong>
 <p>A regional-scale digital shadow of the Swiss Alps for avalanche risk management, using real-time meteorological data from IMIS weather stations and the Alpine3D physics-based snow simulation model. Services include avalanche risk prediction and what-if scenario visualization to support avalanche prevention, search-and-rescue planning, and ski resort management.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_AvalanCH/AvalanCHPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_AvalanCH/AvalanCHReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/KevinPeymani/AvalanCH-DT"><i class="fab fa-github"></i> Code</a> &nbsp;&nbsp; <a href="https://afymer.github.io/avalanchDT-report/"><i class="fas fa-file-invoice"></i> Reporting Page</a></p>
+<p class="project-links">
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_AvalanCH/AvalanCHPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_AvalanCH/AvalanCHReport.pdf"><i class="fas fa-file-alt"></i> Report</a>
+<a href="https://github.com/KevinPeymani/AvalanCH-DT"><i class="fab fa-github"></i> Code</a>
+<a href="https://afymer.github.io/avalanchDT-report/"><i class="fas fa-file-invoice"></i> Reporting Page</a>
+</p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -74,7 +85,12 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>MonDTreal: Digital Shadow of Montreal's Road Network</strong>
 <p>A digital shadow of Montreal's road network that applies machine learning models (logistic regression, random forest, and gradient boosting) to predict road conditions from open city data. Services include a prediction service, what-if simulation across road segments, and a real-time dashboard, built on an Angular/Flask/PostgreSQL stack containerized with Docker.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_MonDTreal/MonDTrealPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_MonDTreal/MonDTrealReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/HamzaGiTX786/LOG6310-Course-Project-Road-System-DT"><i class="fab fa-github"></i> Code</a> &nbsp;&nbsp; <a href="https://pennyghael.github.io/DTInsight_MontrealRoad_DT/"><i class="fas fa-file-invoice"></i> Reporting Page</a></p>
+<p class="project-links">
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_MonDTreal/MonDTrealPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2026/2026_MonDTreal/MonDTrealReport.pdf"><i class="fas fa-file-alt"></i> Report</a>
+<a href="https://github.com/HamzaGiTX786/LOG6310-Course-Project-Road-System-DT"><i class="fab fa-github"></i> Code</a>
+<a href="https://pennyghael.github.io/DTInsight_MontrealRoad_DT/"><i class="fas fa-file-invoice"></i> Reporting Page</a>
+</p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -141,7 +157,10 @@ By the end of this course, participants will be able to define, design, build, a
 <div style="border-left: 4px solid #F5A623; padding: 0.4em 1em; margin: 0.5rem 0;">
 <strong>Published at EDTconf:</strong> <a href="/assets/publications/Goffi2025 - Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling.pdf">Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling</a>
 </div>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_fermentation/BrewersPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_fermentation/BrewersReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
+<p class="project-links">
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_fermentation/BrewersPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_fermentation/BrewersReport.pdf"><i class="fas fa-file-alt"></i> Report</a>
+</p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -154,7 +173,11 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Robotics DT</strong>
 <p>A digital twin of a robotic arm with services for physics simulation, singularity detection, 3D visualization, deviation monitoring, and emergency stop, enabling safe real-time operation and anomaly detection.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/alient12/DTProject/"><i class="fab fa-github"></i> Code</a></p>
+<p class="project-links">
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsReport.pdf"><i class="fas fa-file-alt"></i> Report</a>
+<a href="https://github.com/alient12/DTProject/"><i class="fab fa-github"></i> Code</a>
+</p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -167,8 +190,18 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Waste Twin: Smart Waste Collection DT</strong>
 <p>A digital twin of a smart waste collection system-of-systems, modelling a city with truck fleets, adaptive traffic lights, and disturbance scenarios. Supports bidirectional feedback and adaptive behaviour.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SmartWastePresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SoSReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/meriemsmt/wasteTwin"><i class="fab fa-github"></i> Code</a></p>
-<p><i class="fas fa-video"></i> <a href="https://youtu.be/sqTI49OAOeY">Overview</a> &nbsp; <a href="https://youtu.be/uh0O6K9vKeg">Truck-stopping</a> &nbsp; <a href="https://youtu.be/5cdrYAZirWU">Smart traffic lights</a> &nbsp; <a href="https://youtu.be/EpAbdp7IuwM">City disturbance</a></p>
+<p class="project-links">
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SmartWastePresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SoSReport.pdf"><i class="fas fa-file-alt"></i> Report</a>
+<a href="https://github.com/meriemsmt/wasteTwin"><i class="fab fa-github"></i> Code</a>
+</p>
+<p class="project-links">
+<i class="fas fa-video"></i>
+<a href="https://youtu.be/sqTI49OAOeY">Overview</a>
+<a href="https://youtu.be/uh0O6K9vKeg">Truck-stopping</a>
+<a href="https://youtu.be/5cdrYAZirWU">Smart traffic lights</a>
+<a href="https://youtu.be/EpAbdp7IuwM">City disturbance</a>
+</p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -181,7 +214,11 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>STM Bus Fleet DT</strong>
 <p>Monitors the Société de Transport de Montréal (STM) bus fleet in real-time using live GPS data, with a 3D route visualization, telemetry validation service, and notification service for anomalies.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/oakeslabmtl/Society_de_Transport_Montreal_DT"><i class="fab fa-github"></i> Code</a></p>
+<p class="project-links">
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMReport.pdf"><i class="fas fa-file-alt"></i> Report</a>
+<a href="https://github.com/oakeslabmtl/Society_de_Transport_Montreal_DT"><i class="fab fa-github"></i> Code</a>
+</p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -194,7 +231,11 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Permafrost DT</strong>
 <p>Models permafrost freeze/thaw dynamics using finite element methods (two-phase Stefan problem), with real sensor data, a monitoring service, and 3D visualization of subsurface temperature evolution.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostReport.pdf"><i class="fas fa-file-alt"></i> Report</a> &nbsp;&nbsp; <a href="https://github.com/AbdelhamidRouatbi/permafrost-digital-twin"><i class="fab fa-github"></i> Code</a></p>
+<p class="project-links">
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostReport.pdf"><i class="fas fa-file-alt"></i> Report</a>
+<a href="https://github.com/AbdelhamidRouatbi/permafrost-digital-twin"><i class="fab fa-github"></i> Code</a>
+</p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -207,7 +248,10 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Graph Database Failure Propagation DT</strong>
 <p>Explores graph databases (Neo4j and TachosDB) for modelling and querying failure propagation in DT systems, with a RabbitMQ communication layer and Godot 3D visualization of building failures.</p>
-<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_graph_database/FinalProjectPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_graph_database/DatabaseReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
+<p class="project-links">
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_graph_database/FinalProjectPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
+<a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_graph_database/DatabaseReport.pdf"><i class="fas fa-file-alt"></i> Report</a>
+</p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
