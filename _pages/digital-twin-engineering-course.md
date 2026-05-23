@@ -75,7 +75,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div style="border-left: 4px solid #F5A623; padding: 0.4em 1em; margin: 0.5rem 0;">
 <strong>Published at EDTconf:</strong> <a href="/assets/publications/Goffi2025 - Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling.pdf">Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling</a>
 </div>
-<p><a href="https://drive.google.com/file/d/1nsA2t1DazQHxC8PHLst3X4VSaUu2PjEd/view?usp=sharing"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1fN6vga63s1owDOk0K24ENrIBFdE-g-OZ/view?usp=sharing"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_fermentation/BrewersPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_fermentation/BrewersReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -88,7 +88,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Robotics DT</strong>
 <p>A digital twin of a robotic arm with services for physics simulation, singularity detection, 3D visualization, deviation monitoring, and emergency stop, enabling safe real-time operation and anomaly detection.</p>
-<p><a href="https://docs.google.com/presentation/d/1sQNAqGFcO64Qu18FmAuG-wpHG5EGpTuO/edit?usp=sharing&ouid=100435680662249649799&rtpof=true&sd=true"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/12d2txx8teChBn1qx9Rnln-9XQzmAAjyc/view?usp=sharing"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_robotics/RoboticsReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -101,7 +101,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Waste Twin: Smart Waste Collection DT</strong>
 <p>A digital twin of a smart waste collection system-of-systems, modelling a city with truck fleets, adaptive traffic lights, and disturbance scenarios. Supports bidirectional feedback and adaptive behaviour.</p>
-<p><a href="https://docs.google.com/presentation/d/1Cutvw6E-3BpHdPUUDMXhKgbPoDNaL5y-/edit?usp=sharing&ouid=100435680662249649799&rtpof=true&sd=true"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1JrIK3UyJZ9G4b2vmjlf-YA_K1cyCHmk_/view?usp=sharing"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SmartWastePresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_smart_waste/SoSReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
 <p><i class="fas fa-video"></i> <a href="https://youtu.be/sqTI49OAOeY">Overview</a> &nbsp; <a href="https://youtu.be/uh0O6K9vKeg">Truck-stopping</a> &nbsp; <a href="https://youtu.be/5cdrYAZirWU">Smart traffic lights</a> &nbsp; <a href="https://youtu.be/EpAbdp7IuwM">City disturbance</a></p>
 </div>
 <div class="col-md-6">
@@ -115,7 +115,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>STM Bus Fleet DT</strong>
 <p>Monitors the Société de Transport de Montréal (STM) bus fleet in real-time using live GPS data, with a 3D route visualization, telemetry validation service, and notification service for anomalies.</p>
-<p><a href="https://drive.google.com/file/d/18c4WblJxL1lYbwn9XH1B3iolCi6BvoDA/view?usp=sharing"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1m4yrmTdxiap-9h4gcycctqyRI6U2-ufC/view?usp=sharing"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_stm/STMReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -128,7 +128,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Permafrost DT</strong>
 <p>Models permafrost freeze/thaw dynamics using finite element methods (two-phase Stefan problem), with real sensor data, a monitoring service, and 3D visualization of subsurface temperature evolution.</p>
-<p><a href="https://drive.google.com/file/d/1dLBnUXRYC3GCTc4LHgJFNmJjrR3ayYyk/view?usp=sharing"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1uGvCLKiKExcBl61ufslmRi1YiAEkjGiN/view?usp=sharing"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_permafrost/PermafrostReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
@@ -141,7 +141,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Graph Database Failure Propagation DT</strong>
 <p>Explores graph databases (Neo4j and TachosDB) for modelling and querying failure propagation in DT systems, with a RabbitMQ communication layer and Godot 3D visualization of building failures.</p>
-<p><a href="https://drive.google.com/file/d/1OU8EqiBH-rnJmaYutY-wqzztyxDTE54N/view?usp=sharing"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1lmimLGwZXmsT7bkiKocyn6gwinSDpwzc/view?usp=sharing"><i class="fas fa-file-alt"></i> Report</a></p>
+<p><a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_graph_database/FinalProjectPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a> &nbsp;&nbsp; <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_graph_database/DatabaseReport.pdf"><i class="fas fa-file-alt"></i> Report</a></p>
 </div>
 <div class="col-md-6">
 <div class="ratio ratio-16x9">
