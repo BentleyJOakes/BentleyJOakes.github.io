@@ -24,7 +24,7 @@ nav: false
 }
 .members-grid-2 {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
   text-align: center;
   margin-top: 20px;
@@ -103,20 +103,20 @@ nav: false
     <img src="/assets/img/students/kfiter_small.png" alt="kerian_fiter" class="member-photo"><br>
     <a href="https://kerianfiter.github.io/"><b>Kérian Fiter</b></a><br>
     PhD Student · Since 2024<br>
-    <i>Systematic DT reporting &amp; visualization</i><br>
+    <i>DT federation, trust, and observability</i><br>
     <a href="/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf">DTInsight paper</a>
   </div>
   <div>
     <img src="/assets/img/students/adil.png" alt="adil_lagrou" class="member-photo" style="object-position: center 80%;"><br>
     <a href="https://www.linkedin.com/in/adil-lagrou/"><b>Adil Lagrou</b></a><br>
     PhD Student · Since 2026<br>
-    <i>DT interoperability</i>
+    <i>Formalization of DT component interoperability</i>
   </div>
   <div>
     <img src="/assets/img/students/carlos_small.jpeg" alt="carlos_pambo" class="member-photo"><br>
     <a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
     PhD Student · Since 2024<br>
-    <i>Recommendations and patterns for accelerated DT construction</i>
+    <i>Recommendations and patterns for DT engineering</i>
   </div>
 </div>
 
@@ -125,7 +125,7 @@ nav: false
     <img src="/assets/img/students/gabrielle.jpeg" alt="gabrielle_gallant" class="member-photo"><br>
     <a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
     Master's Student · Since 2025<br>
-    <i>Live model updating in DTs</i><br>
+    <i>AI-enhanced DT for vibration analysis in manufacturing</i><br>
     Co-supervised with <a href="https://www.polymtl.ca/expertises/en/tuysuz-oguzhan">Oguzhan Tuysuz</a>
   </div>
   <div>
@@ -133,7 +133,13 @@ nav: false
     <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
     Master's Student · Since 2026<br>
     Previously MITACS Globalink Intern — 2025<br>
-    <i>LLMs for DT engineering</i>
+    <i>Structured DT engineering with LLMs</i>
+  </div>
+  <div>
+    <img src="/assets/img/students/fatima_small.jpeg" alt="fatima_aguel" class="member-photo" style="object-position: center top;"><br>
+    <a href="https://www.linkedin.com/in/faatima24/"><b>Fatima Aguel</b></a><br>
+    MITACS Globalink Research Intern · Summer 2026<br>
+    <i>Ontological modelling of digital twin component repositories</i>
   </div>
 </div>
 
