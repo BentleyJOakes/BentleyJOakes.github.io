@@ -173,6 +173,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-model-based-digital-twin-engineering-insights-challenges-and-future-directions-has-been-published-in-the-journal-on-software-and-systems-modelling-sosym-it-was-co-authored-with-philipp-zech-souvik-barat-benjamin-nast-judith-michael-steffen-zschaler-balbir-barn-and-ruth-breu",
           title: 'Our paper Model-based Digital Twin Engineering: Insights, Challenges, and Future Directions has been...',
           description: "",
+          section: "News",},{id: "news-the-oakes-lab-is-welcoming-fatima-aguel-as-a-mitacs-globalink-research-intern-this-summer-working-on-ontological-modelling-of-digital-twin-component-repositories-welcome-fatima",
+          title: 'The Oakes Lab is welcoming Fatima Aguel as a MITACS Globalink Research Intern...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
