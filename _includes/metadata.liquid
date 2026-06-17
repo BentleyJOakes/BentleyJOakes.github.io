@@ -226,6 +226,45 @@
     {% endcase %}
   {% endfor %}
 
+  {% if page.permalink == '/' or page.url == '/' %}
+  <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "{{ author_name }}",
+        "jobTitle": "Assistant Professor",
+        "url": "{{ site.url }}{{ site.baseurl }}/",
+        "image": "{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}",
+        "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+        "worksFor": {
+            "@type": "CollegeOrUniversity",
+            "name": "Polytechnique Montréal",
+            "url": "https://www.polymtl.ca/"
+        },
+        "affiliation": {
+            "@type": "CollegeOrUniversity",
+            "name": "Polytechnique Montréal",
+            "url": "https://www.polymtl.ca/"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "McGill University",
+            "url": "https://www.mcgill.ca/"
+        },
+        "knowsAbout": [
+            "Digital Twin engineering",
+            "Model-driven engineering",
+            "Cyber-physical systems",
+            "Ontologies and knowledge representation",
+            "Verification and validation",
+            "Machine learning for engineering"
+        ],
+        {% if sameaslinks != blank %}
+        "sameAs": {{ sameaslinks | jsonify }}
+        {% endif %}
+    }
+  </script>
+  {% else %}
   <script type="application/ld+json">
     {
         "author":
@@ -235,7 +274,7 @@
         },
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
         "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
+        "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
         "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
         {% if sameaslinks != blank %}
         "sameAs": {{ sameaslinks | jsonify }},
@@ -244,4 +283,5 @@
         "@context": "https://schema.org"
     }
   </script>
+  {% endif %}
 {% endif %}
