@@ -76,6 +76,7 @@ cv:
           - "Lab: GEODES Software Engineering Research Group"
           - "Supervisors: Houari Sahraoui and Michalis Famelis"
           - "Research topic: Assisting non-machine learning experts in constructing ML solutions by exploring tailoring of computational workflows."
+          - "Research topic: Extracting and structuring developer rationale from open-source commit messages using NLP and Large Language Models, in collaboration with PhD student Mouna Dhaouadi."
       - company: University of Antwerp
         position: Post-Doctoral Researcher
         location: Antwerp, Belgium
@@ -120,7 +121,7 @@ cv:
         date: "2018–2020"
         highlights:
           - "Collaborators: Dana Belgium NV, Siemens Industry Software (Leuven), Flanders Make"
-          - "Topics: Verification of safety-critical cyber-physical systems (formal methods, fault injection using ML, simulation/visualization), DevOps for functional safety."
+          - "Topics: Verification of safety-critical cyber-physical systems (formal methods, reinforcement learning-based fault injection for hazard discovery, simulation/visualization), DevOps for functional safety."
           - "Funding: Flanders Innovation and Entrepreneurship Agency (VLAIO)"
       - name: "Innovation in the Development of Electrical Systems For Aeronautics (INES)"
         date: "2019–2020"
@@ -186,7 +187,7 @@ cv:
         highlights:
           - "Host: Prof. Istvan David"
           - "*What Does Your Digital Twin Do? A Framework and Tooling for Systematic DT Reporting*"
-      - name: Invited talk — SIG LLODIA (Lecture #3)
+      - name: Invited talk — SIG LLODIA (Lecture \#3)
         date: "Jan. 2026"
         highlights:
           - "*Towards Ontology-based Digital Twin Service Construction and Reporting*"
@@ -225,14 +226,14 @@ cv:
         date: "2025"
         highlights:
           - "*Recent Work on Systematic Reporting and Construction for Digital Twins*"
-      - name: Conference paper presentation — MODELS 2024
-        date: "Sep. 2024"
-        highlights:
-          - "*Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis* (SoSyM journal-first)"
       - name: Guest lecture — LOG8704 XR Software Development, Polytechnique Montréal
         date: "Nov. 2024"
         highlights:
           - "*Digital Twins: Introductions and Intersections*"
+      - name: Conference paper presentation — MODELS 2024
+        date: "Sep. 2024"
+        highlights:
+          - "*Fault localization in DSLTrans model transformations by combining symbolic execution and spectrum-based analysis* (SoSyM journal-first)"
       - name: Invited talk — onto:Nexus Forum 2024
         date: "2024"
         highlights:
@@ -384,6 +385,101 @@ cv:
         date: "2012, 2014"
         highlights:
           - McGill University
+
+    Selected Publications:
+      - title: "Model-based digital twin engineering: insights, challenges, and future directions"
+        authors:
+          - "Philipp Zech"
+          - "Souvik Barat"
+          - "Benjamin Nast"
+          - "**Bentley Oakes**"
+          - "Judith Michael"
+          - "Steffen Zschaler"
+          - "Balbir Barn"
+          - "Ruth Breu"
+        journal: "Software and Systems Modeling (SoSyM)"
+        date: "2026-05"
+        doi: "10.1007/s10270-026-01368-8"
+      - title: "Automated Extraction and Analysis of Developer's Rationale in Open Source Software"
+        authors:
+          - "Mouna Dhaouadi"
+          - "**Bentley Oakes**"
+          - "Michalis Famelis"
+        journal: "Proceedings of the ACM on Software Engineering (FSE)"
+        date: "2025"
+        doi: "10.1145/3729383"
+      - title: "DTInsight: A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting"
+        authors:
+          - "Kérian Fiter"
+          - "Louis Malassigné-Onfroy"
+          - "**Bentley Oakes**"
+        journal: "MODELS Companion (MODELS-C)"
+        date: "2025"
+        doi: "10.1109/MODELS-C68889.2025.00030"
+      - title: "Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State of the Practice"
+        authors:
+          - "**Bentley Oakes**"
+          - "Michalis Famelis"
+          - "Houari Sahraoui"
+        journal: "ACM Transactions on Software Engineering and Methodology (TOSEM)"
+        date: "2024-04"
+        doi: "10.1145/3638243"
+      - title: "Toward Intelligent Generation of Tailored Graphical Concrete Syntax"
+        authors:
+          - "Meriem Ben Chaaben"
+          - "Oussama Ben Sghaier"
+          - "Mouna Dhaouadi"
+          - "Nafisa Elrasheed"
+          - "Ikram Darif"
+          - "Imen Jaoua"
+          - "**Bentley Oakes**"
+          - "Eugene Syriani"
+          - "Mohammad Hamdaqa"
+        journal: "MODELS 2024"
+        date: "2024"
+        doi: "10.1145/3640310.3674085"
+      - title: "Towards Ontological Service-Driven Engineering of Digital Twins"
+        authors:
+          - "**Bentley Oakes**"
+          - "Claudio Gomes"
+          - "Eduard Kamburjan"
+          - "Giuseppe Abbiati"
+          - "Elif Ecem Bas"
+          - "Sebastian Engelsgaard"
+        journal: "MODELS Companion (EDTconf) — Best Short Paper Award"
+        date: "2024"
+        doi: "10.1145/3652620.3688261"
+      - title: "Toward a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study"
+        authors:
+          - "Santiago Gil"
+          - "**Bentley Oakes**"
+          - "Cláudio Gomes"
+          - "Mirgita Frasheri"
+          - "Peter G. Larsen"
+        journal: "SIMULATION"
+        date: "2024"
+        doi: "10.1177/00375497241261406"
+      - title: "openCAESAR: Balancing Agility and Rigor in Model-Based Systems Engineering"
+        authors:
+          - "Maged Elaasar"
+          - "Nicolas Rouquette"
+          - "David Wagner"
+          - "**Bentley Oakes**"
+          - "Abdelwahab Hamou-Lhadj"
+          - "Mohammad Hamdaqa"
+        journal: "MODELS Companion (MODELS-C)"
+        date: "2023"
+        doi: "10.1109/MODELS-C59198.2023.00051"
+      - title: "Machine Learning-Based Fault Injection for Hazard Analysis and Risk Assessment"
+        authors:
+          - "**Bentley Oakes**"
+          - "Mehrdad Moradi"
+          - "Simon Van Mierlo"
+          - "Hans Vangheluwe"
+          - "Joachim Denil"
+        journal: "SAFECOMP 2021 (Computer Safety, Reliability, and Security)"
+        date: "2021"
+        doi: "10.1007/978-3-030-83903-1_12"
 
     Publications:
       - bullet: >
