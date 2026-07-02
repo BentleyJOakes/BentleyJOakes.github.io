@@ -70,6 +70,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | ----- | -------: |
 | [IEEE/ACM International Conference on Automated Software Engineering (ASE)](https://conf.researchr.org/home/ase-2026) | 2026 |
 | [Automated Software Engineering – NIER Track](https://conf.researchr.org/home/ase-2025) | 2025 |
+| [Model Driven Engineering Languages and Systems (MODELS) — Artifact Evaluation Track](https://conf.researchr.org/track/models-2026/models-2026-artifact-evaluation) | 2026 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | 2025 |
 | [EMMSAD](https://www.emmsad.org/) | 2025 |
 | [International Conference on Engineering Digital Twins (EDTconf)](https://conf.researchr.org/home/edtconf-2025) | 2024, 2025 |
