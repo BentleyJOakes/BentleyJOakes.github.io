@@ -66,7 +66,7 @@ cv:
         end_date: present
         highlights:
           - "Department of Computer and Software Engineering (GIGL)"
-          - "Research topics: Accelerating the construction and deployment of digital twins with a knowledge-based, low-code approach. Assisting users with developing, configuring, and understanding machine learning and verification/validation services for their DT."
+          - "Research topics: Accelerating the construction and deployment of digital twins through ontologies for capturing domain knowledge, and large language models and agentic AI for automating their creation. Integrating formal methods to verify digital twin correctness, and assisting users with the configuration and observability of their machine learning and verification/validation services."
       - company: Université de Montréal
         position: Post-Doctoral Researcher
         location: Montréal, Canada
