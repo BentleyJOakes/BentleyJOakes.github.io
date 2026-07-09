@@ -16,3 +16,7 @@ vendor
 
 scripts/
 docker-compose.override.yml
+
+TODO.md
+cluster/
+*.bak
