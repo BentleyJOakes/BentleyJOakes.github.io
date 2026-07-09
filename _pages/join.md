@@ -42,7 +42,7 @@ If you have another research idea which aligns with my interests, I would love t
 
 ## What I Offer
 
-<div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #25B34B;" markdown="1">
 
 - A position at **Polytechnique Montréal**, affiliated with the [Université de Montréal](https://www.umontreal.ca/) ([ranked 125th globally](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal)) and [Mila](https://mila.quebec/en), located in [Montréal](https://www.mtl.org/en) — [virtual tour](https://visitevirtuelle.polymtl.ca/polymtl/home/featured-tours/)
 - Supportive mentoring on many aspects of graduate life
@@ -56,7 +56,7 @@ If you have another research idea which aligns with my interests, I would love t
 
 ## What I Expect
 
-<div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #00BDF2;" markdown="1">
 
 - A friendly yet professional attitude
 - Ability to perform high-quality research and publish worthwhile contributions
@@ -73,7 +73,7 @@ See the [Contact](/contact/) page for my email and office location.
 
 To help me respond promptly, please include the following in your email:
 
-<div style="border-left: 4px solid #F15A22; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #F15A22;" markdown="1">
 
 **Please demonstrate** awareness of my [research interests](https://www.polymtl.ca/expertises/en/oakes-bentley) and [publications](/publications/).
 
@@ -94,7 +94,7 @@ A great email tells me who you are, what you want to research, and why our inter
 
 </div>
 
-<div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #ED1C24;" markdown="1">
   Ready to apply? See the [admission process](https://www.polymtl.ca/admission/en/graduate-studies) and [application page](https://www.polymtl.ca/futur/en/es/admission). Under-represented groups are especially encouraged to join us!
 </div>
 

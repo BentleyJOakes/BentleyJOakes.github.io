@@ -146,7 +146,7 @@ nav: false
   </div>
 </div>
 
-<div style="border-left: 4px solid rgb(0, 142, 62); padding: 0.4em 1em; margin-bottom: 1.25em;">
+<div class="callout" style="--accent-color: rgb(0, 142, 62);">
   Interested in <strong>joining the lab</strong>? See the <a href="/join/">Join Us</a> page for open opportunities and how to contact me.
 </div>
 

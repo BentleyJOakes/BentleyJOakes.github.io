@@ -87,7 +87,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 #### Journal Reviewer
 
-<div style="border-left: 4px solid #f0ad4e; padding: 0.4em 1em; margin-bottom: 1.25em;">
+<div class="callout" style="--accent-color: #f0ad4e;">
   🏆 <strong>Top 1% Reviewer</strong> for <em>SoSyM</em> (2020 &amp; 2021) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SoSyM</em> (2025) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SIMULATION</em> (2023)
 </div>
 

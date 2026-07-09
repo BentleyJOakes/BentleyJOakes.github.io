@@ -271,14 +271,22 @@ ul.task-list input[type="checkbox"] {
 a.award.btn {
   background-color: rgba(212, 175, 55, 0.25);
   border-color: rgba(212, 175, 55, 0.9);
-  color: black !important;
+  color: var(--global-text-color) !important;
   border-radius: 999px;
 
   &:hover {
     background-color: rgba(212, 175, 55, 0.4);
     border-color: rgba(212, 175, 55, 1);
-    color: black;
+    color: var(--global-text-color);
   }
+}
+
+// Colored callout box; set the accent via --accent-color inline
+
+.callout {
+  border-left: 4px solid var(--accent-color, var(--global-theme-color));
+  padding: 0.5em 1em;
+  margin: 1rem 0;
 }
 
 // Research page

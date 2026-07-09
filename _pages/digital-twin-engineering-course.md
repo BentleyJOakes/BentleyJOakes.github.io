@@ -32,7 +32,7 @@ Building a Digital Twin starts with defining the physical system and the insight
 
 ### The Course
 
-<div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #00BDF2;" markdown="1">
 The [Digital Twin Engineering course (LOG8421E) at Polytechnique Montréal](https://www.polymtl.ca/programmes/cours/digital-twin-engineering-1) guides students through these stages of building a DT. Students learn through hands-on labs, real-world case studies, and team projects, building a working Digital Twin from the ground up. The course is offered every Winter term by [Dr. Bentley Oakes](https://www.polymtl.ca/expertises/en/oakes-bentley) (Department of Computer and Software Engineering), in English.
 
 Each week features interactive lectures with real-world DT examples and discussions. Every second week, participants complete one of six [hands-on lab sessions](https://github.com/BentleyJOakes/IncubatorDTCourse) (small assignments to build familiarity with DT technologies and services). In team-based projects, participants apply their learning to develop their own DT with DT services ranging from machine learning, formal verification, to game-engine visualization. A final exam consolidates the theoretical concepts.
@@ -40,7 +40,7 @@ Each week features interactive lectures with real-world DT examples and discussi
 
 Parts of this course are based on the textbook [The Engineering of Digital Twins](https://link.springer.com/book/10.1007/978-3-031-66719-0) by John Fitzgerald, Cláudio Gomes, and Peter Gorm Larsen. Some slides and materials are from the [corresponding course](https://kursuskatalog.au.dk/en/course/138051/Engineering-Digital-Twins) at Aarhus University, Denmark.
 
-<div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #25B34B;" markdown="1">
 By the end of this course, participants will be able to define, design, build, and deploy a working Digital Twin, applying systems engineering theory directly to a complex system of their own choosing:
 - Define what a Digital Twin (DT) is and their role in different domains
 - Explain the processes of engineering DTs, their architecture, and components
@@ -154,7 +154,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div class="col-md-6">
 <strong>Beer Fermentation DT</strong>
 <p>Monitors and controls a beer fermentation process using Arduino sensors, a sampling chamber, and an electronic hydrometer. DT services include safety monitoring, closed-loop control, analysis, and Unity 3D visualization.</p>
-<div style="border-left: 4px solid #F5A623; padding: 0.4em 1em; margin: 0.5rem 0;">
+<div class="callout" style="--accent-color: #F5A623;">
 <strong>Published at EDTconf:</strong> <a href="/assets/publications/Goffi2025 - Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling.pdf">Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling</a>
 </div>
 <p class="project-links">
@@ -268,7 +268,7 @@ By the end of this course, participants will be able to define, design, build, a
 
 ## Course Schedule
 
-<div style="border-left: 4px solid #F15A22; padding: 0.5em 1em; margin: 1rem 0;">
+<div class="callout" style="--accent-color: #F15A22;">
 <table>
 <thead><tr><th style="text-align:center;">Lecture</th><th>Topic</th></tr></thead>
 <tbody>
@@ -303,7 +303,7 @@ By the end of this course, participants will be able to define, design, build, a
 
 ## Potential Students
 
-<div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #ED1C24;" markdown="1">
 LOG8421E welcomes _senior undergraduate students_, _graduate students_, and _researchers_ from any discipline, particularly software engineering, computer science, mechanical engineering, or any field where you model, simulate, or monitor complex systems. If you work with cyber-physical systems, robotics, manufacturing, or smart infrastructure and want to learn how to engineer a Digital Twin for it, this course is for you. No prior DT experience is needed; some familiarity with Python, Docker, and Git is useful for the lab sessions, but support is available for those newer to these tools.
 
 For students from other Quebec universities, there is an established inter-university enrollment procedure. See the [BCI Québec application portal](https://aehe.bci-qc.ca/en) (select 'Applications' on the left) and the [BCI student transfer guide](https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU) for details.

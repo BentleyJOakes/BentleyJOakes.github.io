@@ -43,7 +43,7 @@ latest_posts:
   limit: 3
 ---
 
-<div style="border-left: 4px solid #00BDF2; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #00BDF2;" markdown="1">
 I am an Assistant Professor in the [Department of Computer and Software Engineering (GIGL)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada, where I lead the OAKES Lab. I completed my Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal. I am a researcher in the [artificial intelligence consortium IVADO](https://ivado.ca/en/), and Polytechnique Montréal is affiliated with the [Université de Montréal](https://www.umontreal.ca/) and the [Quebec Artificial Intelligence Institute (Mila)](https://mila.quebec/en).
 
 My research focuses on tools and methods that help domain experts model, construct, and reason about complex systems, with a particular emphasis on Digital Twin engineering. Recent recognized work includes contributions on ontological service-driven engineering of Digital Twins and systematic reporting frameworks.
@@ -53,7 +53,7 @@ My research focuses on tools and methods that help domain experts model, constru
 
 I enjoy working across a variety of research fields, in collaboration with academic and industrial partners:
 
-<div style="border-left: 4px solid #25B34B; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #25B34B;" markdown="1">
 - [digital twins](/digital-twin-engineering-course/), including their structure, [construction](/publications/#Oakes2024ServiceDriven), and [reporting](/publications/#Gil2024towardssystematicreporting)
 - representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/publications/#Elaasar2023opencaesar)
 - verification and validation of cyber-physical systems, including [formal verification](/publications/#Bernaerts2019)
@@ -71,11 +71,11 @@ I have published in premier model-driven engineering and software engineering ve
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops, and have been recognized for these contributions with multiple best reviewer awards.
 
-<div style="border-left: 4px solid #F15A22; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #F15A22;" markdown="1">
 I am the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, a regular seminar series for software engineering researchers in Montreal.
 </div>
 
-<div style="border-left: 4px solid #ED1C24; padding: 0.5em 1em; margin: 1rem 0;" markdown="1">
+<div class="callout" style="--accent-color: #ED1C24;" markdown="1">
 {% include dte_course_blurb.liquid %}
 </div>
 
