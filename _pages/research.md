@@ -33,7 +33,7 @@ Ontological modelling &amp; analysis
 
 ---
 
-## Digital Twins {#digital-twins}
+## Digital Twin Engineering {#digital-twins}
 
 <div class="callout" style="--accent-color: #ED1C24;">
 <p>Digital Twins (DTs) are virtual representations of a system. Where they get interesting is when they are connected to a physical system, such that they receive data in real-time, perform modelling and simulation, and have some control over that system. For example, a <a href="/publications/#Goffi2025">DT for beer fermentation</a> can monitor and control the fermentation process in real-time. The concept can go further still, where engineers add look-ahead predictive capability, integrate more and more data, and add in artificial intelligence and machine learning.</p>
@@ -57,7 +57,7 @@ Ontological modelling &amp; analysis
 
 ---
 
-## Systems Engineering {#systems-engineering}
+## Model-Based Systems Engineering {#systems-engineering}
 
 <div class="callout" style="--accent-color: #F15A22;">
 <p>Effective systems engineering is about modelling and reasoning over complex integrations of systems, which is a perennial challenge, as shown in a <a href="/publications/#Elaasar2025">survey of practitioners</a>. In particular, engineers still need languages, tools, and techniques to better bridge the gap between knowing and utilising their domain knowledge.</p>
@@ -95,7 +95,7 @@ Ontological modelling &amp; analysis
 
 ---
 
-## Knowledge Representation {#knowledge-representation}
+## Semantic Modelling and Knowledge Representation {#knowledge-representation}
 
 <div class="callout" style="--accent-color: #00BDF2;">
 <p>Engineering complex systems depends on being able to capture the expert's domain knowledge and reason over it. Our research focuses on using rich semantic modelling, as captured in ontologies, to represent: <a href="/publications/#Oakes2024BuildingDomainSpecific">machine learning</a>, <a href="/publications/#Dhaouadi2023towards">developer rationale</a>, <a href="/publications/#Oakes2021b">Digital Twin data</a>, and <a href="/publications/#Elaasar2023opencaesar">MBSE</a>. Having this semantic knowledge represented in a consistent way allows for deeper understanding and enhanced interoperability across systems.</p>
