@@ -103,20 +103,20 @@ nav: false
 
 <div class="members-grid-3">
   <div>
-    <img src="/assets/img/students/kfiter_small.png" alt="kerian_fiter" class="member-photo"><br>
+    <img src="/assets/img/students/kfiter_small.png" alt="Kérian Fiter" class="member-photo"><br>
     <a href="https://kerianfiter.github.io/"><b>Kérian Fiter</b></a><br>
     PhD Student · Since 2024<br>
     <i>DT federation, trust, and observability</i><br>
     <a href="/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf">DTInsight paper</a>
   </div>
   <div>
-    <img src="/assets/img/students/adil.png" alt="adil_lagrou" class="member-photo" style="object-position: center 80%;"><br>
+    <img src="/assets/img/students/adil.png" alt="Adil Lagrou" class="member-photo" style="object-position: center 80%;"><br>
     <a href="https://www.linkedin.com/in/adil-lagrou/"><b>Adil Lagrou</b></a><br>
     PhD Student · Since 2026<br>
     <i>Formalization of DT component interoperability</i>
   </div>
   <div>
-    <img src="/assets/img/students/carlos_small.jpeg" alt="carlos_pambo" class="member-photo"><br>
+    <img src="/assets/img/students/carlos_small.jpeg" alt="Carlos Pambo" class="member-photo"><br>
     <a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
     PhD Student · Since 2024<br>
     <i>Recommendations and patterns for DT engineering</i>
@@ -125,21 +125,21 @@ nav: false
 
 <div class="members-grid-2">
   <div>
-    <img src="/assets/img/students/gabrielle.jpeg" alt="gabrielle_gallant" class="member-photo"><br>
+    <img src="/assets/img/students/gabrielle.jpeg" alt="Gabrielle Gallant" class="member-photo"><br>
     <a href="https://www.linkedin.com/in/gabrielle-gallant-cpi-b-ing-bba6751a9/"><b>Gabrielle Gallant</b></a><br>
     Master's Student · Since 2025<br>
     <i>AI-enhanced DT for vibration analysis in manufacturing</i><br>
     Co-supervised with <a href="https://www.polymtl.ca/expertises/en/tuysuz-oguzhan">Oguzhan Tuysuz</a>
   </div>
   <div>
-    <img src="/assets/img/students/angelica_small.JPEG" alt="angelica_portocarrero" class="member-photo"><br>
+    <img src="/assets/img/students/angelica_small.JPEG" alt="Angelica Portocarrero" class="member-photo"><br>
     <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
     Master's Student · Since 2026<br>
     Previously MITACS Globalink Intern — 2025<br>
     <i>Structured DT engineering with LLMs</i>
   </div>
   <div>
-    <img src="/assets/img/students/fatima_small.jpeg" alt="fatima_aguel" class="member-photo" style="object-position: center top;"><br>
+    <img src="/assets/img/students/fatima_small.jpeg" alt="Fatima Aguel" class="member-photo" style="object-position: center top;"><br>
     <a href="https://www.linkedin.com/in/faatima24/"><b>Fatima Aguel</b></a><br>
     MITACS Globalink Research Intern · Summer 2026<br>
     <i>Ontological modelling of digital twin component repositories</i>

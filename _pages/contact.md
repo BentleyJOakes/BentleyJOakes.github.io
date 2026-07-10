@@ -82,4 +82,4 @@ Parking is available inside the building marked '1' on the map below. For the fu
 
 </div>
 
-<img src="https://www.polymtl.ca/sites/amigow2020.polymtl.ca/files/plancampus700px_en.png" alt="campus_plan" style="width:100%; margin-top: 1rem;"/><br>
+<img src="https://www.polymtl.ca/sites/amigow2020.polymtl.ca/files/plancampus700px_en.png" alt="Map of the Polytechnique Montréal campus, with Pavillons Lassonde marked as building 1" style="width:100%; margin-top: 1rem;"/><br>

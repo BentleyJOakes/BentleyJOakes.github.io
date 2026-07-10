@@ -45,7 +45,7 @@ Ontological modelling &amp; analysis
 <li><a href="/publications/#Fiter2025">DTInsight: A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting</a></li>
 <li><a href="/publications/#Goffi2025">Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling</a></li>
 <li><a href="/publications/#Gil2024towardssystematicreporting">Towards a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study</a></li>
-<li><a href="/publications/#Oakes2024ServiceDriven">Towards Ontological Service-Driven Engineering of Digital Twins</a> <a class="award btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>Best Short Paper</a></li>
+<li><a href="/publications/#Oakes2024ServiceDriven">Towards Ontological Service-Driven Engineering of Digital Twins</a> <span class="award btn btn-sm z-depth-0"><i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>Best Short Paper</span></li>
 <li><a href="/publications/#Zech2026MBDTE">Model-based Digital Twin Engineering: Insights, Challenges, and Future Directions</a></li>
 
 </ul>
@@ -66,7 +66,7 @@ Ontological modelling &amp; analysis
 
 <p><strong>Key publications:</strong></p>
 <ul>
-<li><a href="/publications/#Gomes2019">HintCO: Hint-Based Configuration of Co-Simulations</a> <a class="award btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>Best Student Paper</a></li>
+<li><a href="/publications/#Gomes2019">HintCO: Hint-Based Configuration of Co-Simulations</a> <span class="award btn btn-sm z-depth-0"><i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>Best Student Paper</span></li>
 <li><a href="/publications/#Elaasar2025">Model-Based Systems Engineering Perspectives: A Survey of Practitioner Experiences and Challenges</a></li>
 <li><a href="/publications/#Elaasar2023opencaesar">openCAESAR: Balancing Agility and Rigor in Model-Based Systems Engineering</a></li>
 <li><a href="/publications/#ben2024toward">Toward Intelligent Generation of Tailored Graphical Concrete Syntax</a></li>

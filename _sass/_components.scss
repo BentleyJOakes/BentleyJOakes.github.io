@@ -268,17 +268,21 @@ ul.task-list input[type="checkbox"] {
 
 // Award badge (global, mirrors .publications scope in _publications.scss)
 
-a.award.btn {
+.award.btn {
   background-color: rgba(212, 175, 55, 0.25);
   border-color: rgba(212, 175, 55, 0.9);
   color: var(--global-text-color) !important;
   border-radius: 999px;
+}
 
-  &:hover {
-    background-color: rgba(212, 175, 55, 0.4);
-    border-color: rgba(212, 175, 55, 1);
-    color: var(--global-text-color);
-  }
+span.award.btn {
+  cursor: default;
+}
+
+a.award.btn:hover {
+  background-color: rgba(212, 175, 55, 0.4);
+  border-color: rgba(212, 175, 55, 1);
+  color: var(--global-text-color);
 }
 
 // Colored callout box; set the accent via --accent-color inline
