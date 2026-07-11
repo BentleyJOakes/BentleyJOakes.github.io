@@ -21,20 +21,20 @@ I am actively looking for motivated and talented individuals for **undergraduate
 
 <div style="display: flex; flex-direction: column; gap: 0.75rem; margin: 1rem 0;">
   <div class="project-card" style="--accent-color: #ED1C24;">
-    <b><a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Semantic Integration for Hierarchical Digital Twins</a></b> — PhD (fully funded)<br>
+    <b><a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Semantic Integration for Hierarchical Digital Twins</a></b> — funding available<br>
     Developing a semantic integration and consistency framework for hierarchical digital twins.
   </div>
   <div class="project-card" style="--accent-color: #F15A22;">
-    <b>Quality of Digital Twin Models and Systems</b><br>
-    Analyzing and improving the quality of DT models and systems. <a href="https://bentleyoakes.com/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf">[paper]</a>
+    <b>Quality and Explainability of Digital Twin Systems</b> — funding available<br>
+    Analyzing and improving the quality of DT models and systems, and the explainability of DT architectures and service results. <a href="https://bentleyoakes.com/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf">[quality paper]</a> <a href="https://bentleyoakes.com/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf">[explainability paper]</a>
   </div>
   <div class="project-card" style="--accent-color: #25B34B;">
-    <b>Explainability of Digital Twin Architectures</b><br>
-    Improving the explainability of DT architecture and service results. <a href="https://bentleyoakes.com/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf">[paper]</a>
+    <b><a href="https://www.polymtl.ca/expertises/application-de-lapprentissage-automatique-pour-accelerer-la-construction-de-jumeaux-numeriques">ML and Ontological Modelling for DT Construction</a></b> — funding available<br>
+    Utilizing machine learning (RL, LLMs, recommendations) and ontological modelling for DT construction and evolution. <a href="https://bentleyoakes.com/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf">[paper]</a>
   </div>
   <div class="project-card" style="--accent-color: #00BDF2;">
-    <b><a href="https://www.polymtl.ca/expertises/application-de-lapprentissage-automatique-pour-accelerer-la-construction-de-jumeaux-numeriques">ML and Ontological Modelling for DT Construction</a></b> — Master's and PhD (funded)<br>
-    Utilizing machine learning (RL, LLMs, recommendations) and ontological modelling for DT construction and evolution. <a href="https://bentleyoakes.com/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf">[paper]</a>
+    <b>Software Architecture for Digital Twins</b> — funding available<br>
+    Investigating software architecture styles, patterns, and reference architectures for digital twin systems and their services.
   </div>
 </div>
 

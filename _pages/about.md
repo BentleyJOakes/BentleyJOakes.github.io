@@ -62,7 +62,7 @@ I enjoy working across a variety of research fields, in collaboration with acade
 - [model transformations and their verification](/publications/#Oakes2018)
 - and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
-See my [research page](/research/) for more detail on each area.
+See my [research page](/research/) for more detail on each area, and [Join Us](/join/) for open positions in these areas.
 </div>
 
 I have published in premier model-driven engineering and software engineering venues, including TOSEM, SoSyM, MODELS, and MSR.
