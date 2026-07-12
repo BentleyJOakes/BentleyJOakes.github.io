@@ -12,6 +12,7 @@
 
 "MODELS":
   url: https://conf.researchr.org/series/models
+  name: "ACM/IEEE International Conference on Model Driven Engineering Languages and Systems"
   color: "#2E7D32"
   text_color: "#ffffff"
   dark_color: "#9CCC65"
@@ -28,6 +29,7 @@
 
 "SoSyM":
   url: https://www.springer.com/journal/10270
+  name: "Software and Systems Modeling (Springer)"
   color: "#1565C0"
   text_color: "#ffffff"
   dark_color: "#90CAF9"
@@ -35,6 +37,7 @@
 
 "TOSEM":
   url: https://dl.acm.org/journal/tosem
+  name: "ACM Transactions on Software Engineering and Methodology"
   color: "#1976D2"
   text_color: "#ffffff"
   dark_color: "#90CAF9"
@@ -44,6 +47,7 @@
 
 "FSE":
   url: https://dl.acm.org/conference/fse
+  name: "ACM International Conference on the Foundations of Software Engineering"
   color: "#7B1FA2"
   text_color: "#ffffff"
   dark_color: "#CE93D8"
@@ -51,6 +55,7 @@
 
 "MSR":
   url: https://www.msrconf.org
+  name: "IEEE/ACM International Conference on Mining Software Repositories"
   color: "#6A1B9A"
   text_color: "#ffffff"
   dark_color: "#CE93D8"
@@ -60,6 +65,7 @@
 
 "ICPC":
   url: https://conf.researchr.org/series/icpc
+  name: "IEEE/ACM International Conference on Program Comprehension"
   color: "#E65100"
   text_color: "#ffffff"
   dark_color: "#FFCC80"
@@ -67,6 +73,7 @@
 
 "ASE":
   url: https://conf.researchr.org/series/ase
+  name: "IEEE/ACM International Conference on Automated Software Engineering"
   color: "#F57C00"
   text_color: "#ffffff"
   dark_color: "#FFCC80"

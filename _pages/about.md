@@ -65,7 +65,18 @@ I enjoy working across a variety of research fields, in collaboration with acade
 See my [research page](/research/) for more detail on each area, and [Join Us](/join/) for open positions in these areas.
 </div>
 
-I have published in premier model-driven engineering and software engineering venues, including TOSEM, SoSyM, MODELS, and MSR.
+Across 40+ peer-reviewed papers, my research appears in flagship venues in two communities: in model-driven engineering, including {% assign mde_venues = "MODELS,SoSyM" | split: "," %}{% for v in mde_venues %}{% assign venue = site.data.venues[v] %}{% unless forloop.first %}{% if forloop.last %}, and {% else %}, {% endif %}{% endunless %}[{{ v }}]({{ venue.url }} "{{ venue.name }}"){% endfor %}; and in software engineering, including {% assign se_venues = "TOSEM,FSE,ASE,MSR,ICPC" | split: "," %}{% for v in se_venues %}{% assign venue = site.data.venues[v] %}{% unless forloop.first %}{% if forloop.last %}, and {% else %}, {% endif %}{% endunless %}[{{ v }}]({{ venue.url }} "{{ venue.name }}"){% endfor %}.
+
+<p class="funding-caption">Our research is generously supported by:</p>
+
+<div class="funding-logos">
+  <a href="https://www.nserc-crsng.gc.ca/" target="_blank" rel="noopener" title="Natural Sciences and Engineering Research Council of Canada (NSERC)">
+    <img src="{{ '/assets/img/funding/nserc-symbol.svg' | relative_url }}" alt="Natural Sciences and Engineering Research Council of Canada (NSERC / CRSNG) logo" />
+  </a>
+  <a href="https://www.mitacs.ca/" target="_blank" rel="noopener" title="Mitacs">
+    <img src="{{ '/assets/img/funding/mitacs.png' | relative_url }}" alt="Mitacs logo" />
+  </a>
+</div>
 
 ### Service and teaching
 
