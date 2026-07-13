@@ -71,10 +71,10 @@ Across 40+ peer-reviewed papers, my research appears in flagship venues in two c
 
 <div class="funding-logos">
   <a href="https://www.nserc-crsng.gc.ca/" target="_blank" rel="noopener" title="Natural Sciences and Engineering Research Council of Canada (NSERC)">
-    <img src="{{ '/assets/img/funding/nserc-symbol.svg' | relative_url }}" alt="Natural Sciences and Engineering Research Council of Canada (NSERC / CRSNG) logo" />
+    <img src="{{ '/assets/img/funding/nserc-symbol.svg' | relative_url }}" width="115" height="55" alt="Natural Sciences and Engineering Research Council of Canada (NSERC / CRSNG) logo" />
   </a>
   <a href="https://www.mitacs.ca/" target="_blank" rel="noopener" title="Mitacs">
-    <img src="{{ '/assets/img/funding/mitacs.png' | relative_url }}" alt="Mitacs logo" />
+    <img src="{{ '/assets/img/funding/mitacs.png' | relative_url }}" width="500" height="84" alt="Mitacs logo" />
   </a>
 </div>
 
