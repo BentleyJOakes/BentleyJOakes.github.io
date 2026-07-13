@@ -29,7 +29,7 @@ layout: default
       30vw, 95vw"{% endcapture %}
           {% assign profile_image_alt = page.profile.image_alt | default: page.profile.image %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile_image_alt
+            include figure.liquid loading="eager" fetchpriority="high" path=profile_image_path class=profile_image_class sizes=sizes alt=profile_image_alt
             width=600 height=638 cache_bust=true
           %}
         {% endif %}

@@ -49,7 +49,7 @@ I am an Assistant Professor in the [Department of Computer and Software Engineer
 My research focuses on tools and methods that help domain experts model, construct, and reason about complex systems, with a particular emphasis on Digital Twin engineering. Recent recognized work includes contributions on ontological service-driven engineering of Digital Twins and systematic reporting frameworks.
 </div>
 
-### Research interests
+## Research interests
 
 I enjoy working across a variety of research fields, in collaboration with academic and industrial partners:
 
@@ -78,7 +78,7 @@ Across 40+ peer-reviewed papers, my research appears in flagship venues in two c
   </a>
 </div>
 
-### Service and teaching
+## Service and teaching
 
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops, and have been recognized for these contributions with multiple best reviewer awards.
 
@@ -91,7 +91,7 @@ I am the lead organizer for the [Software Engineering at Montreal (SEMTL)](https
 </div>
 
 
-### Academic background
+## Academic background
 Previously, I was a post-doctoral researcher at the [GEODES lab](https://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal for two years. My research topic was on the modelling of [domain-specific machine learning workflows](https://doi.org/10.1145/3638243).
 
 Before that, I was a post-doctoral researcher at the University of Antwerp in Belgium for three years. I worked on a variety of topics along with industrial partners as part of the [Flanders Make](https://www.flandersmake.be) strategic research centre, including verification of cyber-physical systems, configuring of co-simulations, and developing conceptual frameworks for digital twins.
