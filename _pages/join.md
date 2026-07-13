@@ -26,11 +26,11 @@ I am actively looking for motivated and talented individuals for **undergraduate
   </div>
   <div class="project-card" style="--accent-color: #F15A22;">
     <b>Quality and Explainability of Digital Twin Systems</b> — funding available<br>
-    Analyzing and improving the quality of DT models and systems, and the explainability of DT architectures and service results. <a href="https://bentleyoakes.com/assets/publications/Oakes2023%20-%20Examining%20Model%20Qualities%20and%20their%20Impact%20on%20Digital%20Twins.pdf">[quality paper]</a> <a href="https://bentleyoakes.com/assets/publications/Gil2024-Towards_a_Systematic_Reporting_Framework_for_Digital_Twins.pdf">[explainability paper]</a>
+    Analyzing and improving the quality of DT models and systems, and the explainability of DT architectures and service results. <a href="/publications/#Oakes2023examining">[quality paper]</a> <a href="/publications/#Gil2024towardssystematicreporting">[explainability paper]</a>
   </div>
   <div class="project-card" style="--accent-color: #25B34B;">
     <b><a href="https://www.polymtl.ca/expertises/application-de-lapprentissage-automatique-pour-accelerer-la-construction-de-jumeaux-numeriques">ML and Ontological Modelling for DT Construction</a></b> — funding available<br>
-    Utilizing machine learning (RL, LLMs, recommendations) and ontological modelling for DT construction and evolution. <a href="https://bentleyoakes.com/assets/publications/Oakes2024-Towards_Ontological_Service-Driven_Engineering_of_Digital_Twins.pdf">[paper]</a>
+    Utilizing machine learning (RL, LLMs, recommendations) and ontological modelling for DT construction and evolution. <a href="/publications/#Oakes2024ServiceDriven">[paper]</a>
   </div>
   <div class="project-card" style="--accent-color: #00BDF2;">
     <b>Software Architecture for Digital Twins</b> — funding available<br>
