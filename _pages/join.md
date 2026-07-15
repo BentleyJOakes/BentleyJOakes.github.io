@@ -7,7 +7,11 @@ description: >
 nav: false
 ---
 
-I am actively looking for motivated and talented individuals for **undergraduate, Masters, and PhD positions**.
+**I have funded undergraduate, Master's, and PhD positions open now** for motivated and talented individuals interested in cutting-edge research.
+
+## What You'll Research
+
+You'll develop new techniques for digital twin construction, verification, and explanation, following our [AI-assisted, model-driven approach](/research/) with tools like game engines, ontologies, and LLMs. This research is applied across real domains, including permafrost monitoring, [beer fermentation](/publications/#Goffi2025), smart-city traffic, aerospace machining, and robotic assembly, in ongoing projects with industrial and academic partners. You'll help push that further in the lab and our [Digital Twin Engineering course](/digital-twin-engineering-course/).
 
 ## Available Projects
 
@@ -44,26 +48,26 @@ If you have another research idea which aligns with my interests, I would love t
 
 <div class="callout" style="--accent-color: #25B34B;" markdown="1">
 
-- A position at **Polytechnique Montréal**, affiliated with the [Université de Montréal](https://www.umontreal.ca/) ([ranked 125th globally](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal)) and [Mila](https://mila.quebec/en), located in [Montréal](https://www.mtl.org/en) — [virtual tour](https://visitevirtuelle.polymtl.ca/polymtl/home/featured-tours/)
-- Supportive mentoring on many aspects of graduate life
-- Cutting-edge research and technologies
-- Collaboration with local and global experts
-- Opportunities to publish in excellent venues, present at top conferences, and perform international research visits
-- Competitive funding
-- Opportunities to apply research in practice through paid industry internships. The lab participates in the [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) program, connecting graduate students with industry partners on real-world research projects.
+- Competitive funding, with multiple scholarship opportunities
+- Supportive mentoring: weekly one-on-one meetings, active co-writing, and continual guidance toward your goals. My simple philosophy: your success is my success.
+- Publication in top venues (MODELS, SoSyM, TOSEM, FSE) and presentations at leading international conferences
+- Collaboration with industrial partners on real, deployed systems, with the option of a paid industry internship through the [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) program
+- International research visits to partner labs (Aarhus, Denmark; Antwerp, Belgium; and more)
+- A position at **Polytechnique Montréal**, one of Canada's leading engineering schools ([virtual tour](https://visitevirtuelle.polymtl.ca/polymtl/home/featured-tours/))
+  - Affiliated with the [Université de Montréal](https://www.umontreal.ca/) ([ranked 125th globally](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal)) and [Mila](https://mila.quebec/en)
+  - Located in [Montréal](https://www.mtl.org/en), an affordable and vibrant bilingual city
 
 </div>
 
-## What I Expect
+## What the Work Looks Like
 
 <div class="callout" style="--accent-color: #00BDF2;" markdown="1">
 
-- A friendly yet professional attitude
-- Ability to perform high-quality research and publish worthwhile contributions
-- Strong self-motivation and the ability to drive projects forward
-- Active participation and presentations at conferences
-- Completion of degree requirements with strong course marks
-  - *We conduct research and discussions in English. Some graduate courses at Polytechnique may be in French.*
+Research means working at the boundaries of what we know. As a researcher, you find the problems and the solutions that no one has found before. We read, think, discuss, and write about big ideas, always exploring and problem-solving.
+
+In practice, you'll pick up an open research problem, not a task list, and drive it forward. Expect to submit to a workshop or conference within your first year, and to a top venue (MODELS, SoSyM, or similar) as your work matures. At leading conferences, you'll present your ideas and results and discuss them with world-class experts in the field.
+
+Research and lab discussions happen in English, and you can be admitted and study in English. Polytechnique is a francophone university, so you'll also pick up some French while you're here: graduating students [complete one French-language course](https://www.polymtl.ca/admission/en/graduate-studies/read-eligibility-conditions/5-language-requirements/51-research-based-masters-and-doctorate), with [free lessons offered on campus](https://etudiant.polymtl.ca/etudes/en/programs-0/graduate-studies-0/polytechnique-montreals-language-policy). Those who only speak English can easily enjoy Montréal, since most people speak both languages. It's also a great chance to learn a beautiful language, and to enjoy *les festivals, du café sur la terrasse, et la joie de vivre*.
 
 </div>
 
@@ -71,26 +75,26 @@ If you have another research idea which aligns with my interests, I would love t
 
 See the [Contact](/contact/) page for my email and office location.
 
-To help me respond promptly, please include the following in your email:
+I'm always excited to hear from prospective students, and I read every email myself. To help yours stand out:
 
 <div class="callout" style="--accent-color: #F15A22;" markdown="1">
 
-**Please demonstrate** awareness of my [research interests](https://www.polymtl.ca/expertises/en/oakes-bentley) and [publications](/publications/).
+**Show you know the lab** — reference my [research interests](https://www.polymtl.ca/expertises/en/oakes-bentley) and [publications](/publications/).
 
-**Please answer** the following questions:
+**Tell me about you** — a few lines on:
 - What excites you about research?
 - What are your research interests, and how do they match mine?
 - What is your favourite project you've worked on?
 
-**Please attach:**
+**Include:**
 - **(Required)** Up-to-date CV
 - **(Required)** Transcript(s)
 - (Optional) Reference letter(s)
-- (Optional) Relevant publication(s) or report(s)
+- (Optional) Relevant publications or reports
 
 
 
-A great email tells me who you are, what you want to research, and why our interests align. Please write it in your own words.
+A great email tells me who you are, what you want to research, and why our interests align, in your own words.
 
 </div>
 
