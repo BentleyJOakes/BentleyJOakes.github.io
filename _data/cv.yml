@@ -181,6 +181,25 @@ cv:
           - "COMP 250 - Introduction to Computer Science (×2)"
           - "COMP 251 - Data Structures and Algorithms (×3)"
 
+    Student Supervision:
+      - name: "Kérian Fiter — PhD Student"
+        date: "2024–present"
+        highlights:
+          - "Digital twin federation, trust, and observability"
+      - name: "Carlos Pambo — PhD Student"
+        date: "2024–present"
+        highlights:
+          - "Recommendations and patterns for digital twin engineering"
+      - name: "Adil Lagrou — PhD Student"
+        date: "2026–present"
+        highlights:
+          - "Formalization of digital twin component interoperability"
+      - name: "Gabrielle Gallant — Master's Student"
+        date: "2025–present"
+        highlights:
+          - "AI-enhanced digital twins for vibration analysis in manufacturing"
+          - "Co-supervised with Oguzhan Tuysuz"
+
     Invited Talks and Presentations:
       - name: Guest lecture — Engineering Digital Twins course, McMaster University
         date: "Mar. 2026"
