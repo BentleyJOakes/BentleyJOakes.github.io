@@ -160,7 +160,7 @@ nav: false
 | -------- | -------- | --------- | --------- |
 | *[Mikkel Schmidt Andersen](https://scholar.google.com/citations?user=egH56LUAAAAJ)* | Research intern | 2025 | Probabilistic DT update scheduling |
 | *[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of DT architectures — [DTInsight paper](/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf) |
-| *[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-bosphore-1a5997227/)* | Research assistant | 2024 | Implementation of modelled machine learning pipelines |
+| *[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-b-1a5997227/)* | Research assistant | 2024 | Implementation of modelled machine learning pipelines |
 | *[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023–2024 | Ontological modelling of machine learning pipelines |
 
 </div>
