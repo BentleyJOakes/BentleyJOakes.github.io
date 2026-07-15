@@ -7,5 +7,3 @@ design:
     show_top_note: false
   typography:
     alignment: left
-  entries:
-    degree_width: 3cm
