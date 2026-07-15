@@ -8,6 +8,29 @@ keywords: "digital twins, model-driven engineering, systems engineering, machine
 nav: false
 ---
 
+<style>
+.research-figure {
+  margin: 0 0 1.1rem;
+}
+.research-figure img {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  margin: 0 auto;
+  background: #fff;
+  padding: 0.6rem;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+.research-figure figcaption {
+  font-size: 0.8em;
+  text-align: center;
+  margin-top: 0.45rem;
+  opacity: 0.72;
+}
+</style>
+
 <div class="callout" style="--accent-color: #005f80;">
 <p>Our research in the Oakes lab focuses on <strong>enabling domain experts to efficiently capture and utilise their knowledge through an AI-assisted model-driven approach</strong>, to engineer complex cyber-physical systems. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process. In short, we want engineers to build safer, better systems much faster.</p>
 
@@ -36,6 +59,10 @@ Ontological modelling &amp; analysis
 ## Digital Twin Engineering {#digital-twins}
 
 <div class="callout" style="--accent-color: #ED1C24;">
+<figure class="research-figure">
+<img src="/assets/img/research/dt-goffi2025-evolution.jpg" alt="Digital Twin evolution for beer fermentation sampling, shown in three stages: an Ansys prototype pressure simulation, a CAD implementation of the physical sampling rig, and a real-time Unity visualisation annotated with live sensor readings for temperature, pH, conductivity, and dissolved oxygen." loading="lazy" />
+<figcaption>Engineering a DT from prototype simulation to CAD to a real-time Unity visualisation (<a href="/publications/#Goffi2025">Goffi et al. 2025</a>).</figcaption>
+</figure>
 <p>Digital Twins (DTs) are virtual representations of a system. Where they get interesting is when they are connected to a physical system, such that they receive data in real-time, perform modelling and simulation, and have some control over that system. For example, a <a href="/publications/#Goffi2025">DT for beer fermentation</a> can monitor and control the fermentation process in real-time. The concept can go further still, where engineers add look-ahead predictive capability, integrate more and more data, and add in artificial intelligence and machine learning.</p>
 
 <p>Our work focuses on the <a href="/publications/#Zech2026MBDTE">challenging engineering of model-based DTs</a> and their detailed reporting. We have proposed an <a href="/publications/#Oakes2024ServiceDriven">ontologically-grounded method</a> for creating DTs by selecting a DT service and following a defined workflow. We have also pioneered DT reporting, by providing <a href="/publications/#Gil2024towardssystematicreporting">21 characteristics for precisely reporting DTs</a>, and built <a href="/publications/#Fiter2025">DTInsight</a> to create a <a href="https://oakeslabmtl.github.io/DTDF/">live visualisation and reporting page</a>.</p>
@@ -60,6 +87,10 @@ Ontological modelling &amp; analysis
 ## Model-Based Systems Engineering {#systems-engineering}
 
 <div class="callout" style="--accent-color: #F15A22;">
+<figure class="research-figure">
+<img src="/assets/img/research/mbse-meyers2019-framework.png" alt="A model-driven engineering framework mapping the functional safety design process. A horizontal flow runs from requirements through concept, system, hardware, and software design stages, each paired with a safety-engineering domain and connected by a return-on-issues feedback loop. Safety-analysis activities feed into a shared formal functional safety model repository." loading="lazy" />
+<figcaption>Role of a model-driven framework within the functional safety design process (<a href="/publications/#Meyers2019">Meyers et al. 2019</a>).</figcaption>
+</figure>
 <p>Effective systems engineering is about modelling and reasoning over complex integrations of systems, which is a perennial challenge, as shown in a <a href="/publications/#Elaasar2025">survey of practitioners</a>. In particular, engineers still need languages, tools, and techniques to better bridge the gap between knowing and utilising their domain knowledge.</p>
 
 <p>In our lab, we focus on assisting systems engineers: creating <a href="/publications/#ben2024toward">tailored visual languages</a>, providing <a href="/publications/#Gomes2019">hints to better configure their systems</a>, and we collaborate with NASA JPL on utilising their <a href="/publications/#Elaasar2023opencaesar">openCAESAR framework</a> to push the use of ontologies in systems engineering.</p>
@@ -70,6 +101,7 @@ Ontological modelling &amp; analysis
 <li><a href="/publications/#Elaasar2025">Model-Based Systems Engineering Perspectives: A Survey of Practitioner Experiences and Challenges</a></li>
 <li><a href="/publications/#Elaasar2023opencaesar">openCAESAR: Balancing Agility and Rigor in Model-Based Systems Engineering</a></li>
 <li><a href="/publications/#ben2024toward">Toward Intelligent Generation of Tailored Graphical Concrete Syntax</a></li>
+<li><a href="/publications/#Meyers2019">A Model-Driven Engineering Framework to Support the Functional Safety Process</a></li>
 </ul>
 
 <p><a href="/publications/?tag=systems-engineering#all-publications">View all Systems Engineering publications →</a></p>
@@ -80,6 +112,10 @@ Ontological modelling &amp; analysis
 ## Machine Learning for Engineering Tasks {#ml-for-engineering}
 
 <div class="callout" style="--accent-color: #25B34B;">
+<figure class="research-figure">
+<img src="/assets/img/research/ml-oakes2023-framework.png" alt="A three-layer conceptual framework for building domain-specific machine learning workflows. Three stacked layers, the problem space, solution workflow space, and implementation space, each divided into four regions (domain-specific, machine learning, general, and blended) along a domain-specificity axis and a machine-learning-complexity axis, spanning a higher-to-lower level of abstraction." loading="lazy" />
+<figcaption>A three-layer framework spanning problem, workflow, and implementation spaces (<a href="/publications/#Oakes2024BuildingDomainSpecific">Oakes et al. 2023</a>).</figcaption>
+</figure>
 <p>Machine learning is all about how to utilise the mass of data available for today's complex systems in a way where intelligent decisions can be taken automatically. We have research threads investigating: a) how to <a href="/publications/#Dhaouadi2025FSE">extract developer rationale</a> from code commits, b) how to better <a href="/publications/#Oakes2024BuildingDomainSpecific">assist domain experts</a> in utilising machine learning, and c) when and how to <a href="/publications/#Moradi2020">provoke the worst-possible safety-critical situation</a> and <a href="/publications/#Oakes2021a">visualise the outcome</a>.</p>
 
 <p><strong>Key publications:</strong></p>
@@ -98,6 +134,10 @@ Ontological modelling &amp; analysis
 ## Semantic Modelling and Knowledge Representation {#knowledge-representation}
 
 <div class="callout" style="--accent-color: #00BDF2;">
+<figure class="research-figure">
+<img style="max-width: 350px;" src="/assets/img/research/kr-oakes2021-architecture.png" alt="A conceptual architecture relating five components: data repositories, a data layer, and a knowledge graph together forming a historical digital twin; users and applications that query it; a physical system; and a streaming digital twin. Labelled arrows show data, actions, queries, and answers flowing between the physical system, the twins, the knowledge graph, and the users." loading="lazy" />
+<figcaption>Conceptual architecture linking a knowledge graph, historical and streaming digital twins, and their users (<a href="/publications/#Oakes2021b">Oakes et al. 2021</a>).</figcaption>
+</figure>
 <p>Engineering complex systems depends on being able to capture the expert's domain knowledge and reason over it. Our research focuses on using rich semantic modelling, as captured in ontologies, to represent: <a href="/publications/#Oakes2024BuildingDomainSpecific">machine learning</a>, <a href="/publications/#Dhaouadi2023towards">developer rationale</a>, <a href="/publications/#Oakes2021b">Digital Twin data</a>, and <a href="/publications/#Elaasar2023opencaesar">MBSE</a>. Having this semantic knowledge represented in a consistent way allows for deeper understanding and enhanced interoperability across systems.</p>
 
 <p><strong>Key publications:</strong></p>
