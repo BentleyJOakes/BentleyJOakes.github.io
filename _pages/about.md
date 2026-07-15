@@ -6,7 +6,7 @@ description: "Assistant Professor at Polytechnique Montréal researching Digital
 keywords: "digital twins, model-driven engineering, cyber-physical systems, Polytechnique Montréal, assistant professor"
 og_image: https://bentleyoakes.com/assets/img/BentleyOakes-headshot.jpg
 subtitle: >
-  <em>Helping domain experts capture and utilise their knowledge to engineer complex cyber-physical systems.</em>
+  <em>I research and build tools and methods to assist engineers in transforming their expertise into Digital Twins for complex cyber-physical systems.</em>
 
 profile:
   align: right
