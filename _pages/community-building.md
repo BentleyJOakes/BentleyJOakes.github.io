@@ -176,6 +176,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 | Institution | Role | Year(s) |
 | ----------- | ---- | -------: |
-| Polytechnique Montréal | Committee Member, Committee Rayonnement (Communications committee), Department of Computer and Software Engineering | 2025–Present |
+| Polytechnique Montréal | Committee Member, Committee Rayonnement (Communications committee), Department of Computer and Software Engineering | 2024–Present |
 
 </div>
