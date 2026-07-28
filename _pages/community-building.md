@@ -30,6 +30,7 @@ _styles: >
   <a href="#guest-editor-for-journal-special-issue" class="jump-pill">Guest Editor</a>
   <a href="#invited-talks--presentations" class="jump-pill">Invited Talks</a>
   <a href="#jury-member" class="jump-pill">Jury Member</a>
+  <a href="#panelist" class="jump-pill">Panelist</a>
   <a href="#departmental-service" class="jump-pill">Departmental Service</a>
 </div>
 
@@ -51,7 +52,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | ---------- | ---- | -------: |
 | [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | General Chair | 2026 |
 | [ACM International Conference on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2025) | Student Volunteer Co-Chair | 2026 |
-| [onto:Nexus Workshop](https://www.opencaesar.io/events/onto-Nexus-Workshop-2026) (International Workshop on Ontological Modelling and Analysis) | Co-Chair | 2025, 2026 |
+| [onto:Nexus Workshop](https://www.opencaesar.io/events/onto-Nexus-Workshop-2026) (International Workshop on Ontological Modeling and Analysis) | Co-Chair | 2025, 2026 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | Student Volunteer Co-Chair | 2025 |
 | [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | Posters Co-Chair | 2024, 2025 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | Posters Co-Chair | 2022 |
@@ -69,6 +70,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | Venue | Year(s) |
 | ----- | -------: |
 | [IEEE/ACM International Conference on Automated Software Engineering (ASE)](https://conf.researchr.org/home/ase-2026) | 2026 |
+| [Winter Simulation Conference (WSC)](https://meetings.informs.org/wordpress/wsc2026/tracks/) — Simulation in Digital Twins Track | 2026 |
 | [Automated Software Engineering – NIER Track](https://conf.researchr.org/home/ase-2025) | 2025 |
 | [Model Driven Engineering Languages and Systems (MODELS) — Artifact Evaluation Track](https://conf.researchr.org/track/models-2026/models-2026-artifact-evaluation) | 2026 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | 2025 |
@@ -76,9 +78,10 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [International Conference on Engineering Digital Twins (EDTconf)](https://conf.researchr.org/home/edtconf-2025) | 2024, 2025 |
 | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | 2021, 2022, 2023, 2024, 2026 |
 | [DIGITA Workshop](https://digita-percom.github.io/2025/) (co-located with PerCom) | 2026 |
+| [IDETWIN Workshop](https://idetwin-ccnc2026.github.io/) (International Workshop on Industrial Digital Twins and Emerging Technologies, co-located with CCNC) | 2026 |
 | [International Workshop on Architecting and Engineering Digital Twins (AEDT)](https://conf.researchr.org/info/icsa-2025/AEDT) | 2025, 2026 |
 | [Workshop on Artificial Intelligence and Model-Driven Engineering (MDE Intelligence)](https://mde-intelligence.github.io/) | 2022, 2023, 2024 |
-| [International Workshop on Models and Evolution](https://www.models-and-evolution.com/2022/) | 2022 |
+| [International Workshop on Models and Evolution](https://www.models-and-evolution.com/2022/) | 2022, 2026 |
 | [ACM Student Research Competition](https://conf.researchr.org/track/models-2022/models-2022-acm-student-research-competition) | 2022 |
 | [Spring Simulation Conference](https://scs.org/2020springsim-program-archive/) | 2020 |
 | [Summer Simulation Conference](https://scs.org/2020summersim-archive/) | 2019, 2020 |
@@ -95,11 +98,12 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 | Journal | Role / Recognition | Year(s) |
 | ------- | ------------------ | -------: |
+| [KI – Künstliche Intelligenz](https://www.springer.com/journal/13218) | Reviewer | 2026 |
 | [Journal of Systems & Software (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software) | Reviewer | 2025 |
 | [Information and Software Technology (IST)](https://www.sciencedirect.com/journal/information-and-software-technology) | Reviewer | 2025 |
-| [Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) | 🏆 Top 1% Reviewer (2020 & 2021) · Best Reviewer Award (2025) | 2020, 2021, 2023, 2025 |
+| [Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) | 🏆 Top 1% Reviewer (2020 & 2021) · Best Reviewer Award (2025) | 2020, 2021, 2023, 2025, 2026 |
 | [Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem) | Reviewer | 2024 |
-| [SIMULATION](https://journals.sagepub.com/home/sim) | 🏆 Best Reviewer Award (June 2023) | 2023 |
+| [SIMULATION](https://journals.sagepub.com/home/sim) | 🏆 Best Reviewer Award (June 2023) | 2023, 2024 |
 | [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) | Reviewer | 2023 |
 | [Journal of Computer Languages (JCL)](https://www.sciencedirect.com/journal/journal-of-computer-languages) | Reviewer | 2022 |
 | [Journal of Object Technology (JOT)](https://www.jot.fm/) | Reviewer | 2022, 2026 |
@@ -137,6 +141,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | Title | Venue | Date |
 | ----- | ----- | ----: |
 | *"What Does Your Digital Twin Do? A Framework and Tooling for Systematic DT Reporting"* | Guest lecture, Engineering Digital Twins course (CAS 782), [McMaster University](https://www.mcmaster.ca/) (host: Prof. Istvan David) \| [slides](/assets/slides/2026.BOakes_McMaster_slides_public.pdf) | Mar. 2026 |
+| *"Towards Ontology-based Digital Twin Service Construction and Reporting"* | Invited talk, [SIG LLODIA](https://sig-llodia.github.io/events/) (Lecture \#3) | Jan. 2026 |
 | *"What is a 'Digital Twin' and How Do I Build One?"* | Guest lecture, RAISE course, [UCLA](https://www.ucla.edu/) (host: Dr. Maged Elaasar) | Nov. 2025 |
 | *"What is a 'Digital Twin' and How Do I Build One?"* | Tutorial, [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | Jun. 2025 |
 | *"Systematic Digital Twin Reporting"* | [EDT.Community Talks](https://edt.community/events/event/systematic-digital-twin-reporting/) \| [video](https://www.youtube.com/watch?v=sfs1TGG-Mf4) | May 2025 |
@@ -145,10 +150,9 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | *"Accelerating Digital Twin Research and Engineering"* | Guest lecture, [Engineering Digital Twins course](https://istvandavid.com/engineering-digital-twins/), McMaster University (host: Prof. Istvan David) \| [slides](/assets/slides/2025.BOakes_McMaster_slides_public.pdf) | Mar. 2025 |
 | Research presentation on Advanced Air Mobility | [KARI Delegation](https://sdginnovnetwk.com/imaa-meeting-with-the-kari-delegation-on-advanced-air-mobility/), Polytechnique Montréal | Feb. 2025 |
 | *"Recent Work on Systematic Reporting and Construction for Digital Twins"* | Invited talk, [Software Engineering at Montréal (SEMTL)](https://semtl.github.io/), Montréal | 2025 |
-| *"Fault localization in DSLTrans model transformations..."* (SoSyM Journal-First) | [MODELS 2024](https://conf.researchr.org/home/models-2024) | Sep. 2024 |
 | *"Digital Twins: Introductions and Intersections"* | Guest lecture, LOG8704 - XR Software Development, Polytechnique Montréal | Nov. 2024 |
-| *"Accelerating Digital Twin Construction with Ontologies"* | Invited talk, onto:Nexus 2024: 1st Workshop on Ontological Modeling and Analysis (online) | 2024 |
-| PhD Colloquium Panelist | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | 2023 |
+| *"Fault localization in DSLTrans model transformations..."* (SoSyM Journal-First) | [MODELS 2024](https://conf.researchr.org/home/models-2024) | Sep. 2024 |
+| *"Accelerating Digital Twin Construction with Ontologies"* | Invited talk, [onto:Nexus Forum 2024](https://opencaesar.io/events/onto-Nexus-Forum-2024): 1st International Forum on Ontological Modeling and Analysis, NASA JPL (online) | Jan. 2024 |
 | *"Bridging the Gap in Verification and Validation of Complex Systems"* | Invited talk, Polytechnique Montréal | 2023 |
 | *"Model/Graph Transformations: Specification and Verification"* | Guest lecture, LOG6953DE - Model-Driven Software Engineering, Polytechnique Montréal (host: Prof. Mohammad Hamdaqa) | Nov. 2022 |
 | *"Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice"* | Invited talk, [Software Engineering at Montréal (SEMTL)](https://semtl.github.io/) September seminar, Université de Montréal | Sep. 2022 |
@@ -167,6 +171,16 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | Polytechnique Montréal | M.Sc. Thesis Jury President | 2024 |
 | McGill University | PhD Thesis External Reviewer | 2024 |
 | McGill University | M.Sc. Thesis External Reviewer | 2023 |
+
+</div>
+
+#### Panelist
+
+<div class="course-table" markdown="1">
+
+| Conference/Workshop | Role | Year |
+| ---------- | ---- | ----: |
+| [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | PhD Colloquium Panelist | 2023 |
 
 </div>
 
