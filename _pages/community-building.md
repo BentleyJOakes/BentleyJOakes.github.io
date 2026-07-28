@@ -75,7 +75,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [Model Driven Engineering Languages and Systems (MODELS) — Artifact Evaluation Track](https://conf.researchr.org/track/models-2026/models-2026-artifact-evaluation) | 2026 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | 2025 |
 | [EMMSAD](https://www.emmsad.org/) | 2025 |
-| [International Conference on Engineering Digital Twins (EDTconf)](https://conf.researchr.org/home/edtconf-2025) | 2024, 2025 |
+| [International Conference on Engineering Digital Twins (EDTconf)](https://conf.researchr.org/home/edtconf-2026) | 2024, 2025, 2026 |
 | [Annual Modeling and Simulation Conference (ANNSIM)](https://scs.org/annsim/) | 2021, 2022, 2023, 2024, 2026 |
 | [DIGITA Workshop](https://digita-percom.github.io/2025/) (co-located with PerCom) | 2026 |
 | [IDETWIN Workshop](https://idetwin-ccnc2026.github.io/) (International Workshop on Industrial Digital Twins and Emerging Technologies, co-located with CCNC) | 2026 |
