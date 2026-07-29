@@ -194,6 +194,7 @@ exclude:
   - README.md
   - readme_preview/
   - scripts/
+  - tmp/
   - TODO.md
   - vendor
 keep_files:

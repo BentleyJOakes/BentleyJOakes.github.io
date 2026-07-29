@@ -25,22 +25,24 @@ You'll develop new techniques for digital twin construction, verification, and e
 
 <div style="display: flex; flex-direction: column; gap: 0.75rem; margin: 1rem 0;">
   <div class="project-card" style="--accent-color: #ED1C24;">
-    <b><a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Semantic Integration for Hierarchical Digital Twins</a></b> — funding available<br>
-    Developing a semantic integration and consistency framework for hierarchical digital twins.
+    <b><a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Semantic Integration for Hierarchical Digital Twins</a></b> — PhD<br>
+    Building the semantic backbone that keeps digital twins of electric air mobility (eVTOL drones) consistent and interoperable across levels, from a single unit up to the full system-of-systems.
   </div>
   <div class="project-card" style="--accent-color: #F15A22;">
-    <b>Quality and Explainability of Digital Twin Systems</b> — funding available<br>
+    <b>Quality and Explainability of Digital Twin Systems</b> — PhD<br>
     Analyzing and improving the quality of DT models and systems, and the explainability of DT architectures and service results. <a href="/publications/#Oakes2023examining">[quality paper]</a> <a href="/publications/#Gil2024towardssystematicreporting">[explainability paper]</a>
   </div>
   <div class="project-card" style="--accent-color: #25B34B;">
-    <b><a href="https://www.polymtl.ca/expertises/application-de-lapprentissage-automatique-pour-accelerer-la-construction-de-jumeaux-numeriques">ML and Ontological Modelling for DT Construction</a></b> — funding available<br>
-    Utilizing machine learning (RL, LLMs, recommendations) and ontological modelling for DT construction and evolution. <a href="/publications/#Oakes2024ServiceDriven">[paper]</a>
+    <b><a href="https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley">ML and Ontological Modelling for DT Construction</a></b> — Master's or PhD<br>
+    Users arrive with scattered requirements, models, and simulators. Using LLMs, reinforcement learning, and recommendations to turn that domain knowledge into a working digital twin within a week. <a href="/publications/#Oakes2024ServiceDriven">[paper]</a>
   </div>
   <div class="project-card" style="--accent-color: #00BDF2;">
-    <b>Software Architecture for Digital Twins</b> — funding available<br>
+    <b>Software Architecture for Digital Twins</b> — Master's or PhD<br>
     Investigating software architecture styles, patterns, and reference architectures for digital twin systems and their services.
   </div>
 </div>
+
+Undergraduate internships are possible on any of the topics above, preferably as an [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards) (for eligible students) or a credited term project.
 
 If you have another research idea which aligns with my interests, I would love to hear it!
 

@@ -269,6 +269,7 @@ By the end of this course, participants will be able to define, design, build, a
 ## Course Schedule
 
 <div class="callout" style="--accent-color: #F15A22;">
+<div class="table-scroll">
 <table>
 <thead><tr><th style="text-align:center;">Lecture</th><th>Topic</th></tr></thead>
 <tbody>
@@ -287,8 +288,11 @@ By the end of this course, participants will be able to define, design, build, a
 </tbody>
 </table>
 </div>
+</div>
 
 ## Guest Lecturers
+
+<div class="table-scroll" markdown="1">
 
 | Year | Name | Institution | Talk |
 |:----:|------|-------------|------|
@@ -298,6 +302,8 @@ By the end of this course, participants will be able to define, design, build, a
 | 2026 | [Prasad Talasila](https://pure.au.dk/portal/en/persons/prasad.talasila@ece.au.dk/) | Aarhus University | Digital Twin as a Service Software Platform |
 | 2025 | [Istvan David](https://istvandavid.com/) | McMaster University | [Engineering Complex and Sustainable Systems Through Digital Twins](https://istvandavid.com/news/2025/03/17/guest-lecture-at-polytechnique-montreal-on-digital-twins/) |
 | 2025 | [Pascal Archambault](https://pascalarchambault.ca/) | Université de Montréal | Digital Twins for Controlled Environment Agriculture |
+
+</div>
 
 <div style="margin-bottom: 2rem;"></div>
 

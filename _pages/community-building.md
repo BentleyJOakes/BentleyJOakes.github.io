@@ -7,10 +7,11 @@ nav: true
 nav_order: 2
 _styles: >
   article h4 { margin-top: 2rem; }
-  .jump-nav { display: flex; justify-content: center; gap: 0.4rem; margin: 0.4rem 0; }
+  .jump-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4rem; margin: 0.4rem 0; }
   .jump-pill { font-size: 0.8rem; padding: 0.2rem 0.65rem; border: 1px solid var(--global-theme-color); border-radius: 999px; color: var(--global-theme-color); text-decoration: none; font-weight: 500; }
   article table { width: 100%; table-layout: auto; }
-  article table td:last-child, article table th:last-child { width: 12em; min-width: 12em; }
+  article table td:last-child, article table th:last-child { width: 12em; }
+  @media (min-width: 576px) { article table td:last-child, article table th:last-child { min-width: 12em; } }
 ---
 
 <!-- Intro -->
