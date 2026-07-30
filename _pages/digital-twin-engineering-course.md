@@ -346,7 +346,7 @@ document.addEventListener('DOMContentLoaded', function () {
   "@type": "Course",
   "name": "LOG8421E — Digital Twin Engineering",
   "description": "An undergraduate and graduate course at Polytechnique Montréal on engineering Digital Twins: architecture, modelling, simulation, visualization, and DT services.",
-  "url": "https://bentleyoakes.com/dte_course/",
+  "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
   "courseCode": "LOG8421E",
   "inLanguage": "en",
   "educationalLevel": ["Undergraduate", "Graduate"],
