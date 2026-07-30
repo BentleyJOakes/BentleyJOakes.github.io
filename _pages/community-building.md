@@ -37,7 +37,8 @@ _styles: >
 
 ---
 
-#### Lead Organizer
+## Lead Organizer
+{: .h4}
 
 [Software Engineering at Montréal (SEMTL)](https://semtl.github.io/) — Aug. 2022 to Present
 
@@ -45,7 +46,8 @@ I am the lead organizer of the SEMTL research seminar series, which brings toget
 
 Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 participants, featuring keynotes from top SE researchers and dozens of student presentations. We have also produced a [paper published at MODELS 2024](https://doi.org/10.1145/3640310.3674085) 
 
-#### Organising Committee Member
+## Organising Committee Member
+{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -64,7 +66,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 </div>
 
-#### Program Committee Member
+## Program Committee Member
+{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -89,7 +92,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 </div>
 
-#### Journal Reviewer
+## Journal Reviewer
+{: .h4}
 
 <div class="callout" style="--accent-color: #f0ad4e;">
   🏆 <strong>Top 1% Reviewer</strong> for <em>SoSyM</em> (2020 &amp; 2021) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SoSyM</em> (2025) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SIMULATION</em> (2023)
@@ -113,7 +117,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 </div>
 
-#### Grant Reviewer
+## Grant Reviewer
+{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -125,7 +130,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 </div>
 
-#### Guest Editor for Journal Special Issue
+## Guest Editor for Journal Special Issue
+{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -135,7 +141,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 </div>
 
-#### Invited Talks & Presentations
+## Invited Talks & Presentations
+{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -162,7 +169,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 </div>
 
-#### Jury Member
+## Jury Member
+{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -175,7 +183,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 </div>
 
-#### Panelist
+## Panelist
+{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -185,7 +194,8 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 </div>
 
-#### Departmental Service
+## Departmental Service
+{: .h4}
 
 <div class="course-table" markdown="1">
 

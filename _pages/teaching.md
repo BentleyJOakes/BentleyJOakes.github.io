@@ -14,13 +14,13 @@ _styles: >
 
 ---
 
-### Currently Teaching
+## Currently Teaching
 
 <div class="dte-card" markdown="1">
 {% include dte_course_blurb.liquid %}
 </div>
 
-### Courses as Instructor
+## Courses as Instructor
 
 <div class="course-table" markdown="1">
 
@@ -34,6 +34,6 @@ _styles: >
 
 </div>
 
-### Teaching Assistant
+## Teaching Assistant
 
 Teaching assistant for seven courses at McGill University (2012–2014) and University of Antwerp (2019–2020), covering programming foundations, data structures, algorithms, model-driven engineering, and modelling of software-intensive systems.

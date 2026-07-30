@@ -67,7 +67,8 @@ Polytechnique Montréal<br>
 2700 Chemin de la Tour<br>
 Montréal, QC, Canada H3T 1J4
 
-#### Directions by Public Transport
+## Directions by Public Transport
+{: .h4}
 
 1. Exit [Université-de-Montréal metro station (Blue Line)](https://www.stm.info/en) — After the turnstiles, turn left past the convenience store.
 2. Take the stairs to the exit.
@@ -76,7 +77,8 @@ Montréal, QC, Canada H3T 1J4
 5. Take the stairs to the outside.
 6. Turn right onto Chemin de la Tour, following the signs for 'Pavillons Lassonde'.
 
-#### Directions by Car
+## Directions by Car
+{: .h4}
 
 Parking is available inside the building marked '1' on the map below. For the full [Polytechnique Montréal access guide and campus maps](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map), see the campus information page.
 

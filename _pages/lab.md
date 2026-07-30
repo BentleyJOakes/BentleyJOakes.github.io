@@ -174,13 +174,13 @@ nav: false
 
 ## Resources
 
-#### At Polytechnique
+### At Polytechnique
 - [New graduate student journey](https://www.polymtl.ca/gopoly/en/new-student-journey/new-student-journey-graduate-studies)
 - [Requirements for the PhD degree](https://www.polymtl.ca/programmes/programmes/doctorat-en-genie-informatique)
 - Polytechnique Montréal's Student Services (SEP): [english](https://etudiant.polymtl.ca/sep/en/) / [french](https://etudiant.polymtl.ca/sep/)
 - [Polytechnique student bourses/grants](https://www.polymtl.ca/aide-financiere/bourses/recherche)
 
-#### Interesting reading and advice
+### Interesting reading and advice
 - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 - The largest problem in academia is discoverability: [Be Findable](https://registerspill.thorstenball.com/p/be-findable)
 - How to write a thesis: [Thesis Projects - A Guide for Students in Computer Science and Information Systems](https://link.springer.com/book/10.1007/978-1-84800-009-4)
