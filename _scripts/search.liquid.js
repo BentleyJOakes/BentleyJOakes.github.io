@@ -17,7 +17,8 @@ ninja.data = [
       window.location.href = "{{ '/' | relative_url }}";
     },
   },
-  {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
+  {%- assign nav_entries = site.pages | concat: site.data.nav_dropdowns -%}
+  {%- assign sorted_pages = nav_entries | sort: "nav_order" -%}
   {%- for p in sorted_pages -%}
     {%- if p.nav and p.autogen == null -%}
       {%- if p.dropdown -%}

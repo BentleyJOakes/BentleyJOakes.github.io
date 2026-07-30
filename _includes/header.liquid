@@ -56,8 +56,9 @@
             </a>
           </li>
 
-          <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: 'nav_order' %}
+          <!-- Other pages, plus the page-less dropdown menus from _data/nav_dropdowns.yml -->
+          {% assign nav_entries = site.pages | concat: site.data.nav_dropdowns %}
+          {% assign sorted_pages = nav_entries | sort: 'nav_order' %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
               {% if p.dropdown %}

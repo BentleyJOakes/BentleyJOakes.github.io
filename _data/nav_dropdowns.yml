@@ -1,0 +1,36 @@
+# Navbar dropdown menus.
+#
+# These are nav entries only: they have no page of their own, so they live here
+# rather than in _pages/ (where each one would also publish an empty URL).
+# Rendered by _includes/header.liquid and indexed by _scripts/search.liquid.js,
+# both of which sort these together with the nav-enabled pages by nav_order.
+
+- title: Research
+  nav: true
+  nav_order: 1
+  dropdown: true
+  children:
+    - title: Research Topics
+      permalink: /research/
+    - title: Publications
+      permalink: /publications/
+
+- title: Teaching
+  nav: true
+  nav_order: 3
+  dropdown: true
+  children:
+    - title: Teaching
+      permalink: /teaching/
+    - title: DTE Course
+      permalink: /digital-twin-engineering-course/
+
+- title: Lab
+  nav: true
+  nav_order: 4
+  dropdown: true
+  children:
+    - title: Oakes Lab
+      permalink: /lab/
+    - title: Join Us
+      permalink: /join/
