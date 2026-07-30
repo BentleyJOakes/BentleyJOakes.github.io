@@ -137,14 +137,14 @@
   dark_text_color: "#212121"
 
 "SummerSim":
-  url: https://scs.org/summersim
+  url: https://scs.org/conferences/
   color: "#33691E"
   text_color: "#ffffff"
   dark_color: "#AED581"
   dark_text_color: "#212121"
 
 "ICSMM":
-  url: https://staf2020.hvl.no/events/icsmm2020/
+  url: https://link.springer.com/book/10.1007/978-3-030-58167-1
   color: "#546E7A"
   text_color: "#ffffff"
   dark_color: "#90A4AE"
@@ -172,7 +172,7 @@
   dark_text_color: "#212121"
 
 "MDEbug":
-  url: https://msdl.uantwerpen.be/conferences/MDEbug/2018/
+  url: https://ceur-ws.org/Vol-2245/#mdebug_intro
   color: "#757575"
   text_color: "#ffffff"
   dark_color: "#BDBDBD"

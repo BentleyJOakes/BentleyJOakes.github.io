@@ -25,7 +25,7 @@ docker compose up --build
 | Publications (BibTeX) | `_bibliography/papers.bib` |
 | CV data | `_data/cv.yml` |
 | Social links | `_data/socials.yml` |
-| Navigation order | Frontmatter `nav_order` in each `_pages/*.md` |
+| Navigation order | Frontmatter `nav_order` in each `_pages/*.md`, plus `_data/nav_dropdowns.yml` |
 | Blog posts | `_posts/` (currently empty) |
 | Projects | `_projects/` (currently empty) |
 | Books | `_books/` (currently empty) |
@@ -41,13 +41,21 @@ docker compose up --build
 
 ## Site Structure
 
-### Navigation (nav_order in frontmatter)
-1. Publications (`_pages/publications.md`)
+### Navigation
+
+Ordered by `nav_order`, which is read from two sources: page frontmatter for
+single-page items, and `_data/nav_dropdowns.yml` for the dropdown menus (which
+have no page of their own). `_includes/header.liquid` and
+`_scripts/search.liquid.js` each `concat` the two lists and sort the result, so
+a new nav item must set `nav_order` in whichever source it lives in.
+
+1. Research (dropdown): Research Topics (`_pages/research.md`), Publications (`_pages/publications.md`)
 2. Community-Building (`_pages/community-building.md`)
-3. Teaching (`_pages/teaching.md`)
-4. Lab (`_pages/lab.md`)
+3. Teaching (dropdown): Teaching (`_pages/teaching.md`), DTE Course (`_pages/digital-twin-engineering-course.md`)
+4. Lab (dropdown): Oakes Lab (`_pages/lab.md`), Join Us (`_pages/join.md`)
 5. Contact (`_pages/contact.md`)
-6. CV (`_pages/cv.md`) — hidden from nav (`nav: false`)
+
+CV (`_pages/cv.md`) is hidden from nav (`nav: false`).
 
 ### Collections (defined in `_config.yml`)
 - `_news/` — announcements, layout: post, `inline: true` in frontmatter
@@ -77,6 +85,7 @@ docker compose up --build
 |------|--------|---------|
 | `cv.yml` | Populated | CV structured data (name, headline, sections) |
 | `socials.yml` | Populated | CV PDF, email, Scholar, LinkedIn, ORCID, ResearchGate |
+| `nav_dropdowns.yml` | Populated | Navbar dropdown menus (Research, Teaching, Lab) with their children |
 | `coauthors.yml` | Template | Co-author profile format (no entries) |
 | `repositories.yml` | Template | GitHub repos config (commented out) |
 | `venues.yml` | Populated | Conference/journal abbreviations with colors (MODELS, SoSyM, TOSEM, etc.) |
