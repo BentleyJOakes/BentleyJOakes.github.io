@@ -4,7 +4,7 @@
 
 title: Dr. Bentley Oakes # the website title (if blank, full name will be used instead)
 first_name: Bentley
-middle_name: 
+middle_name:
 last_name: Oakes
 contact_note: >
   Email is the best way to reach me.
@@ -211,6 +211,7 @@ plugins:
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
+  - jekyll-last-modified-at
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -229,6 +230,14 @@ plugins:
 defaults:
   - scope:
       path: "assets"
+    values:
+      sitemap: false
+  # Inline news items are rendered in full on /news/ and the home page, and their
+  # standalone pages are never linked, so keep those orphan duplicates out of the
+  # sitemap. A news item with its own title/body (inline: false) should override
+  # this with `sitemap: true` in its frontmatter.
+  - scope:
+      type: "news"
     values:
       sitemap: false
 

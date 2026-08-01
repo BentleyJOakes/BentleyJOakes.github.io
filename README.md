@@ -18,26 +18,26 @@ docker compose up --build
 
 ## Key Files
 
-| What | Where |
-|------|-------|
-| Site config | `_config.yml` |
-| About/home page | `_pages/about.md` |
-| Publications (BibTeX) | `_bibliography/papers.bib` |
-| CV data | `_data/cv.yml` |
-| Social links | `_data/socials.yml` |
-| Navigation order | Frontmatter `nav_order` in each `_pages/*.md`, plus `_data/nav_dropdowns.yml` |
-| Blog posts | `_posts/` (currently empty) |
-| Projects | `_projects/` (currently empty) |
-| Books | `_books/` (currently empty) |
-| Teachings | `_teachings/` (currently empty) |
-| News items | `_news/` (30 items, 2023–2026) |
-| CV page | `_pages/cv.md` (renders `_data/cv.yml` via rendercv format) |
-| Research page | `_pages/research.md` |
-| Lab page | `_pages/lab.md` |
-| Teaching page | `_pages/teaching.md` |
-| Community service | `_pages/community-building.md` |
-| Contact page | `_pages/contact.md` |
-| DTE course | `_pages/digital-twin-engineering-course.md` |
+| What                  | Where                                                                         |
+| --------------------- | ----------------------------------------------------------------------------- |
+| Site config           | `_config.yml`                                                                 |
+| About/home page       | `_pages/about.md`                                                             |
+| Publications (BibTeX) | `_bibliography/papers.bib`                                                    |
+| CV data               | `_data/cv.yml`                                                                |
+| Social links          | `_data/socials.yml`                                                           |
+| Navigation order      | Frontmatter `nav_order` in each `_pages/*.md`, plus `_data/nav_dropdowns.yml` |
+| Blog posts            | `_posts/` (currently empty)                                                   |
+| Projects              | `_projects/` (currently empty)                                                |
+| Books                 | `_books/` (currently empty)                                                   |
+| Teachings             | `_teachings/` (currently empty)                                               |
+| News items            | `_news/` (30 items, 2023–2026)                                                |
+| CV page               | `_pages/cv.md` (renders `_data/cv.yml` via rendercv format)                   |
+| Research page         | `_pages/research.md`                                                          |
+| Lab page              | `_pages/lab.md`                                                               |
+| Teaching page         | `_pages/teaching.md`                                                          |
+| Community service     | `_pages/community-building.md`                                                |
+| Contact page          | `_pages/contact.md`                                                           |
+| DTE course            | `_pages/digital-twin-engineering-course.md`                                   |
 
 ## Site Structure
 
@@ -58,43 +58,47 @@ a new nav item must set `nav_order` in whichever source it lives in.
 CV (`_pages/cv.md`) is hidden from nav (`nav: false`).
 
 ### Collections (defined in `_config.yml`)
+
 - `_news/` — announcements, layout: post, `inline: true` in frontmatter
 - `_projects/` — project cards (empty)
 - `_books/` — book collection (empty)
 - `_teachings/` — teaching entries (empty)
 
 ### Layouts (`_layouts/`)
-| Layout | Used for |
-|--------|---------|
-| `about.liquid` | Home page |
-| `default.liquid` | Base wrapper |
-| `page.liquid` | General pages |
-| `post.liquid` | Blog posts & news |
-| `cv.liquid` | CV page |
-| `bib.liquid` | Publication entries |
-| `profiles.liquid` | Lab members |
-| `course.liquid` | Course pages |
-| `book-shelf.liquid` | Books page |
-| `archive.liquid` | Archive/collection pages |
-| `book-review.liquid` | Book review articles |
-| `distill.liquid` | Distill.pub-format articles |
-| `none.liquid` | Minimal/no-chrome rendering |
+
+| Layout               | Used for                    |
+| -------------------- | --------------------------- |
+| `about.liquid`       | Home page                   |
+| `default.liquid`     | Base wrapper                |
+| `page.liquid`        | General pages               |
+| `post.liquid`        | Blog posts & news           |
+| `cv.liquid`          | CV page                     |
+| `bib.liquid`         | Publication entries         |
+| `profiles.liquid`    | Lab members                 |
+| `course.liquid`      | Course pages                |
+| `book-shelf.liquid`  | Books page                  |
+| `archive.liquid`     | Archive/collection pages    |
+| `book-review.liquid` | Book review articles        |
+| `distill.liquid`     | Distill.pub-format articles |
+| `none.liquid`        | Minimal/no-chrome rendering |
 
 ### Data Files (`_data/`)
-| File | Status | Content |
-|------|--------|---------|
-| `cv.yml` | Populated | CV structured data (name, headline, sections) |
-| `socials.yml` | Populated | CV PDF, email, Scholar, LinkedIn, ORCID, ResearchGate |
-| `nav_dropdowns.yml` | Populated | Navbar dropdown menus (Research, Teaching, Lab) with their children |
-| `coauthors.yml` | Template | Co-author profile format (no entries) |
-| `repositories.yml` | Template | GitHub repos config (commented out) |
-| `venues.yml` | Populated | Conference/journal abbreviations with colors (MODELS, SoSyM, TOSEM, etc.) |
-| `citations.yml` | Empty | Citation tracking (empty papers array) |
+
+| File                | Status    | Content                                                                   |
+| ------------------- | --------- | ------------------------------------------------------------------------- |
+| `cv.yml`            | Populated | CV structured data (name, headline, sections)                             |
+| `socials.yml`       | Populated | CV PDF, email, Scholar, LinkedIn, ORCID, ResearchGate                     |
+| `nav_dropdowns.yml` | Populated | Navbar dropdown menus (Research, Teaching, Lab) with their children       |
+| `coauthors.yml`     | Template  | Co-author profile format (no entries)                                     |
+| `repositories.yml`  | Template  | GitHub repos config (commented out)                                       |
+| `venues.yml`        | Populated | Conference/journal abbreviations with colors (MODELS, SoSyM, TOSEM, etc.) |
+| `citations.yml`     | Empty     | Citation tracking (empty papers array)                                    |
 
 ## Content Notes
 
 - **Publications:** 40+ BibTeX entries in `_bibliography/papers.bib`. Each entry can have custom fields: `abbr`, `bibtex_show`, `pdf`, `slides`, `poster`, `video`, `award`.
 - **News:** Add new `.md` files to `_news/` with frontmatter: `layout: post`, `date: YYYY-MM-DD`, `inline: true`, and content as the announcement text.
+- **Sitemap:** Generated by `jekyll-sitemap`. `<lastmod>` comes from git commit dates via `jekyll-last-modified-at`, which is why the deploy workflow checks out with `fetch-depth: 0`. The `defaults` block in `_config.yml` keeps assets and the `news` collection out of the sitemap; a non-inline news item with its own page should set `sitemap: true` in its frontmatter.
 - **Blog/Projects/Books/Teachings:** Sections are wired up and ready — just add files to the respective directories.
 - **Research page:** `_pages/research.md` — four sections (Digital Twins, Systems Engineering, Machine Learning for Engineering Tasks, Knowledge Representation), each with prose, key publications list, and a "View all" link. Award badges use `a.award.btn` styled globally in `_sass/_components.scss`. The page is pure HTML (no `markdown="1"`).
 - **Lab members:** Managed via `_pages/lab.md` directly (not using the profiles collection currently).
