@@ -1,3 +1,13 @@
-<div class="publications publications-selected">
+{%- comment -%}
+  Every selected paper is also rendered in the full bibliography further down
+  /publications/, and _layouts/bib.liquid gives each entry id="{{ entry.key }}".
+  Rendering an entry twice therefore produced duplicate ids. Rewriting the id to
+  data-key here leaves the All Publications list as the single, unique anchor
+  target for /publications/#key links.
+{%- endcomment -%}
+{%- capture selected_bibliography -%}
   {% bibliography --group_by none --query @*[selected=true]* %}
+{%- endcapture -%}
+<div class="publications publications-selected">
+  {{ selected_bibliography | replace: '<div id="', '<div data-key="' }}
 </div>

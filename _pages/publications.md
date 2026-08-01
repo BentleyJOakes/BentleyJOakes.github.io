@@ -49,8 +49,7 @@ nav: false
 <script>
   window.addEventListener('load', function () {
     if (window.location.hash) {
-      const matches = document.querySelectorAll(window.location.hash);
-      const el = Array.from(matches).find(e => !e.closest('.publications-selected')) || matches[0];
+      const el = document.querySelector(window.location.hash);
       if (el) {
         requestAnimationFrame(() => requestAnimationFrame(() => {
           el.scrollIntoView({ block: 'center' });
