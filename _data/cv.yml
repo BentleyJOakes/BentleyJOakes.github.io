@@ -186,18 +186,22 @@ cv:
         date: "2024–present"
         highlights:
           - "Digital twin federation, trust, and observability"
+          - "Ontological federation and reasoning, large language models, and time-series foundation models"
       - name: "Carlos Pambo — PhD Student"
         date: "2024–present"
         highlights:
           - "Recommendations and patterns for digital twin engineering"
+          - "Ontologies for digital twin engineering"
       - name: "Adil Lagrou — PhD Student"
         date: "2026–present"
         highlights:
           - "Formalization of digital twin component interoperability"
+          - "Ontological federation and reasoning for interoperability"
       - name: "Gabrielle Gallant — Master's Student"
         date: "2025–present"
         highlights:
           - "AI-enhanced digital twins for vibration analysis in manufacturing"
+          - "Machine learning techniques including time-series foundation models"
           - "Co-supervised with Oguzhan Tuysuz"
 
     Invited Talks and Presentations:
