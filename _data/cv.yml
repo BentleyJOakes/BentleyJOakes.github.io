@@ -30,7 +30,7 @@ cv:
       - label: English
         details: Native proficiency
       - label: French
-        details: Conversational (improving)
+        details: Intermediate
 
     Education:
       - institution: McGill University
@@ -350,7 +350,12 @@ cv:
       - name: Jury Member
         date: "2023–2026"
         highlights:
+          # Anas Dorbani, Sunny Yasser
+          - "Polytechnique Montréal — Examen de synthèse (doctoral qualifying exam) President (2026)"
+          # Elaa Mokhtari
+          - "Polytechnique Montréal — M.Sc. Thesis Jury President (2026)"
           - "Polytechnique Montréal — PhD Thesis Jury President (2026)"
+          # Bruno Curzi Laliberté
           - "Polytechnique Montréal — M.Sc. Thesis Jury President (2024)"
           - "McGill University — PhD Thesis External Reviewer (2024)"
           - "McGill University — M.Sc. Thesis External Reviewer (2023)"
@@ -402,6 +407,24 @@ cv:
           - McGill University
 
     Selected Publications:
+      - title: "Bridging the Semantic Web and Model-Based Systems Engineering with the Ontological Modeling Language"
+        authors:
+          - "Maged Elaasar"
+          - "**Bentley Oakes**"
+          - "Eduard Kamburjan"
+          - "Mohammad Hamdaqa"
+          - "Abdelwahab Hamou-Lhadj"
+        journal: "International Semantic Web Conference (ISWC) — accepted"
+        date: "2026-10"
+      - title: "Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering"
+        authors:
+          - "Kérian Fiter"
+          - "Adil Lagrou"
+          - "**Bentley Oakes**"
+          - "Franck Dervault"
+        journal: "MODELS Companion (EDTconf)"
+        date: "2026-10"
+        doi: "10.1145/3837062.3839094"
       - title: "Model-based digital twin engineering: insights, challenges, and future directions"
         authors:
           - "Philipp Zech"

@@ -127,6 +127,16 @@
   dark_color: "#F48FB1"
   dark_text_color: "#212121"
 
+# --- Semantic web / ontologies (cyan) ---
+
+"ISWC":
+  url: https://iswc-conferences.org
+  name: "International Semantic Web Conference"
+  color: "#0097A7"
+  text_color: "#ffffff"
+  dark_color: "#80DEEA"
+  dark_text_color: "#212121"
+
 # --- Other MDE workshops / conferences ---
 
 "MODELSWARD":

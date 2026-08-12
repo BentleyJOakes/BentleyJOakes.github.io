@@ -100,6 +100,7 @@ Ontological modelling &amp; analysis
 <li><a href="/publications/#Gomes2019">HintCO: Hint-Based Configuration of Co-Simulations</a> <span class="award btn btn-sm z-depth-0"><i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>Best Student Paper</span></li>
 <li><a href="/publications/#Elaasar2025">Model-Based Systems Engineering Perspectives: A Survey of Practitioner Experiences and Challenges</a></li>
 <li><a href="/publications/#Elaasar2023opencaesar">openCAESAR: Balancing Agility and Rigor in Model-Based Systems Engineering</a></li>
+<li><a href="/publications/#Elaasar2026OML">Bridging the Semantic Web and Model-Based Systems Engineering with the Ontological Modeling Language</a></li>
 <li><a href="/publications/#ben2024toward">Toward Intelligent Generation of Tailored Graphical Concrete Syntax</a></li>
 <li><a href="/publications/#Meyers2019">A Model-Driven Engineering Framework to Support the Functional Safety Process</a></li>
 </ul>
@@ -142,6 +143,7 @@ Ontological modelling &amp; analysis
 
 <p><strong>Key publications:</strong></p>
 <ul>
+<li><a href="/publications/#Elaasar2026OML">Bridging the Semantic Web and Model-Based Systems Engineering with the Ontological Modeling Language</a></li>
 <li><a href="/publications/#Oakes2024BuildingDomainSpecific">Building Domain-Specific Machine Learning Workflows: A Conceptual Framework for the State-of-the-Practice</a></li>
 <li><a href="/publications/#Elaasar2023opencaesar">openCAESAR: Balancing Agility and Rigor in Model-Based Systems Engineering</a></li>
 <li><a href="/publications/#Oakes2021b">Structuring and Accessing Knowledge for Historical and Streaming Digital Twins</a></li>
