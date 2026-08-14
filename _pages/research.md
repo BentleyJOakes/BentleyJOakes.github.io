@@ -67,9 +67,12 @@ Ontological modelling &amp; analysis
 
 <p>Our work focuses on the <a href="/publications/#Zech2026MBDTE">challenging engineering of model-based DTs</a> and their detailed reporting. We have proposed an <a href="/publications/#Oakes2024ServiceDriven">ontologically-grounded method</a> for creating DTs by selecting a DT service and following a defined workflow. We have also pioneered DT reporting, by providing <a href="/publications/#Gil2024towardssystematicreporting">21 characteristics for precisely reporting DTs</a>, and built <a href="/publications/#Fiter2025">DTInsight</a> to create a <a href="https://oakeslabmtl.github.io/DTDF/">live visualisation and reporting page</a>.</p>
 
+<p>We are also extending DTs beyond physical systems to <a href="/publications/#Fiter2026">Enterprise Digital Twins</a>, which represent an organisation's processes, data, and decisions rather than a machine. In collaboration with Michelin, we are investigating how to rapidly involve stakeholders through a working prototype before evolving towards federation and full interoperability, so that the resulting DT is trusted by the people whose decisions depend on it.</p>
+
 <p><strong>Key publications:</strong></p>
 <ul>
 <li><a href="/publications/#Fiter2025">DTInsight: A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting</a></li>
+<li><a href="/publications/#Fiter2026">Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering</a></li>
 <li><a href="/publications/#Goffi2025">Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling</a></li>
 <li><a href="/publications/#Gil2024towardssystematicreporting">Towards a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics Case Study</a></li>
 <li><a href="/publications/#Oakes2024ServiceDriven">Towards Ontological Service-Driven Engineering of Digital Twins</a> <span class="award btn btn-sm z-depth-0"><i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>Best Short Paper</span></li>
