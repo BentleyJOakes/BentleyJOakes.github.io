@@ -178,10 +178,32 @@ nav: false
 - [New graduate student journey](https://www.polymtl.ca/gopoly/en/new-student-journey/new-student-journey-graduate-studies)
 - [Requirements for the PhD degree](https://www.polymtl.ca/programmes/programmes/doctorat-en-genie-informatique)
 - Polytechnique Montréal's Student Services (SEP): [english](https://etudiant.polymtl.ca/sep/en/) / [french](https://etudiant.polymtl.ca/sep/)
-- [Polytechnique student bourses/grants](https://www.polymtl.ca/aide-financiere/bourses/recherche)
 
 ### Interesting reading and advice
 - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 - The largest problem in academia is discoverability: [Be Findable](https://registerspill.thorstenball.com/p/be-findable)
 - How to write a thesis: [Thesis Projects - A Guide for Students in Computer Science and Information Systems](https://link.springer.com/book/10.1007/978-1-84800-009-4)
 - Fantastic advice on writing: [Writing for Computer Science](https://link.springer.com/book/10.1007/978-1-4471-6639-9)
+
+### Scholarships and bourses
+
+The [full directory of Polytechnique bourses](https://www.polymtl.ca/aide-financiere/bourses/recherche) is filterable by cycle and citizenship.
+
+<div class="course-table course-table--no-last-nowrap" markdown="1">
+
+| **Level** | **Bourse** | **Poly student** | **Québec resident** | **Canadian, non-QC** | **International** |
+| --------- | ---------- | :--------------: | :-----------------: | :------------------: | :---------------: |
+| Undergrad | [UPIR](https://www.polymtl.ca/aide-financiere/bourses/bourses-upir-unite-de-participation-et-dinitiation-la-recherche) | ✓ | ✓ | ✓ | ✓ |
+| Undergrad | [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards) | ✓ | ✓ | ✓ | |
+| Undergrad | [Mitacs Globalink](https://www.mitacs.ca/our-programs/globalink-research-internship-students/) | | | | ✓ |
+| Master's | [FRQ B1](https://frq.gouv.qc.ca/en/scholarships-and-grants/) | ✓ | ✓ | | |
+| Master's | [CGRS-M](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program) | ✓ | ✓ | ✓ | |
+| PhD | [FRQ B2](https://frq.gouv.qc.ca/en/scholarships-and-grants/) | ✓ | ✓ | | |
+| PhD | [CGRS-D](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program) | ✓ | ✓ | ✓ | |
+| Master's, PhD | [PBEEE](https://www.polymtl.ca/aide-financiere/bourses/programme-de-bourses-dexcellence-pour-etudiants-etrangers-pbeee) | ✓ | | | ✓ |
+| Master's, PhD | [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) | ✓ | ✓ | ✓ | ✓ |
+| All | [Poly annual competition](https://www.polymtl.ca/aide-financiere/informations-generales/concours-annuel-de-bourses) | ✓ | ✓ | ✓ | ✓ |
+
+</div>
+
+<p style="font-size: 0.8em; color: var(--global-text-color-light); margin-top: -0.75rem;">Accurate as of August 2026. Check the linked pages for current rules and deadlines.</p>

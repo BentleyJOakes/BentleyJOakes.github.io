@@ -42,7 +42,7 @@ You'll develop new techniques for digital twin construction, verification, and e
   </div>
 </div>
 
-Undergraduate internships are possible on any of the topics above, preferably as an [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards) (for eligible students) or a credited term project.
+Undergraduate internships are possible on any of the topics above, as a credited term project or funded by a [bourse](/lab/#scholarships-and-bourses): an NSERC USRA or UPIR for eligible students, or a Mitacs Globalink internship for students enrolled abroad.
 
 If you have another research idea which aligns with my interests, I would love to hear it!
 
@@ -50,7 +50,7 @@ If you have another research idea which aligns with my interests, I would love t
 
 <div class="callout" style="--accent-color: #25B34B;" markdown="1">
 
-- Competitive funding, with multiple scholarship opportunities
+- Competitive funding, with multiple [scholarship opportunities](/lab/#scholarships-and-bourses)
 - Supportive mentoring: weekly one-on-one meetings, active co-writing, and continual guidance toward your goals. My simple philosophy: your success is my success.
 - Publication in top venues (MODELS, SoSyM, TOSEM, FSE) and presentations at leading international conferences
 - Collaboration with industrial partners on real, deployed systems, with the option of a paid industry internship through the [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) program
