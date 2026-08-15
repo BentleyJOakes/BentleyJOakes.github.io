@@ -174,7 +174,7 @@ ninja.data = [{
           title: 'Our paper Model-based Digital Twin Engineering: Insights, Challenges, and Future Directions has been...',
           description: "",
           section: "News",},{id: "news-the-oakes-lab-is-welcoming-fatima-aguel-as-a-mitacs-globalink-research-intern-this-summer-working-on-ontological-modelling-of-digital-twin-component-repositories-welcome-fatima",
-          title: 'The Oakes Lab is welcoming Fatima Aguel as a MITACS Globalink Research Intern...',
+          title: 'The Oakes Lab is welcoming Fatima Aguel as a Mitacs Globalink Research Intern...',
           description: "",
           section: "News",},{
         id: 'social-cv',
