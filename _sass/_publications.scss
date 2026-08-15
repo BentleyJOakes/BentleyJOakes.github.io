@@ -145,6 +145,19 @@
           cursor: default;
           pointer-events: none;
         }
+        // jekyll-link-attributes (see `external_links` in _config.yml) stamps
+        // target="_blank" on every off-site link at build time. Key the icon off
+        // that attribute so the marker and the actual behaviour cannot drift
+        // apart: internal buttons (Summary, local PDFs) and the href-less
+        // Abstract/Bibtex toggles are skipped for free.
+        a.btn[target="_blank"]::after {
+          font: var(--fa-font-solid);
+          content: "\f35d"; // fa-up-right-from-square
+          font-size: 0.65em;
+          margin-left: 0.35em;
+          vertical-align: 0.25em;
+          opacity: 0.65;
+        }
         .links-left {
           display: flex;
           gap: 0.35rem;
