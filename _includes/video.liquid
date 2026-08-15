@@ -1,95 +1,62 @@
+{% comment %}
+  Renders a video, either a local file or an embedded YouTube video.
+
+  Parameters:
+    path    - required. A local file (mp4/webm/ogg) or a YouTube URL in any of
+              the watch, youtu.be, or embed forms.
+    title   - optional. Used as the iframe title, which screen readers announce.
+    caption - optional. Rendered as a figcaption below the video.
+    class   - optional. Extra classes on the video/iframe element.
+    poster, autoplay, controls, loop, muted - local video files only.
+
+  YouTube URLs are normalised to the privacy-preserving nocookie embed host.
+  This matters beyond privacy: watch and youtu.be URLs are served with
+  `X-Frame-Options: SAMEORIGIN`, so embedding them in an iframe fails outright.
+{% endcomment %}
+
 {% assign extension = include.path | split: '.' | last %}
+{% assign is_local = false %}
+{% if extension == 'mp4' or extension == 'webm' or extension == 'ogg' %}
+  {% assign is_local = true %}
+{% endif %}
+
+{% assign video_src = include.path %}
+{% unless is_local %}
+  {% assign youtube_id = '' %}
+  {% if include.path contains '/embed/' %}
+    {% assign youtube_id = include.path | split: '/embed/' | last | split: '?' | first %}
+  {% elsif include.path contains 'youtu.be/' %}
+    {% assign youtube_id = include.path | split: 'youtu.be/' | last | split: '?' | first %}
+  {% elsif include.path contains 'v=' %}
+    {% assign youtube_id = include.path | split: 'v=' | last | split: '&' | first %}
+  {% endif %}
+  {% if youtube_id != '' %}
+    {% assign video_src = 'https://www.youtube-nocookie.com/embed/' | append: youtube_id %}
+  {% endif %}
+{% endunless %}
 
 <figure>
-  {% if extension == 'mp4' or extension == 'webm' or extension == 'ogg' %}
+  {% if is_local %}
     <video
+      class="video-embed{% if include.class %} {{ include.class }}{% endif %}"
       src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
-      {% if include.class %}
-        class="{{ include.class }}"
-      {% endif %}
-      {% if include.width %}
-        width="{{ include.width }}"
-      {% else %}
-        width="auto"
-      {% endif %}
-      {% if include.height %}
-        height="{{ include.height }}"
-      {% else %}
-        height="auto"
-      {% endif %}
-      {% if include['min-width'] %}
-        min-width="{{ include.min-width }}"
-      {% endif %}
-      {% if include['min-height'] %}
-        min-height="{{ include.min-height }}"
-      {% endif %}
-      {% if include['max-width'] %}
-        max-width="{{ include.max-width }}"
-      {% endif %}
-      {% if include['max-height'] %}
-        height="{{ include.max-height }}"
-      {% endif %}
-      {% if include.title %}
-        title="{{ include.title }}"
-      {% endif %}
-      {% if include.alt %}
-        alt="{{ include.alt }}"
-      {% endif %}
-      {% if include.autoplay %}
-        autoplay
-      {% endif %}
-      {% if include.controls %}
-        controls
-      {% endif %}
-      {% if include.loop %}
-        loop
-      {% endif %}
-      {% if include.muted %}
-        muted
-      {% endif %}
-      {% if include.poster %}
-        poster="{{ include.poster }}"
-      {% endif %}
-    />
-
+      {% if include.title %}title="{{ include.title }}"{% endif %}
+      {% if include.poster %}poster="{{ include.poster }}"{% endif %}
+      {% if include.autoplay %}autoplay{% endif %}
+      {% if include.controls %}controls{% endif %}
+      {% if include.loop %}loop{% endif %}
+      {% if include.muted %}muted{% endif %}
+    ></video>
   {% else %}
     <iframe
-      src="{{ include.path }}"
-      {% if include.class %}
-        class="{{ include.class }}"
-      {% endif %}
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      class="video-embed{% if include.class %} {{ include.class }}{% endif %}"
+      src="{{ video_src }}"
+      {% if include.title %}title="{{ include.title }}"{% endif %}
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
-      {% if include.width %}
-        width="{{ include.width }}"
-      {% else %}
-        width="auto"
-      {% endif %}
-      {% if include.height %}
-        height="{{ include.height }}"
-      {% else %}
-        height="auto"
-      {% endif %}
-      {% if include['min-width'] %}
-        min-width="{{ include.min-width }}"
-      {% endif %}
-      {% if include['min-height'] %}
-        min-height="{{ include.min-height }}"
-      {% endif %}
-      {% if include['max-width'] %}
-        max-width="{{ include.max-width }}"
-      {% endif %}
-      {% if include['max-height'] %}
-        height="{{ include.max-height }}"
-      {% endif %}
-      {% if include.alt %}
-        alt="{{ include.alt }}"
-      {% endif %}
-      {% if include.title %}
-        title="{{ include.title }}"
-      {% endif %}
-    />
+    ></iframe>
   {% endif %}
   {% if include.caption %}
     <figcaption class="caption">{{ include.caption }}</figcaption>

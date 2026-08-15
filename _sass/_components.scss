@@ -343,3 +343,36 @@ html[data-theme="dark"] .funding-logos a:hover img {
   filter: invert(1);
   opacity: 1;
 }
+
+// Responsive video embed used by `_includes/video.liquid`.
+// Bootstrap's own ratio utilities are version-specific: this theme ships
+// Bootstrap 4, which spells it `embed-responsive-16by9`, while Bootstrap 5
+// renamed it to `ratio-16x9`. Using `aspect-ratio` depends on neither and
+// survives a future theme upgrade.
+.video-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 6px;
+  display: block;
+}
+
+figure .video-embed {
+  margin-bottom: 0.5rem;
+}
+
+// Stand-in of the same shape as .video-embed, for a slot whose video does not
+// exist yet. Uses theme variables so it follows dark mode, which the inline
+// greys it replaces did not.
+.video-placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--global-text-color-light);
+  background-color: var(--global-card-bg-color);
+  border: 1px dashed var(--global-divider-color);
+  border-radius: 6px;
+}

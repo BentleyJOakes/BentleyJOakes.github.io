@@ -75,9 +75,7 @@ By the end of this course, participants will be able to define, design, build, a
 </p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/TzLxHhmUvXw" title="AvalanCH Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/TzLxHhmUvXw" title="AvalanCH Digital Twin demo" %}
 </div>
 </div>
 
@@ -93,9 +91,7 @@ By the end of this course, participants will be able to define, design, build, a
 </p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/LWQldlsj-DE" title="MonDTreal Digital Shadow demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/LWQldlsj-DE" title="MonDTreal Digital Shadow demo" %}
 </div>
 </div>
 
@@ -107,12 +103,10 @@ By the end of this course, participants will be able to define, design, build, a
 <p><span style="display:inline-block; padding:0.2em 0.7em; background:#f0f0f0; border-radius:3px; font-size:0.82em; color:#888;"><i class="fas fa-clock"></i> Links available soon</span></p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<div style="background:#f5f5f5; display:flex; align-items:center; justify-content:center; border:1px dashed #ccc; border-radius:4px;">
-<div style="text-align:center; color:#aaa;">
+<div class="video-placeholder">
+<div>
 <i class="fas fa-video" style="font-size:1.5rem; display:block; margin-bottom:0.3rem;"></i>
 <small>Video coming soon</small>
-</div>
 </div>
 </div>
 </div>
@@ -126,12 +120,10 @@ By the end of this course, participants will be able to define, design, build, a
 <p><span style="display:inline-block; padding:0.2em 0.7em; background:#f0f0f0; border-radius:3px; font-size:0.82em; color:#888;"><i class="fas fa-clock"></i> Links available soon</span></p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<div style="background:#f5f5f5; display:flex; align-items:center; justify-content:center; border:1px dashed #ccc; border-radius:4px;">
-<div style="text-align:center; color:#aaa;">
+<div class="video-placeholder">
+<div>
 <i class="fas fa-video" style="font-size:1.5rem; display:block; margin-bottom:0.3rem;"></i>
 <small>Video coming soon</small>
-</div>
 </div>
 </div>
 </div>
@@ -163,9 +155,7 @@ By the end of this course, participants will be able to define, design, build, a
 </p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/-EGl8y5Qlus?si=5H5r-fF26d1te-tz" title="Beer Fermentation Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/-EGl8y5Qlus?si=5H5r-fF26d1te-tz" title="Beer Fermentation Digital Twin demo" %}
 </div>
 </div>
 
@@ -180,9 +170,7 @@ By the end of this course, participants will be able to define, design, build, a
 </p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/xF0SzGU1vgw?si=GGpn9RwaaK5SJIT-" title="Robotics Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/xF0SzGU1vgw?si=GGpn9RwaaK5SJIT-" title="Robotics Digital Twin demo" %}
 </div>
 </div>
 
@@ -204,9 +192,7 @@ By the end of this course, participants will be able to define, design, build, a
 </p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/sqTI49OAOeY?si=MNbTGbVuzWuuGMT6" title="Waste Twin: Smart Waste Collection Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/sqTI49OAOeY?si=MNbTGbVuzWuuGMT6" title="Waste Twin: Smart Waste Collection Digital Twin demo" %}
 </div>
 </div>
 
@@ -221,9 +207,7 @@ By the end of this course, participants will be able to define, design, build, a
 </p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/ezhNTBHXkss?si=eRGGNmkgjw3Af1nQ" title="STM Bus Fleet Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/ezhNTBHXkss?si=eRGGNmkgjw3Af1nQ" title="STM Bus Fleet Digital Twin demo" %}
 </div>
 </div>
 
@@ -238,9 +222,7 @@ By the end of this course, participants will be able to define, design, build, a
 </p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/y9hKJqjnLsc?si=BFYt3feCrW1AHVIe" title="Permafrost Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/y9hKJqjnLsc?si=BFYt3feCrW1AHVIe" title="Permafrost Digital Twin demo" %}
 </div>
 </div>
 
@@ -254,9 +236,7 @@ By the end of this course, participants will be able to define, design, build, a
 </p>
 </div>
 <div class="col-md-6">
-<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/9pK6ZKWzszM?si=XI7TcGlE6nsaMDEM" title="Graph Database Failure Propagation Digital Twin demo" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/9pK6ZKWzszM?si=XI7TcGlE6nsaMDEM" title="Graph Database Failure Propagation Digital Twin demo" %}
 </div>
 </div>
 
