@@ -32,7 +32,7 @@ nav: false
 </style>
 
 <div class="callout" style="--accent-color: #005f80;">
-<p>Our research in the Oakes lab focuses on <strong>enabling domain experts to efficiently capture and utilise their knowledge through an AI-assisted model-driven approach</strong>, to engineer complex cyber-physical systems. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process. In short, we want engineers to build safer, better systems much faster.</p>
+<p>Our research in the Oakes Lab focuses on <strong>enabling domain experts to efficiently capture and utilise their knowledge through an AI-assisted model-driven approach</strong>, to engineer complex cyber-physical systems. The goal is to minimise the cognitive and time effort for constructing, verifying, and validating these systems, while still maximising the insights gained during the systems engineering process. In short, we want engineers to build safer, better systems much faster.</p>
 
 <p class="research-focus"><strong>Current focus:</strong> Accelerating and Systematising Digital Twins Engineering</p>
 

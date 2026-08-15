@@ -140,13 +140,13 @@ nav: false
     <img src="/assets/img/students/angelica.jpg" alt="Angelica Portocarrero" class="member-photo" width="150" height="150" loading="lazy"><br>
     <a href="https://www.linkedin.com/in/angelica-portocarrero/"><b>Angelica Portocarrero</b></a><br>
     Master's Student · Since 2026<br>
-    Previously MITACS Globalink Intern — 2025<br>
+    Previously Mitacs Globalink Intern — 2025<br>
     <i>Structured DT engineering with LLMs</i>
   </div>
   <div>
     <img src="/assets/img/students/fatima.jpg" alt="Fatima Aguel" class="member-photo" width="150" height="150" loading="lazy" style="object-position: center top;"><br>
     <a href="https://www.linkedin.com/in/faatima24/"><b>Fatima Aguel</b></a><br>
-    MITACS Globalink Research Intern · Summer 2026<br>
+    Mitacs Globalink Research Intern · Summer 2026<br>
     <i>Ontological modelling of digital twin component repositories</i>
   </div>
 </div>
