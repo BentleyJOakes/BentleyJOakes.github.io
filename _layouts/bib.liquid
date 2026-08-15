@@ -4,7 +4,13 @@
 {% if entry.abbr and site.data.venues[entry.abbr].color %}
   {% capture row_venue_style %}style="--venue-bg:{{ site.data.venues[entry.abbr].color }}{% if site.data.venues[entry.abbr].dark_color %}; --venue-bg-dark:{{ site.data.venues[entry.abbr].dark_color }}{% endif %}"{% endcapture %}
 {% endif %}
-<div class="row" {% if entry.tags %}data-tags="{{ entry.tags }}"{% endif %} {{ row_venue_style }}>
+<div
+  class="row"
+  {% if entry.tags %}
+    data-tags="{{ entry.tags }}"
+  {% endif %}
+  {{ row_venue_style }}
+>
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
@@ -239,7 +245,8 @@
       {% if entry.award %}
         <div class="links-center">
           <a class="award btn btn-sm z-depth-0" role="button">
-            <i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>{%- if entry.award_name %}{{ entry.award_name }}{% else %}Best Paper{% endif -%}
+            <i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>
+            {%- if entry.award_name %}{{ entry.award_name }}{% else %}Best Paper{% endif -%}
           </a>
         </div>
       {% endif %}
@@ -284,8 +291,12 @@
         {% if entry.code %}
           <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
         {% endif %}
+        {% comment %}
+          `blog` points at the paper's own page on this site (a news item with a
+          /publications/ permalink), so the button is labelled Summary.
+        {% endcomment %}
         {% if entry.blog %}
-          <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
+          <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Summary</a>
         {% endif %}
         {% if entry.website %}
           <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
@@ -419,7 +430,9 @@
           <p class="pub-keywords">
             <strong>Keywords:</strong>
             {% assign kw_list = entry.keywords | split: ',' %}
-            {% for kw in kw_list %}<span class="badge badge-secondary font-weight-light mr-1">{{ kw | strip }}</span>{% endfor %}
+            {% for kw in kw_list -%}
+              <span class="badge badge-secondary font-weight-light mr-1">{{ kw | strip }}</span>
+            {%- endfor %}
           </p>
         {% endif %}
       </div>
@@ -437,23 +450,23 @@
     {% if entry.video and site.enable_video_embedding %}
       <!-- Hidden video block -->
       <div class="abstract hidden">
-        <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
+        {% include video.liquid path=entry.video title=entry.title controls=true %}
       </div>
     {% endif %}
   </div>
 </div>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ScholarlyArticle",
-  "headline": {{ entry.title | jsonify }},
-  "name": {{ entry.title | jsonify }},
-  "author": [{% for author in entry.author_array %}{"@type":"Person","name":{{ author.first | append: " " | append: author.last | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}],
-  "datePublished": {{ entry.year | jsonify }}{% if entry.doi %},
-  "identifier": {"@type":"PropertyValue","propertyID":"DOI","value":{{ entry.doi | jsonify }}},
-  "url": {{ entry.doi | prepend: "https://doi.org/" | jsonify }}{% endif %}{% if entry.abstract %},
-  "abstract": {{ entry.abstract | jsonify }}{% endif %}{% if entry.journal %},
-  "isPartOf": {"@type":"Periodical","name":{{ entry.journal | jsonify }}}{% elsif entry.booktitle %},
-  "isPartOf": {"@type":"Event","name":{{ entry.booktitle | jsonify }}}{% endif %}
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": {{ entry.title | jsonify }},
+    "name": {{ entry.title | jsonify }},
+    "author": [{% for author in entry.author_array %}{"@type":"Person","name":{{ author.first | append: " " | append: author.last | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}],
+    "datePublished": {{ entry.year | jsonify }}{% if entry.doi %},
+    "identifier": {"@type":"PropertyValue","propertyID":"DOI","value":{{ entry.doi | jsonify }}},
+    "url": {{ entry.doi | prepend: "https://doi.org/" | jsonify }}{% endif %}{% if entry.abstract %},
+    "abstract": {{ entry.abstract | jsonify }}{% endif %}{% if entry.journal %},
+    "isPartOf": {"@type":"Periodical","name":{{ entry.journal | jsonify }}}{% elsif entry.booktitle %},
+    "isPartOf": {"@type":"Event","name":{{ entry.booktitle | jsonify }}}{% endif %}
+  }
 </script>

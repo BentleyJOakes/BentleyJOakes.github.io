@@ -50,6 +50,19 @@
     {% assign is_blog_post = true %}
   {% endunless %}
 {% endif %}
+{% comment %}
+  A standalone news item is a dated announcement with its own page, so it gets
+  the same article/BlogPosting treatment as a blog post. Keyed on the collection
+  rather than the URL, since a news item may set its own permalink (paper pages
+  live under /publications/). The /news/ index is a page, not a collection
+  document, so it is unaffected.
+
+  Inline items are excluded: they also generate a page, but the body is a
+  one-line announcement, and article markup on 36 thin pages is not wanted.
+{% endcomment %}
+{% if page.collection == 'news' and page.inline != true %}
+  {% assign is_blog_post = true %}
+{% endif %}
 
 {% if site.serve_og_meta %}
   <!-- OpenGraph -->
@@ -227,61 +240,61 @@
   {% endfor %}
 
   {% if page.permalink == '/' or page.url == '/' %}
-  <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Person",
-        "name": "{{ author_name }}",
-        "jobTitle": "Assistant Professor",
-        "url": "{{ site.url }}{{ site.baseurl }}/",
-        "image": "{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
-        "worksFor": {
-            "@type": "CollegeOrUniversity",
-            "name": "Polytechnique Montréal",
-            "url": "https://www.polymtl.ca/"
-        },
-        "affiliation": {
-            "@type": "CollegeOrUniversity",
-            "name": "Polytechnique Montréal",
-            "url": "https://www.polymtl.ca/"
-        },
-        "alumniOf": {
-            "@type": "CollegeOrUniversity",
-            "name": "McGill University",
-            "url": "https://www.mcgill.ca/"
-        },
-        "knowsAbout": [
-            "Digital Twin engineering",
-            "Model-driven engineering",
-            "Cyber-physical systems",
-            "Ontologies and knowledge representation",
-            "Verification and validation",
-            "Machine learning for engineering"
-        ],
-        {% if sameaslinks != blank %}
-        "sameAs": {{ sameaslinks | jsonify }}
-        {% endif %}
-    }
-  </script>
+    <script type="application/ld+json">
+      {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "name": "{{ author_name }}",
+          "jobTitle": "Assistant Professor",
+          "url": "{{ site.url }}{{ site.baseurl }}/",
+          "image": "{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}",
+          "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+          "worksFor": {
+              "@type": "CollegeOrUniversity",
+              "name": "Polytechnique Montréal",
+              "url": "https://www.polymtl.ca/"
+          },
+          "affiliation": {
+              "@type": "CollegeOrUniversity",
+              "name": "Polytechnique Montréal",
+              "url": "https://www.polymtl.ca/"
+          },
+          "alumniOf": {
+              "@type": "CollegeOrUniversity",
+              "name": "McGill University",
+              "url": "https://www.mcgill.ca/"
+          },
+          "knowsAbout": [
+              "Digital Twin engineering",
+              "Model-driven engineering",
+              "Cyber-physical systems",
+              "Ontologies and knowledge representation",
+              "Verification and validation",
+              "Machine learning for engineering"
+          ],
+          {% if sameaslinks != blank %}
+          "sameAs": {{ sameaslinks | jsonify }}
+          {% endif %}
+      }
+    </script>
   {% else %}
-  <script type="application/ld+json">
-    {
-        "author":
-        {
-            "@type": "Person",
-            "name": "{{ author_name }}"
-        },
-        "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-        "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
-        "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
-        {% if sameaslinks != blank %}
-        "sameAs": {{ sameaslinks | jsonify }},
-        {% endif %}
-        "name": "{{ author_name }}",
-        "@context": "https://schema.org"
-    }
-  </script>
+    <script type="application/ld+json">
+      {
+          "author":
+          {
+              "@type": "Person",
+              "name": "{{ author_name }}"
+          },
+          "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
+          "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
+          "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+          "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+          {% if sameaslinks != blank %}
+          "sameAs": {{ sameaslinks | jsonify }},
+          {% endif %}
+          "name": "{{ author_name }}",
+          "@context": "https://schema.org"
+      }
+    </script>
   {% endif %}
 {% endif %}

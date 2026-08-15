@@ -21,7 +21,19 @@
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                <div class="news-item">
+                  {% if item.thumbnail %}
+                    <a href="{{ item.url | relative_url }}" tabindex="-1" aria-hidden="true">
+                      <img class="news-thumbnail" src="{{ item.thumbnail | relative_url }}" alt="" loading="lazy">
+                    </a>
+                  {% endif %}
+                  <div>
+                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {% if item.description %}
+                      <div class="news-excerpt">{{ item.description | emojify }}</div>
+                    {% endif %}
+                  </div>
+                </div>
               {% endif %}
             </td>
           </tr>
