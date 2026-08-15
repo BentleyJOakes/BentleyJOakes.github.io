@@ -14,7 +14,7 @@ _styles: >
 
 ---
 
-## Currently Teaching
+## Featured Course
 
 <div class="dte-card" markdown="1">
 {% include dte_course_blurb.liquid %}
