@@ -187,23 +187,13 @@ nav: false
 
 ### Scholarships and bourses
 
-The [full directory of Polytechnique bourses](https://www.polymtl.ca/aide-financiere/bourses/recherche) is filterable by cycle and citizenship.
+I help my students apply for these, from picking the right one to co-writing the proposal. Ask me early: most deadlines land between September and December.
 
-<div class="course-table course-table--no-last-nowrap" markdown="1">
+- **Undergraduate:** [UPIR](https://www.polymtl.ca/aide-financiere/bourses/bourses-upir-unite-de-participation-et-dinitiation-la-recherche) (Polytechnique, any citizenship), [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards) (Canadian citizens and permanent residents), [Mitacs Globalink](https://www.mitacs.ca/our-programs/globalink-research-internship-students/) (for students enrolled abroad)
+- **Master's:** [FRQ B1](https://frq.gouv.qc.ca/en/scholarships-and-grants/), [CGRS-M](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program), [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) (paid internship with an industrial partner)
+- **PhD:** [FRQ B2](https://frq.gouv.qc.ca/en/scholarships-and-grants/), [CGRS-D](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program), [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/)
+- **International students:** [PBEEE](https://www.polymtl.ca/aide-financiere/bourses/programme-de-bourses-dexcellence-pour-etudiants-etrangers-pbeee) is the counterpart to the FRQ awards, and Mitacs Accelerate and the Polytechnique competitions are open to you too
 
-| **Level** | **Bourse** | **Poly student** | **Québec resident** | **Canadian, non-QC** | **International** |
-| --------- | ---------- | :--------------: | :-----------------: | :------------------: | :---------------: |
-| Undergrad | [UPIR](https://www.polymtl.ca/aide-financiere/bourses/bourses-upir-unite-de-participation-et-dinitiation-la-recherche) | ✓ | ✓ | ✓ | ✓ |
-| Undergrad | [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards) | ✓ | ✓ | ✓ | |
-| Undergrad | [Mitacs Globalink](https://www.mitacs.ca/our-programs/globalink-research-internship-students/) | | | | ✓ |
-| Master's | [FRQ B1](https://frq.gouv.qc.ca/en/scholarships-and-grants/) | ✓ | ✓ | | |
-| Master's | [CGRS-M](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program) | ✓ | ✓ | ✓ | |
-| PhD | [FRQ B2](https://frq.gouv.qc.ca/en/scholarships-and-grants/) | ✓ | ✓ | | |
-| PhD | [CGRS-D](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program) | ✓ | ✓ | ✓ | |
-| Master's, PhD | [PBEEE](https://www.polymtl.ca/aide-financiere/bourses/programme-de-bourses-dexcellence-pour-etudiants-etrangers-pbeee) | ✓ | | | ✓ |
-| Master's, PhD | [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) | ✓ | ✓ | ✓ | ✓ |
-| All | [Poly annual competition](https://www.polymtl.ca/aide-financiere/informations-generales/concours-annuel-de-bourses) | ✓ | ✓ | ✓ | ✓ |
+Polytechnique runs one [annual competition](https://www.polymtl.ca/aide-financiere/informations-generales/concours-annuel-de-bourses) covering most internal bourses; the [full directory](https://www.polymtl.ca/aide-financiere/bourses/recherche) is filterable by cycle and citizenship.
 
-</div>
-
-<p style="font-size: 0.8em; color: var(--global-text-color-light); margin-top: -0.75rem;">Accurate as of August 2026. Check the linked pages for current rules and deadlines.</p>
+<p style="font-size: 0.8em; color: var(--global-text-color-light);">Accurate as of August 2026. Check the linked pages for current rules and deadlines.</p>
