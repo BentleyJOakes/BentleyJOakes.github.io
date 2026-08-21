@@ -53,6 +53,7 @@ Ontological modelling &amp; analysis
 </div>
 
 <p><strong><a href="/join/">Interested in joining the Oakes Lab?</a></strong></p>
+<p><strong><a href="/contact/">Interested in collaborating with us?</a></strong></p>
 
 ---
 
@@ -96,7 +97,7 @@ Ontological modelling &amp; analysis
 </figure>
 <p>Effective systems engineering is about modelling and reasoning over complex integrations of systems, which is a perennial challenge, as shown in a <a href="/publications/#Elaasar2025">survey of practitioners</a>. In particular, engineers still need languages, tools, and techniques to better bridge the gap between knowing and utilising their domain knowledge.</p>
 
-<p>In our lab, we focus on assisting systems engineers: creating <a href="/publications/#ben2024toward">tailored visual languages</a>, providing <a href="/publications/#Gomes2019">hints to better configure their systems</a>, and we collaborate with NASA JPL on utilising their <a href="/publications/#Elaasar2023opencaesar">openCAESAR framework</a> to push the use of ontologies in systems engineering.</p>
+<p>In our lab, we focus on assisting systems engineers: creating <a href="/publications/#ben2024toward">tailored visual languages</a>, providing <a href="/publications/#Gomes2019">hints to better configure their systems</a>, and we collaborate with NASA JPL on utilising their <a href="/publications/#Elaasar2023opencaesar">openCAESAR framework</a> to push the use of ontologies in systems engineering. This builds on industrial work with Siemens Industry Software, Boeing Research &amp; Technology, and Dana on safety-critical systems and co-simulation.</p>
 
 <p><strong>Key publications:</strong></p>
 <ul>
@@ -155,5 +156,3 @@ Ontological modelling &amp; analysis
 
 <p><a href="/publications/?tag=knowledge-representation#all-publications">View all Knowledge Representation publications →</a></p>
 </div>
-
-
