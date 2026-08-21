@@ -60,8 +60,13 @@ body.sticky-bottom-footer {
 
   .news-thumbnail {
     flex: 0 0 auto;
-    width: 5rem;
+    // Cards double as og:image, so they are 1200x630 (the Open Graph size).
+    // Match that ratio rather than fixing a width: height is the constrained
+    // dimension here, since it squares the image off against the title and
+    // excerpt beside it. A fixed 5rem width cropped 12.5% off each side.
     height: 3.5rem;
+    aspect-ratio: 1200 / 630;
+    // Retained as a guard for any future thumbnail that is not 1200x630.
     object-fit: cover;
     border-radius: 4px;
     border: 1px solid var(--global-divider-color);
@@ -75,7 +80,6 @@ body.sticky-bottom-footer {
 
   @media (max-width: 576px) {
     .news-thumbnail {
-      width: 3.5rem;
       height: 2.5rem;
     }
   }
