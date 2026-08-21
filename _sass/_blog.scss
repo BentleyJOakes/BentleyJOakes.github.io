@@ -101,6 +101,17 @@
 }
 
 .post {
+  // Article figures are plain <figure><img>, and nothing else in the site
+  // constrains image width, so a full-resolution asset would otherwise render
+  // at its natural size and overflow the column. An inline style on the image
+  // still wins, for figures that want to be narrower than the column.
+  figure img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
