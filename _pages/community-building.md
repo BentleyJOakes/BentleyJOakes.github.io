@@ -54,7 +54,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | Conference/Workshop | Role | Year(s) |
 | ---------- | ---- | -------: |
 | [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | General Chair | 2026 |
-| [ACM International Conference on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2025) | Student Volunteer Co-Chair | 2026 |
+| [ACM International Conference on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2026) | Student Volunteer Co-Chair | 2026 |
 | [onto:Nexus Workshop](https://www.opencaesar.io/events/onto-Nexus-Workshop-2026) (International Workshop on Ontological Modeling and Analysis) | Co-Chair | 2025, 2026 |
 | [Model Driven Engineering Languages and Systems (MODELS)](https://conf.researchr.org/home/models-2025) | Student Volunteer Co-Chair | 2025 |
 | [Software Engineering for Machine Learning Applications (SEMLA)](https://semla.polymtl.ca/) | Posters Co-Chair | 2024, 2025 |
@@ -106,7 +106,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 | [KI – Künstliche Intelligenz](https://www.springer.com/journal/13218) | Reviewer | 2026 |
 | [Journal of Systems & Software (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software) | Reviewer | 2025 |
 | [Information and Software Technology (IST)](https://www.sciencedirect.com/journal/information-and-software-technology) | Reviewer | 2025 |
-| [Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) | 🏆 Top 1% Reviewer (2020 & 2021) · Best Reviewer Award (2025) | 2020, 2021, 2023, 2025, 2026 |
+| [Journal of Software and Systems Modeling (SoSyM)](https://www.springer.com/journal/10270) | 🏆 Top 1% Reviewer (2020 & 2021) · [Best Reviewer Award (2025)](https://www.sosym.org/reviewer_awards/) | 2020, 2021, 2023, 2025, 2026 |
 | [Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/journal/tosem) | Reviewer | 2024 |
 | [SIMULATION](https://journals.sagepub.com/home/sim) | 🏆 Best Reviewer Award (June 2023) | 2023, 2024 |
 | [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) | Reviewer | 2023 |
