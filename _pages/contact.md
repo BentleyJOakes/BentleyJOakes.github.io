@@ -25,6 +25,9 @@ nav_order: 5
   font-size: 1em;
   flex-shrink: 0;
 }
+.office-card h2 {
+  font-size: 1.5rem;
+}
 .office-card {
   border-left: 4px solid var(--global-theme-color);
   padding: 0.6em 1em;
@@ -57,6 +60,10 @@ nav_order: 5
   </a>
 </div>
 
+**Prospective students**: see [Join the lab](/join/) for open positions, funding, and what to include in your application.
+
+**Industry and partnership inquiries**: I work with industrial partners on digital twin and systems engineering problems, through Mitacs and NSERC funding programs. Please contact me for a short discussion of how we can work together.
+
 <!-- My office is in **Polytechnique Montréal** in Montréal, Canada — directions below. -->
 
 <div class="office-card" markdown="1">
@@ -68,7 +75,6 @@ Polytechnique Montréal<br>
 Montréal, QC, Canada H3T 1J4
 
 ## Directions by Public Transport
-{: .h4}
 
 1. Exit [Université-de-Montréal metro station (Blue Line)](https://www.stm.info/en) — After the turnstiles, turn left past the convenience store.
 2. Take the stairs to the exit.
@@ -78,7 +84,6 @@ Montréal, QC, Canada H3T 1J4
 6. Turn right onto Chemin de la Tour, following the signs for 'Pavillons Lassonde'.
 
 ## Directions by Car
-{: .h4}
 
 Parking is available inside the building marked '1' on the map below. For the full [Polytechnique Montréal access guide and campus maps](https://www.polymtl.ca/renseignements-generaux/en/contact-information-access-maps/campus-map), see the campus information page.
 
