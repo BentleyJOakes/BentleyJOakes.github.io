@@ -6,7 +6,7 @@ description: "Community-building activities by Dr. Bentley Oakes, including conf
 nav: true
 nav_order: 2
 _styles: >
-  article h4 { margin-top: 2rem; }
+  article h2 { font-size: 1.5rem; }
   .jump-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4rem; margin: 0.4rem 0; }
   .jump-pill { font-size: 0.8rem; padding: 0.2rem 0.65rem; border: 1px solid var(--global-theme-color); border-radius: 999px; color: var(--global-theme-color); text-decoration: none; font-weight: 500; }
   article table { width: 100%; table-layout: auto; }
@@ -38,7 +38,6 @@ _styles: >
 ---
 
 ## Lead Organizer
-{: .h4}
 
 [Software Engineering at Montréal (SEMTL)](https://semtl.github.io/) — Aug. 2022 to Present
 
@@ -47,7 +46,6 @@ I am the lead organizer of the SEMTL research seminar series, which brings toget
 Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 participants, featuring keynotes from top SE researchers and dozens of student presentations. We have also produced a [paper published at MODELS 2024](https://doi.org/10.1145/3640310.3674085) 
 
 ## Organising Committee Member
-{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -67,7 +65,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 </div>
 
 ## Program Committee Member
-{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -93,7 +90,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 </div>
 
 ## Journal Reviewer
-{: .h4}
 
 <div class="callout" style="--accent-color: #f0ad4e;">
   🏆 <strong>Top 1% Reviewer</strong> for <em>SoSyM</em> (2020 &amp; 2021) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SoSyM</em> (2025) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SIMULATION</em> (2023)
@@ -118,7 +114,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 </div>
 
 ## Grant Reviewer
-{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -131,7 +126,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 </div>
 
 ## Guest Editor for Journal Special Issue
-{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -142,7 +136,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 </div>
 
 ## Invited Talks & Presentations
-{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -170,7 +163,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 </div>
 
 ## Jury Member
-{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -184,7 +176,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 </div>
 
 ## Panelist
-{: .h4}
 
 <div class="course-table" markdown="1">
 
@@ -195,7 +186,6 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 </div>
 
 ## Departmental Service
-{: .h4}
 
 <div class="course-table" markdown="1">
 
