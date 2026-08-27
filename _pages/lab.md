@@ -161,12 +161,12 @@ nav: false
 
 <div class="course-table course-table--no-last-nowrap" markdown="1">
 
-| **Name** | **Role** | **Years** | **Topic** |
-| -------- | -------- | --------- | --------- |
-| *[Mikkel Schmidt Andersen](https://scholar.google.com/citations?user=egH56LUAAAAJ)* | Research intern | 2025 | Probabilistic DT update scheduling |
-| *[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)* | Research assistant | 2024 | Visualization of DT architectures — [DTInsight paper](/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf) |
-| *[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-b-1a5997227/)* | Research assistant | 2024 | Implementation of modelled machine learning pipelines |
-| *[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)* | Research assistant | 2023–2024 | Ontological modelling of machine learning pipelines |
+| **Name**                                                                            | **Role**           | **Years** | **Topic**                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------- | ------------------ | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _[Mikkel Schmidt Andersen](https://scholar.google.com/citations?user=egH56LUAAAAJ)_ | Research intern    | 2025      | Probabilistic DT update scheduling                                                                                                                                            |
+| _[Louis Malassigne-Onfroy](https://www.linkedin.com/in/louismalaonfr/)_             | Research assistant | 2024      | Visualization of DT architectures — [DTInsight paper](/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf) |
+| _[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-b-1a5997227/)_           | Research assistant | 2024      | Implementation of modelled machine learning pipelines                                                                                                                         |
+| _[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)_                       | Research assistant | 2023–2024 | Ontological modelling of machine learning pipelines                                                                                                                           |
 
 </div>
 
@@ -175,11 +175,13 @@ nav: false
 ## Resources
 
 ### At Polytechnique
+
 - [New graduate student journey](https://www.polymtl.ca/gopoly/en/new-student-journey/new-student-journey-graduate-studies)
 - [Requirements for the PhD degree](https://www.polymtl.ca/programmes/programmes/doctorat-en-genie-informatique)
 - Polytechnique Montréal's Student Services (SEP): [english](https://etudiant.polymtl.ca/sep/en/) / [french](https://etudiant.polymtl.ca/sep/)
 
 ### Interesting reading and advice
+
 - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 - The largest problem in academia is discoverability: [Be Findable](https://registerspill.thorstenball.com/p/be-findable)
 - How to write a thesis: [Thesis Projects - A Guide for Students in Computer Science and Information Systems](https://link.springer.com/book/10.1007/978-1-84800-009-4)
@@ -189,11 +191,13 @@ nav: false
 
 I help my students apply for these, from picking the right one to co-writing the proposal. Ask me early: most deadlines land between September and December.
 
-- **Undergraduate:** [UPIR](https://www.polymtl.ca/aide-financiere/bourses/bourses-upir-unite-de-participation-et-dinitiation-la-recherche) (Polytechnique, any citizenship), [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards) (Canadian citizens and permanent residents), [Mitacs Globalink](https://www.mitacs.ca/our-programs/globalink-research-internship-students/) (for students enrolled abroad)
-- **Master's:** [FRQ B1](https://frq.gouv.qc.ca/en/scholarships-and-grants/), [CGRS-M](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program), [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) (paid internship with an industrial partner)
-- **PhD:** [FRQ B2](https://frq.gouv.qc.ca/en/scholarships-and-grants/), [CGRS-D](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program), [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/)
+Every program below has two pages worth reading: the funder's, for the rules and the application portal, and Polytechnique's, for the internal deadline and the paperwork Poly needs from you.
+
+- **Undergraduate:** [UPIR](https://www.polymtl.ca/recherche/etudiants) (Polytechnique, any citizenship), [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards) / [BRPC at Poly](https://www.polymtl.ca/aide-financiere/bourses/crsng-brpc-bourses-de-recherche-en-milieu-universitaire-1er-cycle) (Canadian citizens and permanent residents), [Mitacs Globalink](https://www.mitacs.ca/our-programs/globalink-research-internship-students/) (for students enrolled abroad)
+- **Master's:** [FRQ B1](https://frq.gouv.qc.ca/en/scholarships-and-grants/) / [at Poly](https://www.polymtl.ca/aide-financiere/informations-generales/bourses-de-recherche/maitrise-recherche), [CGRS-M](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program) / [at Poly](https://www.polymtl.ca/aide-financiere/bourses/bourses-detudes-superieures-du-canada-au-niveau-de-la-maitrise-crsng-crsh), [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) (paid internship with an industrial partner)
+- **PhD:** [FRQ B2](https://frq.gouv.qc.ca/en/scholarships-and-grants/) / [at Poly](https://www.polymtl.ca/aide-financiere/bourses/fonds-de-recherche-du-quebec-frq-bourses-de-doctorat-en-recherche-volet-regulier-et-volet), [CGRS-D](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program) / [at Poly](https://www.polymtl.ca/aide-financiere/bourses/bourses-conseil-de-recherches-en-sciences-naturelles-et-en-genie-du-canada-crsng-doctorat), [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/)
 - **International students:** [PBEEE](https://www.polymtl.ca/aide-financiere/bourses/programme-de-bourses-dexcellence-pour-etudiants-etrangers-pbeee) is the counterpart to the FRQ awards, and Mitacs Accelerate and the Polytechnique competitions are open to you too
 
-Polytechnique runs one [annual competition](https://www.polymtl.ca/aide-financiere/informations-generales/concours-annuel-de-bourses) covering most internal bourses; the [full directory](https://www.polymtl.ca/aide-financiere/bourses/recherche) is filterable by cycle and citizenship.
+Polytechnique's [calendar of key dates](https://www.polymtl.ca/aide-financiere/informations-generales/bourses-de-recherche/calendrier-des-dates-importantes) gives the launch, deadline, and results date for every competition above, and its [advice on building a convincing application](https://www.polymtl.ca/aide-financiere/informations-generales/comment-preparer-un-dossier-de-candidature-convaincant) is worth a read before you start writing. Poly also runs one [annual competition](https://www.polymtl.ca/aide-financiere/informations-generales/concours-annuel-de-bourses) covering most internal bourses; the [full directory](https://www.polymtl.ca/aide-financiere/bourses/recherche) is filterable by cycle and citizenship.
 
 <p style="font-size: 0.8em; color: var(--global-text-color-light);">Accurate as of August 2026. Check the linked pages for current rules and deadlines.</p>
