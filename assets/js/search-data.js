@@ -167,13 +167,15 @@ ninja.data = [{
           section: "News",},{id: "news-the-second-edition-of-the-onto-nexus-workshop-international-workshop-on-ontological-modelling-and-analysis-will-be-held-in-2026-all-details-are-available-at-the-workshop-website-please-consider-submitting-your-papers-and-i-hope-to-see-you-there",
           title: 'The second edition of the onto:Nexus Workshop (International Workshop on Ontological Modelling and...',
           description: "",
-          section: "News",},{id: "news-as-general-chair-i-warmly-welcome-everyone-to-semla-2026-software-engineering-for-machine-learning-applications-on-the-theme-of-engineering-trustworthy-and-cost-effective-ai-multi-agents-join-us-june-1-3-2026-at-polytechnique-montréal",
-          title: 'As General Chair, I warmly welcome everyone to SEMLA 2026 (Software Engineering for...',
-          description: "",
           section: "News",},{id: "news-our-paper-model-based-digital-twin-engineering-insights-challenges-and-future-directions-has-been-published-in-the-journal-on-software-and-systems-modelling-sosym-it-was-co-authored-with-philipp-zech-souvik-barat-benjamin-nast-judith-michael-steffen-zschaler-balbir-barn-and-ruth-breu",
           title: 'Our paper Model-based Digital Twin Engineering: Insights, Challenges, and Future Directions has been...',
           description: "",
-          section: "News",},{id: "news-the-oakes-lab-is-welcoming-fatima-aguel-as-a-mitacs-globalink-research-intern-this-summer-working-on-ontological-modelling-of-digital-twin-component-repositories-welcome-fatima",
+          section: "News",},{id: "news-semla-2026-thoughts-and-thanks-after-three-days-on-agentic-software-engineering",
+          title: 'SEMLA 2026: Thoughts and Thanks After Three Days on Agentic Software Engineering',
+          description: "Three days, 25 speakers, and 100 to 150 participants a day at Polytechnique Montréal, on the theme of Engineering Trustworthy and Cost-Effective AI Multi-Agents.",
+          section: "News",handler: () => {
+              window.location.href = "/news/semla-2026/";
+            },},{id: "news-the-oakes-lab-is-welcoming-fatima-aguel-as-a-mitacs-globalink-research-intern-this-summer-working-on-ontological-modelling-of-digital-twin-component-repositories-welcome-fatima",
           title: 'The Oakes Lab is welcoming Fatima Aguel as a Mitacs Globalink Research Intern...',
           description: "",
           section: "News",},{
