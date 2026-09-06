@@ -59,6 +59,11 @@ layout: default
     </p>
   </header>
 
+  {% if page.thumbnail %}
+    <!-- Article card: the same 1200x630 image used as the listing thumbnail and og:image. -->
+    <img class="post-card" src="{{ page.thumbnail | relative_url }}" alt="{{ page.card_alt | default: page.title }}" loading="eager">
+  {% endif %}
+
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">

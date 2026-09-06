@@ -112,6 +112,18 @@
     margin: 0 auto;
   }
 
+  // The article card, the same 1200x630 image used as the listing thumbnail and
+  // og:image. It leads the article, so it is sized to the column rather than to
+  // its natural width, and rounded to match the listing thumbnail.
+  .post-card {
+    display: block;
+    width: 80%;
+    height: auto;
+    margin: 0 auto 1.5rem;
+    border-radius: 6px;
+    border: 1px solid var(--global-divider-color);
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
