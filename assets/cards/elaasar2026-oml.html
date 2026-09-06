@@ -1,0 +1,347 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  /* Polytechnique Montréal brand colours */
+  :root {
+    --rouge: #ed1c24;
+    --orange: #f15a22;
+    --vert: #25b34b;
+    --bleu: #00bdf2;
+    --ink: #14181b;
+    --ink-soft: #46525a;
+    --edge: 18px;
+    /* Each quadrant draws its own half of the interior lines, so the vertical
+       and horizontal rules read as two colours meeting down the middle. */
+    --rule: 9px;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  html,
+  body {
+    width: 1200px;
+    height: 630px;
+    overflow: hidden;
+  }
+  body {
+    font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+    color: var(--ink);
+    background: #fff;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+  .q {
+    background: #fff;
+    padding: 32px 38px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* --- top left: paper name --- */
+  .title {
+    border-top: var(--edge) solid var(--rouge);
+    border-left: var(--edge) solid var(--rouge);
+    border-right: var(--rule) solid var(--rouge);
+    border-bottom: var(--rule) solid var(--rouge);
+    justify-content: center;
+    text-align: center;
+  }
+  .title h1 {
+    font-size: 41px;
+    line-height: 1.14;
+    font-weight: 800;
+    letter-spacing: -0.021em;
+  }
+  .title h1 em {
+    font-style: normal;
+    color: var(--ink-soft);
+  }
+
+  /* --- top right: accepted at / venue --- */
+  .venue {
+    border-top: var(--edge) solid var(--bleu);
+    border-right: var(--edge) solid var(--bleu);
+    border-left: var(--rule) solid var(--bleu);
+    border-bottom: var(--rule) solid var(--bleu);
+    flex-direction: row;
+    align-items: center;
+    gap: 22px;
+  }
+  .accepted-at {
+    display: block;
+    margin-bottom: 12px;
+    font-size: 19px;
+    font-weight: 800;
+    letter-spacing: 0.17em;
+    text-transform: uppercase;
+    color: var(--bleu);
+  }
+  .logo-wrap {
+    flex: 0 0 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .logo-wrap img {
+    width: 100%;
+    object-fit: contain;
+  }
+  .venue-text {
+    flex: 1;
+    min-width: 0;
+  }
+  .venue-line {
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+  .venue-line span {
+    font-weight: 500;
+    color: var(--ink-soft);
+  }
+
+  /* --- bottom left: the two challenges --- */
+  .points {
+    border-bottom: var(--edge) solid var(--vert);
+    border-left: var(--edge) solid var(--vert);
+    border-right: var(--rule) solid var(--vert);
+    border-top: var(--rule) solid var(--vert);
+    justify-content: center;
+    padding-left: 26px;
+  }
+  .points .label {
+    font-size: 16px;
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--vert);
+    margin-bottom: 20px;
+  }
+  .points ol {
+    list-style: none;
+    counter-reset: p;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .points li {
+    counter-increment: p;
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+  }
+  .points li::before {
+    content: counter(p);
+    flex: 0 0 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--vert);
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .points h2 {
+    font-size: 24px;
+    font-weight: 800;
+    letter-spacing: -0.012em;
+    line-height: 1.2;
+  }
+  .points p {
+    font-size: 19px;
+    line-height: 1.32;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+
+  /* --- bottom right: the figure, redrawn --- */
+  .figure {
+    border-bottom: var(--edge) solid var(--orange);
+    border-right: var(--edge) solid var(--orange);
+    border-left: var(--rule) solid var(--orange);
+    border-top: var(--rule) solid var(--orange);
+    padding: 16px 20px 20px;
+    gap: 10px;
+  }
+  .figure svg {
+    flex: 1;
+    min-height: 0;
+    width: 100%;
+    display: block;
+  }
+  .figure figcaption {
+    margin-top: auto;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.32;
+    color: var(--ink-soft);
+  }
+  /* diagram type */
+  .dg-box {
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .dg-box.b {
+    font-weight: 800;
+  }
+  .dg-legend {
+    font-size: 12px;
+    font-weight: 600;
+    fill: var(--ink-soft);
+  }
+  .dg-rail {
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    fill: var(--ink-soft);
+  }
+</style>
+
+<section class="q title">
+  <h1>Bridging the Semantic Web and Model-Based Systems Engineering <em>with the Ontological Modeling Language</em></h1>
+</section>
+
+<section class="q venue">
+  <div class="logo-wrap"><img src="../img/publications/iswc-2026-logo.png" alt="" /></div>
+  <div class="venue-text">
+    <span class="accepted-at">Accepted at</span>
+    <div class="venue-line">International Semantic Web Conference<br /><span>Bari, 25 to 29 October 2026</span></div>
+  </div>
+</section>
+
+<section class="q points">
+  <div class="label">Two challenges</div>
+  <ol>
+    <li>
+      <div>
+        <h2>Abstraction mismatch</h2>
+        <p>Systems engineers require a level of abstraction above OWL.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <h2>Tooling</h2>
+        <p>No robust ontological modelling tools for engineers used to textual, modular languages.</p>
+      </div>
+    </li>
+  </ol>
+</section>
+
+<figure class="q figure">
+  <svg viewBox="0 0 560 250" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z" fill="#2c3439" />
+      </marker>
+      <style>
+        .vb {
+          fill: #fdeab6;
+          stroke: #d9a52a;
+          stroke-width: 1.5;
+        }
+        .db {
+          fill: #d3e8d2;
+          stroke: #5da362;
+          stroke-width: 1.5;
+        }
+        .lbl {
+          fill: #14181b;
+          text-anchor: middle;
+        }
+        .arr {
+          stroke: #2c3439;
+          stroke-width: 1.5;
+          fill: none;
+          marker-end: url(#ah);
+        }
+        .arr.dash {
+          stroke-dasharray: 6 4;
+        }
+        .arr.dot {
+          stroke-dasharray: 1.5 3.5;
+        }
+      </style>
+    </defs>
+
+    <text class="dg-rail" transform="translate(13,56) rotate(-90)" text-anchor="middle">Vocabularies</text>
+    <text class="dg-rail" transform="translate(13,174) rotate(-90)" text-anchor="middle">Descriptions</text>
+
+    <g>
+      <rect class="vb" x="26" y="8" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="73" y="34">jcgm/vim4</text>
+      <rect class="vb" x="136" y="8" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="183" y="26">vocabulary/</text>
+      <text class="lbl dg-box" x="183" y="41">base</text>
+      <rect class="vb" x="246" y="8" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="293" y="26">vocabulary/</text>
+      <text class="lbl dg-box" x="293" y="41">mission</text>
+      <rect class="vb" x="356" y="8" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="403" y="26">vocabulary/</text>
+      <text class="lbl dg-box" x="403" y="41">operations</text>
+      <rect class="vb" x="466" y="8" width="94" height="42" rx="4" />
+      <text class="lbl dg-box b" x="513" y="26">vocabulary/</text>
+      <text class="lbl dg-box b" x="513" y="41">bundle</text>
+      <rect class="vb" x="136" y="62" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="183" y="80">vocabulary/</text>
+      <text class="lbl dg-box" x="183" y="95">mechanical</text>
+    </g>
+    <g>
+      <rect class="db" x="26" y="126" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="73" y="144">iso.org/</text>
+      <text class="lbl dg-box" x="73" y="159">iso-8000-1</text>
+      <rect class="db" x="136" y="126" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="183" y="144">kepler16b/</text>
+      <text class="lbl dg-box" x="183" y="159">objectives</text>
+      <rect class="db" x="246" y="126" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="293" y="144">kepler16b/</text>
+      <text class="lbl dg-box" x="293" y="159">components</text>
+      <rect class="db" x="356" y="126" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="403" y="144">kepler16b/</text>
+      <text class="lbl dg-box" x="403" y="159">interfaces</text>
+      <rect class="db" x="466" y="126" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="513" y="144">kepler16b/</text>
+      <text class="lbl dg-box" x="513" y="159">junctions</text>
+      <rect class="db" x="26" y="186" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="73" y="204">iso.org/</text>
+      <text class="lbl dg-box" x="73" y="219">iso-8000-4.1</text>
+      <rect class="db" x="136" y="186" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="183" y="204">kepler16b/</text>
+      <text class="lbl dg-box" x="183" y="219">mass-properties</text>
+      <rect class="db" x="246" y="186" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="293" y="204">kepler16b/</text>
+      <text class="lbl dg-box" x="293" y="219">missions</text>
+      <rect class="db" x="356" y="186" width="94" height="42" rx="4" />
+      <text class="lbl dg-box" x="403" y="204">kepler16b/</text>
+      <text class="lbl dg-box" x="403" y="219">requirements</text>
+      <rect class="db" x="466" y="186" width="94" height="42" rx="4" />
+      <text class="lbl dg-box b" x="513" y="204">kepler16b/</text>
+      <text class="lbl dg-box b" x="513" y="219">bundle</text>
+    </g>
+
+    <path class="arr" d="M 134 29 L 122 29" />
+    <path class="arr" d="M 244 29 L 232 29" />
+    <path class="arr" d="M 354 29 L 342 29" />
+    <path class="arr" d="M 183 60 L 183 52" />
+    <path class="arr" d="M 142 66 L 114 54" />
+    <path class="arr dash" d="M 464 29 L 452 29" />
+    <path class="arr dot" d="M 73 124 L 73 52" />
+    <path class="arr dot" d="M 183 124 L 183 106" />
+    <path class="arr dot" d="M 293 124 L 293 52" />
+    <path class="arr dot" d="M 403 124 L 403 52" />
+    <path class="arr dot" d="M 513 124 L 513 52" />
+    <path class="arr" d="M 73 184 L 73 170" />
+    <path class="arr" d="M 183 184 L 183 170" />
+    <path class="arr" d="M 293 184 L 293 170" />
+    <path class="arr" d="M 403 184 L 403 170" />
+    <path class="arr dash" d="M 464 207 L 452 207" />
+
+    <text class="dg-legend" x="26" y="240">solid: extends &#183; dotted: uses &#183; dashed: includes</text>
+  </svg>
+  <figcaption>OML separates reusable vocabularies from descriptions</figcaption>
+</figure>

@@ -178,7 +178,12 @@ ninja.data = [{
             },},{id: "news-the-oakes-lab-is-welcoming-fatima-aguel-as-a-mitacs-globalink-research-intern-this-summer-working-on-ontological-modelling-of-digital-twin-component-repositories-welcome-fatima",
           title: 'The Oakes Lab is welcoming Fatima Aguel as a Mitacs Globalink Research Intern...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-bridging-the-semantic-web-and-systems-engineering-oml-in-practice",
+          title: 'Bridging the Semantic Web and Systems Engineering: OML in practice',
+          description: "ISWC 2026 paper on bridging the semantic web and systems engineering using the Ontological Modelling Language (OML). Mentions the challenges and the use of OML at JPL, JAXA, and Leonardo.",
+          section: "News",handler: () => {
+              window.location.href = "/publications/iswc-2026-bridging-semantic-web-systems-engineering/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
