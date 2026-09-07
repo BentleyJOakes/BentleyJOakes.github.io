@@ -78,6 +78,16 @@
   <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
+{% comment %}
+  Inline news items are one-line timeline entries rendered in full on /news/ and
+  the home page. Their standalone pages are never linked and are too thin to
+  index, so tell search engines to skip them while still following their links
+  through to /publications/ and /research/. Full articles (inline: false) are
+  indexed normally.
+{% endcomment %}
+{% if page.collection == 'news' and page.inline %}
+  <meta name="robots" content="noindex, follow">
+{% endif %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 {% if site.enable_darkmode %}
