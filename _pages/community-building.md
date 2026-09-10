@@ -168,6 +168,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 | Institution | Role | Year |
 | ----------- | ---- | ----: |
+| INSA Lyon / Polytechnique Montréal | PhD Thesis Jury Member | 2026 |
 | Polytechnique Montréal | PhD Thesis Jury President | 2026 |
 | Polytechnique Montréal | M.Sc. Thesis Jury President | 2024 |
 | McGill University | PhD Thesis External Reviewer | 2024 |
