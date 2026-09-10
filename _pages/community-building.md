@@ -47,7 +47,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 ## Organising Committee Member
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Conference/Workshop | Role | Year(s) |
 | ---------- | ---- | -------: |
@@ -66,7 +66,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 ## Program Committee Member
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Venue | Year(s) |
 | ----- | -------: |
@@ -95,7 +95,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
   🏆 <strong>Top 1% Reviewer</strong> for <em>SoSyM</em> (2020 &amp; 2021) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SoSyM</em> (2025) &nbsp;·&nbsp; <strong>Best Reviewer Award</strong>, <em>SIMULATION</em> (2023)
 </div>
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Journal | Role / Recognition | Year(s) |
 | ------- | ------------------ | -------: |
@@ -115,7 +115,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 ## Grant Reviewer
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Grant | Year |
 | ----- | ----: |
@@ -127,7 +127,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 ## Guest Editor for Journal Special Issue
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Venue | Issue Title | Year |
 | ----- | ----------- | ----: |
@@ -137,7 +137,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 ## Invited Talks & Presentations
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Title | Venue | Date |
 | ----- | ----- | ----: |
@@ -164,7 +164,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 ## Jury Member
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Institution | Role | Year |
 | ----------- | ---- | ----: |
@@ -178,7 +178,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 ## Panelist
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Conference/Workshop | Role | Year |
 | ---------- | ---- | ----: |
@@ -188,7 +188,7 @@ Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 partici
 
 ## Departmental Service
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Institution | Role | Year(s) |
 | ----------- | ---- | -------: |

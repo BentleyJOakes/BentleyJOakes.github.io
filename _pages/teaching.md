@@ -22,7 +22,7 @@ _styles: >
 
 ## Courses as Instructor
 
-<div class="course-table" markdown="1">
+<div class="styled-table" markdown="1">
 
 | Course | Description | Term(s) |
 | ------ | ----------- | ------- |

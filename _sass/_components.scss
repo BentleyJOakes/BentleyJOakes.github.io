@@ -375,3 +375,70 @@ figure .video-embed {
   border: 1px dashed var(--global-divider-color);
   border-radius: 6px;
 }
+
+// The site's standard table styling: a themed header rule, zebra striping, and
+// a container that scrolls on narrow screens. Used by course, service, and
+// lab listings; add .styled-table--no-last-nowrap when the last column wraps.
+.styled-table {
+  margin-bottom: 1.5rem;
+
+  // Narrow screens: the table scrolls inside this container, not the document
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+
+  table {
+    width: 100%;
+
+    thead th {
+      border-bottom: 2px solid var(--global-theme-color);
+      color: var(--global-text-color);
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding-bottom: 0.5rem;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid var(--global-divider-color);
+
+      &:nth-child(even) {
+        background-color: color-mix(in srgb, var(--global-theme-color) 4%, transparent);
+      }
+
+      // Outranks Bootstrap's .table-hover rule (added by assets/js/no_defer.js),
+      // which loses to the striping above and so never shows on even rows.
+      &:hover {
+        background-color: color-mix(in srgb, var(--global-theme-color) 12%, transparent);
+      }
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    td {
+      padding: 0.6rem 0.5rem;
+      vertical-align: top;
+
+      &:first-child a {
+        font-weight: 600;
+      }
+
+      &:last-child {
+        white-space: nowrap;
+        font-size: 0.8rem;
+        color: var(--global-text-color);
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+.styled-table--no-last-nowrap {
+  table td:last-child {
+    white-space: normal;
+    font-size: inherit;
+    color: inherit;
+    font-weight: inherit;
+  }
+}

@@ -440,7 +440,7 @@ nav[data-toggle="toc"] {
 }
 
 // Wraps a table so it scrolls itself on narrow screens instead of widening the
-// document. For styled course/service tables use .course-table, which includes this.
+// document. For styled course/service tables use .styled-table, which includes this.
 .table-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
