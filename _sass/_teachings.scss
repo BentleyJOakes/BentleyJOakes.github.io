@@ -28,6 +28,12 @@
         background-color: color-mix(in srgb, var(--global-theme-color) 4%, transparent);
       }
 
+      // Outranks Bootstrap's .table-hover rule (added by assets/js/no_defer.js),
+      // which loses to the striping above and so never shows on even rows.
+      &:hover {
+        background-color: color-mix(in srgb, var(--global-theme-color) 12%, transparent);
+      }
+
       &:last-child {
         border-bottom: none;
       }
