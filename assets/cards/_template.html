@@ -1,0 +1,75 @@
+<!--
+  Skeleton for a news article card. Copy to <name>.html, fill in, then render
+  with scripts/build-card.sh <name>, which writes
+  assets/img/publications/<name>-card.png at 1200x630. Point the post's
+  `thumbnail` and `og_image` frontmatter at that path.
+
+  Sources whose name starts with an underscore are skipped by the build, so
+  this file is never rendered.
+
+  The four quadrants are fixed: title, venue, key points, figure. All of the
+  chrome lives in card.css; keep card-specific CSS below to a minimum, and if
+  a rule turns out to be useful twice, move it to card.css instead.
+-->
+<!doctype html>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="card.css" />
+<style>
+  /* Card-specific CSS only. Examples of what legitimately belongs here:
+       .logo-wrap { flex: 0 0 36%; }        a wider or narrower logo column
+       .figure img { object-position: 50% 38%; }   which band of a photo to keep
+       type for an inline SVG figure */
+</style>
+
+<!-- Up to about 90 characters, or the type starts to crowd the quadrant. The
+     <em> is not italic: it is the tail of the title in soft ink, usually the
+     subtitle or the "with X" clause. Omit it if the title is short. -->
+<section class="q title">
+  <h1>Main clause of the paper title <em>and its trailing clause</em></h1>
+</section>
+
+<section class="q venue">
+  <div class="venue-main">
+    <div class="logo-wrap">
+      <img src="../img/publications/VENUE-logo.png" alt="" />
+      <!-- Optional, for something the logo does not say itself:
+      <div class="logo-note">Co-located with SOMETHING 20XX</div> -->
+    </div>
+    <div class="venue-text">
+      <!-- "Accepted at" before the event, "Presented at" after it. -->
+      <span class="accepted-at">Accepted at</span>
+      <div class="venue-line">Full Conference Name<br /><span>City, dates</span></div>
+    </div>
+  </div>
+  <!-- Last names only, in authorship order, all at one weight. -->
+  <div class="authors">First, Second, Third</div>
+</section>
+
+<!-- Two points. Three fit only if each is very short; one looks unfinished. -->
+<section class="q points">
+  <div class="label">What these two are</div>
+  <ol>
+    <li>
+      <div>
+        <h2>Short noun phrase</h2>
+        <p>One sentence, ideally carrying a number.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <h2>Short noun phrase</h2>
+        <p>One sentence, ideally carrying a number.</p>
+      </div>
+    </li>
+  </ol>
+</section>
+
+<!-- Either a photograph or a diagram redrawn as inline SVG. The quadrant is
+     roughly 2:1, so a photograph is cropped hard: set object-position above to
+     choose the band that survives. A redrawn diagram beats a screenshot of one,
+     which will not stay legible at this size. The figcaption is optional; drop
+     it to give the image the full height of the quadrant. -->
+<figure class="q figure">
+  <img src="../img/publications/NAME.jpg" alt="" />
+  <figcaption>One line on what the reader is looking at</figcaption>
+</figure>

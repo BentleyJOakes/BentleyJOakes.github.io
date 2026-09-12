@@ -15,7 +15,8 @@ node_modules/
 tmp/
 vendor
 
-scripts/
+scripts/*
+!scripts/build-card.sh
 docker-compose.override.yml
 
 TODO.md
