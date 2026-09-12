@@ -1,0 +1,269 @@
+/* Shared chrome for the news article cards rendered by scripts/build-card.sh.
+   A card source is a 1200x630 page of four quadrants (title, venue, key points,
+   figure) drawn in the four Polytechnique Montréal brand colours, white inside.
+   Each source links this file and adds only what is particular to it: the
+   contents of the quadrants, and any styling for the figure it carries. */
+
+/* Polytechnique Montréal brand colours */
+:root {
+  --rouge: #ed1c24;
+  --orange: #f15a22;
+  --vert: #25b34b;
+  --bleu: #00bdf2;
+  /* Desaturated companions, used only for the interior rules so the quadrant
+     grid reads as structure while the outer frame keeps the brand colour. */
+  --rouge-soft: #cf6e71;
+  --orange-soft: #cf876e;
+  --vert-soft: #6ecf84;
+  --bleu-soft: #6ebacf;
+  --ink: #14181b;
+  --ink-soft: #46525a;
+  /* The outer frame, and the interior rules. Each quadrant draws its own half
+     of the interior lines, so they read as two colours meeting down the middle. */
+  --edge: 18px;
+  --rule: 6px;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+html,
+body {
+  width: 1200px;
+  height: 630px;
+  overflow: hidden;
+}
+body {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  color: var(--ink);
+  background: #fff;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+.q {
+  position: relative;
+  background: #fff;
+  padding: 32px 38px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* The interior rules are drawn inside the quadrant rather than as borders: a
+   border would mitre diagonally where the thin rule meets the thick outer
+   frame and cut a wedge out of the frame at the card edge. Each quadrant then
+   pads the two sides carrying a rule by its width, so the content box sits
+   where the padding alone would put it. */
+.q::before,
+.q::after {
+  content: "";
+  position: absolute;
+  background: var(--rule-colour);
+}
+.q::before {
+  top: 0;
+  bottom: 0;
+  width: var(--rule);
+}
+.q::after {
+  left: 0;
+  right: 0;
+  height: var(--rule);
+}
+.title::before,
+.points::before {
+  right: 0;
+}
+.venue::before,
+.figure::before {
+  left: 0;
+}
+.title::after,
+.venue::after {
+  bottom: 0;
+}
+.points::after,
+.figure::after {
+  top: 0;
+}
+
+/* --- top left: paper name --- */
+.title {
+  --rule-colour: var(--rouge-soft);
+  padding-right: calc(38px + var(--rule));
+  padding-bottom: calc(32px + var(--rule));
+  border-top: var(--edge) solid var(--rouge);
+  border-left: var(--edge) solid var(--rouge);
+  justify-content: center;
+  text-align: center;
+}
+.title h1 {
+  font-size: 41px;
+  line-height: 1.14;
+  font-weight: 800;
+  letter-spacing: -0.021em;
+}
+/* The tail of the title, set apart from the main clause. */
+.title h1 em {
+  font-style: normal;
+  color: var(--ink-soft);
+}
+
+/* --- top right: the venue, logo beside the name, authors underneath --- */
+.venue {
+  --rule-colour: var(--bleu-soft);
+  padding-left: calc(38px + var(--rule));
+  padding-bottom: calc(32px + var(--rule));
+  border-top: var(--edge) solid var(--bleu);
+  border-right: var(--edge) solid var(--bleu);
+  justify-content: center;
+  gap: 16px;
+}
+.venue-main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 22px;
+}
+/* Last names only, in order of authorship, all at one weight. */
+.authors {
+  text-align: center;
+  border-top: 2px solid var(--bleu-soft);
+  padding-top: 13px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--ink-soft);
+}
+.accepted-at {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 19px;
+  font-weight: 800;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  color: var(--bleu);
+}
+/* Cards whose logo is wide, or which carry its wordmark instead of repeating
+   the conference name, override the flex basis. */
+.logo-wrap {
+  flex: 0 0 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+}
+/* A note the logo itself does not carry, e.g. what the venue is co-located with. */
+.logo-note {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.25;
+  text-align: center;
+  color: var(--ink-soft);
+}
+.logo-wrap img {
+  width: 100%;
+  object-fit: contain;
+}
+.venue-text {
+  flex: 1;
+  min-width: 0;
+}
+.venue-line {
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+.venue-line span {
+  font-weight: 500;
+  color: var(--ink-soft);
+}
+
+/* --- bottom left: the two key points --- */
+.points {
+  --rule-colour: var(--vert-soft);
+  padding-right: calc(38px + var(--rule));
+  padding-top: calc(32px + var(--rule));
+  border-bottom: var(--edge) solid var(--vert);
+  border-left: var(--edge) solid var(--vert);
+  justify-content: center;
+  padding-left: 66px;
+}
+.points .label {
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--vert);
+  margin-bottom: 20px;
+}
+.points ol {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: p;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.points li {
+  counter-increment: p;
+  display: flex;
+  gap: 15px;
+  align-items: flex-start;
+}
+.points li::before {
+  content: counter(p);
+  flex: 0 0 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--vert);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.points h2 {
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: -0.012em;
+  line-height: 1.2;
+}
+.points p {
+  font-size: 19px;
+  line-height: 1.32;
+  color: var(--ink-soft);
+  margin-top: 4px;
+}
+
+/* --- bottom right: a photograph, or a diagram redrawn as inline SVG --- */
+.figure {
+  --rule-colour: var(--orange-soft);
+  border-bottom: var(--edge) solid var(--orange);
+  border-right: var(--edge) solid var(--orange);
+  padding: calc(16px + var(--rule)) 20px 20px calc(20px + var(--rule));
+  gap: 10px;
+}
+.figure svg,
+.figure img {
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+  display: block;
+}
+/* The quadrant is far wider than it is tall, so a photograph is always cropped
+   hard; the card sets object-position to choose the band that survives. */
+.figure img {
+  object-fit: cover;
+  border-radius: 6px;
+}
+.figure figcaption {
+  margin-top: auto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.32;
+  color: var(--ink-soft);
+}
