@@ -7,12 +7,18 @@
     --orange: #f15a22;
     --vert: #25b34b;
     --bleu: #00bdf2;
+    /* Very desaturated companions, used only for the interior rules so the
+       grid reads as structure while the outer frame keeps the brand colour. */
+    --rouge-soft: #cf6e71;
+    --orange-soft: #cf876e;
+    --vert-soft: #6ecf84;
+    --bleu-soft: #6ebacf;
     --ink: #14181b;
     --ink-soft: #46525a;
     --edge: 18px;
     /* Each quadrant draws its own half of the interior lines, so the vertical
        and horizontal rules read as two colours meeting down the middle. */
-    --rule: 9px;
+    --rule: 6px;
   }
   * {
     box-sizing: border-box;
@@ -33,19 +39,56 @@
     grid-template-rows: 1fr 1fr;
   }
   .q {
+    position: relative;
     background: #fff;
     padding: 32px 38px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
   }
+  /* Drawn inside the quadrant rather than as borders: a border would mitre
+     diagonally where the thin interior rule meets the thick outer frame and
+     cut a wedge out of the frame at the card edge. */
+  .q::before,
+  .q::after {
+    content: "";
+    position: absolute;
+    background: var(--rule-colour);
+  }
+  .q::before {
+    top: 0;
+    bottom: 0;
+    width: var(--rule);
+  }
+  .q::after {
+    left: 0;
+    right: 0;
+    height: var(--rule);
+  }
+  .title::before,
+  .points::before {
+    right: 0;
+  }
+  .venue::before,
+  .figure::before {
+    left: 0;
+  }
+  .title::after,
+  .venue::after {
+    bottom: 0;
+  }
+  .points::after,
+  .figure::after {
+    top: 0;
+  }
 
   /* --- top left: paper name --- */
   .title {
+    --rule-colour: var(--rouge-soft);
+    padding-right: calc(38px + var(--rule));
+    padding-bottom: calc(32px + var(--rule));
     border-top: var(--edge) solid var(--rouge);
     border-left: var(--edge) solid var(--rouge);
-    border-right: var(--rule) solid var(--rouge);
-    border-bottom: var(--rule) solid var(--rouge);
     justify-content: center;
     text-align: center;
   }
@@ -62,10 +105,11 @@
 
   /* --- top right: accepted at / venue --- */
   .venue {
+    --rule-colour: var(--bleu-soft);
+    padding-left: calc(38px + var(--rule));
+    padding-bottom: calc(32px + var(--rule));
     border-top: var(--edge) solid var(--bleu);
     border-right: var(--edge) solid var(--bleu);
-    border-left: var(--rule) solid var(--bleu);
-    border-bottom: var(--rule) solid var(--bleu);
     flex-direction: row;
     align-items: center;
     gap: 22px;
@@ -105,10 +149,11 @@
 
   /* --- bottom left: the two challenges --- */
   .points {
+    --rule-colour: var(--vert-soft);
+    padding-right: calc(38px + var(--rule));
+    padding-top: calc(32px + var(--rule));
     border-bottom: var(--edge) solid var(--vert);
     border-left: var(--edge) solid var(--vert);
-    border-right: var(--rule) solid var(--vert);
-    border-top: var(--rule) solid var(--vert);
     justify-content: center;
     padding-left: 26px;
   }
@@ -161,11 +206,10 @@
 
   /* --- bottom right: the figure, redrawn --- */
   .figure {
+    --rule-colour: var(--orange-soft);
     border-bottom: var(--edge) solid var(--orange);
     border-right: var(--edge) solid var(--orange);
-    border-left: var(--rule) solid var(--orange);
-    border-top: var(--rule) solid var(--orange);
-    padding: 16px 20px 20px;
+    padding: calc(16px + var(--rule)) 20px 20px calc(20px + var(--rule));
     gap: 10px;
   }
   .figure svg {
