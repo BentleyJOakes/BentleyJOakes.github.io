@@ -9,6 +9,8 @@ on:
       - "assets/rendercv/design.yaml"
       - "assets/rendercv/locale.yaml"
       - "assets/rendercv/settings.yaml"
+      - "requirements.txt"
+      - ".github/workflows/render-cv.yml"
   workflow_call:
   workflow_dispatch:
 permissions:
