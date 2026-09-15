@@ -62,16 +62,14 @@ cv:
       - company: Polytechnique Montréal
         position: Assistant Professor
         location: Montréal, Canada
-        start_date: "2023-09"
-        end_date: present
+        date: "Sep. 2023 – present"
         highlights:
           - "Department of Computer and Software Engineering (GIGL)"
           - "Research topics: Accelerating the construction and deployment of digital twins through ontologies for capturing domain knowledge, and large language models and agentic AI for automating their creation. Integrating formal methods to verify digital twin correctness, and assisting users with the configuration and observability of their machine learning and verification/validation services."
       - company: Université de Montréal
         position: Post-Doctoral Researcher
         location: Montréal, Canada
-        start_date: "2021-09"
-        end_date: "2023-08"
+        date: "Sep. 2021 – Aug. 2023"
         highlights:
           - "Lab: GEODES Software Engineering Research Group"
           - "Supervisors: Houari Sahraoui and Michalis Famelis"
@@ -80,8 +78,7 @@ cv:
       - company: University of Antwerp
         position: Post-Doctoral Researcher
         location: Antwerp, Belgium
-        start_date: "2018-09"
-        end_date: "2021-07"
+        date: "Sep. 2018 – Jul. 2021"
         highlights:
           - "Labs: Antwerp Systems and Software Modelling, and Constrained Systems Lab"
           - "Supervisors: Hans Vangheluwe and Joachim Denil"
@@ -89,23 +86,21 @@ cv:
       - company: Université de Montréal
         position: Visiting Researcher
         location: Montréal, Canada
-        date: "2018-05"
+        date: "May 2018"
         highlights:
           - "Host: Eugene Syriani, GEODES Software Engineering Research Group"
           - "Research topic: Developing an interface between the AToMPM modelling tool and the ModelVerse modelling repository."
       - company: fortiss GmbH
         position: Visiting Researcher
         location: Munich, Germany
-        start_date: "2016-07"
-        end_date: "2016-08"
+        date: "Jul. – Aug. 2016"
         highlights:
           - "Host: Levi Lúcio"
           - "Research topic: Formalizing representations of model transformation languages."
       - company: General Motors Technical Center
         position: Visiting Researcher
         location: Warren, USA
-        start_date: "2014-10"
-        end_date: "2014-12"
+        date: "Oct. – Dec. 2014"
         highlights:
           - "Host: Ramesh Sethu"
           - "Research topics: Applying model transformations for code/model modernization at an industrial scale, and industrial intellectual property concerns."
@@ -145,23 +140,23 @@ cv:
         highlights:
           - "Engineering of Digital Twins (LOG8421E) — Winter 2025, Winter 2026"
           - "Introduction à la programmation (INF1007) — Fall 2025, Fall 2026"
-          - "LOG8371E - Software Quality Engineering — Fall 2024"
-          - "INF6900AE/INF7900A - Scientific and Technical Communication — Winter 2024, Fall 2024, Fall 2025, Fall 2026"
+          - "Software Quality Engineering (LOG8371E) — Fall 2024"
+          - "Scientific and Technical Communication (INF6900AE/INF7900A) — Winter 2024, Fall 2024, Fall 2025, Fall 2026"
       - company: Polytechnique Montréal
         position: Guest Lecturer
         location: Montréal, Canada
         start_date: "2022"
         end_date: "2024"
         highlights:
-          - "LOG8704 - XR Software Development — Nov. 2024: *Digital Twins: Introductions and Intersections*"
-          - "LOG6953DE - Model-Driven Software Engineering — Nov. 2022, Nov. 2023: Model-driven engineering, usage and verification of model transformations"
+          - "XR Software Development (LOG8704) — Nov. 2024: *Digital Twins: Introductions and Intersections*"
+          - "Model-Driven Software Engineering (LOG6953DE) — Nov. 2022, Nov. 2023: Model-driven engineering, usage and verification of model transformations"
       - company: McGill University
         position: Course Lecturer/Coordinator
         location: Montréal, Canada
         start_date: "2015"
         end_date: "2018"
         highlights:
-          - "COMP 202 - Foundations of Programming — Winter 2015, 2017, 2018 (avg. 189 students)"
+          - "Foundations of Programming (COMP 202) — Winter 2015, 2017, 2018 (avg. 189 students)"
           - "Developed and presented lecture material on Java programming for students with no prior programming experience."
           - "Created assessments and marking guides; coordinated with other instructors and TAs."
       - company: University of Antwerp
@@ -170,17 +165,17 @@ cv:
         start_date: "2019"
         end_date: "2020"
         highlights:
-          - "2001WETMTR - Model-Driven Engineering — Fall 2020"
-          - "2001WETMSI - Modelling of Software-Intensive Systems — Fall 2019"
+          - "Model-Driven Engineering (2001WETMTR) — Fall 2020"
+          - "Modelling of Software-Intensive Systems (2001WETMSI) — Fall 2019"
       - company: McGill University
         position: Teaching Assistant
         location: Montréal, Canada
         start_date: "2012"
         end_date: "2014"
         highlights:
-          - "COMP 202 - Foundations of Programming (×2)"
-          - "COMP 250 - Introduction to Computer Science (×2)"
-          - "COMP 251 - Data Structures and Algorithms (×3)"
+          - "Foundations of Programming (COMP 202, ×2)"
+          - "Introduction to Computer Science (COMP 250, ×2)"
+          - "Data Structures and Algorithms (COMP 251, ×3)"
 
     Student Supervision:
       - name: "Kérian Fiter — PhD Student"
@@ -324,8 +319,7 @@ cv:
           - "Co-organizers: Maged Elaasar (Chair), Wahab Hamou-Lhadj, Mohammad Hamdaqa"
       - name: "Lead Organizer — Software Engineering at Montréal (SEMTL)"
         location: Montréal, Canada
-        start_date: "2022-08"
-        end_date: present
+        date: "Aug. 2022 – present"
         highlights:
           - "Regular seminars for the software engineering researchers in Montréal (~40 attendees per meeting, ~30% are professors)."
           - "Coordinating with meeting hosts on content, venue, date, and maintaining website."
@@ -447,7 +441,7 @@ cv:
           - "Mohammad Hamdaqa"
           - "Abdelwahab Hamou-Lhadj"
         journal: "International Semantic Web Conference (ISWC) — accepted"
-        date: "2026-10"
+        date: "Oct. 2026"
       - title: "Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering"
         authors:
           - "Kérian Fiter"
@@ -455,7 +449,7 @@ cv:
           - "**Bentley Oakes**"
           - "Franck Dervault"
         journal: "MODELS Companion (EDTconf)"
-        date: "2026-10"
+        date: "Oct. 2026"
         doi: "10.1145/3837062.3839094"
       - title: "Model-based digital twin engineering: insights, challenges, and future directions"
         authors:
@@ -468,7 +462,7 @@ cv:
           - "Balbir Barn"
           - "Ruth Breu"
         journal: "Software and Systems Modeling (SoSyM)"
-        date: "2026-05"
+        date: "May 2026"
         doi: "10.1007/s10270-026-01368-8"
       - title: "Automated Extraction and Analysis of Developer's Rationale in Open Source Software"
         authors:
@@ -492,7 +486,7 @@ cv:
           - "Michalis Famelis"
           - "Houari Sahraoui"
         journal: "ACM Transactions on Software Engineering and Methodology (TOSEM)"
-        date: "2024-04"
+        date: "Apr. 2024"
         doi: "10.1145/3638243"
       - title: "Toward Intelligent Generation of Tailored Graphical Concrete Syntax"
         authors:

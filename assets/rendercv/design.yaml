@@ -7,3 +7,5 @@ design:
     show_top_note: false
   typography:
     alignment: left
+  templates:
+    single_date: "YEAR"
