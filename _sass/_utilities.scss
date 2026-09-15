@@ -301,6 +301,52 @@ nav[data-toggle="toc"] {
   padding: 8px 12px;
 }
 
+.publication-search-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1rem;
+
+  .bibsearch-form-input {
+    flex: 1 1 300px;
+    margin: 0;
+  }
+}
+
+.publication-search-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.publication-clear {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--global-theme-color);
+  font: inherit;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--global-theme-color);
+    outline-offset: 3px;
+  }
+}
+
+@media (max-width: 575px) {
+  .publication-search-toolbar .bibsearch-form-input {
+    flex-basis: 100%;
+    max-width: none;
+  }
+}
+
 .newsletter-form-input:focus {
   border-color: var(--global-theme-color) !important;
 }

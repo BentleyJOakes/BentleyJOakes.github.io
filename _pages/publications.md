@@ -45,17 +45,3 @@ nav: false
 {% bibliography %}
 
 </div>
-
-<script>
-  window.addEventListener('load', function () {
-    if (window.location.hash) {
-      const el = document.querySelector(window.location.hash);
-      if (el) {
-        requestAnimationFrame(() => requestAnimationFrame(() => {
-          el.scrollIntoView({ block: 'center' });
-          el.classList.add('pub-anchor-highlight');
-        }));
-      }
-    }
-  });
-</script>
