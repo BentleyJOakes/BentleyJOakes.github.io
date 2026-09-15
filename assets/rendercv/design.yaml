@@ -2,7 +2,7 @@
 design:
   theme: classic
   page:
-    size: a4
+    size: us-letter
     show_footer: false
     show_top_note: false
   typography:
