@@ -1,0 +1,18 @@
+{% comment %}
+  Renders a paper's abstract in an article, collapsed behind an "Abstract" toggle.
+
+  The abstract is written for reviewers rather than general readers, so it
+  stays out of the way of the article's own summary. The text is still in the
+  page's HTML, so search engines index it.
+
+  Parameters:
+    text - required. The abstract, as plain text. Use single quotes inside it,
+           since the parameter itself is wrapped in double quotes.
+{% endcomment %}
+
+<details class="post-abstract">
+  <summary>Abstract</summary>
+  <blockquote>
+    <p>{{ include.text | strip }}</p>
+  </blockquote>
+</details>

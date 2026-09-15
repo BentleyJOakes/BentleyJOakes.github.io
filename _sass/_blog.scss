@@ -112,6 +112,38 @@
     margin: 0 auto;
   }
 
+  // Width presets for article figures, set as a class on the <figure>.
+  // figure-full stretches the image to the column, for diagrams whose text
+  // needs the room. figure-narrow keeps photos from dominating the page, but
+  // goes back to full width on phones, where 80% of the column is too small.
+  figure.figure-full img {
+    width: 100%;
+  }
+
+  figure.figure-narrow img {
+    width: 80%;
+
+    @media (max-width: 576px) {
+      width: 100%;
+    }
+  }
+
+  // The paper's abstract, from _includes/abstract.liquid. Collapsed by default,
+  // so the toggle is styled to read as a control rather than body text.
+  .post-abstract {
+    margin: 1.5rem 0;
+
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: var(--global-theme-color);
+    }
+
+    blockquote {
+      margin-top: 0.75rem;
+    }
+  }
+
   // The article card, the same 1200x630 image used as the listing thumbnail and
   // og:image. It leads the article, so it is sized to the column rather than to
   // its natural width, and rounded to match the listing thumbnail.
