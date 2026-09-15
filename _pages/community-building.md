@@ -43,7 +43,7 @@ _styles: >
 
 I am the lead organizer of the SEMTL research seminar series, which brings together software engineering professors and students from the six major Montréal research institutions approximately every two months. SEMTL aims to disseminate research ideas throughout the local community, foster collaborations, advertise opportunities, and socialize — and to give students a chance to practice their communication skills before a supportive audience. SEMTL has also helped multiple PhD students and post-doctoral researchers from the community find their next position.
 
-Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 participants, featuring keynotes from top SE researchers and dozens of student presentations. We have also produced a [paper published at MODELS 2024](https://doi.org/10.1145/3640310.3674085) 
+Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 participants, featuring keynotes from top SE researchers and dozens of student presentations. We have also produced a paper published at MODELS 2024, [Toward Intelligent Generation of Tailored Graphical Concrete Syntax](https://doi.org/10.1145/3640310.3674085).
 
 ## Organising Committee Member
 
