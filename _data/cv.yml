@@ -144,8 +144,9 @@ cv:
         end_date: present
         highlights:
           - "Engineering of Digital Twins (LOG8421E) — Winter 2025, Winter 2026"
+          - "Introduction à la programmation (INF1007) — Fall 2025, Fall 2026"
           - "LOG8371E - Software Quality Engineering — Fall 2024"
-          - "INF6900AE/INF7900A - Scientific and Technical Communication — Winter 2024, Fall 2024"
+          - "INF6900AE/INF7900A - Scientific and Technical Communication — Winter 2024, Fall 2024, Fall 2025, Fall 2026"
       - company: Polytechnique Montréal
         position: Guest Lecturer
         location: Montréal, Canada
@@ -203,6 +204,31 @@ cv:
           - "AI-enhanced digital twins for vibration analysis in manufacturing"
           - "Machine learning techniques including time-series foundation models"
           - "Co-supervised with Oguzhan Tuysuz"
+      - name: "Angelica Portocarrero — Master's Student"
+        date: "2026–present"
+        highlights:
+          - "Structured digital twin engineering with LLMs"
+          - "Previously Mitacs Globalink Research Intern (2025)"
+      - name: "Fatima Aguel — Mitacs Globalink Research Intern"
+        date: "Summer 2026"
+        highlights:
+          - "Ontological modelling of digital twin component repositories"
+      - name: "Mikkel Schmidt Andersen — Research Intern"
+        date: "2025"
+        highlights:
+          - "Probabilistic digital twin update scheduling"
+      - name: "Louis Malassigné-Onfroy — Research Assistant"
+        date: "2024"
+        highlights:
+          - "Visualization of digital twin architectures"
+      - name: "Amélie Bosphore — Research Assistant"
+        date: "2024"
+        highlights:
+          - "Implementation of modelled machine learning pipelines"
+      - name: "Justin Caisse — Research Assistant"
+        date: "2023–2024"
+        highlights:
+          - "Ontological modelling of machine learning pipelines"
 
     Invited Talks and Presentations:
       - name: Guest lecture — Engineering Digital Twins course, McMaster University
