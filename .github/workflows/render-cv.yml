@@ -42,7 +42,11 @@ jobs:
             echo "Missing RenderCV config file!"
             exit 1
           fi
-          rendercv render $cv_file --settings $settings
+          # rendercv 2.8 only watches the design and locale paths named in
+          # settings.yaml, it does not apply them, so pass both explicitly.
+          rendercv render $cv_file --settings $settings \
+            --design $rendercv_dir/design.yaml \
+            --locale-catalog $rendercv_dir/locale.yaml
           rm assets/rendercv/rendercv_output/*.typ
       - name: Upload rendercv_output as an artifact
         uses: actions/upload-artifact@v4
