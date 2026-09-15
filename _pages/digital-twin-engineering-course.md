@@ -20,7 +20,7 @@ nav: false
 
 A Digital Twin is a **dynamic virtual representation of a complex system**, connected and synchronized to the real system, for supporting its design and operation through insights and actions. In practice, the Digital Twin paradigm brings together modelling and simulation, visualization, real-time data and control, and an ever-expanding set of intelligent services across multiple engineering domains.
 
-In this course, we examine a DT interacting with our running example of an incubator (a heater in a box). The figure below shows the [constellation diagram](https://doi.org/10.1177/00375497241261406), with the incubator on the left, the constellation of DT components on the right, and the feedback loop between them. The DT provides *insights* such as a visualization of the incubator state and warnings when anomalies are detected, and *actions* such as setting the desired temperature and system parameters.
+In this course, we examine a DT interacting with our running example of an incubator (a heater in a box). The figure below shows the [constellation diagram](https://doi.org/10.1177/00375497241261406), with the incubator on the left, the constellation of DT components on the right, and the feedback loop between them. The DT provides _insights_ such as a visualization of the incubator state and warnings when anomalies are detected, and _actions_ such as setting the desired temperature and system parameters.
 
 <figure style="text-align: center; margin: 1rem 0;">
 <img alt="Incubator Digital Twin constellation diagram" src="/assets/img/new_incubator_dt.png" style="width:100%;" />
@@ -36,6 +36,7 @@ Building a Digital Twin starts with defining the physical system and the insight
 The [Digital Twin Engineering course (LOG8421E) at Polytechnique Montréal](https://www.polymtl.ca/programmes/cours/digital-twin-engineering-1) guides students through these stages of building a DT. Students learn through hands-on labs, real-world case studies, and team projects, building a working Digital Twin from the ground up. The course is offered every Winter term by [Dr. Bentley Oakes](https://www.polymtl.ca/expertises/en/oakes-bentley) (Department of Computer and Software Engineering), in English.
 
 Each week features interactive lectures with real-world DT examples and discussions. Every second week, participants complete one of six [hands-on lab sessions](https://github.com/BentleyJOakes/IncubatorDTCourse) (small assignments to build familiarity with DT technologies and services). In team-based projects, participants apply their learning to develop their own DT with DT services ranging from machine learning, formal verification, to game-engine visualization. A final exam consolidates the theoretical concepts.
+
 </div>
 
 Parts of this course are based on the textbook [The Engineering of Digital Twins](https://link.springer.com/book/10.1007/978-3-031-66719-0) by John Fitzgerald, Cláudio Gomes, and Peter Gorm Larsen. Some slides and materials are from the [corresponding course](https://kursuskatalog.au.dk/en/course/138051/Engineering-Digital-Twins) at Aarhus University, Denmark.
@@ -134,20 +135,19 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 
 <div class="card mb-0">
-<div class="card-header" id="heading2025" style="cursor:pointer; display:flex; justify-content:space-between; align-items:center;" data-toggle="collapse" data-target="#collapse2025" aria-expanded="false" aria-controls="collapse2025">
+<div class="card-header" id="heading2025" style="cursor:pointer; display:flex; justify-content:space-between; align-items:center;" data-toggle="collapse" data-target="#collapse2025" aria-expanded="true" aria-controls="collapse2025">
 <strong>Winter 2025</strong>
-<span style="font-size:0.85em; color:#666;">(click to expand) <i class="fas fa-chevron-down"></i></span>
+<span style="font-size:0.85em; color:#666;">(click to collapse) <i class="fas fa-chevron-up"></i></span>
 </div>
-<div id="collapse2025" class="collapse" aria-labelledby="heading2025">
+<div id="collapse2025" class="collapse show" aria-labelledby="heading2025">
 <div class="card-body">
-
 
 <div class="row mb-4 align-items-start">
 <div class="col-md-6">
 <strong>Beer Fermentation DT</strong>
 <p>Monitors and controls a beer fermentation process using Arduino sensors, a sampling chamber, and an electronic hydrometer. DT services include safety monitoring, closed-loop control, analysis, and Unity 3D visualization.</p>
 <div class="callout" style="--accent-color: #F5A623;">
-<strong>Published at EDTconf:</strong> <a href="/assets/publications/Goffi2025 - Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling.pdf">Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling</a>
+<strong>Published at EDTconf:</strong> <a href="/assets/publications/Goffi2025 - Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling.pdf">Engineering a Digital Twin for the Monitoring and Control of Beer Fermentation Sampling</a>, with a <a href="/publications/beer-fermentation-digital-twin/">full write-up of the project</a>.
 </div>
 <p class="project-links">
 <a href="https://github.com/BentleyJOakes/DTCourseProjects/raw/main/2025/2025_fermentation/BrewersPresentation.pdf"><i class="fas fa-chalkboard"></i> Presentation</a>
@@ -274,14 +274,14 @@ By the end of this course, participants will be able to define, design, build, a
 
 <div class="table-scroll" markdown="1">
 
-| Year | Name | Institution | Talk |
-|:----:|------|-------------|------|
-| 2026 | [Christophe Danjou](https://www.polymtl.ca/expertises/en/danjou-christophe) | Polytechnique Montréal | Industry 4.0 |
-| 2026 | [Istvan David](https://istvandavid.com/) | McMaster University | [Architecting Digital Twins on Standardized Architectures](https://istvandavid.com/news/sticky/2026/03/14/i-reap-what-iso-guest-lecture-at-polytechnique-montreal-on-architecting-digital-twins-on-standardized-architectures/) |
-| 2026 | [Pascal Archambault](https://pascalarchambault.ca/) | Université de Montréal | Digital Twin of a Natural Process |
-| 2026 | [Prasad Talasila](https://pure.au.dk/portal/en/persons/prasad.talasila@ece.au.dk/) | Aarhus University | Digital Twin as a Service Software Platform |
-| 2025 | [Istvan David](https://istvandavid.com/) | McMaster University | [Engineering Complex and Sustainable Systems Through Digital Twins](https://istvandavid.com/news/2025/03/17/guest-lecture-at-polytechnique-montreal-on-digital-twins/) |
-| 2025 | [Pascal Archambault](https://pascalarchambault.ca/) | Université de Montréal | Digital Twins for Controlled Environment Agriculture |
+| Year | Name                                                                               | Institution            | Talk                                                                                                                                                                                                                            |
+| :--: | ---------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026 | [Christophe Danjou](https://www.polymtl.ca/expertises/en/danjou-christophe)        | Polytechnique Montréal | Industry 4.0                                                                                                                                                                                                                    |
+| 2026 | [Istvan David](https://istvandavid.com/)                                           | McMaster University    | [Architecting Digital Twins on Standardized Architectures](https://istvandavid.com/news/sticky/2026/03/14/i-reap-what-iso-guest-lecture-at-polytechnique-montreal-on-architecting-digital-twins-on-standardized-architectures/) |
+| 2026 | [Pascal Archambault](https://pascalarchambault.ca/)                                | Université de Montréal | Digital Twin of a Natural Process                                                                                                                                                                                               |
+| 2026 | [Prasad Talasila](https://pure.au.dk/portal/en/persons/prasad.talasila@ece.au.dk/) | Aarhus University      | Digital Twin as a Service Software Platform                                                                                                                                                                                     |
+| 2025 | [Istvan David](https://istvandavid.com/)                                           | McMaster University    | [Engineering Complex and Sustainable Systems Through Digital Twins](https://istvandavid.com/news/2025/03/17/guest-lecture-at-polytechnique-montreal-on-digital-twins/)                                                          |
+| 2025 | [Pascal Archambault](https://pascalarchambault.ca/)                                | Université de Montréal | Digital Twins for Controlled Environment Agriculture                                                                                                                                                                            |
 
 </div>
 
@@ -293,17 +293,18 @@ By the end of this course, participants will be able to define, design, build, a
 LOG8421E welcomes _senior undergraduate students_, _graduate students_, and _researchers_ from any discipline, particularly software engineering, computer science, mechanical engineering, or any field where you model, simulate, or monitor complex systems. If you work with cyber-physical systems, robotics, manufacturing, or smart infrastructure and want to learn how to engineer a Digital Twin for it, this course is for you. No prior DT experience is needed; some familiarity with Python, Docker, and Git is useful for the lab sessions, but support is available for those newer to these tools.
 
 For students from other Quebec universities, there is an established inter-university enrollment procedure. See the [BCI Québec application portal](https://aehe.bci-qc.ca/en) (select 'Applications' on the left) and the [BCI student transfer guide](https://aehe.bci-qc.ca/en/Documents/ShowLocalized?Document=ETU) for details.
+
 </div>
 
 ## What Students Say
 
-> *"The course is very engaging and hands-on."*
+> _"The course is very engaging and hands-on."_
 > (Winter 2026 student)
 
-> *"The course project is one of the most valuable components of the course. It forces a deeper understanding of Digital Twin architecture by moving from conceptual discussion to system-level implementation, and provides a realistic view of how complex DT systems are built and analyzed."*
+> _"The course project is one of the most valuable components of the course. It forces a deeper understanding of Digital Twin architecture by moving from conceptual discussion to system-level implementation, and provides a realistic view of how complex DT systems are built and analyzed."_
 > (Winter 2026 student)
 
-> *"The discussions and classes are very informational. It provides basis for the understanding the space of Digital Twins. Technologies can be learned quickly, but how to think about DTs and how they connect practically come from these discussions. It is terrific!"*
+> _"The discussions and classes are very informational. It provides basis for the understanding the space of Digital Twins. Technologies can be learned quickly, but how to think about DTs and how they connect practically come from these discussions. It is terrific!"_
 > (Winter 2026 student)
 
 <script>
