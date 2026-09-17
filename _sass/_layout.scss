@@ -78,9 +78,16 @@ body.sticky-bottom-footer {
     margin-top: 0.15rem;
   }
 
+  // On phones a thumbnail beside the text squeezes the title and description
+  // into a narrow strip, so stack the thumbnail above them instead.
   @media (max-width: 576px) {
+    .news-item {
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+
     .news-thumbnail {
-      height: 2.5rem;
+      height: 4.5rem;
     }
   }
 }
