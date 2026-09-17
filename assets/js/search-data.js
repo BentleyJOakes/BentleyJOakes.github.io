@@ -68,79 +68,129 @@ ninja.data = [{
         },{id: "news-our-paper-rationale-dataset-and-analysis-for-the-commit-messages-of-the-linux-kernel-out-of-memory-killer-was-accepted-at-the-ieee-acm-international-conference-on-program-comprehension-icpc-2024",
           title: 'Our paper “Rationale Dataset and Analysis for the Commit Messages of the Linux...',
           description: "",
-          section: "News",},{id: "news-i-m-excited-to-be-one-of-the-publicity-chairs-for-the-1st-international-conference-on-engineering-digital-twins-edtconf-2024-in-linz-austria",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-01-10-icpc-paper";
+            },},{id: "news-i-m-excited-to-be-one-of-the-publicity-chairs-for-the-1st-international-conference-on-engineering-digital-twins-edtconf-2024-in-linz-austria",
           title: 'I’m excited to be one of the publicity chairs for the 1st International...',
           description: "",
-          section: "News",},{id: "news-our-paper-towards-a-systematic-reporting-framework-for-digital-twins-a-cooperative-robotics-case-study-has-been-accepted-in-the-simulation-journal-a-pre-print-is-available",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-03-11-edtconf-publicity-chair";
+            },},{id: "news-our-paper-towards-a-systematic-reporting-framework-for-digital-twins-a-cooperative-robotics-case-study-has-been-accepted-in-the-simulation-journal-a-pre-print-is-available",
           title: 'Our paper “Towards a Systematic Reporting Framework for Digital Twins: A Cooperative Robotics...',
           description: "",
-          section: "News",},{id: "news-our-paper-towards-ontological-service-driven-engineering-of-digital-twins-has-been-accepted-at-the-1st-international-conference-on-engineering-digital-twins-edtconf-2024",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-05-10-simulation-paper";
+            },},{id: "news-our-paper-towards-ontological-service-driven-engineering-of-digital-twins-has-been-accepted-at-the-1st-international-conference-on-engineering-digital-twins-edtconf-2024",
           title: 'Our paper “Towards Ontological Service-Driven Engineering of Digital Twins” has been accepted at...',
           description: "",
-          section: "News",},{id: "news-we-have-contributed-to-the-book-the-engineering-of-digital-twins-which-is-now-available",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-08-09-edtconf-paper-accepted";
+            },},{id: "news-we-have-contributed-to-the-book-the-engineering-of-digital-twins-which-is-now-available",
           title: 'We have contributed to the book “The Engineering of Digital Twins”, which is...',
           description: "",
-          section: "News",},{id: "news-our-paper-towards-ontological-service-driven-engineering-of-digital-twins-has-won-the-best-short-paper-award-at-the-1st-international-conference-on-engineering-digital-twins-edtconf-2024-pre-print-video",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-09-01-dt-book";
+            },},{id: "news-our-paper-towards-ontological-service-driven-engineering-of-digital-twins-has-won-the-best-short-paper-award-at-the-1st-international-conference-on-engineering-digital-twins-edtconf-2024-pre-print-video",
           title: 'Our paper “Towards Ontological Service-Driven Engineering of Digital Twins” has won the Best...',
           description: "",
-          section: "News",},{id: "news-i-presented-our-sosym-paper-fault-localization-in-dsltrans-model-transformations-by-combining-symbolic-execution-and-spectrum-based-analysis-at-models-2024-and-won-the-sosym-journal-first-award",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-09-24-edtconf-best-paper";
+            },},{id: "news-i-presented-our-sosym-paper-fault-localization-in-dsltrans-model-transformations-by-combining-symbolic-execution-and-spectrum-based-analysis-at-models-2024-and-won-the-sosym-journal-first-award",
           title: 'I presented our SoSyM paper “Fault localization in DSLTrans model transformations by combining...',
           description: "",
-          section: "News",},{id: "news-i-presented-in-the-polytechnique-course-log8704-développement-logiciel-en-réalité-étendue-xr-software-development-my-presentation-was-titled-digital-twins-introductions-and-intersections",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-09-25-models-sosym-award";
+            },},{id: "news-i-presented-in-the-polytechnique-course-log8704-développement-logiciel-en-réalité-étendue-xr-software-development-my-presentation-was-titled-digital-twins-introductions-and-intersections",
           title: 'I presented in the Polytechnique course LOG8704 - Développement logiciel en réalité étendue...',
           description: "",
-          section: "News",},{id: "news-i-m-thrilled-that-our-paper-building-domain-specific-machine-learning-workflows-a-conceptual-framework-for-the-state-of-the-practice-has-been-accepted-for-a-journal-first-presentation-at-icse-2025-in-ottawa",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-11-21-log8704-lecture";
+            },},{id: "news-i-m-thrilled-that-our-paper-building-domain-specific-machine-learning-workflows-a-conceptual-framework-for-the-state-of-the-practice-has-been-accepted-for-a-journal-first-presentation-at-icse-2025-in-ottawa",
           title: 'I’m thrilled that our paper Building Domain-Specific Machine Learning Workflows: A Conceptual Framework...',
           description: "",
-          section: "News",},{id: "news-our-paper-comrat-commit-message-rationale-analysis-tool-has-been-accepted-in-the-international-conference-on-mining-software-repositories-msr-part-of-our-ongoing-work-on-developer-rationale-extraction",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2024-12-09-tosem-icse2025";
+            },},{id: "news-our-paper-comrat-commit-message-rationale-analysis-tool-has-been-accepted-in-the-international-conference-on-mining-software-repositories-msr-part-of-our-ongoing-work-on-developer-rationale-extraction",
           title: 'Our paper CoMRAT: Commit Message Rationale Analysis Tool has been accepted in the...',
           description: "",
-          section: "News",},{id: "news-the-oakes-lab-will-be-welcoming-angelica-portocarrero-to-our-lab-this-summer-as-a-mitacs-globalink-intern-welcome-angelica",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-01-30-comrat-msr";
+            },},{id: "news-the-oakes-lab-will-be-welcoming-angelica-portocarrero-to-our-lab-this-summer-as-a-mitacs-globalink-intern-welcome-angelica",
           title: 'The Oakes Lab will be welcoming Angelica Portocarrero to our lab this summer...',
           description: "",
-          section: "News",},{id: "news-i-had-the-opportunity-to-present-my-research-to-the-visiting-delegation-from-the-korea-aerospace-research-institute-kari-at-polytechnique-montréal-to-discuss-the-challenges-and-advancements-in-advanced-air-mobility-aam",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-02-13-mitacs-intern";
+            },},{id: "news-i-had-the-opportunity-to-present-my-research-to-the-visiting-delegation-from-the-korea-aerospace-research-institute-kari-at-polytechnique-montréal-to-discuss-the-challenges-and-advancements-in-advanced-air-mobility-aam",
           title: 'I had the opportunity to present my research to the visiting delegation from...',
           description: "",
-          section: "News",},{id: "news-our-simulation-special-issue-modeling-and-simulation-for-software-intensive-systems-from-iot-to-digital-twins-is-now-published-covering-topics-from-iot-to-digital-twins",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-02-27-kari-delegation";
+            },},{id: "news-our-simulation-special-issue-modeling-and-simulation-for-software-intensive-systems-from-iot-to-digital-twins-is-now-published-covering-topics-from-iot-to-digital-twins",
           title: 'Our SIMULATION special issue Modeling and Simulation for Software Intensive Systems from IoT...',
           description: "",
-          section: "News",},{id: "news-i-ve-accepted-the-student-volunteers-co-chair-position-for-the-foundations-of-software-engineering-fse-conference-2026-held-in-montréal",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-03-03-simulation-special-issue";
+            },},{id: "news-i-ve-accepted-the-student-volunteers-co-chair-position-for-the-foundations-of-software-engineering-fse-conference-2026-held-in-montréal",
           title: 'I’ve accepted the Student Volunteers Co-Chair position for the Foundations of Software Engineering...',
           description: "",
-          section: "News",},{id: "news-i-gave-a-talk-entitled-accelerating-digital-twin-research-and-engineering-in-prof-istvan-david-s-engineering-digital-twins-course-at-mcmaster-university-the-slides-are-available-here-slides",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-03-04-fse-sv-chair";
+            },},{id: "news-i-gave-a-talk-entitled-accelerating-digital-twin-research-and-engineering-in-prof-istvan-david-s-engineering-digital-twins-course-at-mcmaster-university-the-slides-are-available-here-slides",
           title: 'I gave a talk entitled “Accelerating Digital Twin Research and Engineering” in Prof....',
           description: "",
-          section: "News",},{id: "news-our-paper-automated-extraction-and-analysis-of-developer-s-rationale-in-open-source-software-has-been-accepted-at-fse-2025-part-of-our-work-on-developer-rationale-extraction",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-03-27-mcmaster-talk";
+            },},{id: "news-our-paper-automated-extraction-and-analysis-of-developer-s-rationale-in-open-source-software-has-been-accepted-at-fse-2025-part-of-our-work-on-developer-rationale-extraction",
           title: 'Our paper Automated Extraction and Analysis of Developer’s Rationale in Open Source Software...',
           description: "",
-          section: "News",},{id: "news-i-was-thrilled-to-see-the-student-presentations-in-my-digital-twin-engineering-class-showcasing-their-work-on-digital-twin-projects",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-04-01-fse-paper";
+            },},{id: "news-i-was-thrilled-to-see-the-student-presentations-in-my-digital-twin-engineering-class-showcasing-their-work-on-digital-twin-projects",
           title: 'I was thrilled to see the student presentations in my Digital Twin Engineering...',
           description: "",
-          section: "News",},{id: "news-we-had-another-semtl-meeting-at-concordia-it-was-well-attended-by-participants-many-heading-to-icse",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-04-04-dte-presentations";
+            },},{id: "news-we-had-another-semtl-meeting-at-concordia-it-was-well-attended-by-participants-many-heading-to-icse",
           title: 'We had another SEMTL meeting at Concordia. It was well-attended by participants, many...',
           description: "",
-          section: "News",},{id: "news-i-had-a-great-time-at-icse-the-premier-software-engineering-conference-i-was-poster-co-chair-presented-our-paper-on-building-domain-specific-machine-learning-workflows-a-conceptual-framework-for-the-state-of-the-practice-and-our-paper-comrat-commit-message-rationale-analysis-tool-it-was-also-nice-to-see-the-semtl-community-at-icse",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-04-24-semtl-concordia";
+            },},{id: "news-i-had-a-great-time-at-icse-the-premier-software-engineering-conference-i-was-poster-co-chair-presented-our-paper-on-building-domain-specific-machine-learning-workflows-a-conceptual-framework-for-the-state-of-the-practice-and-our-paper-comrat-commit-message-rationale-analysis-tool-it-was-also-nice-to-see-the-semtl-community-at-icse",
           title: 'I had a great time at ICSE, the premier software engineering conference. I...',
           description: "",
-          section: "News",},{id: "news-i-gave-a-talk-on-systematic-digital-twin-reporting-at-the-edt-community-talks-part-of-our-work-on-digital-twin-reporting-there-is-a-recorded-video-and-the-related-publication",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-05-05-icse-2025";
+            },},{id: "news-i-gave-a-talk-on-systematic-digital-twin-reporting-at-the-edt-community-talks-part-of-our-work-on-digital-twin-reporting-there-is-a-recorded-video-and-the-related-publication",
           title: 'I gave a talk on Systematic Digital Twin Reporting at the EDT.Community talks,...',
           description: "",
-          section: "News",},{id: "news-i-went-to-concordia-university-s-next-generation-cities-institute-to-present-my-work-on-accelerating-digital-twin-research-and-engineering",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-05-12-edt-community-talk";
+            },},{id: "news-i-went-to-concordia-university-s-next-generation-cities-institute-to-present-my-work-on-accelerating-digital-twin-research-and-engineering",
           title: 'I went to Concordia University’s Next-Generation Cities Institute to present my work on...',
           description: "",
-          section: "News",},{id: "news-we-had-a-very-successful-software-engineering-for-machine-learning-applications-semla-event-i-was-poster-chair-chaired-a-panel-had-an-semtl-meeting-and-presented-a-tutorial-on-what-is-a-digital-twin-and-how-do-i-build-one",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-05-30-concordia-presentation";
+            },},{id: "news-we-had-a-very-successful-software-engineering-for-machine-learning-applications-semla-event-i-was-poster-chair-chaired-a-panel-had-an-semtl-meeting-and-presented-a-tutorial-on-what-is-a-digital-twin-and-how-do-i-build-one",
           title: 'We had a very successful Software Engineering for Machine Learning Applications (SEMLA) event....',
           description: "",
-          section: "News",},{id: "news-we-have-had-two-papers-accepted-at-the-international-conference-on-engineering-digital-twins-dtinsight-a-tool-for-explicit-interactive-and-continuous-digital-twin-reporting-and-engineering-a-digital-twin-for-the-monitoring-and-control-of-beer-fermentation-sampling-both-papers-are-part-of-our-digital-twins-research",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-06-19-semla";
+            },},{id: "news-we-have-had-two-papers-accepted-at-the-international-conference-on-engineering-digital-twins-dtinsight-a-tool-for-explicit-interactive-and-continuous-digital-twin-reporting-and-engineering-a-digital-twin-for-the-monitoring-and-control-of-beer-fermentation-sampling-both-papers-are-part-of-our-digital-twins-research",
           title: 'We have had two papers accepted at the International Conference on Engineering Digital...',
           description: "",
-          section: "News",},{id: "news-our-paper-model-based-systems-engineering-perspectives-a-survey-of-practitioner-experiences-and-challenges-has-been-accepted-at-sam-2025-part-of-our-work-on-model-based-systems-engineering",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-08-05-edtconf-papers";
+            },},{id: "news-our-paper-model-based-systems-engineering-perspectives-a-survey-of-practitioner-experiences-and-challenges-has-been-accepted-at-sam-2025-part-of-our-work-on-model-based-systems-engineering",
           title: 'Our paper Model-Based Systems Engineering Perspectives: A Survey of Practitioner Experiences and Challenges...',
           description: "",
-          section: "News",},{id: "news-we-had-a-very-successful-time-in-grand-rapids-mi-at-models-2025-and-edtconf-2025-i-was-also-lead-organizer-of-the-onto-nexus-workshop-2025-international-workshop-on-ontological-modeling-and-analysis-co-located-with-models-2025-it-was-an-honour-to-serve-on-the-models-2025-program-committee-and-i-was-also-student-volunteers-co-chair",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-08-05-sam-paper";
+            },},{id: "news-we-had-a-very-successful-time-in-grand-rapids-mi-at-models-2025-and-edtconf-2025-i-was-also-lead-organizer-of-the-onto-nexus-workshop-2025-international-workshop-on-ontological-modeling-and-analysis-co-located-with-models-2025-it-was-an-honour-to-serve-on-the-models-2025-program-committee-and-i-was-also-student-volunteers-co-chair",
           title: 'We had a very successful time in Grand Rapids, MI at MODELS 2025...',
           description: "",
-          section: "News",},{id: "news-a-safety-critical-digital-twin-for-beer-fermentation",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-10-10-models-edtconf-2025";
+            },},{id: "news-a-safety-critical-digital-twin-for-beer-fermentation",
           title: 'A Safety-Critical Digital Twin for Beer Fermentation',
           description: "EDTconf 2025 paper on a student-built digital twin that monitors beer fermentation and safely controls high-pressure sampling equipment.",
           section: "News",handler: () => {
@@ -148,22 +198,34 @@ ninja.data = [{
             },},{id: "news-i-was-honoured-to-present-a-guest-lecture-in-dr-maged-elaasar-s-raise-course-at-ucla-titled-what-is-a-digital-twin-and-how-do-i-build-one",
           title: 'I was honoured to present a guest lecture in Dr. Maged Elaasar’s RAISE...',
           description: "",
-          section: "News",},{id: "news-i-have-been-awarded-a-best-reviewer-award-for-2025-from-the-international-journal-on-software-and-systems-modeling-sosym",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2025-11-30-ucla-guest-lecture";
+            },},{id: "news-i-have-been-awarded-a-best-reviewer-award-for-2025-from-the-international-journal-on-software-and-systems-modeling-sosym",
           title: 'I have been awarded a Best Reviewer Award for 2025 from the International...',
           description: "",
-          section: "News",},{id: "news-i-presented-our-work-on-towards-ontology-based-digital-twin-service-construction-and-reporting-at-sig-llodia-lecture-3-i-appreciated-the-engaging-and-honest-discussion-we-had",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2026-01-19-sosym-best-reviewer";
+            },},{id: "news-i-presented-our-work-on-towards-ontology-based-digital-twin-service-construction-and-reporting-at-sig-llodia-lecture-3-i-appreciated-the-engaging-and-honest-discussion-we-had",
           title: 'I presented our work on Towards Ontology-based Digital Twin Service Construction and Reporting...',
           description: "",
-          section: "News",},{id: "news-it-was-a-pleasure-to-present-a-guest-lecture-in-prof-istvan-david-s-engineering-digital-twins-course-cas-782-at-mcmaster-university-titled-what-does-your-digital-twin-do-a-framework-and-tooling-for-systematic-dt-reporting-slides",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2026-01-21-sig-llodia";
+            },},{id: "news-it-was-a-pleasure-to-present-a-guest-lecture-in-prof-istvan-david-s-engineering-digital-twins-course-cas-782-at-mcmaster-university-titled-what-does-your-digital-twin-do-a-framework-and-tooling-for-systematic-dt-reporting-slides",
           title: 'It was a pleasure to present a guest lecture in Prof. Istvan David’s...',
           description: "",
-          section: "News",},{id: "news-the-second-edition-of-the-onto-nexus-workshop-international-workshop-on-ontological-modelling-and-analysis-will-be-held-in-2026-all-details-are-available-at-the-workshop-website-please-consider-submitting-your-papers-and-i-hope-to-see-you-there",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2026-03-17-mcmaster-guest-lecture";
+            },},{id: "news-the-second-edition-of-the-onto-nexus-workshop-international-workshop-on-ontological-modelling-and-analysis-will-be-held-in-2026-all-details-are-available-at-the-workshop-website-please-consider-submitting-your-papers-and-i-hope-to-see-you-there",
           title: 'The second edition of the onto:Nexus Workshop (International Workshop on Ontological Modelling and...',
           description: "",
-          section: "News",},{id: "news-our-paper-model-based-digital-twin-engineering-insights-challenges-and-future-directions-has-been-published-in-the-journal-on-software-and-systems-modelling-sosym-it-was-co-authored-with-philipp-zech-souvik-barat-benjamin-nast-judith-michael-steffen-zschaler-balbir-barn-and-ruth-breu",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2026-03-30-ontonexus-2026";
+            },},{id: "news-our-paper-model-based-digital-twin-engineering-insights-challenges-and-future-directions-has-been-published-in-the-journal-on-software-and-systems-modelling-sosym-it-was-co-authored-with-philipp-zech-souvik-barat-benjamin-nast-judith-michael-steffen-zschaler-balbir-barn-and-ruth-breu",
           title: 'Our paper Model-based Digital Twin Engineering: Insights, Challenges, and Future Directions has been...',
           description: "",
-          section: "News",},{id: "news-semla-2026-thoughts-and-thanks-after-three-days-on-agentic-software-engineering",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2026-05-04-sosym-mbdte";
+            },},{id: "news-semla-2026-thoughts-and-thanks-after-three-days-on-agentic-software-engineering",
           title: 'SEMLA 2026: Thoughts and Thanks After Three Days on Agentic Software Engineering',
           description: "Three days, 25 speakers, and 100 to 150 participants a day at Polytechnique Montréal, on the theme of Engineering Trustworthy and Cost-Effective AI Multi-Agents.",
           section: "News",handler: () => {
@@ -171,7 +233,9 @@ ninja.data = [{
             },},{id: "news-the-oakes-lab-is-welcoming-fatima-aguel-as-a-mitacs-globalink-research-intern-this-summer-working-on-ontological-modelling-of-digital-twin-component-repositories-welcome-fatima",
           title: 'The Oakes Lab is welcoming Fatima Aguel as a Mitacs Globalink Research Intern...',
           description: "",
-          section: "News",},{id: "news-bridging-the-semantic-web-and-systems-engineering-oml-in-practice",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2026-06-08-mitacs-fatima";
+            },},{id: "news-bridging-the-semantic-web-and-systems-engineering-oml-in-practice",
           title: 'Bridging the Semantic Web and Systems Engineering: OML in practice',
           description: "ISWC 2026 paper on bridging the semantic web and systems engineering using the Ontological Modelling Language (OML). Mentions the challenges and the use of OML at JPL, JAXA, and Leonardo.",
           section: "News",handler: () => {
