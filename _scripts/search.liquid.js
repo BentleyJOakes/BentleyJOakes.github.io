@@ -92,11 +92,16 @@ ninja.data = [
           title: '{{ title | escape | emojify | truncatewords: 13 }}',
           description: "{{ item.description | strip_html | strip_newlines | escape | strip }}",
           section: "{{ collection.label | capitalize }}",
-          {%- unless item.inline -%}
+          {%- if item.inline and collection.label == 'news' -%}
+            {%- assign news_anchor = item.path | split: "/" | last | split: "." | first -%}
+            handler: () => {
+              window.location.href = "{{ '/news/' | relative_url }}#news-{{ news_anchor }}";
+            },
+          {%- elsif item.inline != true -%}
             handler: () => {
               window.location.href = "{{ item.url | relative_url }}";
             },
-          {%- endunless -%}
+          {%- endif -%}
         },
       {%- endfor -%}
     {%- endif -%}

@@ -15,7 +15,8 @@
           {% assign news_limit = news_size %}
         {% endif %}
         {% for item in news limit: news_limit %}
-          <tr>
+          {% assign news_anchor = item.path | split: '/' | last | split: '.' | first %}
+          <tr id="news-{{ news_anchor }}">
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
               {% if item.inline %}

@@ -78,6 +78,16 @@ body.sticky-bottom-footer {
     margin-top: 0.15rem;
   }
 
+  // Search links an inline item to its row (#news-<file name>), so clear the
+  // fixed navbar and mark the row it lands on.
+  tr[id^="news-"] {
+    scroll-margin-top: 5rem;
+  }
+
+  tr:target {
+    box-shadow: inset 3px 0 0 var(--global-theme-color);
+  }
+
   // On phones a thumbnail beside the text squeezes the title and description
   // into a narrow strip, so stack the thumbnail above them instead.
   @media (max-width: 576px) {
