@@ -69,7 +69,7 @@ Research means working at the boundaries of what we know. As a researcher, you f
 
 In practice, you'll pick up an open research problem, not a task list, and drive it forward. Expect to submit to a workshop or conference within your first year, and to a top venue (MODELS, SoSyM, or similar) as your work matures. At leading conferences, you'll present your ideas and results and discuss them with world-class experts in the field.
 
-Research and lab discussions happen in English, and you can be admitted and study in English. Polytechnique is a francophone university, so you'll also pick up some French while you're here: graduating students [complete one French-language course](https://www.polymtl.ca/admission/en/graduate-studies/read-eligibility-conditions/5-language-requirements/51-research-based-masters-and-doctorate), with [free lessons offered on campus](https://etudiant.polymtl.ca/etudes/en/programs-0/graduate-studies-0/polytechnique-montreals-language-policy). Those who only speak English can easily enjoy Montréal, since most people speak both languages. It's also a great chance to learn a beautiful language, and to enjoy *les festivals, du café sur la terrasse, et la joie de vivre*.
+Research and lab discussions happen in English, and you can be admitted and study in English. Polytechnique is a francophone university, so you'll also pick up some French while you're here: graduating students [complete one French-language course](https://www.polymtl.ca/admission/en/graduate-studies/read-eligibility-conditions/5-language-requirements/51-research-based-masters-and-doctorate), with [free lessons offered on campus](https://etudiant.polymtl.ca/etudes/en/programs-0/graduate-studies-0/polytechnique-montreals-language-policy). Those who only speak English can easily enjoy Montréal, since most people speak both languages. It's also a great chance to learn a beautiful language, and to enjoy _les festivals, du café sur la terrasse, et la joie de vivre_.
 
 </div>
 
@@ -84,17 +84,17 @@ I'm always excited to hear from prospective students, and I read every email mys
 **Show you know the lab** — reference my [research interests](https://www.polymtl.ca/expertises/en/oakes-bentley) and [publications](/publications/).
 
 **Tell me about you** — a few lines on:
+
 - What excites you about research?
 - What are your research interests, and how do they match mine?
 - What is your favourite project you've worked on?
 
 **Include:**
+
 - **(Required)** Up-to-date CV
 - **(Required)** Transcript(s)
 - (Optional) Reference letter(s)
 - (Optional) Relevant publications or reports
-
-
 
 A great email tells me who you are, what you want to research, and why our interests align, in your own words.
 
@@ -103,5 +103,3 @@ A great email tells me who you are, what you want to research, and why our inter
 <div class="callout" style="--accent-color: #ED1C24;" markdown="1">
   Ready to apply? See the [admission process](https://www.polymtl.ca/admission/en/graduate-studies) and [application page](https://www.polymtl.ca/futur/en/es/admission). Under-represented groups are especially encouraged to join us!
 </div>
-
-

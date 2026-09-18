@@ -40,18 +40,32 @@
     <video
       class="video-embed{% if include.class %} {{ include.class }}{% endif %}"
       src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
-      {% if include.title %}title="{{ include.title }}"{% endif %}
-      {% if include.poster %}poster="{{ include.poster }}"{% endif %}
-      {% if include.autoplay %}autoplay{% endif %}
-      {% if include.controls %}controls{% endif %}
-      {% if include.loop %}loop{% endif %}
-      {% if include.muted %}muted{% endif %}
+      {% if include.title %}
+        title="{{ include.title }}"
+      {% endif %}
+      {% if include.poster %}
+        poster="{{ include.poster }}"
+      {% endif %}
+      {% if include.autoplay %}
+        autoplay
+      {% endif %}
+      {% if include.controls %}
+        controls
+      {% endif %}
+      {% if include.loop %}
+        loop
+      {% endif %}
+      {% if include.muted %}
+        muted
+      {% endif %}
     ></video>
   {% else %}
     <iframe
       class="video-embed{% if include.class %} {{ include.class }}{% endif %}"
       src="{{ video_src }}"
-      {% if include.title %}title="{{ include.title }}"{% endif %}
+      {% if include.title %}
+        title="{{ include.title }}"
+      {% endif %}
       loading="lazy"
       referrerpolicy="strict-origin-when-cross-origin"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

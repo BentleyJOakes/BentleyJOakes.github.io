@@ -47,6 +47,7 @@ latest_posts:
 I am an Assistant Professor in the [Department of Computer and Software Engineering (GIGL)](https://www.polymtl.ca/gigl/) at Polytechnique Montréal, Canada, where I lead the Oakes Lab. I completed my Master's and PhD at McGill University, before becoming a post-doctoral researcher at both the University of Antwerp and the Université de Montréal. I am a researcher in the [artificial intelligence consortium IVADO](https://ivado.ca/en/), and Polytechnique Montréal is affiliated with the [Université de Montréal](https://www.umontreal.ca/) and the [Quebec Artificial Intelligence Institute (Mila)](https://mila.quebec/en).
 
 My research focuses on tools and methods that help domain experts model, construct, and reason about complex systems, with a particular emphasis on Digital Twin engineering. Recent recognized work includes contributions on ontological service-driven engineering of Digital Twins and systematic reporting frameworks.
+
 </div>
 
 ## Research interests
@@ -63,6 +64,7 @@ I enjoy working across a variety of research fields, in collaboration with acade
 - and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
 
 See my [research page](/research/) for more detail on each area, and [Join Us](/join/) for open positions in these areas.
+
 </div>
 
 Across 40+ peer-reviewed papers, my research appears in flagship venues in two communities: in model-driven engineering, including {% assign mde_venues = "MODELS,SoSyM" | split: "," %}{% for v in mde_venues %}{% assign venue = site.data.venues[v] %}{% unless forloop.first %}{% if forloop.last %}, and {% else %}, {% endif %}{% endunless %}[{{ v }}]({{ venue.url }} "{{ venue.name }}"){% endfor %}; and in software engineering, including {% assign se_venues = "TOSEM,FSE,ASE,MSR,ICPC" | split: "," %}{% for v in se_venues %}{% assign venue = site.data.venues[v] %}{% unless forloop.first %}{% if forloop.last %}, and {% else %}, {% endif %}{% endunless %}[{{ v }}]({{ venue.url }} "{{ venue.name }}"){% endfor %}.
@@ -90,8 +92,8 @@ I am the lead organizer for the [Software Engineering at Montreal (SEMTL)](https
 {% include dte_course_blurb.liquid %}
 </div>
 
-
 ## Academic background
+
 Previously, I was a post-doctoral researcher at the [GEODES lab](https://geodes.iro.umontreal.ca) in the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/english/home/) of the University of Montréal for two years. My research topic was on the modelling of [domain-specific machine learning workflows](https://doi.org/10.1145/3638243).
 
 Before that, I was a post-doctoral researcher at the University of Antwerp in Belgium for three years. I worked on a variety of topics along with industrial partners as part of the [Flanders Make](https://www.flandersmake.be) strategic research centre, including verification of cyber-physical systems, configuring of co-simulations, and developing conceptual frameworks for digital twins.
@@ -99,4 +101,3 @@ Before that, I was a post-doctoral researcher at the University of Antwerp in Be
 I received my PhD at McGill University in 2019 on the topic of [model transformation verification](/assets/publications/Oakes2018%20-%20A%20Symbolic%20Execution-Based%20Approach%20To%20Model%20Transformation%20Verification%20using%20Structural%20Contracts.pdf). During this period, I was an instructor for the Introduction to Programming course at McGill. I also was a visiting researcher at the [General Motors Technical Center](https://www.gm.com/company/facilities/warren-tech-center) in Michigan, USA and the [fortiss research institute](https://www.fortiss.org/) in Munich, Germany.
 
 During my bachelor's degree at the University of Manitoba, I held three internships as part of the co-operative program. The first internship was at [BlackBerry](https://www.blackberry.com) (formerly Research in Motion) in Waterloo, ON. The topic of this internship was on cryptographic communication protocols. The second and third internships were at [Electronic Arts](https://www.ea.com) in Montréal, QC. These internships focused on prototyping artificial intelligence solutions in video games.
-

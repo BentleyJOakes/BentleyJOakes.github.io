@@ -8,7 +8,13 @@
   <div class="pub-filter-row">
     {% for tag in site.data.pub_tags %}
       {% if forloop.index <= 4 %}
-        <button class="pub-filter-btn" data-tag="{{ tag.id }}"{% if tag.color %} style="--card-color: {{ tag.color }}; border-left: 3px solid {{ tag.color }};"{% endif %}>
+        <button
+          class="pub-filter-btn"
+          data-tag="{{ tag.id }}"
+          {% if tag.color %}
+            style="--card-color: {{ tag.color }}; border-left: 3px solid {{ tag.color }};"
+          {% endif %}
+        >
           <span class="filter-label">{{ tag.label }}</span>
           <span class="filter-desc">{{ tag.description }}</span>
         </button>
@@ -18,7 +24,13 @@
   <div class="pub-filter-row">
     {% for tag in site.data.pub_tags %}
       {% if forloop.index > 4 %}
-        <button class="pub-filter-btn" data-tag="{{ tag.id }}"{% if tag.color %} style="--card-color: {{ tag.color }}; border-left: 3px solid {{ tag.color }};"{% endif %}>
+        <button
+          class="pub-filter-btn"
+          data-tag="{{ tag.id }}"
+          {% if tag.color %}
+            style="--card-color: {{ tag.color }}; border-left: 3px solid {{ tag.color }};"
+          {% endif %}
+        >
           <span class="filter-label">{{ tag.label }}</span>
           <span class="filter-desc">{{ tag.description }}</span>
         </button>

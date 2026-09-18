@@ -10,7 +10,7 @@ _styles: >
   article h3 { margin-top: 2rem; }
 ---
 
-> *My teaching philosophy is rooted in approachability: ensuring students from diverse backgrounds feel welcome, that ample support is available for learning, and that exploring complex topics can be a fun and curious journey.*
+> _My teaching philosophy is rooted in approachability: ensuring students from diverse backgrounds feel welcome, that ample support is available for learning, and that exploring complex topics can be a fun and curious journey._
 
 ---
 
@@ -24,13 +24,13 @@ _styles: >
 
 <div class="styled-table" markdown="1">
 
-| Course | Description | Term(s) |
-| ------ | ----------- | ------- |
-| [Engineering of Digital Twins (LOG8421E)](/digital-twin-engineering-course/) | See above | Winter 2025, Winter 2026 |
-| [INF6900AE — Scientific and Technical Communication](https://www.polymtl.ca/programmes/cours/scientific-and-technical-communication-i) | A graduate course developing scientific and technical communication skills, including academic writing, oral presentations, and effective dissemination of engineering research. | Winter 2024, Fall 2024, Fall 2025, Fall 2026 |
-| [INF1007 — Introduction à la programmation](https://www.polymtl.ca/programmes/cours/introduction-la-programmation) | An introductory programming course for engineering students, covering fundamental programming concepts and computational problem-solving. | Fall 2025, Fall 2026 |
-| [LOG8371E — Software Quality Engineering](https://www.polymtl.ca/programmes/cours/software-quality-engineering) | A graduate course on principles and practices for software quality, covering testing strategies, static analysis, continuous integration, and quality assurance for software-intensive systems. | Fall 2024 |
-| [COMP 202 — Foundations of Programming](https://www.mcgill.ca/study/2017-2018/courses/comp-202) *(McGill University)* | An introductory programming course covering foundational concepts for students across disciplines. | Winter 2015, 2017, 2018 |
+| Course                                                                                                                                 | Description                                                                                                                                                                                     | Term(s)                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [Engineering of Digital Twins (LOG8421E)](/digital-twin-engineering-course/)                                                           | See above                                                                                                                                                                                       | Winter 2025, Winter 2026                     |
+| [INF6900AE — Scientific and Technical Communication](https://www.polymtl.ca/programmes/cours/scientific-and-technical-communication-i) | A graduate course developing scientific and technical communication skills, including academic writing, oral presentations, and effective dissemination of engineering research.                | Winter 2024, Fall 2024, Fall 2025, Fall 2026 |
+| [INF1007 — Introduction à la programmation](https://www.polymtl.ca/programmes/cours/introduction-la-programmation)                     | An introductory programming course for engineering students, covering fundamental programming concepts and computational problem-solving.                                                       | Fall 2025, Fall 2026                         |
+| [LOG8371E — Software Quality Engineering](https://www.polymtl.ca/programmes/cours/software-quality-engineering)                        | A graduate course on principles and practices for software quality, covering testing strategies, static analysis, continuous integration, and quality assurance for software-intensive systems. | Fall 2024                                    |
+| [COMP 202 — Foundations of Programming](https://www.mcgill.ca/study/2017-2018/courses/comp-202) _(McGill University)_                  | An introductory programming course covering foundational concepts for students across disciplines.                                                                                              | Winter 2015, 2017, 2018                      |
 
 </div>
 
