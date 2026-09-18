@@ -39,7 +39,9 @@
   {% endif %}
 </title>
 <meta name="author" content="{{ author_name }}">
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% comment %} Stripped because folded (>) YAML descriptions end in a newline, which is invalid inside a JSON-LD string. {% endcomment %}
+{% assign meta_description = page.description | default: site.description | strip %}
+<meta name="description" content="{{ meta_description }}">
 {% if page.keywords or site.keywords %}
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
 {% endif %}
@@ -70,7 +72,7 @@
   <meta property="og:type" content="{% if is_blog_post %}article{% else %}website{% endif %}">
   <meta property="og:title" content="{% if page.title %}{{ title }} | {{ page.title }}{% else %}{{ title }}{% endif %}">
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="{{ meta_description }}">
   {% if page.og_image or site.og_image %}
     <meta property="og:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}">
   {% endif %}
@@ -79,7 +81,7 @@
   <!-- Twitter card -->
   <meta name="twitter:card" content="{% if page.og_image or site.og_image %}summary_large_image{% else %}summary{% endif %}">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" content="{{ meta_description }}">
   {% if page.og_image or site.og_image %}
     <meta name="twitter:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}">
   {% endif %}
@@ -235,9 +237,14 @@
         {% capture link %}https://www.zotero.org/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% else %}
-        {% assign sameaslinks = sameaslinks | push: social[1].url %}
+        {% comment %} Plain-string entries such as cv_pdf have no .url and are not profiles. {% endcomment %}
+        {% if social[1].url %}
+          {% assign sameaslinks = sameaslinks | push: social[1].url %}
+        {% endif %}
     {% endcase %}
   {% endfor %}
+  {% comment %} Official Polytechnique profile, kept out of socials.yml so it adds no social icon. {% endcomment %}
+  {% assign sameaslinks = sameaslinks | push: 'https://www.polymtl.ca/expertises/en/oakes-bentley' %}
 
   {% if page.permalink == '/' or page.url == '/' %}
     <script type="application/ld+json">
@@ -248,7 +255,7 @@
           "jobTitle": "Assistant Professor",
           "url": "{{ site.url }}{{ site.baseurl }}/",
           "image": "{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}",
-          "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+          "description": {{ meta_description | jsonify }},
           "worksFor": {
               "@type": "CollegeOrUniversity",
               "name": "Polytechnique Montréal",
@@ -287,7 +294,7 @@
           },
           "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
           "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-          "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+          "description": {{ meta_description | jsonify }},
           "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
           {% if sameaslinks != blank %}
           "sameAs": {{ sameaslinks | jsonify }},
