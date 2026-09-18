@@ -26,6 +26,21 @@ permissions:
   contents: write
 
 jobs:
+  # A separate job, so a formatting slip fails the check without blocking the deploy.
+  prettier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+      - name: Setup Node 🟩
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+      - name: Install 📦
+        run: npm ci
+      - name: Check formatting 💅
+        run: npx prettier --check .
   deploy:
     runs-on: ubuntu-latest
     steps:

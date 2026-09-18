@@ -113,4 +113,4 @@ npx prettier --write <changed files>
 docker compose up --build
 ```
 
-Run prettier on the files you changed, not on the whole repo. About 15 existing files are not prettier-clean, and a full `npx prettier . --write` reformats them in ways that change rendering (for example, splitting Liquid tags inside HTML attributes). See the Prettier section of `TODO.md`.
+The whole repo is prettier-clean, so `npx prettier --check .` should pass. Prettier can still change rendering, so check the built page after formatting. For example, it rewrites `*"Title..."*` as `_"Title..."_`, and kramdown then renders the closing quote as an opening one; type curly quotes (`_“Title…”_`) instead.
