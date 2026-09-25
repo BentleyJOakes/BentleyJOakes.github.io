@@ -376,14 +376,19 @@ cv:
         highlights:
           # Meriem Smati
           - "INSA Lyon / Polytechnique Montréal — PhD Thesis Jury Member (2026)"
+          # Jean-Baptiste Lefoul
+          - "Polytechnique Montréal — PhD Thesis Jury Member (2026)"
           # Anas Dorbani, Sunny Yasser
-          - "Polytechnique Montréal — Examen de synthèse (doctoral qualifying exam) President (2026)"
-          # Elaa Mokhtari
-          - "Polytechnique Montréal — M.Sc. Thesis Jury President (2026)"
-          - "Polytechnique Montréal — PhD Thesis Jury President (2026)"
+          - "Polytechnique Montréal — Examen de synthèse (doctoral qualifying exam) President ×2 (2025–2026)"
+          # Eya Mbarek
+          - "Polytechnique Montréal — Examen de synthèse (doctoral qualifying exam) Member (2026)"
+          # Elaa Mokhtari, Chaima Amiri, Vijeet Gahlawat
+          - "Polytechnique Montréal — M.Sc. Thesis Jury President ×3 (2026)"
           # Bruno Curzi Laliberté
           - "Polytechnique Montréal — M.Sc. Thesis Jury President (2024)"
+          # Sebastian Pilarski
           - "McGill University — PhD Thesis External Reviewer (2024)"
+          # Neeraj Katiyar
           - "McGill University — M.Sc. Thesis External Reviewer (2023)"
       - name: Grant Reviewer
         date: "2024–2026"
