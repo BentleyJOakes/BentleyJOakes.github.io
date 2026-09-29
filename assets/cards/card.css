@@ -16,6 +16,9 @@
   --orange-soft: #cf876e;
   --vert-soft: #6ecf84;
   --bleu-soft: #6ebacf;
+  /* A darker vert for the key points' label and number circles: the brand
+     vert is 2.8:1 on white, this is 5.0:1. The frame keeps the brand vert. */
+  --vert-text: #17803a;
   --ink: #14181b;
   --ink-soft: #46525a;
   /* The outer frame, and the interior rules. Each quadrant draws its own half
@@ -196,7 +199,7 @@ body {
   font-weight: 800;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: var(--vert);
+  color: var(--vert-text);
   margin-bottom: 20px;
 }
 .points ol {
@@ -218,7 +221,7 @@ body {
   flex: 0 0 32px;
   height: 32px;
   border-radius: 50%;
-  background: var(--vert);
+  background: var(--vert-text);
   color: #fff;
   font-size: 18px;
   font-weight: 800;
