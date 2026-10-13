@@ -245,6 +245,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/#news-2026-10-05-mila-associate-member";
+            },},{id: "news-semtl-is-becoming-seriq-a-new-software-engineering-research-centre-for-québec-it-starts-with-four-universities-université-de-montréal-polytechnique-montréal-mcgill-and-éts-benoit-baudry-is-the-director-and-houari-sahraoui-championed-the-centre-i-am-proud-to-have-restarted-semtl-in-2022-and-to-have-helped-secure-support-for-seriq-i-will-co-lead-the-cyber-physical-systems-axis-with-aren-babikian-and-francis-bordeleau-come-find-out-more-at-the-rentrée-seriq-on-29-october-at-université-de-montréal-and-register-by-23-october",
+          title: 'SEMTL is becoming SERIQ, a new software engineering research centre for Québec. It...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2026-10-09-seriq";
             },},{id: "news-building-trustworthy-enterprise-digital-twins-with-michelin",
           title: 'Building Trustworthy Enterprise Digital Twins with Michelin',
           description: "EDTconf 2026 Best Short Paper on engineering trustworthy Enterprise Digital Twins with Michelin: involve stakeholders with a prototype first, federate departmental models through an ontology, and make long-loop decisions traceable.",
