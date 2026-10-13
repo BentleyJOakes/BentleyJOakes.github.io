@@ -1,0 +1,180 @@
+<!doctype html>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="card.css" />
+<style>
+  /* The title's main clause has to hold together on one line, which a full
+     41px will not do at this width, so the whole title steps down a size. */
+  .title h1 {
+    font-size: 34px;
+  }
+  .title .clause {
+    white-space: nowrap;
+  }
+  /* Break after the main clause rather than letting the subtitle's first word
+     ride up onto its line. */
+  .title h1 em {
+    display: block;
+  }
+
+  /* The EDTconf logo is a wide wordmark, so it takes more of the quadrant
+     than the default; this matches the other EDTconf card. */
+  .logo-wrap {
+    flex: 0 0 36%;
+  }
+
+  /* The award takes the place of "Accepted at", in orange so it stands
+     apart from the venue. */
+  .accepted-at.award {
+    color: var(--orange);
+  }
+
+  /* Three points rather than two, so each gives up a little room and each
+     description is kept to a single line. */
+  .points ol {
+    gap: 16px;
+  }
+  .points .label {
+    margin-bottom: 16px;
+  }
+  .points h2 {
+    font-size: 22px;
+  }
+  .points p {
+    font-size: 17px;
+  }
+
+  /* The figure is Figure 1 of the paper redrawn, not a photograph: let it
+     inherit the card's type. Each stage carries one of the brand colours, set
+     per box as --stage so the band, the tint, and the rule stay in step. */
+  .figure svg {
+    font-family: inherit;
+  }
+  .stage-band {
+    fill: var(--stage);
+  }
+  .stage-body {
+    fill: var(--stage-tint);
+    stroke: var(--stage);
+    stroke-width: 2;
+  }
+  .stage-num {
+    font-size: 14px;
+    font-weight: 800;
+    fill: #fff;
+    fill-opacity: 0.82;
+  }
+  .stage-name {
+    font-size: 17px;
+    font-weight: 800;
+    fill: #fff;
+  }
+  .stage-line {
+    font-size: 14px;
+    font-weight: 500;
+    fill: var(--ink);
+  }
+  .arrow-label {
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    fill: var(--orange);
+  }
+</style>
+
+<section class="q title">
+  <h1><span class="clause">Involving before Evolving:</span> <em>A Vision for Trustworthy Enterprise Digital Twin Engineering</em></h1>
+</section>
+
+<section class="q venue">
+  <div class="venue-main">
+    <div class="logo-wrap">
+      <img src="../img/publications/edtconf-2025-logo.png" alt="" />
+      <div class="logo-note">Co-located with MODELS 2026</div>
+    </div>
+    <div class="venue-text">
+      <span class="accepted-at award">🏆 Best Short Paper</span>
+      <div class="venue-line">International Conference on Engineering Digital Twins<br /><span>Málaga, October 2026</span></div>
+    </div>
+  </div>
+  <div class="authors">Fiter, Lagrou, Dervault, Oakes</div>
+</section>
+
+<section class="q points">
+  <div class="label">A vision paper with Michelin</div>
+  <ol>
+    <li>
+      <div>
+        <h2>Involving before evolving</h2>
+        <p>A quick prototype wins buy-in first</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <h2>Departments own their models</h2>
+        <p>Connected through a shared ontology</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <h2>Traceable what-if results</h2>
+        <p>Trust for long-loop decisions</p>
+      </div>
+    </li>
+  </ol>
+</section>
+
+<!-- The three stages of Figure 1, redrawn, with the early-to-continuous span
+     underneath. Wording is taken from the drawio source of the figure. -->
+<figure class="q figure">
+  <svg viewBox="0 0 536 244" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="head" viewBox="0 0 10 8" refX="9" refY="4" markerWidth="8" markerHeight="7" orient="auto">
+        <path d="M0 0 L10 4 L0 8 Z" fill="var(--orange)" />
+      </marker>
+      <clipPath id="band1"><rect x="1" y="1" width="166" height="74" /></clipPath>
+      <clipPath id="band2"><rect x="185" y="1" width="166" height="74" /></clipPath>
+      <clipPath id="band3"><rect x="369" y="1" width="166" height="74" /></clipPath>
+    </defs>
+
+    <!-- (1) Prototype Creation -->
+    <g style="--stage: var(--orange); --stage-tint: #fdf1ea">
+      <rect class="stage-body" x="1" y="1" width="166" height="196" rx="10" />
+      <g clip-path="url(#band1)"><rect class="stage-band" x="1" y="1" width="166" height="84" rx="10" /></g>
+      <text x="15" y="27" class="stage-num">(1)</text>
+      <text x="15" y="50" class="stage-name">Prototype</text>
+      <text x="15" y="69" class="stage-name">Creation</text>
+      <text x="15" y="105" class="stage-line">FMs: LLMs,</text>
+      <text x="15" y="126" class="stage-line">TSFMs, WMs</text>
+      <text x="15" y="147" class="stage-line">User Interface</text>
+    </g>
+
+    <!-- (2) Federation Backbone -->
+    <g style="--stage: var(--vert); --stage-tint: #ecf8ef">
+      <rect class="stage-body" x="185" y="1" width="166" height="196" rx="10" />
+      <g clip-path="url(#band2)"><rect class="stage-band" x="185" y="1" width="166" height="84" rx="10" /></g>
+      <text x="199" y="27" class="stage-num">(2)</text>
+      <text x="199" y="50" class="stage-name">Federation</text>
+      <text x="199" y="69" class="stage-name">Backbone</text>
+      <text x="199" y="105" class="stage-line">Ontologies,</text>
+      <text x="199" y="126" class="stage-line">shared semantics,</text>
+      <text x="199" y="147" class="stage-line">consistency</text>
+      <text x="199" y="168" class="stage-line">enforcement</text>
+    </g>
+
+    <!-- (3) Trustworthiness -->
+    <g style="--stage: var(--bleu); --stage-tint: #e9f7fd">
+      <rect class="stage-body" x="369" y="1" width="166" height="196" rx="10" />
+      <g clip-path="url(#band3)"><rect class="stage-band" x="369" y="1" width="166" height="84" rx="10" /></g>
+      <text x="383" y="27" class="stage-num">(3)</text>
+      <text x="383" y="60" class="stage-name">Trustworthiness</text>
+      <text x="383" y="105" class="stage-line">Observability,</text>
+      <text x="383" y="126" class="stage-line">privacy,</text>
+      <text x="383" y="147" class="stage-line">traceability</text>
+    </g>
+
+    <text x="0" y="232" class="arrow-label">Early involvement</text>
+    <line x1="176" y1="227" x2="318" y2="227" stroke="var(--orange)" stroke-width="3" marker-end="url(#head)" />
+    <text x="536" y="232" text-anchor="end" class="arrow-label">Continuous evolution</text>
+  </svg>
+</figure>

@@ -245,6 +245,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/#news-2026-10-05-mila-associate-member";
+            },},{id: "news-building-trustworthy-enterprise-digital-twins-with-michelin",
+          title: 'Building Trustworthy Enterprise Digital Twins with Michelin',
+          description: "EDTconf 2026 Best Short Paper on engineering trustworthy Enterprise Digital Twins with Michelin: involve stakeholders with a prototype first, federate departmental models through an ontology, and make long-loop decisions traceable.",
+          section: "News",handler: () => {
+              window.location.href = "/publications/edtconf-2026-enterprise-digital-twins/";
             },},{
         id: 'social-cv',
         title: 'CV',
