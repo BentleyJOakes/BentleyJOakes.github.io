@@ -250,6 +250,11 @@ ninja.data = [{
           description: "EDTconf 2026 Best Short Paper on engineering trustworthy Enterprise Digital Twins with Michelin: involve stakeholders with a prototype first, federate departmental models through an ontology, and make long-loop decisions traceable.",
           section: "News",handler: () => {
               window.location.href = "/publications/edtconf-2026-enterprise-digital-twins/";
+            },},{id: "news-bric-dt-reliable-interfaces-for-composable-digital-twins",
+          title: 'BRIC-DT: Reliable Interfaces for Composable Digital Twins',
+          description: "EDTconf 2026 vision paper on contract-aware interfaces for digital twins: each component states what it assumes and what it guarantees, with evidence checked at design, deployment, and runtime.",
+          section: "News",handler: () => {
+              window.location.href = "/publications/edtconf-2026-bric-dt-composable-digital-twins/";
             },},{
         id: 'social-cv',
         title: 'CV',

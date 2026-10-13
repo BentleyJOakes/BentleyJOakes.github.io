@@ -1,0 +1,215 @@
+<!doctype html>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="card.css" />
+<style>
+  /* The subtitle breaks into three set phrases; a step down from the full
+     41px lets the longest, "Composable Digital Twins", hold on one line. */
+  .title h1 {
+    font-size: 38px;
+  }
+  .title .keep {
+    white-space: nowrap;
+    display: block;
+  }
+  /* Break after the acronym rather than letting the subtitle's first word
+     ride up onto its line. */
+  .title h1 em {
+    display: block;
+  }
+
+  /* The EDTconf logo is a wide wordmark, so it takes more of the quadrant
+     than the default; this matches the other EDTconf cards. */
+  .logo-wrap {
+    flex: 0 0 36%;
+  }
+
+  /* Three points rather than two, so each gives up a little room and each
+     description is kept to a single line. */
+  .points ol {
+    gap: 16px;
+  }
+  .points .label {
+    margin-bottom: 16px;
+  }
+  .points h2 {
+    font-size: 22px;
+  }
+  .points p {
+    font-size: 17px;
+  }
+
+  /* The figure is a simplified redraw of Figure 1 and Table 1 of the paper:
+     three of the core components, each with its fidelity contract. Each
+     component carries its colour from Table 1, set per box as --comp so the
+     band, the tint, and the rule stay in step. */
+  .figure svg {
+    font-family: inherit;
+  }
+  .comp-band {
+    fill: var(--comp);
+  }
+  .comp-body {
+    fill: var(--comp-tint);
+    stroke: var(--comp);
+    stroke-width: 2;
+  }
+  .comp-name {
+    font-size: 17px;
+    font-weight: 800;
+    fill: #fff;
+  }
+  .tag {
+    font-size: 14px;
+    font-weight: 800;
+    fill: var(--comp);
+  }
+  .comp-line {
+    font-size: 14px;
+    font-weight: 500;
+    fill: var(--ink);
+  }
+  .port {
+    fill: var(--comp);
+    stroke: #fff;
+    stroke-width: 1.5;
+  }
+  .link {
+    fill: none;
+    stroke: var(--ink-soft);
+    stroke-width: 2.5;
+    stroke-linejoin: round;
+  }
+  .legend {
+    font-size: 14px;
+    font-weight: 600;
+    fill: var(--ink-soft);
+  }
+  .legend tspan.also {
+    font-weight: 800;
+  }
+  .legend tspan.key {
+    font-weight: 800;
+    fill: var(--ink);
+  }
+</style>
+
+<section class="q title">
+  <h1>
+    BRIC-DT:
+    <em><span class="keep">Building Reliable</span> <span class="keep">Interfaces for</span> <span class="keep">Composable Digital Twins</span></em>
+  </h1>
+</section>
+
+<section class="q venue">
+  <div class="venue-main">
+    <div class="logo-wrap">
+      <img src="../img/publications/edtconf-2025-logo.png" alt="" />
+      <div class="logo-note">Co-located with MODELS 2026</div>
+    </div>
+    <div class="venue-text">
+      <span class="accepted-at">Presented at</span>
+      <div class="venue-line">International Conference on Engineering Digital Twins<br /><span>Málaga, October 2026</span></div>
+    </div>
+  </div>
+  <div class="authors">Gomes, Wright, Larsen, Esterle, Zech, Cavalcanti, Woodcock, Oakes, Vangheluwe</div>
+</section>
+
+<section class="q points">
+  <div class="label">A vision paper</div>
+  <ol>
+    <li>
+      <div>
+        <h2>Contract-aware interfaces</h2>
+        <p>Each component states assumptions and guarantees</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <h2>Contract theory, specialized for DTs</h2>
+        <p>Validity, uncertainty, and evolving models</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <h2>A research agenda</h2>
+        <p>Correctness properties, composition, and evolution</p>
+      </div>
+    </li>
+  </ol>
+</section>
+
+<!-- Model, Simulator, and State Estimator from Figure 1, in the order the
+     paper chains them, with the fidelity column of Table 1 in plain words.
+     Each box has an assumption port on its left edge and a guarantee port on
+     its right; an arrow joins each guarantee to the assumption it meets. -->
+<figure class="q figure">
+  <svg viewBox="0 0 536 244" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="head" viewBox="0 0 10 8" refX="10" refY="4" markerWidth="9" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+        <path d="M0 0 L10 4 L0 8 Z" fill="var(--ink-soft)" />
+      </marker>
+      <clipPath id="band1"><rect x="6" y="1" width="152" height="62" /></clipPath>
+      <clipPath id="band2"><rect x="192" y="1" width="152" height="62" /></clipPath>
+      <clipPath id="band3"><rect x="378" y="1" width="152" height="62" /></clipPath>
+    </defs>
+
+    <!-- Model -->
+    <g style="--comp: #536bdf; --comp-tint: #f0f2fc">
+      <rect class="comp-body" x="6" y="1" width="152" height="186" rx="10" />
+      <g clip-path="url(#band1)"><rect class="comp-band" x="6" y="1" width="152" height="72" rx="10" /></g>
+      <text x="20" y="44" class="comp-name">Model</text>
+      <text x="20" y="96" class="tag">A</text>
+      <text x="38" y="96" class="comp-line">Inputs within</text>
+      <text x="38" y="115" class="comp-line">validity frame</text>
+      <text x="20" y="152" class="tag">G</text>
+      <text x="38" y="152" class="comp-line">Output error</text>
+      <text x="38" y="171" class="comp-line">bounded</text>
+      <rect class="port" x="0" y="95" width="12" height="12" rx="2" />
+      <rect class="port" x="152" y="151" width="12" height="12" rx="2" />
+    </g>
+
+    <!-- Simulator -->
+    <g style="--comp: #eb6752; --comp-tint: #fdf1ef">
+      <rect class="comp-body" x="192" y="1" width="152" height="186" rx="10" />
+      <g clip-path="url(#band2)"><rect class="comp-band" x="192" y="1" width="152" height="72" rx="10" /></g>
+      <text x="206" y="44" class="comp-name">Simulator</text>
+      <text x="206" y="96" class="tag">A</text>
+      <text x="224" y="96" class="comp-line">The model's</text>
+      <text x="224" y="115" class="comp-line">guarantee</text>
+      <text x="206" y="152" class="tag">G</text>
+      <text x="224" y="152" class="comp-line">Error bounded,</text>
+      <text x="224" y="171" class="comp-line">plus step error</text>
+      <rect class="port" x="186" y="95" width="12" height="12" rx="2" />
+      <rect class="port" x="338" y="151" width="12" height="12" rx="2" />
+    </g>
+
+    <!-- State Estimator -->
+    <g style="--comp: #c36b2e; --comp-tint: #faf2ec">
+      <rect class="comp-body" x="378" y="1" width="152" height="186" rx="10" />
+      <g clip-path="url(#band3)"><rect class="comp-band" x="378" y="1" width="152" height="72" rx="10" /></g>
+      <text x="392" y="34" class="comp-name">State</text>
+      <text x="392" y="54" class="comp-name">Estimator</text>
+      <text x="392" y="96" class="tag">A</text>
+      <text x="410" y="96" class="comp-line">The simulator's</text>
+      <text x="410" y="115" class="comp-line">guarantee</text>
+      <text x="392" y="152" class="tag">G</text>
+      <text x="410" y="152" class="comp-line">Estimate error</text>
+      <text x="410" y="171" class="comp-line">bounded</text>
+      <rect class="port" x="372" y="95" width="12" height="12" rx="2" />
+      <rect class="port" x="524" y="151" width="12" height="12" rx="2" />
+    </g>
+
+    <path class="link" d="M164 157 H168 V101 H186" marker-end="url(#head)" />
+    <path class="link" d="M350 157 H354 V101 H372" marker-end="url(#head)" />
+
+    <!-- The other three components of Table 1, in their colours from the paper. -->
+    <!-- prettier-ignore -->
+    <text x="0" y="214" class="legend">The paper also covers <tspan class="also" fill="#7e800e">System ID</tspan>, <tspan class="also" fill="#57b0a8">Optimizer</tspan>, and <tspan class="also" fill="#f0a629">Knowledge Manager</tspan></text>
+    <text x="0" y="238" class="legend">
+      <tspan class="key">A</tspan>
+      assumption
+      <tspan dx="18" class="key">G</tspan>
+      guarantee
+    </text>
+  </svg>
+</figure>
