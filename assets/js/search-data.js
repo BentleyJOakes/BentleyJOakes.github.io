@@ -255,6 +255,11 @@ ninja.data = [{
           description: "EDTconf 2026 vision paper on contract-aware interfaces for digital twins: each component states what it assumes and what it guarantees, with evidence checked at design, deployment, and runtime.",
           section: "News",handler: () => {
               window.location.href = "/publications/edtconf-2026-bric-dt-composable-digital-twins/";
+            },},{id: "news-models-and-edtconf-2026-in-málaga",
+          title: 'MODELS and EDTconf 2026 in Málaga',
+          description: "MODELS and EDTconf 2026 in Málaga, with a Best Short Paper award for Kérian Fiter, two talks, a tutorial on DTInsight, and the onto:Nexus 2026 workshop.",
+          section: "News",handler: () => {
+              window.location.href = "/news/models-edtconf-2026/";
             },},{
         id: 'social-cv',
         title: 'CV',
