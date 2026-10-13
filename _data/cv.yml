@@ -66,6 +66,14 @@ cv:
         highlights:
           - "Department of Computer and Software Engineering (GIGL)"
           - "Research topics: Accelerating the construction and deployment of digital twins through ontologies for capturing domain knowledge, and large language models and agentic AI for automating their creation. Integrating formal methods to verify digital twin correctness, and assisting users with the configuration and observability of their machine learning and verification/validation services."
+      - company: Mila – Quebec AI Institute
+        position: Associate Academic Member
+        location: Montréal, Canada
+        date: "Oct. 2026 – present"
+      - company: IVADO
+        position: Researcher
+        location: Montréal, Canada
+        date: "Sep. 2025 – present"
       - company: Université de Montréal
         position: Post-Doctoral Researcher
         location: Montréal, Canada

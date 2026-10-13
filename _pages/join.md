@@ -55,8 +55,9 @@ If you have another research idea which aligns with my interests, I would love t
 - Publication in top venues (MODELS, SoSyM, TOSEM, FSE) and presentations at leading international conferences
 - Collaboration with industrial partners on real, deployed systems, with the option of a paid industry internship through the [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) program
 - International research visits to partner labs (Aarhus, Denmark; Antwerp, Belgium; and more)
+- Connections to the [Mila – Quebec AI Institute](https://mila.quebec/en) community, where I am an Associate Academic Member
 - A position at **Polytechnique Montréal**, one of Canada's leading engineering schools ([virtual tour](https://visitevirtuelle.polymtl.ca/polymtl/home/featured-tours/))
-  - Affiliated with the [Université de Montréal](https://www.umontreal.ca/) ([ranked 125th globally](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal)) and [Mila](https://mila.quebec/en)
+  - Affiliated with the [Université de Montréal](https://www.umontreal.ca/) ([in the top 150 worldwide](https://www.timeshighereducation.com/world-university-rankings/universite-de-montreal))
   - Located in [Montréal](https://www.mtl.org/en), an affordable and vibrant bilingual city
 
 </div>
