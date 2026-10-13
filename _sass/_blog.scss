@@ -128,6 +128,36 @@
     }
   }
 
+  // figure-grid sets several photos in two columns under one caption. The
+  // photos are cropped to the same shape so the rows line up, and stack on
+  // phones.
+  figure.figure-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+
+    img {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+    }
+
+    // A banner or logo that spans both columns at its own shape.
+    img.figure-grid-wide {
+      grid-column: 1 / -1;
+      aspect-ratio: auto;
+    }
+
+    figcaption {
+      grid-column: 1 / -1;
+    }
+
+    @media (max-width: 576px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
   // The paper's abstract, from _includes/abstract.liquid. Collapsed by default,
   // so the toggle is styled to read as a control rather than body text.
   .post-abstract {
