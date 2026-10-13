@@ -130,11 +130,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/#news-2025-03-03-simulation-special-issue";
-            },},{id: "news-i-ve-accepted-the-student-volunteers-co-chair-position-for-the-foundations-of-software-engineering-fse-conference-2026-held-in-montréal",
-          title: 'I’ve accepted the Student Volunteers Co-Chair position for the Foundations of Software Engineering...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/#news-2025-03-04-fse-sv-chair";
             },},{id: "news-i-gave-a-talk-entitled-accelerating-digital-twin-research-and-engineering-in-prof-istvan-david-s-engineering-digital-twins-course-at-mcmaster-university-the-slides-are-available-here-slides",
           title: 'I gave a talk entitled “Accelerating Digital Twin Research and Engineering” in Prof....',
           description: "",
@@ -235,6 +230,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/#news-2026-06-08-mitacs-fatima";
+            },},{id: "news-fse-2026-in-montréal",
+          title: 'FSE 2026 in Montréal',
+          description: "FSE 2026 in Montréal, where I was Student Volunteer Co-Chair with Diego Costa for around 50 student volunteers.",
+          section: "News",handler: () => {
+              window.location.href = "/news/fse-2026/";
             },},{id: "news-bridging-the-semantic-web-and-systems-engineering-oml-in-practice",
           title: 'Bridging the Semantic Web and Systems Engineering: OML in practice',
           description: "ISWC 2026 paper on bridging the semantic web and systems engineering using the Ontological Modelling Language (OML). Mentions the challenges and the use of OML at JPL, JAXA, and Leonardo.",
