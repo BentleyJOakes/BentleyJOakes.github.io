@@ -240,6 +240,11 @@ ninja.data = [{
           description: "ISWC 2026 paper on bridging the semantic web and systems engineering using the Ontological Modelling Language (OML). Mentions the challenges and the use of OML at JPL, JAXA, and Leonardo.",
           section: "News",handler: () => {
               window.location.href = "/publications/iswc-2026-bridging-semantic-web-systems-engineering/";
+            },},{id: "news-i-have-been-accepted-as-an-associate-academic-member-of-mila-quebec-ai-institute-i-m-excited-to-further-my-involvement-with-the-mila-community-and-to-explore-the-intersection-of-ai-and-digital-twins",
+          title: 'I have been accepted as an Associate Academic Member of Mila – Quebec...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/#news-2026-10-05-mila-associate-member";
             },},{
         id: 'social-cv',
         title: 'CV',
