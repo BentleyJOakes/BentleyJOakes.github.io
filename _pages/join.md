@@ -74,6 +74,17 @@ Research and lab discussions happen in English, and you can be admitted and stud
 
 </div>
 
+<figure class="figure-narrow">
+  <img
+    src="/assets/img/lab/fse2026.jpg"
+    alt="Bentley Oakes, Kérian Fiter, and Fatima Aguel standing beside the FSE 2026 registration sign in Montréal."
+    width="1200"
+    height="912"
+    loading="lazy"
+  />
+  <figcaption class="caption">With Kérian Fiter and Fatima Aguel at FSE 2026 in Montréal.</figcaption>
+</figure>
+
 ## Contacting Me
 
 See the [Contact](/contact/) page for my email and office location.
