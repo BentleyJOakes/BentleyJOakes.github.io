@@ -325,9 +325,14 @@ cv:
         highlights:
           - "Co-located with MODELS 2025, Grand Rapids, MI. Hybrid event with IEEE proceedings."
           - "Co-organizers: Maged Elaasar (Chair), Wahab Hamou-Lhadj, Mohammad Hamdaqa"
+      - name: "Steering Committee Member and Cyber-Physical Systems Axis Co-Lead — SERIQ (Software Engineering Research Centre in Québec)"
+        location: Montréal, Canada
+        date: "Oct. 2026 – present"
+        highlights:
+          - "Successor to SEMTL. Partners: Université de Montréal, Polytechnique Montréal, McGill University, ÉTS."
       - name: "Lead Organizer — Software Engineering at Montréal (SEMTL)"
         location: Montréal, Canada
-        date: "Aug. 2022 – present"
+        date: "Aug. 2022 – Oct. 2026"
         highlights:
           - "Regular seminars for the software engineering researchers in Montréal (~40 attendees per meeting, ~30% are professors)."
           - "Coordinating with meeting hosts on content, venue, date, and maintaining website."

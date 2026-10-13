@@ -89,7 +89,7 @@ Across 40+ peer-reviewed papers, my research appears in flagship venues in two c
 I enjoy my time as reviewer and program committee member for software engineering journals, conferences, and workshops, and have been recognized for these contributions with multiple best reviewer awards.
 
 <div class="callout" style="--accent-color: #F15A22;" markdown="1">
-I am the lead organizer for the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, a regular seminar series for software engineering researchers in Montreal.
+I am on the steering committee of [SERIQ](https://seriq.ca/en/), Québec's inter-university software engineering research centre, where I co-lead the cyber-physical systems axis. SERIQ continues the [Software Engineering at Montreal (SEMTL)](https://semtl.github.io/) meetings, which I led from 2022 to 2026.
 </div>
 
 <div class="callout" style="--accent-color: #ED1C24;" markdown="1">

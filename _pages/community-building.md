@@ -21,7 +21,7 @@ _styles: >
 ---
 
 <div class="jump-nav">
-  <a href="#lead-organizer" class="jump-pill">Lead Organizer</a>
+  <a href="#seriq-and-semtl" class="jump-pill">SERIQ and SEMTL</a>
   <a href="#organising-committee-member" class="jump-pill">Organising Committee</a>
   <a href="#program-committee-member" class="jump-pill">Program Committee</a>
   <a href="#journal-reviewer" class="jump-pill">Journal Reviewer</a>
@@ -37,13 +37,14 @@ _styles: >
 
 ---
 
-## Lead Organizer
+## SERIQ and SEMTL
 
-[Software Engineering at Montréal (SEMTL)](https://semtl.github.io/) — Aug. 2022 to Present
+[SERIQ, Software Engineering Research Centre in Québec](https://seriq.ca/en/), Steering Committee Member and Cyber-Physical Systems Axis Co-Lead, Oct. 2026 to Present<br>
+[Software Engineering at Montréal (SEMTL)](https://semtl.github.io/), Lead Organizer, Aug. 2022 to Oct. 2026
 
-I am the lead organizer of the SEMTL research seminar series, which brings together software engineering professors and students from the six major Montréal research institutions approximately every two months. SEMTL aims to disseminate research ideas throughout the local community, foster collaborations, advertise opportunities, and socialize — and to give students a chance to practice their communication skills before a supportive audience. SEMTL has also helped multiple PhD students and post-doctoral researchers from the community find their next position.
+SERIQ is a new inter-university centre that connects software engineering researchers across Québec. It starts with four universities (Université de Montréal, Polytechnique Montréal, McGill, and ÉTS) and four research axes: cyber-physical systems, ecosystems and infrastructure, architecture and design, and human aspects. I sit on the steering committee and co-lead the cyber-physical systems axis with Aren Babikian and Francis Bordeleau.
 
-Since 2022, SEMTL has held nineteen meetings with an average of 30 to 40 participants, featuring keynotes from top SE researchers and dozens of student presentations. We have also produced a paper published at MODELS 2024, [Toward Intelligent Generation of Tailored Graphical Concrete Syntax](https://doi.org/10.1145/3640310.3674085).
+SERIQ continues SEMTL, the seminar series I restarted in 2022 and led until it joined SERIQ in October 2026. About every two months, SEMTL brought together professors and students from six Montréal institutions to share research, find collaborators and opportunities, and socialize. Students also got to practise presenting to a supportive audience. Over nineteen meetings of 30 to 40 people, SEMTL hosted keynotes from top SE researchers and dozens of student presentations. It helped several PhD students and postdocs find their next position, and led to a MODELS 2024 paper, [Toward Intelligent Generation of Tailored Graphical Concrete Syntax](https://doi.org/10.1145/3640310.3674085).
 
 ## Organising Committee Member
 
