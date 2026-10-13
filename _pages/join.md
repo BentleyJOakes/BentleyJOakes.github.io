@@ -7,13 +7,13 @@ description: >
 nav: false
 ---
 
-**I have funded undergraduate, Master's, and PhD positions open now** for motivated and talented individuals interested in cutting-edge research.
+**I am looking for strong students who want to be guided through a world-class research program.** The work is funded through projects and scholarships, so the match is based on technical expertise, grades, and communication skills.
 
 ## What You'll Research
 
 You'll develop new techniques for digital twin construction, verification, and explanation, following our [AI-assisted, model-driven approach](/research/) with tools like game engines, ontologies, and LLMs. This research is applied across real domains, including permafrost monitoring, [beer fermentation](/publications/#Goffi2025), smart-city traffic, aerospace machining, and robotic assembly, in ongoing projects with industrial and academic partners. You'll help push that further in the lab and our [Digital Twin Engineering course](/digital-twin-engineering-course/).
 
-## Available Projects
+## Upcoming Project
 
 <style>
 .project-card {
@@ -21,23 +21,32 @@ You'll develop new techniques for digital twin construction, verification, and e
   padding: 0.5em 1em;
   box-shadow: 0 2px 6px color-mix(in srgb, var(--accent-color) 25%, transparent);
 }
+.project-card.idea {
+  border-left-width: 2px;
+  box-shadow: none;
+}
 </style>
 
 <div style="display: flex; flex-direction: column; gap: 0.75rem; margin: 1rem 0;">
   <div class="project-card" style="--accent-color: #ED1C24;">
-    <b><a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Semantic Integration for Hierarchical Digital Twins</a></b> — PhD<br>
+    <b><a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Semantic Integration for Hierarchical Digital Twins</a></b> · PhD<br>
     Building the semantic backbone that keeps digital twins of electric air mobility (eVTOL drones) consistent and interoperable across levels, from a single unit up to the full system-of-systems.
   </div>
-  <div class="project-card" style="--accent-color: #F15A22;">
-    <b>Quality and Explainability of Digital Twin Systems</b> — PhD<br>
+</div>
+
+### Other topics I'd like to explore
+
+<div style="display: flex; flex-direction: column; gap: 0.75rem; margin: 1rem 0;">
+  <div class="project-card idea" style="--accent-color: #F15A22;">
+    <b>Quality and Explainability of Digital Twin Systems</b> · PhD<br>
     Analyzing and improving the quality of DT models and systems, and the explainability of DT architectures and service results. <a href="/publications/#Oakes2023examining">[quality paper]</a> <a href="/publications/#Gil2024towardssystematicreporting">[explainability paper]</a>
   </div>
-  <div class="project-card" style="--accent-color: #25B34B;">
-    <b><a href="https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley">ML and Ontological Modelling for DT Construction</a></b> — Master's or PhD<br>
+  <div class="project-card idea" style="--accent-color: #25B34B;">
+    <b><a href="https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley">ML and Ontological Modelling for DT Construction</a></b> · Master's or PhD<br>
     Users arrive with scattered requirements, models, and simulators. Using LLMs, reinforcement learning, and recommendations to turn that domain knowledge into a working digital twin within a week. <a href="/publications/#Oakes2024ServiceDriven">[paper]</a>
   </div>
-  <div class="project-card" style="--accent-color: #00BDF2;">
-    <b>Software Architecture for Digital Twins</b> — Master's or PhD<br>
+  <div class="project-card idea" style="--accent-color: #00BDF2;">
+    <b>Software Architecture for Digital Twins</b> · Master's or PhD<br>
     Investigating software architecture styles, patterns, and reference architectures for digital twin systems and their services.
   </div>
 </div>
@@ -115,3 +124,5 @@ A great email tells me who you are, what you want to research, and why our inter
 <div class="callout" style="--accent-color: #ED1C24;" markdown="1">
   Ready to apply? See the [admission process](https://www.polymtl.ca/admission/en/graduate-studies) and [application page](https://www.polymtl.ca/futur/en/es/admission). Under-represented groups are especially encouraged to join us!
 </div>
+
+<p class="text-muted small">Last reviewed: October 2026.</p>
