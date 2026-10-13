@@ -307,6 +307,27 @@ a.award.btn:hover {
   margin: 1.5rem 0 0.25rem;
 }
 
+// Quick links under the bio (About page)
+
+.home-links {
+  margin: 1rem 0;
+  font-weight: 500;
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem 1.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0.4rem;
+  }
+
+  i {
+    margin-right: 0.2rem;
+  }
+}
+
 // Funding logo strip (About page); greyscale + muted, restores on hover
 
 .funding-logos {

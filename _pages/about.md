@@ -33,7 +33,7 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -52,20 +52,30 @@ My research focuses on tools and methods that help domain experts model, constru
 
 </div>
 
+<div class="home-links">
+  <ul aria-label="Main pages">
+    <li><a href="/research/"><i class="fa-solid fa-flask" aria-hidden="true"></i> Research</a></li>
+    <li><a href="/digital-twin-engineering-course/"><i class="fa-solid fa-chalkboard-user" aria-hidden="true"></i> Digital twin course</a></li>
+    <li><a href="/join/"><i class="fa-solid fa-user-plus" aria-hidden="true"></i> Join the lab</a></li>
+    <li><a href="/contact/"><i class="fa-solid fa-envelope" aria-hidden="true"></i> Contact</a></li>
+  </ul>
+  <ul aria-label="Profiles">
+    <li><a href="/assets/pdf/Bentley_Oakes_CV.pdf"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> CV (PDF)</a></li>
+    <li><a href="https://www.polymtl.ca/expertises/en/oakes-bentley"><i class="fa-solid fa-building-columns" aria-hidden="true"></i> Polytechnique profile</a></li>
+  </ul>
+</div>
+
 ## Research interests
 
 I enjoy working across a variety of research fields, in collaboration with academic and industrial partners:
 
 <div class="callout" style="--accent-color: #25B34B;" markdown="1">
-- [digital twins](/digital-twin-engineering-course/), including their structure, [construction](/publications/#Oakes2024ServiceDriven), and [reporting](/publications/#Gil2024towardssystematicreporting)
+- [digital twins](/research/#digital-twins), including their structure, [construction](/publications/#Oakes2024ServiceDriven), and [reporting](/publications/#Gil2024towardssystematicreporting)
 - representations of domain-specific knowledge, such as [ontologies and ontological reasoning](/publications/#Elaasar2023opencaesar)
 - verification and validation of cyber-physical systems, including [formal verification](/publications/#Bernaerts2019)
 - the application of [machine learning to cyber-physical systems](/publications/#Moradi2020)
 - model-driven engineering techniques
 - [model transformations and their verification](/publications/#Oakes2018)
-- and others, as listed on my [expertise page](https://www.polymtl.ca/expertises/en/oakes-bentley)
-
-See my [research page](/research/) for more detail on each area, and [Join Us](/join/) for open positions in these areas.
 
 </div>
 
@@ -83,6 +93,10 @@ Across 40+ peer-reviewed papers, my research appears in flagship venues in two c
     <span class="funding-program">Accelerate</span>
   </a>
 </div>
+
+## [News](/news/)
+
+{% include news.liquid limit=true %}
 
 ## Service and teaching
 
