@@ -14,6 +14,7 @@ nav: false
 .project-links { display: flex; flex-wrap: wrap; gap: 0.3rem 1.2rem; margin-bottom: 0; }
 .card-body .col-md-6 > strong { display: block; font-size: 1.05em; margin-bottom: 0.4rem; }
 .card-body .row + .row { border-top: 1px solid #eee; padding-top: 1.25rem; }
+#courseProjectsAccordion .row[id] { scroll-margin-top: 5rem; }
 </style>
 
 ## What is a Digital Twin?
@@ -64,7 +65,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div id="collapse2026" class="collapse show" aria-labelledby="heading2026">
 <div class="card-body">
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="avalanch">
 <div class="col-md-6">
 <strong>AvalanCH: A Digital Twin of the Swiss Alps</strong>
 <p>A regional-scale digital shadow of the Swiss Alps for avalanche risk management, using real-time meteorological data from IMIS weather stations and the Alpine3D physics-based snow simulation model. Services include avalanche risk prediction and what-if scenario visualization to support avalanche prevention, search-and-rescue planning, and ski resort management.</p>
@@ -80,7 +81,7 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 </div>
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="mondtreal">
 <div class="col-md-6">
 <strong>MonDTreal: Digital Shadow of Montreal's Road Network</strong>
 <p>A digital shadow of Montreal's road network that applies machine learning models (logistic regression, random forest, and gradient boosting) to predict road conditions from open city data. Services include a prediction service, what-if simulation across road segments, and a real-time dashboard, built on an Angular/Flask/PostgreSQL stack containerized with Docker.</p>
@@ -96,7 +97,7 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 </div>
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="shadowspindle">
 <div class="col-md-6">
 <strong>ShadowSpindle: Orthogonal Turning Digital Shadow</strong>
 <p>A digital shadow of an orthogonal turning (CNC lathe) machining process, using a Simulink 1-DOF model and InfluxDB for sensor data capture. Services include FFT-based vibration analysis, cut stability checking, tool wear prediction, process parameter reconfiguration, three formal verification services for warning and emergency states, Godot 3D visualization, and a Python/Dash dashboard.</p>
@@ -113,7 +114,7 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 </div>
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="woodtwin">
 <div class="col-md-6">
 <strong>WoodTwin: Wood Kiln Drying DT</strong>
 <p>A digital twin of an industrial wood kiln drying process, modelling moisture content dynamics to reduce energy waste and quality defects in lumber production. Services include batch loading optimization, Monte Carlo moisture content estimation, intelligent control, real-time monitoring, and 3D kiln visualization, with an architecture aligned to the ISO 23247 DT standard.</p>
@@ -142,7 +143,7 @@ By the end of this course, participants will be able to define, design, build, a
 <div id="collapse2025" class="collapse show" aria-labelledby="heading2025">
 <div class="card-body">
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="beer-fermentation">
 <div class="col-md-6">
 <strong>Beer Fermentation DT</strong>
 <p>Monitors and controls a beer fermentation process using Arduino sensors, a sampling chamber, and an electronic hydrometer. DT services include safety monitoring, closed-loop control, analysis, and Unity 3D visualization.</p>
@@ -159,7 +160,7 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 </div>
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="robotics">
 <div class="col-md-6">
 <strong>Robotics DT</strong>
 <p>A digital twin of a robotic arm with services for physics simulation, singularity detection, 3D visualization, deviation monitoring, and emergency stop, enabling safe real-time operation and anomaly detection.</p>
@@ -174,7 +175,7 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 </div>
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="waste-twin">
 <div class="col-md-6">
 <strong>Waste Twin: Smart Waste Collection DT</strong>
 <p>A digital twin of a smart waste collection system-of-systems, modelling a city with truck fleets, adaptive traffic lights, and disturbance scenarios. Supports bidirectional feedback and adaptive behaviour.</p>
@@ -196,7 +197,7 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 </div>
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="stm-bus-fleet">
 <div class="col-md-6">
 <strong>STM Bus Fleet DT</strong>
 <p>Monitors the Société de Transport de Montréal (STM) bus fleet in real-time using live GPS data, with a 3D route visualization, telemetry validation service, and notification service for anomalies.</p>
@@ -211,7 +212,7 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 </div>
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="permafrost">
 <div class="col-md-6">
 <strong>Permafrost DT</strong>
 <p>Models permafrost freeze/thaw dynamics using finite element methods (two-phase Stefan problem), with real sensor data, a monitoring service, and 3D visualization of subsurface temperature evolution.</p>
@@ -226,7 +227,7 @@ By the end of this course, participants will be able to define, design, build, a
 </div>
 </div>
 
-<div class="row mb-4 align-items-start">
+<div class="row mb-4 align-items-start" id="graph-database">
 <div class="col-md-6">
 <strong>Graph Database Failure Propagation DT</strong>
 <p>Explores graph databases (Neo4j and TachosDB) for modelling and querying failure propagation in DT systems, with a RabbitMQ communication layer and Godot 3D visualization of building failures.</p>
@@ -318,6 +319,13 @@ document.addEventListener('DOMContentLoaded', function () {
         : '(click to expand) <i class="fas fa-chevron-down"></i>';
     }).observe(header, { attributes: true, attributeFilter: ['aria-expanded'] });
   });
+
+  // Open the year holding a linked project, e.g. #stm-bus-fleet
+  var target = location.hash && document.getElementById(location.hash.slice(1));
+  var panel = target && target.closest('#courseProjectsAccordion .collapse');
+  if (panel && !panel.classList.contains('show')) {
+    $(panel).one('shown.bs.collapse', function () { target.scrollIntoView(); }).collapse('show');
+  }
 });
 </script>
 
