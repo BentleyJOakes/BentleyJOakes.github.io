@@ -191,11 +191,6 @@ cv:
         highlights:
           - "Digital twin federation, trust, and observability"
           - "Ontological federation and reasoning, large language models, and time-series foundation models"
-      - name: "Carlos Pambo — PhD Student"
-        date: "2024–present"
-        highlights:
-          - "Recommendations and patterns for digital twin engineering"
-          - "Ontologies for digital twin engineering"
       - name: "Adil Lagrou — PhD Student"
         date: "2026–present"
         highlights:
@@ -212,6 +207,10 @@ cv:
         highlights:
           - "Structured digital twin engineering with LLMs"
           - "Previously Mitacs Globalink Research Intern (2025)"
+      - name: "Carlos Pambo — PhD Student"
+        date: "2024–2026"
+        highlights:
+          - "Model-based diagnosability"
       - name: "Fatima Aguel — Mitacs Globalink Research Intern"
         date: "Summer 2026"
         highlights:

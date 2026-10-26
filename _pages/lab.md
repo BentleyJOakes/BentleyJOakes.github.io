@@ -27,10 +27,37 @@ nav: false
 }
 .members-grid-2 {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 20px;
   text-align: center;
   margin-top: 20px;
+}
+.member-papers {
+  width: auto;
+  margin: 0.5rem auto 0;
+  font-size: 0.85em;
+  line-height: 1.3;
+  text-align: left;
+  border-collapse: collapse;
+}
+.member-papers td {
+  padding: 0.2rem 0.5rem;
+  border-top: 1px solid var(--global-divider-color);
+  vertical-align: middle;
+}
+.member-papers td:last-child {
+  white-space: nowrap;
+  text-align: right;
+}
+.member-papers .award.btn {
+  margin: 0 0 0 0.4em;
+  padding: 0.05em 0.5em;
+  font-size: 0.75em;
+  line-height: 1.4;
+  vertical-align: middle;
+  box-shadow: none;
+  text-transform: none;
+  letter-spacing: normal;
 }
 .lab-header-grid {
   display: grid;
@@ -106,25 +133,25 @@ nav: false
 
 ## Lab Members
 
-<div class="members-grid-3">
+<div class="members-grid-2">
   <div>
     <img src="/assets/img/students/kerian.jpg" alt="Kérian Fiter" class="member-photo" width="150" height="150" loading="lazy"><br>
     <a href="https://kerianfiter.github.io/"><b>Kérian Fiter</b></a><br>
     PhD Student · Since 2024<br>
-    <i>DT federation, trust, and observability</i><br>
-    <a href="/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf">DTInsight paper</a>
+    <i>DT federation, trust, and observability</i>
+    <table class="member-papers">
+      <tr><td><a href="/publications/edtconf-2026-enterprise-digital-twins/">Involving before Evolving</a> <span class="award btn btn-sm z-depth-0"><i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>Best Short Paper</span></td><td>EDTconf 2026</td></tr>
+      <tr><td><a href="/publications/#Fiter2025">DTInsight</a></td><td>EDTconf 2025</td></tr>
+    </table>
   </div>
   <div>
     <img src="/assets/img/students/adil.jpg" alt="Adil Lagrou" class="member-photo" width="150" height="150" loading="lazy" style="object-position: center 80%;"><br>
     <a href="https://www.linkedin.com/in/adil-lagrou/"><b>Adil Lagrou</b></a><br>
     PhD Student · Since 2026<br>
     <i>Formalization of DT component interoperability</i>
-  </div>
-  <div>
-    <img src="/assets/img/students/carlos.jpg" alt="Carlos Pambo" class="member-photo" width="150" height="150" loading="lazy"><br>
-    <a href="https://www.linkedin.com/in/carlos-pambo/"><b>Carlos Pambo</b></a><br>
-    PhD Student · Since 2024<br>
-    <i>Recommendations and patterns for DT engineering</i>
+    <table class="member-papers">
+      <tr><td><a href="/publications/edtconf-2026-enterprise-digital-twins/">Involving before Evolving</a> <span class="award btn btn-sm z-depth-0"><i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>Best Short Paper</span></td><td>EDTconf 2026</td></tr>
+    </table>
   </div>
 </div>
 
@@ -143,12 +170,6 @@ nav: false
     Previously Mitacs Globalink Intern — 2025<br>
     <i>Structured DT engineering with LLMs</i>
   </div>
-  <div>
-    <img src="/assets/img/students/fatima.jpg" alt="Fatima Aguel" class="member-photo" width="150" height="150" loading="lazy" style="object-position: center top;"><br>
-    <a href="https://www.linkedin.com/in/faatima24/"><b>Fatima Aguel</b></a><br>
-    Mitacs Globalink Research Intern · Summer 2026<br>
-    <i>Ontological modelling of digital twin component repositories</i>
-  </div>
 </div>
 
 <div class="callout" style="--accent-color: rgb(0, 142, 62);">
@@ -161,12 +182,14 @@ nav: false
 
 <div class="styled-table styled-table--no-last-nowrap" markdown="1">
 
-| **Name**                                                                            | **Role**           | **Years** | **Topic**                                                                                                                                                                     |
-| ----------------------------------------------------------------------------------- | ------------------ | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _[Mikkel Schmidt Andersen](https://scholar.google.com/citations?user=egH56LUAAAAJ)_ | Research intern    | 2025      | Probabilistic DT update scheduling                                                                                                                                            |
-| _[Louis Malassigné-Onfroy](https://www.linkedin.com/in/louismalaonfr/)_             | Research assistant | 2024      | Visualization of DT architectures — [DTInsight paper](/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf) |
-| _[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-b-1a5997227/)_           | Research assistant | 2024      | Implementation of modelled machine learning pipelines                                                                                                                         |
-| _[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)_                       | Research assistant | 2023–2024 | Ontological modelling of machine learning pipelines                                                                                                                           |
+| **Name**                                                                            | **Role**                | **Years** | **Topic**                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------- | ----------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _[Carlos Pambo](https://www.linkedin.com/in/carlos-pambo/)_                         | PhD student             | 2024–2026 | Model-based diagnosability                                                                                                                                                    |
+| _[Fatima Aguel](https://www.linkedin.com/in/faatima24/)_                            | Mitacs Globalink intern | 2026      | Ontological modelling of DT component repositories                                                                                                                            |
+| _[Mikkel Schmidt Andersen](https://scholar.google.com/citations?user=egH56LUAAAAJ)_ | Research intern         | 2025      | Probabilistic DT update scheduling                                                                                                                                            |
+| _[Louis Malassigné-Onfroy](https://www.linkedin.com/in/louismalaonfr/)_             | Research assistant      | 2024      | Visualization of DT architectures — [DTInsight paper](/assets/publications/Fiter2025 - DTInsight A Tool for Explicit, Interactive, and Continuous Digital Twin Reporting.pdf) |
+| _[Amélie Bosphore](https://www.linkedin.com/in/am%C3%A9lie-b-1a5997227/)_           | Research assistant      | 2024      | Implementation of modelled machine learning pipelines                                                                                                                         |
+| _[Justin Caisse](https://www.linkedin.com/in/justin-caisse/)_                       | Research assistant      | 2023–2024 | Ontological modelling of machine learning pipelines                                                                                                                           |
 
 </div>
 
