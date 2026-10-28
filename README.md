@@ -31,7 +31,8 @@ docker compose up --build
 | Books                 | `_books/` (currently empty)                                                   |
 | Teachings             | `_teachings/` (currently empty)                                               |
 | News items            | `_news/` (30 items, 2023–2026)                                                |
-| CV page               | `_pages/cv.md` (renders `_data/cv.yml` via rendercv format)                   |
+| CV page               | `_pages/redirects/cv.md` (redirect to `assets/pdf/Bentley_Oakes_CV.pdf`)      |
+| Short-URL redirects   | `_pages/redirects/` (`redirect_to` pages, e.g. `/2026_iswc_paper/`)           |
 | Research page         | `_pages/research.md`                                                          |
 | Lab page              | `_pages/lab.md`                                                               |
 | Teaching page         | `_pages/teaching.md`                                                          |
@@ -55,7 +56,7 @@ a new nav item must set `nav_order` in whichever source it lives in.
 4. Lab (dropdown): Oakes Lab (`_pages/lab.md`), Join Us (`_pages/join.md`)
 5. Contact (`_pages/contact.md`)
 
-CV (`_pages/cv.md`) is hidden from nav (`nav: false`).
+CV (`_pages/redirects/cv.md`) is hidden from nav (`nav: false`).
 
 ### Collections (defined in `_config.yml`)
 
