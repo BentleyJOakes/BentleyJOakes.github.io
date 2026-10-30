@@ -34,20 +34,6 @@ Finally, a big thank you to Lola Burgueño (University of Málaga), the General 
 
 <figure class="figure-grid">
   <img
-    src="/assets/img/news/models-edtconf-2026-flamenco.jpg"
-    alt="Gabrielle Gallant, in a blazer and conference badge, dancing flamenco with a performer in a polka-dot dress under the string-lit tent at the MODELS 2026 banquet."
-    width="1200"
-    height="800"
-    loading="lazy"
-  />
-  <img
-    src="/assets/img/news/models-edtconf-2026-banquet.jpg"
-    alt="Bentley Oakes and Kérian Fiter under a tent of string lights at the MODELS 2026 banquet."
-    width="1200"
-    height="900"
-    loading="lazy"
-  />
-  <img
     class="figure-grid-wide"
     src="/assets/img/news/models-edtconf-2026-banner.jpg"
     alt="The MODELS 2026 banner: the conference emblem of a castle above the sea with palm trees, next to the text 29th International Conference on Model Driven Engineering Languages and Systems, MODELS 2026, 4 to 9 October 2026, Malaga, Spain."
@@ -69,5 +55,19 @@ Finally, a big thank you to Lola Burgueño (University of Málaga), the General 
     height="800"
     loading="lazy"
   />
-  <figcaption class="caption">Gabrielle Gallant dancing flamenco at the MODELS 2026 banquet, with Kérian Fiter at the banquet, the MODELS 2026 student volunteers (Gabrielle is at the front right), and current and former GEODES members on the beach.</figcaption>
+  <img
+    src="/assets/img/news/models-edtconf-2026-flamenco.jpg"
+    alt="Gabrielle Gallant, in a blazer and conference badge, dancing flamenco with a performer in a polka-dot dress under the string-lit tent at the MODELS 2026 banquet."
+    width="1200"
+    height="800"
+    loading="lazy"
+  />
+  <img
+    src="/assets/img/news/models-edtconf-2026-banquet.jpg"
+    alt="Bentley Oakes and Kérian Fiter under a tent of string lights at the MODELS 2026 banquet."
+    width="1200"
+    height="900"
+    loading="lazy"
+  />
+  <figcaption class="caption">The MODELS 2026 student volunteers (Gabrielle Gallant is at the front right), current and former GEODES members on the beach, Gabrielle dancing flamenco at the MODELS 2026 banquet, and Kérian Fiter and me at the banquet.</figcaption>
 </figure>
