@@ -217,7 +217,7 @@
       <!-- Left: fixed trio, greyed out if missing -->
       <div class="links-left">
         {% if entry.abstract %}
-          <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+          <button type="button" class="abstract btn btn-sm z-depth-0">Abstract</button>
         {% else %}
           <a class="btn btn-sm z-depth-0 links-disabled" role="button" aria-disabled="true" tabindex="-1" title="No abstract available">Abstract</a>
         {% endif %}
@@ -238,16 +238,16 @@
           <a class="btn btn-sm z-depth-0 links-disabled" role="button" aria-disabled="true" tabindex="-1">DOI</a>
         {% endif %}
         {% if entry.bibtex_show %}
-          <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          <button type="button" class="bibtex btn btn-sm z-depth-0">Bib</button>
         {% endif %}
       </div>
       <!-- Center: award badge -->
       {% if entry.award %}
         <div class="links-center">
-          <a class="award btn btn-sm z-depth-0" role="button">
+          <button type="button" class="award btn btn-sm z-depth-0">
             <i class="fa-solid fa-trophy" style="margin-right: 0.3em;"></i>
             {%- if entry.award_name %}{{ entry.award_name }}{% else %}Best Paper{% endif -%}
-          </a>
+          </button>
         </div>
       {% endif %}
       <!-- Right: supplementary links -->
@@ -284,7 +284,7 @@
           {% endif %}
         {% endif %}
         {% if entry.video and site.enable_video_embedding %}
-          <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
+          <button type="button" class="abstract btn btn-sm z-depth-0">Video</button>
         {% elsif entry.video %}
           <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
         {% endif %}

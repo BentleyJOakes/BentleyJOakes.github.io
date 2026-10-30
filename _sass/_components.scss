@@ -278,7 +278,8 @@ span.award.btn {
   cursor: default;
 }
 
-a.award.btn:hover {
+a.award.btn:hover,
+button.award.btn:hover {
   background-color: rgba(212, 175, 55, 0.4);
   border-color: rgba(212, 175, 55, 1);
   color: var(--global-text-color);

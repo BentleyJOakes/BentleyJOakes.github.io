@@ -1,16 +1,16 @@
 $(document).ready(function () {
   // add toggle functionality to abstract, award and bibtex buttons
-  $("a.abstract").click(function () {
+  $("button.abstract").click(function () {
     $(this).closest(".col-sm-8, .col-sm-10").find(".abstract.hidden").toggleClass("open");
     $(this).closest(".col-sm-8, .col-sm-10").find(".award.hidden.open").toggleClass("open");
     $(this).closest(".col-sm-8, .col-sm-10").find(".bibtex.hidden.open").toggleClass("open");
   });
-  $("a.award").click(function () {
+  $("button.award").click(function () {
     $(this).closest(".col-sm-8, .col-sm-10").find(".abstract.hidden.open").toggleClass("open");
     $(this).closest(".col-sm-8, .col-sm-10").find(".award.hidden").toggleClass("open");
     $(this).closest(".col-sm-8, .col-sm-10").find(".bibtex.hidden.open").toggleClass("open");
   });
-  $("a.bibtex").click(function () {
+  $("button.bibtex").click(function () {
     $(this).closest(".col-sm-8, .col-sm-10").find(".abstract.hidden.open").toggleClass("open");
     $(this).closest(".col-sm-8, .col-sm-10").find(".award.hidden.open").toggleClass("open");
     $(this).closest(".col-sm-8, .col-sm-10").find(".bibtex.hidden").toggleClass("open");

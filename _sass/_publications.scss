@@ -113,7 +113,8 @@
         flex-wrap: wrap;
         gap: 0.35rem;
 
-        a.btn {
+        a.btn,
+        button.btn {
           color: var(--global-theme-color);
           border: 1px solid var(--global-theme-color);
           padding-left: 1rem;
@@ -126,8 +127,15 @@
             background-color: var(--global-theme-color);
             color: white;
           }
+
+          // The theme strips the focus outline; restore it for keyboard users only.
+          &:focus-visible {
+            outline: 2px solid var(--global-theme-color);
+            outline-offset: 2px;
+          }
         }
-        a.award.btn {
+        a.award.btn,
+        button.award.btn {
           background-color: rgba(212, 175, 55, 0.12);
           border-color: rgba(212, 175, 55, 0.5);
           color: #9a7d20;
@@ -147,8 +155,8 @@
         // jekyll-link-attributes (see `external_links` in _config.yml) stamps
         // target="_blank" on every off-site link at build time. Key the icon off
         // that attribute so the marker and the actual behaviour cannot drift
-        // apart: internal buttons (Summary, local PDFs) and the href-less
-        // Abstract/Bibtex toggles are skipped for free.
+        // apart: internal buttons (Summary, local PDFs) and the <button>
+        // Abstract/Bib toggles are skipped for free.
         a.btn[target="_blank"]::after {
           font: var(--fa-font-solid);
           content: "\f35d"; // fa-up-right-from-square
