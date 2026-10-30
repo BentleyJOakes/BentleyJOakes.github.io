@@ -17,6 +17,18 @@ nav: false
 #courseProjectsAccordion .row[id] { scroll-margin-top: 5rem; }
 </style>
 
+<div class="callout" style="--accent-color: #005f80;" markdown="1">
+
+**LOG8421E** · Winter term, every year · In English · Polytechnique Montréal
+
+**Format:** weekly lectures, six hands-on labs, a team project building your own DT, final exam
+
+**Who:** senior undergraduates, graduate students, and researchers from any discipline; other Quebec universities via BCI
+
+[The Course](#the-course) · [Projects](#course-projects) · [Schedule](#course-schedule) · [Guest Lecturers](#guest-lecturers) · [Enrollment](#who-can-enroll) · [What Students Say](#what-students-say)
+
+</div>
+
 ## What is a Digital Twin?
 
 A Digital Twin is a **dynamic virtual representation of a complex system**, connected and synchronized to the real system, for supporting its design and operation through insights and actions. In practice, the Digital Twin paradigm brings together modelling and simulation, visualization, real-time data and control, and an ever-expanding set of intelligent services across multiple engineering domains.
@@ -288,7 +300,7 @@ By the end of this course, participants will be able to define, design, build, a
 
 <div style="margin-bottom: 2rem;"></div>
 
-## Potential Students
+## Who Can Enroll
 
 <div class="callout" style="--accent-color: #ED1C24;" markdown="1">
 LOG8421E welcomes _senior undergraduate students_, _graduate students_, and _researchers_ from any discipline, particularly software engineering, computer science, mechanical engineering, or any field where you model, simulate, or monitor complex systems. If you work with cyber-physical systems, robotics, manufacturing, or smart infrastructure and want to learn how to engineer a Digital Twin for it, this course is for you. No prior DT experience is needed; some familiarity with Python, Docker, and Git is useful for the lab sessions, but support is available for those newer to these tools.
