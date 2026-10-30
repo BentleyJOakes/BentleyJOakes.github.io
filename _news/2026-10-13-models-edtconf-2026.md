@@ -20,26 +20,24 @@ Kérian Fiter's paper [Involving before Evolving: A Vision for Trustworthy Enter
 
 On Tuesday, I presented our vision paper [BRIC-DT: Building Reliable Interfaces for Composable Digital Twins](/publications/edtconf-2026-bric-dt-composable-digital-twins/), led by Cláudio Gomes (Aarhus University). That afternoon, Kérian led our MODELS tutorial, _“Promoting Observability in Digital Twin Reporting: A Hands-On Tutorial for DTInsight”_, and did a fantastic job.
 
-Gabrielle Gallant did exceptional work as a student volunteer, and was one of the most efficient people at the registration desk.
+Gabrielle Gallant did exceptional work as a student volunteer, such as being the most efficient people at the registration desk.
 
 ## onto:Nexus 2026
 
-I co-organized the [onto:Nexus Workshop 2026](https://www.opencaesar.io/events/onto-Nexus-Workshop-2026) (International Workshop on Ontological Modeling and Analysis) with Maged Elaasar (Chair), Wahab Hamou-Lhadj, Mohammad Hamdaqa, and Eduard Kamburjan. The workshop was a success. In the afternoon, we had an active discussion on how to move ontological model-based systems engineering forward, and how to work on it together.
+I co-organized the [onto:Nexus Workshop 2026](https://www.opencaesar.io/events/onto-Nexus-Workshop-2026) (International Workshop on Ontological Modeling and Analysis) with Maged Elaasar (Chair), Wahab Hamou-Lhadj, Mohammad Hamdaqa, and Eduard Kamburjan. The workshop was very successful. In the afternoon, we had an active discussion on how to move ontological model-based systems engineering forward, and how to work on it together.
 
 ## Friends and thanks
 
-It was great to meet old and new friends during the week, including Mikkel Schmidt Andersen (Aarhus University), who was a research intern in the lab in 2025.
-
-Our hotel was right on the beach, which was a nice way to end each day.
+It was great to meet old and new friends during the week, including Mikkel Schmidt Andersen (Aarhus University), who was a research intern in the lab in 2025. And our hotel was right on the beach, which was a nice way to end each day.
 
 Finally, a big thank you to Lola Burgueño (University of Málaga), the General Chair of MODELS 2026, for navigating the logistical and other challenges of organizing the conference. Thank you also to the EDTconf Program Co-Chairs, Nelly Bencomo, Eduard Kamburjan, and Vinay Kulkarni, to Cláudio Gomes for leading the BRIC-DT paper, and to Franck Dervault and Michelin for our collaboration.
 
 <figure class="figure-grid">
   <img
-    src="/assets/img/news/models-edtconf-2026-hotel.jpg"
-    alt="A pool, palm trees, and the sea, seen from a balcony of the conference hotel in Málaga."
+    src="/assets/img/news/models-edtconf-2026-flamenco.jpg"
+    alt="Gabrielle Gallant, in a blazer and conference badge, dancing flamenco with a performer in a polka-dot dress under the string-lit tent at the MODELS 2026 banquet."
     width="1200"
-    height="900"
+    height="800"
     loading="lazy"
   />
   <img
@@ -65,11 +63,11 @@ Finally, a big thank you to Lola Burgueño (University of Málaga), the General 
     loading="lazy"
   />
   <img
-    src="/assets/img/news/models-edtconf-2026-beach.jpg"
-    alt="Thatched sun shelters and wooden lounge chairs on the sand, with the sea behind them, at the beach in front of the conference hotel in Málaga."
+    src="/assets/img/news/models-edtconf-2026-beach-group.jpg"
+    alt="About a dozen current and former members of the GEODES lab, with MODELS 2026 conference badges, standing together on the beach with the sea behind them."
     width="1200"
-    height="900"
+    height="800"
     loading="lazy"
   />
-  <figcaption class="caption">The view from our hotel, with Kérian Fiter at the MODELS 2026 banquet, the MODELS 2026 student volunteers (Gabrielle Gallant is at the front right), and the beach nearby.</figcaption>
+  <figcaption class="caption">Gabrielle Gallant dancing flamenco at the MODELS 2026 banquet, with Kérian Fiter at the banquet, the MODELS 2026 student volunteers (Gabrielle is at the front right), and current and former GEODES members on the beach.</figcaption>
 </figure>
