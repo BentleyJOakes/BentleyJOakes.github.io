@@ -7,7 +7,7 @@ description: >
 nav: false
 ---
 
-**I am looking for strong students who want to be guided through a world-class research program.** The work is funded through projects and scholarships, so the match is based on technical expertise, grades, and communication skills.
+**I am looking for strong students who want to be guided through a world-class research program.** The work is funded through projects and scholarships, so the match is based on technical expertise, a strong academic record, and clear communication in English.
 
 ## What You'll Research
 
