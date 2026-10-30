@@ -59,7 +59,7 @@ If you have another research idea which aligns with my interests, I would love t
 
 <div class="callout" style="--accent-color: #25B34B;" markdown="1">
 
-- Competitive funding, with multiple [scholarship opportunities](/lab/#scholarships-and-bourses)
+- Competitive funding through a stipend and [scholarships](/lab/#scholarships-and-bourses)
 - Supportive mentoring: weekly one-on-one meetings, active co-writing, and continual guidance toward your goals. My simple philosophy: your success is my success.
 - Publication in top venues (MODELS, SoSyM, TOSEM, FSE) and presentations at leading international conferences
 - Collaboration with industrial partners on real, deployed systems, with the option of a paid industry internship through the [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs/) program
