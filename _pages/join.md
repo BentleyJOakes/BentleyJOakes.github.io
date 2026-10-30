@@ -96,18 +96,18 @@ Research and lab discussions happen in English, and you can be admitted and stud
 
 ## Contacting Me
 
-See the [Contact](/contact/) page for my email and office location.
+Email me at [bentley.oakes@polymtl.ca](mailto:bentley.oakes@polymtl.ca). My office location is on the [Contact](/contact/) page.
 
 I'm always excited to hear from prospective students, and I read every email myself. To help yours stand out:
 
 <div class="callout" style="--accent-color: #F15A22;" markdown="1">
 
-**Show you know the lab** — reference my [research interests](https://www.polymtl.ca/expertises/en/oakes-bentley) and [publications](/publications/).
+**Show you know the lab:** reference my [research interests](https://www.polymtl.ca/expertises/en/oakes-bentley) and [publications](/publications/).
 
-**Tell me about you** — a few lines on:
+**Tell me about you:** a few lines on:
 
 - What excites you about research?
-- What are your research interests, and how do they match mine?
+- Which project or topic above would you like to explore, and why?
 - What is your favourite project you've worked on?
 
 **Include:**
@@ -122,7 +122,15 @@ A great email tells me who you are, what you want to research, and why our inter
 </div>
 
 <div class="callout" style="--accent-color: #ED1C24;" markdown="1">
-  Ready to apply? See the [admission process](https://www.polymtl.ca/admission/en/graduate-studies) and [application page](https://www.polymtl.ca/futur/en/es/admission). Under-represented groups are especially encouraged to join us!
+
+**Ready to apply?**
+
+1. **Read this page in detail**, along with my [research](/research/) and [publications](/publications/).
+2. **Email me**, following the checklist above. Poly needs a professor to agree to supervise you [before admission](https://etudiant.polymtl.ca/etudes/en/graduate-studies/graduate-supervision-research-academic).
+3. **Apply** once I've agreed, through the [admission process](https://www.polymtl.ca/admission/en/graduate-studies) and [application page](https://www.polymtl.ca/futur/en/es/admission).
+
+Under-represented groups are especially encouraged to join us!
+
 </div>
 
 <p class="text-muted small">Last reviewed: October 2026.</p>
