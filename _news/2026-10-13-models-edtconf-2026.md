@@ -56,8 +56,8 @@ Finally, a big thank you to Lola Burgueño (University of Málaga), the General 
     loading="lazy"
   />
   <img
-    src="/assets/img/news/models-edtconf-2026-flamenco.jpg"
-    alt="Gabrielle Gallant, in a blazer and conference badge, dancing flamenco with a performer in a polka-dot dress under the string-lit tent at the MODELS 2026 banquet."
+    src="/assets/img/news/models-edtconf-2026-students.jpg"
+    alt="Sharon and Gabrielle Gallant smiling and talking with other attendees outdoors at MODELS 2026, with conference badges and palm trees behind them."
     width="1200"
     height="800"
     loading="lazy"
@@ -69,5 +69,5 @@ Finally, a big thank you to Lola Burgueño (University of Málaga), the General 
     height="900"
     loading="lazy"
   />
-  <figcaption class="caption">The MODELS 2026 student volunteers (Gabrielle Gallant is at the front right), current and former GEODES members on the beach, Gabrielle dancing flamenco at the MODELS 2026 banquet, and Kérian Fiter and me at the banquet.</figcaption>
+  <figcaption class="caption">The MODELS 2026 student volunteers (Gabrielle Gallant is at the front right), current and former GEODES members on the beach, Sharon (McMaster University) and Gabrielle chatting with other attendees, and Kérian Fiter and me at the banquet.</figcaption>
 </figure>
