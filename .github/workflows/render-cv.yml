@@ -20,8 +20,8 @@ jobs:
     name: RenderCV
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Install RenderCV
@@ -51,7 +51,7 @@ jobs:
             --locale-catalog $rendercv_dir/locale.yaml
           rm assets/rendercv/rendercv_output/*.typ
       - name: Upload rendercv_output as an artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: RenderCV Output
           path: assets/rendercv/rendercv_output
