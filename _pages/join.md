@@ -13,7 +13,7 @@ nav: false
 
 You'll develop new techniques for digital twin construction, verification, and explanation, following our [AI-assisted, model-driven approach](/research/) with tools like game engines, ontologies, and LLMs. This research is applied across real domains, including permafrost monitoring, [beer fermentation](/publications/#Goffi2025), smart-city traffic, aerospace machining, and robotic assembly, in ongoing projects with industrial and academic partners. You'll help push that further in the lab and our [Digital Twin Engineering course](/digital-twin-engineering-course/).
 
-## Upcoming Project
+## Upcoming Projects
 
 <style>
 .project-card {
@@ -32,6 +32,10 @@ You'll develop new techniques for digital twin construction, verification, and e
     <b><a href="https://www.polymtl.ca/expertises/en/developing-semantic-integration-and-consistency-framework-hierarchical-digital-twins-oakes-bentley">Semantic Integration for Hierarchical Digital Twins</a></b> · PhD<br>
     Building the semantic backbone that keeps digital twins of electric air mobility (eVTOL drones) consistent and interoperable across levels, from a single unit up to the full system-of-systems.
   </div>
+  <div class="project-card" style="--accent-color: #00BDF2;">
+    <b><a href="https://www.polymtl.ca/expertises/en/engineering-trustworthy-enterprise-digital-twins-ai-ontologies-and-humans-loop-oakes-bentley">Trustworthy Enterprise Digital Twins</a></b> · Master's or PhD<br>
+    Based on our existing digital twin federation work with Michelin, exploring how AI and LLMs, ontologies, and humans in the loop can create trustworthy enterprise digital twins. <a href="/publications/edtconf-2026-enterprise-digital-twins/">[paper]</a>
+  </div>
 </div>
 
 ### Other topics I'd like to explore
@@ -42,8 +46,8 @@ You'll develop new techniques for digital twin construction, verification, and e
     Analyzing and improving the quality of DT models and systems, and the explainability of DT architectures and service results. <a href="/publications/#Oakes2023examining">[quality paper]</a> <a href="/publications/#Gil2024towardssystematicreporting">[explainability paper]</a>
   </div>
   <div class="project-card idea" style="--accent-color: #25B34B;">
-    <b><a href="https://www.polymtl.ca/expertises/en/accelerating-digital-twin-construction-domain-knowledge-driven-low-code-approach-oakes-bentley">ML and Ontological Modelling for DT Construction</a></b> · Master's or PhD<br>
-    Users arrive with scattered requirements, models, and simulators. Using LLMs, reinforcement learning, and recommendations to turn that domain knowledge into a working digital twin within a week. <a href="/publications/#Oakes2024ServiceDriven">[paper]</a>
+    <b><a href="/publications/#Oakes2024ServiceDriven">ML and Ontological Modelling for DT Construction</a></b> · PhD<br>
+    Users arrive with scattered requirements, models, and simulators. Using LLMs, reinforcement learning, and recommendations to turn that domain knowledge into a working digital twin within a week.
   </div>
   <div class="project-card idea" style="--accent-color: #00BDF2;">
     <b>Software Architecture for Digital Twins</b> · Master's or PhD<br>
@@ -133,4 +137,4 @@ Under-represented groups are especially encouraged to join us!
 
 </div>
 
-<p class="text-muted small">Last reviewed: October 2026.</p>
+<p class="text-muted small">Last reviewed: November 2026.</p>
